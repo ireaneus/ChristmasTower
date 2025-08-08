@@ -9,8 +9,8 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://ireaneus.github.io/LivingWaters/',
-  base: '/LivingWaters/',
+  site: 'https://ireaneus.github.io/SolaDeo/',
+  base: '/SolaDeo/',
   integrations: [mdx(), svelte(), sitemap()],
 
   markdown: {
