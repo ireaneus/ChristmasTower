@@ -1,64 +1,62 @@
-# [Living Waters RV Ministry](https://ireaneus.git.io/LivingWaters/)
+# 🕊️ [Sola Deo](https://ireaneus.github.io/SolaDeo/)
 
-![brokencisterns](https://github.com/user-attachments/assets/5f1ea58f-2172-4b88-bede-76ac7b2e922e)
+**Sola Deo** is a 5-minute devotional project for early teens (ages 11–14), rooted in the 5 Solas of the Reformation, the Westminster Confession of Faith, and the Nicene Creed. Each devotional is Christ-centered, Scripture-filled, and designed to be read aloud in five minutes or less.
 
-**Jeremiah 2:13 (NASB 2020)** says:
-
-> “For My people have committed two evils:
-> They have abandoned Me,
-> The fountain of living waters,
-> To carve out for themselves cisterns,
-> Broken cisterns
-> That do not hold water.”
-
-## **Spiritual Meaning of Jeremiah 2:13**
-
-This verse carries deep spiritual symbolism, drawing from everyday images in the ancient world to express a profound truth about humanity's relationship with God.
+> 📖 *"To the glory of God alone."* — *Soli Deo Gloria*
 
 ---
 
-### 🕊 **1. "They have abandoned Me, the fountain of living waters"**
+## ✨ Project Description
 
-* **God is the source of life, joy, truth, and spiritual satisfaction.** He describes Himself as a *fountain*—a flowing, ever-fresh, life-giving source.
-* Spiritually, this reflects God's desire to sustain His people with His presence, His Word, and His Spirit.
-* Abandoning the fountain symbolizes turning away from a vibrant, relational trust in God.
+Sola Deo provides simple, engaging devotionals that help young hearts grow in:
 
-**Cross-reference**:  
-> *“Therefore you will joyously draw water"*  
-> *"From the springs of salvation.”* (Isaiah 12:3)
->
-> *Jesus said... "If anyone is thirsty, let him come to Me and drink. 38The one who believes in Me, as the Scripture said,  
-> ‘From his innermost being will flow rivers of living water.’”* (John 7:38)
+- **Faith Alone** (*Sola Fide*)
+- **Grace Alone** (*Sola Gratia*)
+- **Scripture Alone** (*Sola Scriptura*)
+- **Christ Alone** (*Solus Christus*)
+- **To the Glory of God Alone** (*Soli Deo Gloria*)
 
----
-
-### 🪨 **2. "To carve out for themselves cisterns"**
-
-* A **cistern** was a man-made pit for storing rainwater—static, stale, and easily contaminated compared to a flowing spring.
-* Spiritually, this represents people **replacing God with their own solutions**—human effort, idols, false religions, or worldly philosophies.
-* These are *self-sourced*, not God-sourced.
-
-> **Application**: Any attempt to find identity, security, or hope apart from God is like carving a cistern—it might look useful, but it can't give life.
+Written with warmth, clarity, and biblical truth, each devotional points to Jesus and encourages kids to walk in His light.
 
 ---
 
-### 💔 **3. "Broken cisterns that do not hold water"**
+## 📚 Doctrinal Foundation
 
-* Not only are these cisterns man-made, they’re **broken**. They can’t even hold the little water they were supposed to store.
-* **Spiritually**, this is the tragedy of sin and idolatry: they promise fulfillment but leave us dry, empty, and broken.
-* It's a warning: *what you turn to instead of God will ultimately fail you.*
+This project affirms:
+
+- The **5 Solas** of the Reformation
+- The **Westminster Confession of Faith** (in simple, applied form)
+- The **Nicene Creed**
+- Scripture from the **ESV (English Standard Version)**
 
 ---
 
-### 🌿 **Summary (Spiritual Lesson)**
+## 🧱 Devotional Format
 
-Jeremiah 2:13 is God’s loving lament that His people:
+Each devotional includes:
 
-1. **Rejected the true source of life** (Himself),
-2. **Chose substitutes that can never satisfy** (idols, sin, self-reliance).
+1. **Title** — Clear and intriguing  
+2. **Opening Scripture** — ESV translation  
+3. **Story or Analogy** — Relatable and age-appropriate  
+4. **Devotional Insight** — Clear application of biblical truth  
+5. **Prayer Prompt or Reflection**  
+6. **Takeaway Thought** — One-sentence summary
 
-It calls us to:
+---
 
-* Return to **God as our Source**, our Spring of Living Water.
-* Reject any false sources of comfort, identity, or purpose.
-* Recognize that **only in Christ** can our thirst be truly quenched (John 4:14).
+## 🧒 Target Audience
+
+- Early teens (ages 11–14)
+- Parents, grandparents, and youth leaders looking for simple, theologically sound devotionals
+
+---
+
+## 🚀 How to Use
+
+- Read aloud with your child or grandchild
+- Use during family devotion time, youth group, or Sunday school
+- Share individual posts as part of discipleship or encouragement
+
+---
+
+## 📁 Folder Structure

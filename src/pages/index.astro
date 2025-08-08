@@ -1,8 +1,8 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 const BASE = Astro.site.pathname ?? '/';
-const title = 'Sola Deo a Living Waters RV Ministry';
-const description = 'Making Jesus real - helping others glorify God and enjoy Him forever';
+const title = 'Sola Deo — 5-Minute Devotionals for Teens';
+const description = 'Sola Deo: 5-minute morning devotionals for early teens — rooted in the 5 Solas, pointing to Jesus, helping you start your day with truth and purpose.';
 const permalink = Astro.site.href;
 ---
 
@@ -10,44 +10,65 @@ const permalink = Astro.site.href;
   {/* Main container for the home page content */}
   <div class="home-container">
     <div class="home-copy">
-      {/* Site title and tagline */}
-      <h1>Sola Deo a Living Waters RV Ministry</h1>
-      <img id="logo-img" src={`${BASE}assets/brokencisterns.png`} alt="Living Waters Logo" />
-      {/* Mission statement section */}
-      <div class="mission-statement">
-        <p>“For My people have committed two evils: They have abandoned Me, The fountain of living waters, To carve out for themselves cisterns, Broken cisterns That do not hold water.”</p>
-        <sub>Jeremiah 2:13</sub>
-        <p>"The one who believes in Me, as the Scripture said, ‘From his innermost being will flow rivers of living water.’ ” </p>
-        <sub>John 7:38</sub>
+      {/* Site logo */}
+      <img id="logo-img" src={`${BASE}assets/soladeo.webp`} alt="Sola Deo Logo" />
+      {/* Introduction for teens */}
+      <div class="intro">
+        <h1>Welcome to Sola Deo!</h1>
+        <div class="tagline">5 Minutes. 1 Purpose. God's Glory.</div>
+        <p>
+          Hey there! 👋 This devotional site is created just for you. Each morning before school, spend a few minutes with God’s Word and discover how the 5 Solas of the Bible point us to Jesus and help us live for God’s glory alone.
+        </p>
+        <p>
+          <strong>How does it work?</strong> Choose 4 or 5 mornings each week, grab your Bible, and read one short devo. Each one includes a Bible verse, a relatable story, a key truth, and a simple prayer or reflection — all in about five minutes.
+        </p>
       </div>
-      {/* Resource cards for navigation by label */}
+      {/* Section: What is Sola Deo */}
+      <div class="mission-statement">
+        <h2>What is Sola Deo?</h2>
+        <p>
+          Sola Deo means <strong>“To God Alone”</strong>. This site is built on five simple but powerful truths from the Bible, called the <em>5 Solas</em>:
+        </p>
+        <ul>
+          <li><b>Scripture Alone</b> (God’s Word is our foundation)</li>
+          <li><b>Grace Alone</b> (we’re saved by God’s kindness, not by earning it)</li>
+          <li><b>Faith Alone</b> (trust in Jesus is how we receive grace)</li>
+          <li><b>Christ Alone</b> (only Jesus saves, leads, and loves us perfectly)</li>
+          <li><b>To the Glory of God Alone</b> (we live to honor Him above all)</li>
+        </ul>
+        <p>
+          These truths shape every devotional you’ll find here. It’s a journey to know Jesus better, walk in truth, and discover your purpose as you start each day.
+        </p>
+      </div>
+      {/* Navigation cards */}
       <div class="content-sections">
-        <h3>Explore Our Resources</h3>
+        <h3>Start Your Journey</h3>
         <div class="resource-grid">
           <div class="resource-card">
             <h4><a href={`${BASE}blog/label/devotional`} class="resource-link">Devotionals</a></h4>
-            <p>Daily reflections to deepen your walk with Christ</p>
+            <p>5-minute morning reads to focus your heart on Jesus</p>
           </div>
           <div class="resource-card">
             <h4><a href={`${BASE}blog/label/article`} class="resource-link">Articles</a></h4>
-            <p>In-depth exploration of biblical truths and contemporary faith</p>
+            <p>Dig deeper into biblical truths, faith, and real-life questions</p>
           </div>
           <div class="resource-card">
             <h4><a href={`${BASE}blog/label/note`} class="resource-link">Notes</a></h4>
-            <p>Practical insights and study materials for spiritual growth</p>
+            <p>Quick thoughts, reflections, and study helps for your faith</p>
           </div>
           <div class="resource-card">
             <h4><a href={`${BASE}blog/label/book`} class="resource-link">Books</a></h4>
-            <p>Extended works on theology and Christian living</p>
+            <p>Longer resources for growing strong in Christ</p>
           </div>
         </div>
       </div>
-      {/* Welcome message section */}
+      {/* Grandpa's welcome message */}
       <div class="welcome-message">
+        <h3>You Belong Here</h3>
         <p>
-        God lovingly laments that His people have forsaken Him, “the fountain of living waters,” and dug for themselves “broken cisterns that hold no water”</p> (Jeremiah 2:13).
-        <p>Yet He still invites us to return to Him—the One who “leads to springs of the water of life”</p> (Revelation 7:17).
-        <p>We hope this site will help you find the living waters of Jesus Christ, and that you will glorify God and enjoy Him forever.</p>      
+          I made this site just for you—my grandkids—because I love you, and I want you to know Jesus like I do. We won’t find all the answers in the world, but we can always trust God’s Word. Let’s start this journey together, one step at a time. You’re never too young to walk with Jesus. I believe in you — and even more, God is with you.<br /><br />
+          <b>Love,<br />Grandpa</b>
+        </p>
       </div>
     </div>
   </div>
@@ -89,10 +110,15 @@ const permalink = Astro.site.href;
     text-align: center;
   }
 
+  .intro {
+    font-size: 1.2em;
+    margin-bottom: 2em;
+    text-align: center;
+  }
+
   .mission-statement {
     font-family: var(--font-family-serif);
-    font-style: italic;
-    font-size: 1.4em;
+    font-size: 1.3em;
     margin: 1.5em auto;
     padding: 1.5em;
     border-left: 4px solid var(--primary-color);
@@ -100,8 +126,15 @@ const permalink = Astro.site.href;
     background: color-mix(in srgb, var(--background-body) 85%, var(--primary-color) 15%);
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    text-align: center;
+    text-align: left;
     max-width: 800px;
+  }
+  .mission-statement ul {
+    margin: 1em 0 1em 2em;
+    font-size: 1em;
+  }
+  .mission-statement li {
+    margin-bottom: 0.4em;
   }
 
   .content-sections {
@@ -158,7 +191,7 @@ const permalink = Astro.site.href;
   }
 
   .welcome-message p {
-    font-size: 1.4em;
+    font-size: 1.3em;
     color: var(--text-main);
   }
 
