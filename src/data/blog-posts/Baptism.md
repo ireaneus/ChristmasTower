@@ -1,90 +1,79 @@
 ---
-title: Baptism for the Boys  
-slug: baptism-grandkids  
-publishDate: 01 Aug 2025  
-description: Baptizing the boys  
-label: Article  
+title: 🕊️ Hearing God’s Voice and Following Him
+slug: baptism-devotional
+publishDate: 02 Aug 2025
+description: A 5-minute devotional for Michael and Samuel on their baptism day
+label: Devotional
 ---
 
-## 02 August 2025
+## Opening Scripture
 
----
+> **"Speak, LORD, for Your servant is listening."**  
+> *—1 Samuel 3:10 (ESV)*
 
-Here is a clean transcription of your baptism speech outline, based on your notes:
-
-
----
-
-Baptism Speech Notes
-
-1. God Speaks to Us
-
-Begin by telling the boys how God speaks.
-Use the question: “How does God speak to you?”
-
-Explain:
-
-> “God speaks primarily through His Word. He stirs our hearts when we hear it—just like He stirred yours.”
-
-
-
-Examples:
-
-Elijah — God wasn’t in the wind, the fire, or the earthquake... but in the still small voice (1 Kings 19:11–12).
-
-Samuel — As a boy, Samuel heard God call his name. He learned to say, “Speak, Lord, for your servant is listening” (1 Samuel 3:10).
-
-
-Point to make:
-God still speaks to us today—through Scripture, and through His Spirit working in our hearts.
-
+> **"And after the earthquake a fire, but the LORD was not in the fire. And after the fire the sound of a low whisper."**  
+> *—1 Kings 19:12 (ESV)*
 
 ---
 
-2. The Baptism of Jesus
+## A Quick Story
 
-Transition to Jesus’ baptism:
+One day I was driving Michael to scouts, and he asked me, *“Papa, how does God speak to you?”*
 
-> “Jesus didn’t need to be baptized for repentance, but He did it to fulfill all righteousness and to show us the way.”
+I told him, “God speaks mostly through His Word. Sometimes, like in the stories of Samuel and Elijah, He has spoken directly so people could hear Him with their ears. But most often, He stirs our hearts through His Word—and when it’s Him, we recognize it and want to obey.”
 
+That’s how I know He spoke to both you and Samuel—He stirred your hearts to follow in Jesus’ footsteps.
 
+> **Matthew 3:16 (ESV)**  
+> *"And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him;"*
 
-Matthew 3:16–17 – The heavens opened, the Spirit descended like a dove, and the Father said, “This is My beloved Son, in whom I am well pleased.”
-
-Jesus set the pattern for us: He heard His Father’s voice, and He obeyed.
-
-
-Point to make:
-Baptism is your public declaration that you want to follow Jesus—it’s your first act of obedience after being saved.
-
+And that’s what **baptism** is: a public step showing the world that you belong to Jesus and have chosen to follow Him.
 
 ---
 
-3. The Journey Will Be Hard (Tribulation of the Saints)
+## Devotional Insight
 
-> “Now that you’ve decided to follow Jesus, I want to be honest—it won’t always be easy.”
+God has been speaking to His people for thousands of years—and His voice always calls for a response.
 
+- **Samuel** was just a boy when God called his name in the night. At first, he didn’t recognize the voice. But when he learned it was the Lord, he answered, *“Speak, Lord, for Your servant is listening”* **(1 Samuel 3:10)**—and from that moment, he obeyed.
+- **Elijah** stood on a mountain, waiting for God to speak. The Lord was not in the powerful wind, the earthquake, or the fire, but in a *gentle whisper* **(1 Kings 19:12)**—a voice that came in quiet stillness, calling him to act.
 
+Today, God still speaks—through Scripture and by His Spirit working in our hearts. Sometimes it’s while reading the Bible, when a verse grips your attention. Sometimes it’s in prayer, when a truth comes to mind you can’t shake. But to hear Him clearly, we often need to do what Samuel and Elijah did—step away from the noise, be still, and listen.
 
-John 16:33 – “In this world you will have tribulation. But take heart; I have overcome the world.”
+When God speaks, the right response is always obedience. That’s why baptism is so special—it’s you saying, *“Lord, I hear You, and I will follow.”*
 
-Acts 14:22 – “Through many tribulations we must enter the kingdom of God.”
+Baptism doesn’t save you—Jesus already accomplished that through His death, burial, and resurrection.  
+But baptism is your **first act of obedience**, just like when Jesus was baptized and the Father said:
 
-
-Point to make:
-Following Jesus means walking a narrow path—but He walks it with you.
-
+> **Matthew 3:17 (ESV)**  
+> *"This is my beloved Son, with whom I am well pleased."*
 
 ---
 
-4. Your Goal: To Hear ‘Well Done’
+## The Journey Ahead
 
-> “If you keep walking with Him, listening for His voice, and staying faithful, one day you’ll hear the greatest words of all…”
+Jesus never promised that following Him would be easy. In fact, He said:
 
+> **John 16:33 (ESV)**  
+> *“In the world you will have tribulation. But take heart; I have overcome the world.”*
 
+There will be challenges. You will face moments when it’s hard to obey, when life feels confusing, or when following Jesus costs you something. But you will never walk alone—He will be with you every step.
 
-Matthew 25:21 – “Well done, good and faithful servant. Enter into the joy of your Master.”
+And one day, after you’ve finished everything God has called you to do, you will stand before your Creator—your King, your Lord, and your Savior, Jesus Christ.  
+You will see Him face to face. You’ll look into His loving eyes, and He will look back at you and say the sweetest words you’ll ever hear:
 
+> **Matthew 25:21 (ESV)**  
+> *“Well done, good and faithful servant.”*
 
-Point to make:
-Michael your hearing his voice 
+---
+
+## Prayer Prompt
+
+Thank God for speaking through His Word.  
+Ask Him to help you be still, listen for His voice, and obey Him quickly—just like Samuel, Elijah, and Jesus.
+
+---
+
+## Takeaway Thought
+
+**God still speaks today—and the right response is always to listen and obey.**

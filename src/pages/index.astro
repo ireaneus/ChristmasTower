@@ -14,13 +14,13 @@ const permalink = Astro.site.href;
       <img id="logo-img" src={`${BASE}assets/soladeo.webp`} alt="Sola Deo Logo" />
       {/* Introduction for teens */}
       <div class="intro">
-        <h1>Welcome to Sola Deo!</h1>
+        <div class="subtext">A Living Waters RV Ministry Project</div>
         <div class="tagline">5 Minutes. 1 Purpose. God's Glory.</div>
         <p>
-          Hey there! 👋 This devotional site is created just for you. Each morning before school, spend a few minutes with God’s Word and discover how the 5 Solas of the Bible point us to Jesus and help us live for God’s glory alone.
+          Hello, 👋 <strong>Samuel, Michael, Levi, and Abi</strong>, this site is created just for you. Each morning before school, spend a few minutes with God’s Word and discover how the Bible points us to Jesus and helps us live for God’s glory alone.
         </p>
         <p>
-          <strong>How does it work?</strong> Choose 4 or 5 mornings each week, grab your Bible, and read one short devo. Each one includes a Bible verse, a relatable story, a key truth, and a simple prayer or reflection — all in about five minutes.
+          <strong>How does it work?</strong> Have your mom get you up about 5 minutes earlier for school, grab your Bible, and read one short devo. Each one includes a Bible verse, a relatable story, a key truth, and a simple prayer or reflection — all in about five minutes.
         </p>
       </div>
       {/* Section: What is Sola Deo */}
@@ -66,8 +66,11 @@ const permalink = Astro.site.href;
       <div class="welcome-message">
         <h3>You Belong Here</h3>
         <p>
-          I made this site just for you—my grandkids—because I love you, and I want you to know Jesus like I do. We won’t find all the answers in the world, but we can always trust God’s Word. Let’s start this journey together, one step at a time. You’re never too young to walk with Jesus. I believe in you — and even more, God is with you.<br /><br />
-          <b>Love,<br />Grandpa</b>
+          I made this site just for you because I love you, and I want you to know <b>Jesus</b> like I do. We won’t find all the answers in the world, but we can always trust God’s Word. 
+        </p>
+        <p>
+          Let’s start this journey together, one step at a time. You’re never too young to walk with Jesus. I believe in you — and even more, God is with you.<br /><br />
+          <b>Love,<br />Papa</b>
         </p>
       </div>
     </div>
@@ -104,7 +107,7 @@ const permalink = Astro.site.href;
   .tagline {
     font-family: var(--font-family-sans);
     font-weight: 300;
-    font-size: 1.8em;
+    font-size: 1.2em;
     color: var(--text-secondary);
     margin-bottom: 1em;
     text-align: center;
@@ -193,6 +196,14 @@ const permalink = Astro.site.href;
   .welcome-message p {
     font-size: 1.3em;
     color: var(--text-main);
+  }
+
+  .subtext {
+    color: var(--text-secondary);
+    font-size: 1em;
+    margin-bottom: 1em;
+    padding: 1em 2em;
+    text-align: center;
   }
 
   .resource-link {
