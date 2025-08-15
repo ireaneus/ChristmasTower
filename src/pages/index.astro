@@ -7,66 +7,63 @@ const permalink = Astro.site.href;
 ---
 
 <BaseLayout title={title} description={description} permalink={permalink}>
-  {/* Main container for the home page content */}
   <div class="home-container">
     <div class="home-copy">
-      {/* Site logo */}
-      <img id="logo-img" src={`${BASE}assets/SDCrew.webp`} alt="Sola Deo Logo" />
-      {/* Introduction for teens */}
+      {/* Logo row: Papa + Grammy side-by-side */}
+      <div class="logo-row">
+        <img class="logo" src={`${BASE}assets/blog/Papa-disney.webp`} alt="Papa — Sola Deo" />
+        <img class="logo" src={`${BASE}assets/blog/Grammy-disney.webp`} alt="Grammy — Sola Deo" />
+      </div>
+
       <div class="intro">
-        <div class="tagline">5 Minutes. 1 Purpose. God's Glory.</div>
-        <p>
-          Hello, 👋 Family, this is Grammy and Papa, we created this website just for you. Please spend a few minutes together with us and God’s Word, let's all discover how the Bible points us to Jesus and helps us live for God’s glory alone.
-        </p>
-        <p>
-          <strong>How does it work?</strong>  Each day you will read a story about the SD Crew (More on that later), it is an adventure story that will bring the Bible to life, it offers a prayer and something to think about throughout the day, it will also have you craving for a new day — all in about five minutes.
-        </p>
-      </div>
-      {/* Section: What is Sola Deo */}
-      <div class="mission-statement">
-        <h2>What is Sola Deo?</h2>
-        <p>
-          Sola Deo means <strong>“To God Alone”</strong>. This site is built on five simple but powerful truths from the Bible, called the <em>5 Solas</em>:
-        </p>
-        <ul>
-          <li><b>Scripture Alone</b> (God’s Word is our foundation)</li>
-          <li><b>Grace Alone</b> (we’re saved by God’s kindness, not by earning it)</li>
-          <li><b>Faith Alone</b> (trust in Jesus is how we receive grace)</li>
-          <li><b>Christ Alone</b> (only Jesus saves, leads, and loves us perfectly)</li>
-          <li><b>To the Glory of God Alone</b> (we live to honor Him above all)</li>
-        </ul>
-      </div>
-      {/* Navigation cards */}
-      <div class="content-sections">
-        <h3>Start Your Journey</h3>
-        <div class="resource-grid">
-          <div class="resource-card">
-            <h4><a href={`${BASE}blog/label/devotional`} class="resource-link">Devotionals</a></h4>
-            <p>5-minute morning reads to focus your heart on Jesus</p>
-          </div>
-          <div class="resource-card">
-            <h4><a href={`${BASE}blog/label/article`} class="resource-link">Articles</a></h4>
-            <p>Dig deeper into biblical truths, faith, and real-life questions</p>
-          </div>
-          <div class="resource-card">
-            <h4><a href={`${BASE}blog/label/note`} class="resource-link">Notes</a></h4>
-            <p>Quick thoughts, reflections, and study helps for your faith</p>
-          </div>
-          <div class="resource-card">
-            <h4><a href={`${BASE}blog/label/book`} class="resource-link">Books</a></h4>
-            <p>Longer resources for growing strong in Christ</p>
-          </div>
-        </div>
-      </div>
-      {/* Grandpa's welcome message */}
-      <div class="welcome-message">
+        <div class="tagline">The Sola Deo Family — “To the Glory of God Alone”</div>
         <h3>The SD Crew</h3>
         <p>
-          These are the adventures of the SD Crew, a group of kids who love Jesus and want to share His love with the world. They learn about God’s Word, explore His creation, and discover how to live for His glory in everything they do.
+          Join the adventures of the Sola Deo Crew (Papa, Grammy, Samuel, Michael, Levi, Abi, Reagan, and little Charlie) as we learn God’s Word, explore His creation,
+          and live for His glory in everyday life.
         </p>
         <p>
-          So let’s start this journey together, one day at a time. You’re never too young to walk with Jesus. I believe in you — and even more, God is with you.<br /><br />
-          <b>Love,<br />Papa</b>
+          One day at a time—Jesus leads the way.<br /><br />
+          <b>Love,<br />Papa and Grammy</b>
+        </p>
+      </div>
+
+      <div class="mission-statement">
+        <h2>What is Sola Deo?</h2>
+        <p>Sola Deo means <strong>“To God Alone”</strong>. Our devotionals rest on the <em>5 Solas</em>:</p>
+        <ul>
+          <li><b>Scripture Alone</b> — God’s Word is our foundation</li>
+          <li><b>Grace Alone</b> — salvation is God’s gift</li>
+          <li><b>Faith Alone</b> — we receive grace by trusting Jesus</li>
+          <li><b>Christ Alone</b> — Jesus is our only Savior and King</li>
+          <li><b>To God’s Glory Alone</b> — all of life for His praise</li>
+        </ul>
+      </div>
+
+      {/* Navigation cards (only two) */}
+      <div class="content-sections">
+        <h3>Start Your Journey</h3>
+        <div class="resource-grid two-col">
+          <a class="resource-card" href={`${BASE}blog/label/devotional`}>
+            <h4 class="resource-link">Devotionals</h4>
+            <p>5‑minute morning reads to focus your heart on Jesus.</p>
+          </a>
+
+          <a class="resource-card" href={`${BASE}blog/label/note`}>
+            <h4 class="resource-link">Personal Notes</h4>
+            <p>Short notes from Grammy &amp; Papa to the family.</p>
+          </a>
+        </div>
+      </div>
+
+      <div class="welcome-message">
+        <p>
+          Hello 👋 family! This is Grammy and Papa. We made this website for you. Spend a few minutes with us
+          in God’s Word each day as we follow Jesus together.
+        </p>
+        <p>
+          <strong>How it works:</strong> Read a short devotional, pray, and carry a simple truth into your day.
+          Five minutes, Christ‑centered, and rooted in Scripture.
         </p>
       </div>
     </div>
@@ -74,7 +71,6 @@ const permalink = Astro.site.href;
 </BaseLayout>
 
 <style>
-  /* Layout and responsive styles for the home page */
   .home-container {
     align-items: center;
     display: flex;
@@ -100,6 +96,24 @@ const permalink = Astro.site.href;
     text-align: center;
   }
 
+  /* Papa + Grammy side-by-side (responsive) */
+  .logo-row {
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 1.25rem auto;
+    max-width: 820px;
+  }
+  .logo-row .logo {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 18px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    object-fit: cover;
+  }
+
   .tagline {
     font-family: var(--font-family-sans);
     font-weight: 300;
@@ -117,9 +131,9 @@ const permalink = Astro.site.href;
 
   .mission-statement {
     font-family: var(--font-family-serif);
-    font-size: 1.3em;
-    margin: 1.5em auto;
-    padding: 1.5em;
+    font-size: 1.2em;
+    margin: 1.2em auto;
+    padding: 1.2em;
     border-left: 4px solid var(--primary-color);
     border-right: 4px solid var(--primary-color);
     background: color-mix(in srgb, var(--background-body) 85%, var(--primary-color) 15%);
@@ -136,10 +150,7 @@ const permalink = Astro.site.href;
     margin-bottom: 0.4em;
   }
 
-  .content-sections {
-    margin: 2em 0;
-  }
-
+  .content-sections { margin: 2em 0; }
   .content-sections h3 {
     font-family: var(--font-family-sans);
     font-weight: 600;
@@ -150,12 +161,15 @@ const permalink = Astro.site.href;
 
   .resource-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 1.5em;
     margin-top: 1em;
   }
+  .resource-grid.two-col {
+    grid-template-columns: repeat(2, minmax(200px, 1fr));
+  }
 
   .resource-card {
+    display: block;
     padding: 1.5em;
     background: color-mix(in srgb, var(--background-body) 95%, var(--primary-color) 5%);
     border-radius: 8px;
@@ -179,7 +193,7 @@ const permalink = Astro.site.href;
   }
 
   .resource-card p {
-    font-size: 1.4em;
+    font-size: 1.2em;
     color: var(--text-secondary);
   }
 
@@ -194,61 +208,14 @@ const permalink = Astro.site.href;
     color: var(--text-main);
   }
 
-  .subtext {
-    color: var(--text-secondary);
-    font-size: 1em;
-    margin-bottom: 1em;
-    padding: 1em 2em;
-    text-align: center;
-  }
-
-  .resource-link {
-    text-decoration: none !important;
-    color: inherit;
-    transition: color 0.2s;
-    box-shadow: none !important;
-  }
-  .resource-link:hover {
-    color: var(--primary-color);
-    text-decoration: underline !important;
-    box-shadow: none !important;
-  }
-
-  @media (max-width: 1200px) {
-    .resource-card p {
-      font-size: 1.2em;
-    }
-  }
+  .resource-link { text-decoration: none; color: inherit; box-shadow: none; }
+  .resource-link:hover { color: var(--primary-color); text-decoration: underline; }
 
   @media (max-width: 800px) {
-    .home-container {
-      flex-direction: column;
-    }
+    .home-container { flex-direction: column; }
+    .home-copy { flex: 0; padding-bottom: 2em; }
 
-    .home-copy {
-      flex: 0;
-      padding-bottom: 2em;
-    }
-
-    .resource-grid {
-      grid-template-columns: 1fr;
-    }
-  }
-
-  @media (max-width: 480px) {
-    .resource-card p {
-      font-size: 1.2rem;
-      margin: 1em 0;
-    }
-  }
-
-  #logo-img {
-    display: block;
-    margin: 0 auto 1em auto;
-    width: 100%;
-    max-width: 400px;
-    height: auto;
-    border-radius: 18px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    .logo-row { flex-direction: column; }
+    .resource-grid.two-col { grid-template-columns: 1fr; }
   }
 </style>

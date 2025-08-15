@@ -14,7 +14,17 @@ allPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new 
   {/* Blog main container */}
   <div class="container">
     <h1>Sola Deo Articles</h1>
-    <img src="/SolaDeo/assets/soladeo.webp" alt="Sola Deo Logo" width="50%" style="display: block; margin: 0 auto 1em;" />
+
+    {/* Kids face strip (flex, wraps to 2+ rows as needed) */}
+    <div class="face-strip">
+      <img src="/SolaDeo/assets/blog/Abi-face.webp" alt="Abi" class="face" />
+      <img src="/SolaDeo/assets/blog/Charlie-face.webp" alt="Charlie" class="face" />
+      <img src="/SolaDeo/assets/blog/Levi-face.webp" alt="Levi" class="face" />
+      <img src="/SolaDeo/assets/blog/Michael-face.webp" alt="Michael" class="face" />
+      <img src="/SolaDeo/assets/blog/Reagan-face.webp" alt="Reagan" class="face" />
+      <img src="/SolaDeo/assets/blog/Samuel-face.webp" alt="Samuel" class="face" />
+    </div>
+
     {/* Blog post grid */}
     <div class="post-grid">
       {allPosts.map((post) => {
@@ -58,9 +68,27 @@ allPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new 
   h1 {
     font-family: var(--font-family-serif);
     font-weight: 300;
-    margin-bottom: 1em;
+    margin-bottom: 0.75em;
     text-align: center;
     color: var(--text-main);
+  }
+
+  /* Kids face strip */
+  .face-strip {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 14px;
+    margin: 0 auto 1.25em;
+    max-width: 900px;
+  }
+  .face {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 16px;          /* rounded corners */
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    background: #fff;
   }
 
   .post-grid {
@@ -160,27 +188,17 @@ allPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new 
   }
 
   @media (max-width: 768px) {
+    .face { width: 96px; height: 96px; } /* smaller faces on mobile */
     .post-grid {
       grid-template-columns: 1fr;
       gap: 1.5em;
     }
-    
-    .post-title {
-      font-size: 1.3em;
-    }
-
-    .post-description {
-      font-size: 1em;
-    }
+    .post-title { font-size: 1.3em; }
+    .post-description { font-size: 1em; }
   }
 
   @media (max-width: 480px) {
-    .container {
-      padding: 0 0.8em;
-    }
-    
-    .post-card {
-      margin-bottom: 1em;
-    }
+    .container { padding: 0 0.8em; }
+    .post-card { margin-bottom: 1em; }
   }
 </style>
