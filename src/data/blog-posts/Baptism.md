@@ -3,7 +3,7 @@ title: 🕊️ Hearing God’s Voice and Following Him
 slug: baptism-devotional
 publishDate: 02 Aug 2025
 description: A 5-minute devotional for Michael and Samuel on their baptism day
-label: Devotional
+label: Note
 ---
 
 ## Opening Scripture
