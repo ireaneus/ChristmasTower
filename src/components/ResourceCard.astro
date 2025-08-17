@@ -1,0 +1,82 @@
+---
+// ResourceCard.astro
+// A reusable card for Devotionals, Notes, Crew, etc.
+// Props: href, title, description, image (optional), label (optional)
+const { href, title, description, image = '', label = '' } = Astro.props;
+---
+<a class="resource-card" href={href}>
+  {image && <img src={image} alt={title} class="resource-card-img" />}
+  <div class="resource-card-content">
+    <h4 class="resource-link">{title}</h4>
+    {label && <span class="resource-label">{label}</span>}
+    <p>{description}</p>
+  </div>
+</a>
+
+<style>
+.resource-card {
+  display: flex;
+  align-items: center;
+  padding: 1.5em;
+  background: color-mix(in srgb, var(--background-body) 95%, var(--primary-color) 5%);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  transition: all 0.2s ease;
+  border: 1px solid transparent;
+  text-decoration: none;
+  gap: 1.5em;
+}
+.resource-card:hover {
+  transform: translateY(-4px);
+  border-color: var(--primary-color);
+  background: color-mix(in srgb, var(--background-body) 90%, var(--primary-color) 10%);
+}
+.resource-card-img {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+  background: #fff;
+}
+.resource-card-content {
+  flex: 1;
+}
+.resource-link {
+  font-family: var(--font-family-sans);
+  font-weight: 600;
+  color: var(--primary-color);
+  margin-bottom: 0.5em;
+  text-decoration: none;
+  box-shadow: none;
+}
+.resource-label {
+  background: var(--primary-color);
+  color: #fff;
+  border-radius: 6px;
+  padding: 0.1em 0.7em;
+  font-size: 0.8em;
+  font-weight: 600;
+  margin-left: 0.7em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  vertical-align: middle;
+}
+.resource-card p {
+  font-size: 1.1em;
+  color: var(--text-secondary);
+  margin: 0.5em 0 0 0;
+}
+@media (max-width: 600px) {
+  .resource-card {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.7em;
+    padding: 1em;
+  }
+  .resource-card-img {
+    width: 60px;
+    height: 60px;
+  }
+}
+</style>

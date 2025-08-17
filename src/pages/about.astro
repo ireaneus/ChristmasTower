@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import ResourceCard from '../components/ResourceCard.astro';
 
 const title = 'About the Sola Deo (SD) Crew';
 const description = 'Meet the Sola Deo Crew—our purpose, heart, and mission.';
@@ -15,86 +16,64 @@ const permalink = `${Astro.site.href}about`;
       everyday adventures.
     </p>
 
-    <!-- Papa Dave -->
-    <section class="crew-card">
-      <img class="crew-img" src="/SolaDeo/assets/blog/Papa-disney.webp" alt="Papa Dave smiling by the fence" width="300" height="300" loading="lazy" />
-      <h2>Papa Dave <span class="tag">Founder & Story Guide</span></h2>
-      <p>
-        Papa dreams up the journeys, ties every lesson to the Bible, and keeps the compass pointed to Jesus.
-        He believes kids can understand big truths when we speak plainly and lovingly, with Scripture at the center.
-      </p>
-      <p class="mini">Life verse for the Crew: <strong>“Your word is a lamp to my feet and a light to my path.”</strong> — Psalm 119:105</p>
-    </section>
-
-    <!-- Grammy -->
-    <section class="crew-card">
-      <img class="crew-img" src="/SolaDeo/assets/blog/Grammy-disney.webp" alt="Grammy on the porch swing" width="300" height="300" loading="lazy" />
-      <h2>Grammy <span class="tag">Heart & Hospitality</span></h2>
-      <p>
-        Grammy keeps everyone cared for and reminds the Crew that grace changes everything. She’s the warm hug,
-        the extra cookie, and the steady wisdom that says, “Let’s pray first.”
-      </p>
-    </section>
-
-    <!-- Samuel -->
-    <section class="crew-card">
-      <img class="crew-img" src="/SolaDeo/assets/blog/Samuel-disney.webp" alt="Samuel walking the path" width="300" height="300" loading="lazy" />
-      <h2>Samuel <span class="tag">Pathfinder</span></h2>
-      <p>
-        Samuel loves maps and first steps. He’s the “Let’s go!” kid who reminds us that faith means moving
-        forward because Jesus leads the way (Sola Fide—faith alone).
-      </p>
-    </section>
-
-    <!-- Michael -->
-    <section class="crew-card">
-      <img class="crew-img" src="/SolaDeo/assets/blog/Michael-disney.webp" alt="Michael leaning on a fence in a red shirt" width="300" height="300" loading="lazy" />
-      <h2>Michael <span class="tag">Steady Hand</span></h2>
-      <p>
-        Michael is calm under pressure and great at encouraging the team. He’s quick to say,
-        “What does the Bible say?”—a living nod to Sola Scriptura (Scripture alone).
-      </p>
-    </section>
-
-    <!-- Abi -->
-    <section class="crew-card">
-      <img class="crew-img" src="/SolaDeo/assets/blog/Abi-disney.webp" alt="Abi in a heart-pattern shirt" width="300" height="300" loading="lazy" />
-      <h2>Abi <span class="tag">Joy Bringer</span></h2>
-      <p>
-        Abi notices the little blessings others miss. She’ll spot a sunrise, a kind word, or an answered prayer,
-        and point everyone to thank God—Soli Deo Gloria (to God alone be the glory).
-      </p>
-    </section>
-
-    <!-- Levi -->
-    <section class="crew-card">
-      <img class="crew-img" src="/SolaDeo/assets/blog/Levi-disney.webp" alt="Levi flying a kite" width="300" height="300" loading="lazy" />
-      <h2>Levi <span class="tag">Problem Solver</span></h2>
-      <p>
-        Levi loves building and testing ideas. He reminds the Crew that God gives wisdom generously,
-        and that grace—not our perfection—keeps us going (Sola Gratia—grace alone).
-      </p>
-    </section>
-
-    <!-- Reagan -->
-    <section class="crew-card">
-      <img class="crew-img" src="/SolaDeo/assets/blog/Reagan-disney.webp" alt="Reagan running through a field of flowers" width="300" height="300" loading="lazy" />
-      <h2>Reagan <span class="tag">Courage & Kindness</span></h2>
-      <p>
-        Reagan is brave and gentle at the same time. She loves to help the younger kids and reminds the Crew
-        that Jesus is our good King—fully God and fully man—worthy of our trust and worship.
-      </p>
-    </section>
-
-    <!-- Charlie -->
-    <section class="crew-card">
-      <img class="crew-img" src="/SolaDeo/assets/blog/Charlie-disney.webp" alt="Baby Charlie stacking blocks" width="300" height="300" loading="lazy" />
-      <h2>Charlie <span class="tag">Chief Smiler</span></h2>
-      <p>
-        Charlie brings the giggles and reminds us to receive the kingdom like a child. He keeps our lessons simple:
-        Jesus loves us, and we can trust Him completely.
-      </p>
-    </section>
+    <div class="crew-grid">
+      <ResourceCard
+        image="/SolaDeo/assets/blog/Papa-disney.webp"
+        title="Papa Dave"
+        label="Founder & Story Guide"
+        description="Papa dreams up the journeys, ties every lesson to the Bible, and keeps the compass pointed to Jesus. He believes kids can understand big truths when we speak plainly and lovingly, with Scripture at the center. Life verse: 'Your word is a lamp to my feet and a light to my path.' — Psalm 119:105"
+        href="#papa"
+      />
+      <ResourceCard
+        image="/SolaDeo/assets/blog/Grammy-disney.webp"
+        title="Grammy"
+        label="Heart & Hospitality"
+        description="Grammy keeps everyone cared for and reminds the Crew that grace changes everything. She’s the warm hug, the extra cookie, and the steady wisdom that says, 'Let’s pray first.'"
+        href="#grammy"
+      />
+      <ResourceCard
+        image="/SolaDeo/assets/blog/Samuel-disney.webp"
+        title="Samuel"
+        label="Pathfinder"
+        description="Samuel loves maps and first steps. He’s the 'Let’s go!' kid who reminds us that faith means moving forward because Jesus leads the way (Sola Fide—faith alone)."
+        href="#samuel"
+      />
+      <ResourceCard
+        image="/SolaDeo/assets/blog/Michael-disney.webp"
+        title="Michael"
+        label="Steady Hand"
+        description="Michael is calm under pressure and great at encouraging the team. He’s quick to say, 'What does the Bible say?'—a living nod to Sola Scriptura (Scripture alone)."
+        href="#michael"
+      />
+      <ResourceCard
+        image="/SolaDeo/assets/blog/Abi-disney.webp"
+        title="Abi"
+        label="Joy Bringer"
+        description="Abi notices the little blessings others miss. She’ll spot a sunrise, a kind word, or an answered prayer, and point everyone to thank God—Soli Deo Gloria (to God alone be the glory)."
+        href="#abi"
+      />
+      <ResourceCard
+        image="/SolaDeo/assets/blog/Levi-disney.webp"
+        title="Levi"
+        label="Problem Solver"
+        description="Levi loves building and testing ideas. He reminds the Crew that God gives wisdom generously, and that grace—not our perfection—keeps us going (Sola Gratia—grace alone)."
+        href="#levi"
+      />
+      <ResourceCard
+        image="/SolaDeo/assets/blog/Reagan-disney.webp"
+        title="Reagan"
+        label="Courage & Kindness"
+        description="Reagan is brave and gentle at the same time. She loves to help the younger kids and reminds the Crew that Jesus is our good King—fully God and fully man—worthy of our trust and worship."
+        href="#reagan"
+      />
+      <ResourceCard
+        image="/SolaDeo/assets/blog/Charlie-disney.webp"
+        title="Charlie"
+        label="Chief Smiler"
+        description="Charlie brings the giggles and reminds us to receive the kingdom like a child. He keeps our lessons simple: Jesus loves us, and we can trust Him completely."
+        href="#charlie"
+      />
+    </div>
   </div>
 
   <div class="purpose-block">
@@ -123,37 +102,11 @@ const permalink = `${Astro.site.href}about`;
   }
 
   /* Card layout with floated image */
-  .crew-card {
-    margin: 1.5rem 0 2rem;
-    line-height: 1.65;
-    clear: both; /* keep sections from wrapping weirdly */
-  }
-  .crew-img {
-    float: left;
-    width: 250px;        /* ~0.5–0.65" at print scale looks tidy */
-    max-width: 42vw;     /* responsive on very small screens */
-    height: auto;
-    border-radius: 14px; /* rounded corners */
-    margin: 0 1rem 0.5rem 0;
-    box-shadow: 0 6px 16px rgba(0,0,0,0.08);
-  }
-  .crew-card h2 {
-    margin-top: 0;
-    margin-bottom: 0.25rem;
-    font-size: 1.35rem;
-    display: flex;
-    align-items: baseline;
-    gap: 0.5rem;
-  }
-  .tag {
-    font-size: .85rem;
-    font-weight: 600;
-    padding: .15rem .5rem;
-    border-radius: 999px;
-  }
-  .mini {
-    font-size: 0.95rem;
-    opacity: 0.9;
+  .crew-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 2em;
+    margin: 2em 0;
   }
 
   /* Print-friendly tweaks */
