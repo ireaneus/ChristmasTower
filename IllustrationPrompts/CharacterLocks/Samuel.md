@@ -11,7 +11,7 @@ Use `Samuel.svg` and `Samuel-disney.svg` as the locked likeness. Preserve the **
 * **Age:** 13
 * **Height:** \~**5'0"** — **same height as Michael**; a couple inches shorter than Levi/Abi/Grammy (5'2")
 * **Build:** Slim/medium teen build (match SVG), equal to Michael.
-* **Hair:** Short **blond** (match SVG), neat.
+* **Hair:** Buzzcut **blond** (match SVGs), neat.
 * **Eyes:** Match color/shape in SVG references.
 * **Expression:** Cheerful, attentive, ready-for-adventure.
 

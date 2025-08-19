@@ -20,6 +20,7 @@ Use `Levi.svg` and `Levi-disney.svg` as the locked likeness reference. Preserve 
 * Red t-shirt
 * Dark shorts
 * Hiking boots (default for outdoor/adventure scenes)
+* Baseball cap (dark brown, no logo)
 
 **Key Traits**
 
