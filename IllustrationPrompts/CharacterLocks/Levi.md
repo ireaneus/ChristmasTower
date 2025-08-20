@@ -4,7 +4,7 @@
 Classic Disney-style 2D animation with rich hand-painted colors, clean outlines, expressive eyes, warm background tones, and soft lighting.
 
 **Likeness Reference**
-Use `Levi.svg` and `Levi-disney.svg` as the locked likeness reference. Preserve the same face shape, hairstyle, hair color, skin tone, height, and body proportions. His likeness must remain consistent across all illustrations.
+Use `Levi.svg` and `LeviPhoto.svg` as the locked likeness reference. Preserve the same face shape, hairstyle, hair color, skin tone, height, and body proportions. His likeness must remain consistent across all illustrations.
 
 **Appearance**
 

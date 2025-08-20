@@ -19,3 +19,22 @@ This project organizes **Character Locks** and **Scene Prompts** for consistent 
 - [Porch Swing](Scenes/PorchSwing.md)
 - [Chicken Coop](Scenes/ChickenCoop.md)
 - [Narrow Path](Scenes/NarrowPath.md)
+
+## SVG files
+
+- PapaPhoto.svg
+- Papa.svg
+- GrammyPhoto.svg
+- Grammy.svg
+- LeviPhoto.svg
+- Levi.svg
+- SamuelPhoto.svg
+- Samuel.svg
+- Michael.svg
+- MichaelPhoto.svg
+- Abi.svg
+- AbiBritt.svg
+- ReaganPhoto.svg
+- Reagan-flower.svg
+- Charlie.svg
+- CharliePhoto.svg

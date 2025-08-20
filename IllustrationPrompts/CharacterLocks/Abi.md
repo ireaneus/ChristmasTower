@@ -4,7 +4,7 @@
 Classic Disney-style 2D animation with rich hand-painted colors, clean outlines, expressive eyes, warm background tones, and soft lighting.
 
 **Likeness Reference**  
-Use `Abi-disney.svg` and `AbiBritt.svg` as locked likeness references. Preserve the exact face and eye shape, hairstyle, hair color, skin tone, height, and body proportions. Her likeness must remain consistent across all illustrations.
+Use `Abi.svg` and `AbiBritt.svg` and `AbiBrittPhoto.svg` as locked likeness references. Preserve the exact face and eye shape, hairstyle, hair color, skin tone, height, and body proportions. Her likeness must remain consistent across all illustrations.
 
 **Appearance**
 

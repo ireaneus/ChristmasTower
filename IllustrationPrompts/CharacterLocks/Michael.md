@@ -4,7 +4,7 @@
 Classic Disney-style 2D animation with rich hand-painted colors, clean outlines, expressive eyes, warm background tones, and soft lighting.
 
 **Likeness Reference**
-Use `Michaelphoto.svg` and `Michael.svg` as the locked likeness references. Preserve the exact face shape including cheeks, hairstyle, hair color, skin tone, height, and body proportions. His likeness must remain consistent across all illustrations.
+Use `MichaelPhoto.svg` and `Michael.svg` as the locked likeness references. Preserve the exact face shape including cheeks, hairstyle, hair color, skin tone, height, and body proportions. His likeness must remain consistent across all illustrations.
 
 **Appearance**
 

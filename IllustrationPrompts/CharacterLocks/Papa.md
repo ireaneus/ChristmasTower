@@ -4,7 +4,7 @@
 Classic Disney-style 2D animation with a touch of realism: rich hand-painted colors, clean outlines, expressive eyes, warm background tones, and soft lighting.
 
 **Likeness Reference**
-Use `PapaPhoto.svg` as the locked likeness reference. Preserve the exact face shape, hairstyle, beard/mustache, hair color, skin tone, height, and body proportions. His likeness must remain consistent across all illustrations.
+Use `PapaPhoto.svg` and `Papa.svg` as the locked likeness reference. Preserve the exact face shape, hairstyle, beard/mustache, hair color, skin tone, height, and body proportions. His likeness must remain consistent across all illustrations.
 
 **Appearance**
 

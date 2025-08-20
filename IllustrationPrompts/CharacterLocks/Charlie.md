@@ -4,7 +4,7 @@
 Classic Disney-style 2D animation with rich hand-painted colors, clean outlines, expressive eyes, warm background tones, and soft lighting.
 
 **Likeness Reference:**
-Use **Charlie.svg** and **Charlie1.svg** as the locked likeness references. Maintain the same face shape, hairstyle, hair color, skin tone, clothing, and body proportions.
+Use `Charlie-toy.svg` and `CharliePhoto.svg` as the locked likeness references. Maintain the same face shape, hairstyle, hair color, skin tone, clothing, and body proportions.
 
 **Appearance:**
 

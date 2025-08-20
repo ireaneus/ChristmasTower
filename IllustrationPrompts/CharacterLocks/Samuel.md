@@ -4,7 +4,7 @@
 Classic Disney‑style 2D animation with rich hand‑painted colors, clean outlines, expressive eyes, warm background tones, and soft lighting.
 
 **Likeness Reference (EXACT)**
-Use `Samuel.svg` and `Samuel-disney.svg` as the locked likeness. Preserve the **exact** face shape, eye shape, nose, mouth, hairline, hair color, hairstyle, skin tone, and body proportions. Do **not** change these unless explicitly instructed.
+Use `Samuel.svg` and `SamuelPhoto.svg` as the locked likeness. Preserve the **exact** face shape, eye shape, nose, mouth, hairline, hair color, hairstyle, skin tone, and body proportions. Do **not** change these unless explicitly instructed.
 
 **Appearance**
 
