@@ -36,7 +36,7 @@ They all joined hands around the table.
 
 ### Scene 2 – The Forest Lanterns
 
-![Forest kids and lanterns](/SolaDeo/assets/blog/Scene2-lanterns.webp)
+![Forest kids and lanterns](/SolaDeo/assets/blog/Papa-lantern.webp)
 
 The cool hush of the forest wrapped around them as they left the farmhouse behind. Dew clung to the grass and leaves, sparkling in the thin beams of early sunlight that slipped through the canopy overhead. Birds stirred in the branches, their songs weaving through the stillness like a gentle prelude.
 
@@ -62,6 +62,8 @@ The glow from the lanterns seemed to grow warmer at His words, casting long beam
 Papa nodded. *“Exactly. Let’s go see where God’s Word leads us next.”*
 
 With lanterns held high, they stepped forward into the cool green shade, their lights dancing ahead like little promises.
+
+![Forest kids and lanterns](/SolaDeo/assets/blog/Grammy-lanterns.webp)
 
 ---
 
