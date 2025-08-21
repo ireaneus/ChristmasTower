@@ -6,7 +6,7 @@
 
 **Scene**
 
-> \[Describe the location, time of day, weather, props.]
+> [Describe the location, time of day, weather, props.]
 
 **Character Locks (insert only the ones you need)**
 
@@ -27,7 +27,7 @@
 
 **Arrangement**
 
-> \[Left-to-right order and relationships: who stands by whom, who holds lantern/map, who’s in front/behind.]
+> [Left-to-right order and relationships: who stands by whom, who holds lantern/map, who’s in front/behind.]
 
 **Negative Constraints**
 

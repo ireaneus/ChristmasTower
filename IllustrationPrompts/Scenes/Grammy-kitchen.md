@@ -1,39 +1,92 @@
-# Kitchen Prayer — Strict v3 (4 kids only)
+# 🎨 Illustration Prompt — Grammy Kitchen Prayer Scene
 
 **Style**
-Classic Disney‑style 2D animation; rich hand‑painted colors, clean outlines, expressive eyes, warm sunrise lighting. Proportions and likenesses must match the SVG references exactly.
+Classic Disney-style 2D animation with rich hand-painted colors, clean outlines, expressive eyes, and warm sunrise lighting. **All character likeness, clothing, build, and facial details must come exclusively from their lock `.md` + `.svg` files.** Scene description must never override character locks.
 
-**Cast (EXACTLY 6 people in frame — no more, no less):**
+---
 
-* **Papa** — exact likeness from `PapaPhoto.svg` (squinty smiling blue eyes; short dirty‑blonde/grey hair; dirty‑blonde goatee & mustache; brown cowboy hat; dark grey/black plaid flannel; red bandana; jeans; boots).
-* **Grammy** — exact likeness from `GrammyPhoto.svg` (rounded gentle face; warm smile; shoulder‑length silver hair; black cowboy hat; red‑and‑black buffalo plaid; **white bandana with black pattern**; jeans; boots).
-* **Levi (13)** — exact likeness from `Levi.svg` (tousled brown hair; **red t‑shirt**; **dark shorts**; hiking boots). Height: 5'2" (same crown height as Grammy/Abi).
-* **Abi (12)** — exact likeness from `AbiBritt.svg` (dark ponytail; patterned top; jeans; hiking boots). Height: 5'2" (same as Levi/Grammy).
-* **Samuel (13)** — exact likeness from `Samuel.svg` (**bright yellow hoodie**; denim jeans; hiking boots). Height: \~5'0" (same as Michael).
-* **Michael (12)** — exact likeness from `Michael.svg` & `Michaelphoto.svg` (**short neatly trimmed blond hair; blue eyes**; **green t‑shirt**; **black shorts**; hiking boots). Height: \~5'0" (same as Samuel).
+## Scene
 
-**Hard Exclusions**
+Inside a cozy farmhouse kitchen in Cottonwood, AZ. Morning sunlight streams through the window above the sink, casting golden rim light across a rustic wooden table. The table is set with mugs of hot cocoa. A **canvas picnic bag** rests on the table, just set down by Grammy. The family is gathered, **holding hands in prayer** before beginning their day.
 
-* **Do NOT render Reagan or Charlie.**
-* No extra adults/kids/figures in the room, hallway, reflections, or outside the window.
-* No clothing color swaps; no hats added/removed unless in the SVG; no hairstyle changes.
+---
 
-**Scene & Blocking**
+## Camera & Framing
 
-* **Setting:** Cozy farmhouse kitchen, Cottonwood AZ. Warm sunrise through the window above the sink; golden rim light; rustic wooden table set with cocoa mugs.
-* **Action:** Grammy has just set a **canvas picnic bag** on the table; everyone is **holding hands in prayer**. Papa stands **behind the kids**, holding a **rolled leather map tied with twine** in his left hand, smiling warmly.
-* **Layout (Camera & Framing):** Medium‑wide, eye‑level, three‑quarter view; all six faces unobstructed. Kids seated across the near side of the table; Papa centered behind them; Grammy at frame‑left by the table. Use an **orthographic/telephoto look** so relative heights remain true (no perspective foreshortening). Feet not needed; keep table and faces the focus.
+* Medium-wide shot, eye-level, three-quarter view.
+* All six faces unobstructed.
+* Kids are seated across the near side of the table.
+* Papa stands centered behind them, smiling warmly.
+* Grammy stands at frame-left, beside the table.
+* Use an **orthographic/telephoto look** so relative heights remain true (no foreshortening).
+* Focus stays on table and faces; feet not needed.
 
-**Height/Scale Controls**
+---
 
-* Papa (tallest) > Grammy = Levi = Abi (5'2") > Samuel = Michael (≈5'0").
-* Keep kids on the **same depth line** so crown heights compare correctly.
+## Characters (locked)
 
-**Lighting & Mood**
-Soft golden sunlight from window (camera left), gentle bounce fill from room; subtle occlusion; warm, prayerful, intimate mood.
+* **Papa** — (Papa.md + Papa.svg + Papa-face.svg)
 
-**Count & Consistency Enforcement**
+  * **Trimmed dirty-blonde goatee & mustache** (not full beard).
+  * **Short dirty-blonde hair mixed with light grey**.
+  * **Blue, squinty, smiling eyes**.
+  * Brown cowboy hat; dark gray/black plaid flannel; **red bandana** with triangular drape; jeans; boots.
+* **Grammy** — (Grammy.md + Grammy.svg)
 
-* Render **exactly 6 characters** named above.
-* If a 5th child appears, **remove** and recompose.
-* Validate: hair color, style, facial shapes, clothing, and accessories match their SVGs **exactly**.
+  * Rounded gentle face, silver-gray shoulder-length hair, black cowboy hat.
+  * Red-and-black plaid flannel; **white bandana with subtle black pattern**; jeans; boots.
+* **Levi** — (Levi.md + Levi.svg)
+
+  * 13 yrs, 5'2"; tousled brown hair; dark brown baseball cap.
+  * Red t-shirt, dark shorts, hiking boots.
+* **Abi** — (Abi.md + Abi.svg)
+
+  * 12 yrs, 5'2"; dark brown ponytail.
+  * Outfit per lock; hiking boots.
+* **Samuel** — (Samuel.md + Samuel.svg)
+
+  * 13 yrs, 5'0"; blond buzzcut.
+  * **Bright yellow hoodie**, denim jeans, hiking boots.
+* **Michael** — (Michael.md + Michael.svg)
+
+  * 12 yrs, 5'0"; short neatly trimmed blond hair.
+  * **Green t-shirt**, **black shorts**, hiking boots.
+
+*(Exactly 6 characters. No Reagan. No Charlie.)*
+
+---
+
+## Placement & Actions
+
+* **Grammy** stands at the table, just having set the **canvas picnic bag** down.
+* **Papa** stands behind the children, holding a **rolled leather map tied with twine** in his left hand, smiling warmly.
+* **Levi, Abi, Samuel, Michael** sit at the table with hands joined in prayer.
+* **Grammy** also joins the circle, holding hands with the nearest child.
+
+---
+
+## Height References (same camera depth)
+
+* Papa (5’7”) tallest
+* Grammy = Levi = Abi (5’2”)
+* Samuel = Michael (5’0”)
+
+---
+
+## Lighting & Mood
+
+* Warm golden sunlight streams from the left window.
+* Gentle bounce fill softens shadows.
+* Subtle rim light highlights Papa and Grammy.
+* Mood: intimate, prayerful, warm family unity.
+
+---
+
+## Negative Constraints
+
+* **Exactly 6 characters** (Papa, Grammy, Levi, Abi, Samuel, Michael).
+* No extra figures (inside, outside, reflections).
+* No clothing or hairstyle changes — locks are absolute.
+* No modern objects.
+* No perspective distortion of heights.
+* No visible text or scripture.

@@ -1,77 +1,88 @@
-# 🎨 Illustration Prompt — Forest Lanterns Scene (v2, strict locks, bright)
+# 🎨 Illustration Prompt — Forest Lanterns Scene (grammy)
 
 **Style**
-Classic Disney-style 2D animation with rich hand-painted colors, clean outlines, expressive eyes, **bright morning forest lighting**. Proportions and likenesses must follow character lock `.md` + `.svg` files exactly.
+Classic Disney-style 2D animation with rich hand-painted colors, clean outlines, expressive eyes, and bright morning forest lighting. **All character likeness, clothing, build, and facial details come exclusively from their lock `.md` + `.svg` files.** Scene description must never override character locks.
 
 ---
 
 ## Scene
 
-Papa and the children stand in a bright forest clearing, early morning sunbeams spilling through tall trees. Dew sparkles on the grass and leaves. Birds stir in the branches above. Four small brass lanterns glow warmly in the older kids’ hands, casting golden light that stretches ahead on the narrow trail.
+Grammy and the children stand in a bright forest clearing. Early morning sunbeams stream through the trees, dew sparkles on grass and leaves, and birds stir in the branches above. **Each character carries a glowing brass lantern, adding warmth against the cool green forest.**
 
 ---
 
 ## Camera & Framing
 
-* Medium-wide shot, showing Papa and all six children in the clearing.
-* Camera at child-eye level (slightly below Papa), so faces are visible and expressive.
-* Background: tall trees with stronger **bright sunbeams** cutting through mist.
-* Foreground lantern glow adds warmth and contrast to the bright forest greens.
+* Medium-wide shot showing Grammy and all three children (Levi, Abi, Michael).
+* Camera at child-eye height (slightly below Grammy).
+* Background: tall trees, crisp beams of bright sunlight cutting through mist.
+* Lantern glow illuminates their faces, blending with the morning rays.
 
 ---
 
-## Characters (lock to .md + .svg files)
+## Characters (locked)
 
-* **Papa** — (Papa.md + PapaPhoto.svg + Papa.svg)
-* **Samuel** — (Samuel.md + Samuel.svg + SamuelPhoto.svg)
-* **Michael** — (Michael.md + Michael.svg + MichaelPhoto.svg)
-* **Levi** — (Levi.md + Levi.svg + LeviPhoto.svg)
-* **Abi** — (Abi.md + Abi.svg + AbiBritt.svg + AbiBrittPhoto.svg)
-* **Reagan** — (Reagan.md + Reagan.svg + Reagan-flower.svg + ReaganPhoto.svg)
-* **Charlie** — (Charlie.md + Charlie-toy.svg + CharliePhoto.svg)
-* **Grammy** not in this scene but assets exist (Grammy.md + Grammy.svg + GrammyPhoto.svg).
+* **Grammy** — (Grammy.md + Grammy.svg)
 
----
+  * Black cowboy hat (rounded crown, curved brim).
+  * Red-and-black plaid flannel shirt.
+  * White bandana with subtle black pattern.
+  * Blue jeans and boots.
+* **Levi** — (Levi.md + Levi.svg)
 
-## Placement & Poses
+  * 13 yrs, height 5’2”.
+  * Tousled brown hair.
+  * Dark brown baseball cap.
+  * Red t-shirt, dark shorts, hiking boots.
+* **Abi** — (Abi.md + Abi.svg)
 
-* **Papa** at center, rolled leather map tucked under one arm, free hand gesturing warmly.
-* **Samuel** closest to Papa, reading the opened map aloud.
-* **Michael** beside Samuel, lantern in hand, smiling softly.
-* **Levi** taller, leaning slightly forward, holding lantern with curious expression.
-* **Abi** raises lantern a little higher, light catching her face, expression hopeful.
-* **Reagan** barefoot, standing close to Abi, gazing up at the lantern glow.
-* **Charlie** toddling near Reagan, reaching upward with a joyful smile toward the light.
+  * 12 yrs, height 5’2”.
+  * Dark brown ponytail.
+  * **Pink ball cap, worn backwards**.
+  * Outfit per lock file, hiking boots.
+* **Michael** — (Michael.md + Michael.svg)
 
----
-
-## Height & Build Reinforcement
-
-* Papa (5’7”) tallest, sturdy/medium build per lock.
-* Levi & Abi (5’2”) = same height.
-* Samuel & Michael (5’0”) = same height.
-* Reagan ≈ ⅔ Michael’s height.
-* Charlie ≈ ⅔ Reagan’s height.
+  * 12 yrs, height 5’0”.
+  * Short blond hair.
+  * Green t-shirt, black shorts, hiking boots.
 
 ---
 
-## Lighting & Color Notes
+## Placement & Actions
 
-* **Bright high-key morning**: strong sunbeams from left side, crisp dew sparkle.
-* Lanterns glow with warm golden light, softly illuminating the children’s faces.
-* Balance of bright greens/blues (forest) with warm lantern golds.
-* **Subtle symbolism (seen only after close look):**
+* **Grammy** at center, smiling warmly, holding her lantern slightly raised.
+* **Levi** to her left, holding his lantern confidently.
+* **Abi** to her right, lantern in hand, bright expression.
+* **Michael** nearby, lantern in one hand, gazing quietly with a thoughtful smile.
 
-  * Lantern beams form faint cross-shaped rays in mist — not obvious.
-  * Abi’s lantern glow arcs forward, hinting at guiding light without halo.
-  * Overlapping lantern beams create a whisper of scriptural-like lines in the mist, perceptible only if studied closely.
+---
+
+## Height References (same camera depth)
+
+* Grammy (5’2”)
+* Levi (5’2”)
+* Abi (5’2”)
+* Michael (5’0”)
+
+---
+
+## Lighting & Symbolism
+
+* Bright high-key morning: sunbeams streaming from the left.
+* Lantern glow: warm golden light on faces.
+* Subtle symbolism (seen only after close look):
+
+  * Lantern beams overlap faintly, forming guiding arcs.
+  * Glow edges whisper of scriptural lines in the mist.
 
 ---
 
 ## Negative Constraints
 
+* Exactly **four characters** (Grammy, Levi, Abi, Michael).
+* Each holds **one lantern**.
 * No extra characters, animals, or props.
-* No clothing or hairstyle changes from locked references.
-* No modern objects (phones, flashlights, etc.).
-* No perspective tricks that distort relative heights.
-* No visible text or scripture in the image.
+* No hairstyle or clothing changes — locks are absolute.
+* No modern objects.
+* No perspective distortion of heights.
+* No visible text or scripture in image.

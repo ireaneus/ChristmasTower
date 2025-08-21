@@ -9,7 +9,6 @@ const permalink = Astro.site.href;
 <BaseLayout title={title} description={description} permalink={permalink}>
   <div class="home-container">
     <div class="home-copy">
-      {/* Logo row: Papa + Grammy side-by-side */}
       <div class="logo-row">
         <img class="logo" src={`${BASE}assets/PapaGrammy.webp`} alt="Papa & Grammy — Sola Deo" />
       </div>
@@ -56,6 +55,7 @@ const permalink = Astro.site.href;
       </div>
 
       <div class="welcome-message">
+        <img class="img" src={`${BASE}assets/Farmyardfence.webp`} alt="Papa & kids" />
         <p>
           Hello 👋 family! This is Grammy and Papa. We made this website for you. Spend a few minutes with us
           in God’s Word each day as we follow Jesus together.
@@ -205,6 +205,15 @@ const permalink = Astro.site.href;
   .welcome-message p {
     font-size: 1.3em;
     color: var(--text-main);
+  }
+
+  .welcome-message .img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    border-radius: 18px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    object-fit: cover;
   }
 
   .resource-link { text-decoration: none; color: inherit; box-shadow: none; }
