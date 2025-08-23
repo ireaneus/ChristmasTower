@@ -18,6 +18,8 @@ label: Devotional
 
 ### Scene 4 – The River Crossing
 
+![Papa and kids crossing](/SolaDeo/assets/blog/River-Crossing.webp)
+
 The narrow path twisted deeper into the woods until the sound of rushing water grew louder. The trees opened to reveal a clear, wide river, sunlight flashing across its ripples. A narrow wooden footbridge spanned the slowest part of the current.
 
 Papa stopped and looked back at the Crew. “Before we cross, I want to tell you about a time Jesus stood by a river.”
