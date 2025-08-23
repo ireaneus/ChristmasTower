@@ -20,7 +20,7 @@ Use `Levi.svg` and `LeviPhoto.svg` as the locked likeness reference. Preserve th
 * Red t-shirt
 * Dark shorts
 * Hiking boots (default for outdoor/adventure scenes)
-* Baseball cap (dark brown, no logo)
+* **Baseball cap (dark brown, no logo)**
 
 **Key Traits**
 

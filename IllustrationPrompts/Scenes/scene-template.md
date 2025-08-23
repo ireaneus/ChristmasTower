@@ -22,6 +22,10 @@ Classic Disney-style 2D animation with rich hand-painted colors, clean outlines,
 
 ## Characters (locked)
 
+- If there is **any conflict** between the scene description and the lock files, the **lock files always override.**  
+- No substitutions, “close matches,” or reinterpretations are allowed.  
+- The lock files are the **final authority** on all character details.
+
 - **Papa** — (Papa.md + Papa.svg)
 - **Grammy** - (Grammy.md + Grammy.svg)
 - **Samuel** — (Samuel.md + Samuel.svg)  

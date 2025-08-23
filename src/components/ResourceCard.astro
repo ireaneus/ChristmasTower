@@ -34,6 +34,8 @@ const { href, title, description, image = '', label = '' } = Astro.props;
 .resource-card-img {
   display: block;
   width: 25%;
+  min-width: 100px;
+  max-width: 200px;
   height: auto;
   border-radius: 12px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.08);
@@ -75,8 +77,10 @@ const { href, title, description, image = '', label = '' } = Astro.props;
     padding: 1em;
   }
   .resource-card-img {
-    width: 60px;
-    height: 60px;
+    width: 100%;
+    min-width: 120px;
+    max-width: 300px;
+    height: auto;
   }
 }
 </style>

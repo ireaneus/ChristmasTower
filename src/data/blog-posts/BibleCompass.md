@@ -79,6 +79,8 @@ Papa unrolled the next clue and read aloud, his voice steady:
 
 > “Enter by the narrow gate… For the gate is narrow and the way is hard that leads to life.” — Matthew 7:13–14 (ESV)
 
+![Papa Narrow path](/SolaDeo/assets/blog/Papa-narrow-path.webp)
+
 The group grew quiet. A breeze stirred the leaves above. Reagan leaned down to Charlie’s level, squeezing his small hand. *“I think we should go the narrow way,”* she whispered, smiling gently.
 
 They turned toward the shadowed path, the lanterns in their hands glowing a little brighter, as if approving their choice. The air grew cooler, the forest thicker. The muffled sounds of birds gave way to the distant roar of rushing water, unseen but close.

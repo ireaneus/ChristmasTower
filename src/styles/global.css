@@ -1,3 +1,15 @@
+/* Consistent image sizing for markdown content */
+.markdown-content img {
+  display: block;
+  max-width: 250px;
+  max-height: 180px;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  margin: 1em auto;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
 /* Ensure markdown and content containers inherit the background color */
 .markdown-body,
 .content {
