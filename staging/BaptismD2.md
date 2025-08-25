@@ -3,7 +3,7 @@ title: 🕊️ Bible Compass – Day 2 Following Jesus into the Water
 slug: baptism-compass
 publishDate: 07 Aug 2025
 description: Day 2 of the SD Crew’s journey—Michael and Samuel learn from Jesus’ baptism and choose to follow His example.
-image: /SolaDeo/assets/blog/Abi-map-squirrel.webp
+image: /SolaDeo/images/Abi-map-squirrel.webp
 label: Devotional
 ---
 
@@ -18,7 +18,7 @@ label: Devotional
 
 ### Scene 4 – The River Crossing
 
-![Papa and kids crossing](/SolaDeo/assets/blog/River-Crossing.webp)
+![Papa and kids crossing](/SolaDeo/images/River-Crossing.webp)
 
 The narrow path twisted deeper into the woods until the sound of rushing water grew louder. The trees opened to reveal a clear, wide river, sunlight flashing across its ripples. A narrow wooden footbridge spanned the slowest part of the current.
 
