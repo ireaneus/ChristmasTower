@@ -9,8 +9,8 @@ label: Devotional
 
 ## SD Crew Memory Verse
 
-> *“Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. For the gate is narrow and the way is hard that leads to life, and those who find it are few.”*  
-> — Matthew 7:13–14 (ESV)
+> “Enter through the narrow gate; for the gate is wide and the way is broad that leads to destruction, and there are many who enter through it. For the gate is narrow and the way is constricted that leads to life, and there are few who find it.”  
+> — Matthew 7:13–14 (NASB 2020)
 
 ---
 
@@ -48,14 +48,14 @@ From a canvas satchel, he drew out four small brass lanterns, each with a glass 
 
 Samuel stepped forward, carefully unrolling the map. His eyes scanned the parchment until he found the first words written in Papa’s careful handwriting:
 
-> “Your word is a lamp to my feet and a light to my path.” — Psalm 119:105 (ESV)
+> “Your word is a lamp to my feet And a light to my path.” — Psalm 119:105 (NASB 2020)
 
 The moment Samuel read the verse aloud, each lantern flickered to life, filling the clearing with a warm golden glow. The children gasped, exchanging delighted glances.
 
-Papa smiled. *“It’s God’s Word that shows us where to walk, even when the path is dark. Remember what Jesus said —”*
+Papa smiled. *“It’s God’s Word that shows us where to walk, even when the path is dark. Remember what Jesus said —”*  
 He paused, quoting softly,
 
-> “I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life.” — John 8:12 (ESV)
+> “I am the Light of the world; the one who follows Me will not walk in the darkness, but will have the Light of life.” — John 8:12 (NASB 2020)
 
 The glow from the lanterns seemed to grow warmer at His words, casting long beams that reached into the trees ahead. Abi held hers up and whispered, “It’s like the light wants us to follow.”
 
@@ -77,7 +77,7 @@ Michael shook his head and tapped the map. *“But the map says the right path i
 
 Papa unrolled the next clue and read aloud, his voice steady:
 
-> “Enter by the narrow gate… For the gate is narrow and the way is hard that leads to life.” — Matthew 7:13–14 (ESV)
+> “Enter through the narrow gate… For the gate is narrow and the way is constricted that leads to life.” — Matthew 7:13–14 (NASB 2020)
 
 ![Papa Narrow path](/SolaDeo/images/Papa-narrow-path.webp)
 
@@ -87,7 +87,7 @@ They turned toward the shadowed path, the lanterns in their hands glowing a litt
 
 Papa read the day’s final verse:
 
-> “The unfolding of your words gives light; it imparts understanding to the simple.” — Psalm 119:130 (ESV)  
+> “The unfolding of Your words gives light; It gives understanding to the simple.” — Psalm 119:130 (NASB 2020)  
 
 The path curved sharply into deep shadow. Golden lantern light danced against the dark trees. Papa grinned, tucking the scroll into his coat.  
 

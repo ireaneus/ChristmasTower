@@ -11,12 +11,14 @@ Use **`Papa.svg` and `Papa-face.svg`** as the locked likeness references. Preser
 ## Appearance
 
 * **Age:** Late 50s to early 60s — clearly grandfatherly in role and presence, but **not elderly or frail**.  
-* **Height:** **5’7”** (tallest family member)  
-* **Build:** **Sturdy medium build**, slightly heavier set with **rounded cheeks** and warm smile lines  
-* **Hair:** **Short, scruffy white mixed with light grey** (slightly tousled; mostly covered by the cowboy hat, visible at edges/sideburns)  
-* **Facial Hair (HARD LOCK):** **Goatee and mustache ONLY — never a full beard.** The scruffy goatee + mustache must match **`Papa-face.svg`** exactly in **shape, size, and placement**. Any depiction of a full beard is invalid.  
-* **Eyes:** **Blue, squinty, smiling**, radiating warmth
-* **Facial Features:** Rounded yet defined cheeks; soft smile lines; gentle, approachable smile; **overall facial likeness must match `Papa-face.svg`**
+* **Height/Build:** 5’7”, sturdy medium build, rounded cheeks.
+* **Hair:** Short, scruffy white/light grey mix (not red, not blond).
+* **Facial Hair (HARD LOCK):** Goatee + mustache ONLY.
+  * **Goatee:** small tuft on chin.
+  * **Mustache:** short above lip.
+  * Cheeks and jawline must remain completely clean-shaven.
+  * Must exactly match proportions of Papa-face.svg.
+* **Eyes:** Blue, squinty-smiling but expressive (not pinched shut).
 
 ---
 
