@@ -13,7 +13,7 @@ Use `Abi.svg`, `AbiBritt.svg`, and `AbiBrittPhoto.svg` as locked likeness refere
 * **Age:** 12 years old
 * **Height:** **5'2"** — same as Levi; taller than Michael and Samuel (5'0").
 * **Build:** Medium build, athletic but graceful
-* **Hair:** Dark brown ponytail (exact length/style as references)
+* **Hair:** Dark brown ponytail (refer to Headwear section)
 * **Eyes:** Brown, lively, expressive
 * **Facial Features:** Youthful oval face, soft smile, energetic expression
 

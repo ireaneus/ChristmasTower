@@ -3,7 +3,7 @@ title: 🕊️ Bible Compass – Day 2 Following Jesus into the Water
 slug: baptism-compass
 publishDate: 07 Aug 2025
 description: Day 2 of the SD Crew’s journey—Michael and Samuel learn from Jesus’ baptism and choose to follow His example.
-image: /SolaDeo/images/Abi-map-squirrel.webp
+image: /SolaDeo/images/Reagan-flower.webp
 label: Devotional
 ---
 
@@ -68,6 +68,8 @@ Michael and Samuel exchanged a look, both grinning. Abi leaned forward. “So ba
 
 Papa nodded. “Yes—and just like Jesus, it pleases the Father.”
 
+![Michael sees Elijah vision](/SolaDeo/images/Michael-vision.webp)
+
 ---
 
 ### Scene 6 – The Step of Obedience
@@ -82,4 +84,16 @@ From the meadow, Reagan skipped back holding a handful of flowers. “So, it is 
 
 “Exactly,” Papa said. “It’s the start of a lifetime of following Him—through smooth meadows and narrow paths alike.”
 
-The river’s sound faded as they walked deeper into the woods, the lantern light warm against the growing shadows. Ahead, the path curved again, hinting at another clue waiting just
+The river’s sound faded as they walked deeper into the woods, the lantern light warm against the growing shadows. Ahead, the path curved again, hinting at another clue waiting just beyond.
+
+---
+
+## SD Crew and Family Prayer time
+
+“Lord, thank You for showing me the way through Jesus’ example. Help me hear Your voice, obey quickly, and live in a way that pleases You.”
+
+---
+
+## The SD Crew Thought for the day
+
+When you follow Jesus in baptism, you are saying to the world, *“I belong to Him—and I will follow wherever He leads.”*
