@@ -3,7 +3,7 @@ title: 📖 Bible Compass – Day 1 The Map and the Paths
 slug: bible-compass
 publishDate: 06 Aug 2025
 description: Day 1 of an exciting devotional journey where the SD Crew follow a map and Bible clues toward hidden treasure.
-image: /SolaDeo/images/Abi-map-squirrel.webp
+image: /SolaDeo/images/Samuel.webp
 label: Devotional
 ---
 
