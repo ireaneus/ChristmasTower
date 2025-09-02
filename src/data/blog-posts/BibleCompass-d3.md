@@ -1,75 +1,83 @@
 ---
-title: 🌱 Bible Compass – Day 3 Abi Hears the Good News
+title: 💖 Bible Compass – Day 3 God’s Great Love Story
 slug: bible-compass-day3
 publishDate: 08 Aug 2025
-description: Day 3 of the SD Crew’s journey—Abi hears the gospel clearly for the first time, with help from Britt.
-image: /SolaDeo/images/AbiBritt.webp
+description: Day 3 of the SD Crew’s journey—Abi hears the gospel as God’s love story for the first time, with help from Britt.
+image: /SolaDeo/images/Abi-shepherd.webp
 label: Devotional
 ---
 
 ## SD Crew Memory Verse
 
-> “For the wages of sin is death, but the gracious gift of God is eternal life in Christ Jesus our Lord.”  
-> — Romans 6:23 (NASB 2020)
+> *“I am the good shepherd; the good shepherd lays down His life for the sheep.”*  
+> — John 10:11 (NASB 2020)
 
 ---
 
-## Day 3 for the SD Crew – Abi hears the Good News
+## Day 3 for the SD Crew – God’s Love for Abi
 
 ### Scene 7 – Back at the Farmhouse
 
-![Britt and Abi on the porch](/SolaDeo/images/AbiBritt-porch.webp)
+![Britt and Abi on the porch](/SolaDeo/images/AbiBritt-rail.webp)
 
-The sun was dipping low when the Crew returned to the farmhouse for supper. Grammy had spread bread, cheese, and jars of fresh jam across the table. Papa was outside feeding the animals, and the younger kids ran about in the yard, laughing in the fading light.
+The sun was dipping low when the Crew returned to the farmhouse for supper. Grammy had spread bread, cheese, and jars of jam across the table. Papa was outside feeding the animals, while the younger kids played in the yard, laughter echoing in the fading light.
 
-Abi sat quietly on the porch steps, twirling a flower between her fingers. Beside her sat Britt, her foster mom, who had joined them on the journey, talking to Abi in ASL sign.
+Abi stood quietly on the porch steps, a flower twirling between her fingers. Britt standing nearby, signing gently in ASL so Abi could follow every word.
 
-“Why does Papa always read verses to us?” Abi asked, her brow furrowed. “I don’t always understand what they mean.”
+Abi asked, “Why does Papa keep reading bible verses to us? I don’t always understand them.”
 
-Britt smiled gently. “I wondered the same thing when I first heard the Bible read out loud. Do you know what the verses are really pointing to?”
+Britt smiled. “That’s because every verse is part of a love story—God’s story. And it’s written for you.”
 
-Abi shook her head. “Not really. I mean, I know they’re about God… but I don’t know Him the way Samuel and Michael do. They always seem so sure.”
+Abi signed back. "You mean the Bible was written for me?" Britt's eyes met with Abi's as she signed, "Yes, the whole Bible is for you."
 
 ---
 
 ### Scene 8 – The Gospel Explained
 
-Britt leaned forward. “Papa says God made us to know Him and walk with Him. But we all disobey—every single one of us. That’s called sin. Sin hurts our friendship with God and separates us from Him.”
+Britt leaned closer, her hands steady as she signed:  
+“God made us to know Him, to walk with Him, and to live as His children. The Bible says, *‘See how great a love the Father has given us, that we would be called children of God; and in fact we are.’*” — 1 John 3:1 (NASB 2020)
 
-Abi’s eyes grew wide. “So what happens because of our sin?”
+Abi’s eyes softened. “So God really wants us to be His children?”
 
-Britt opened her lantern and pointed to the light flickering inside. “The Bible says, *‘The wages of sin is death, but the gracious gift of God is eternal life in Christ Jesus our Lord’* (Romans 6:23). That means the punishment for sin is death, but Jesus took our punishment on the cross. And when we trust Him, God gives us eternal life as a gift.”
+Britt nodded with a smile. “Yes. That’s His heart. He loves us so much that He came close to us. The Bible says, *‘By this the love of God was revealed in us, that God has sent His only Son into the world so that we may live through Him. In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins.’*” — 1 John 4:9–10 (NASB 2020)
 
-Abi traced her finger over the wooden porch rail. “So Jesus died for me… even though I’ve disobeyed?”
+Abi’s eyes grew wide. “So God really sent Jesus because He loved us?”
 
-“Yes,” Britt said firmly. “That’s the good news. Jesus didn’t stay dead—He rose again. And now anyone who believes in Him can be forgiven and belong to Him forever.”
+Britt nodded again. “Exactly. The Bible also says, *‘But God demonstrates His own love toward us, in that while we were still sinners, Christ died for us.’*” — Romans 5:8 (NASB 2020)
 
-Abi whispered, almost to herself, “I never knew it was for me too.”
+She signed carefully so Abi could catch every word:  
+*“For the wages of sin is death, but the gracious gift of God is eternal life in Christ Jesus our Lord.”* — Romans 6:23 (NASB 2020)
+
+“Jesus gave His life because He loves us. When He rose again, it proved that His love is stronger than death. And here is how we respond: *‘That if you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved; for with the heart a person believes, resulting in righteousness, and with the mouth he confesses, resulting in salvation.’*” — Romans 10:9–10 (NASB 2020)
+
+Abi traced her finger along the porch rail, whispering as she signed back, “I never knew His love was for me too.”
 
 ---
 
-### Scene 9 – A New Light
+### Scene 9 – Flowers in Her Lap
 
-![Britt and Abi on the porch](/SolaDeo/images/BrittAbi-Reagan.webp)
+![Britt, Abi, Reagan, and Charlie](/SolaDeo/images/BrittAbi-Reagan.webp)
 
-Just then, Reagan came skipping up with Charlie toddling behind. She handed Abi the flowers she’d gathered earlier. “Here—you should have these. They’re too pretty to keep to myself.”
+Just then, Reagan bounded up, arms full of blossoms. She placed them into Abi’s hands. “Here—these are too pretty to keep to myself.”
 
-Abi smiled faintly and tucked the flowers into her lap. For the first time, she felt the truth settling into her heart like the glow of her lantern.
+Abi smiled faintly, tucking the flowers into her lap. For the first time, she felt the truth settling deep into her heart: God loved her, and He wanted her to belong to Him.  
 
-Papa’s voice called from the yard, “Children, come in! It’s time for our evening prayer.”
+Papa’s voice carried from the yard. “Children, come in! It’s time for our evening prayer.”
 
-As they stood, Britt leaned close to Abi. “If you ever want to talk more, I’ll walk with you. That’s what family is for.”
+As they stood, Britt signed one last promise: *“If you ever want to talk more, I’ll walk with you. That’s what family is for.”*
 
-Abi nodded slowly, clutching the flowers. The lantern at her side flickered a little brighter, as if the light itself was waiting for her answer.
+Abi nodded slowly, holding the flowers tight. The love of God was no longer just something she’d heard—it was something she was beginning to believe.
 
 ---
 
 ## SD Crew and Family Prayer time
 
-“Lord, thank You for the gift of eternal life in Jesus. Help me to understand more of Your love, and give me faith to believe in You.”
+“Father, thank You for loving me before I ever loved You. Thank You for sending Jesus to show Your love by dying for me and rising again. I confess Jesus as Lord, and I believe in my heart that You raised Him from the dead. Help me live in Your love every day.”
 
 ---
 
+![Abi and Britt - I love you](/SolaDeo/images/AbiBritt.webp)
+
 ## The SD Crew Thought for the day
 
-The gospel is good news: though we are sinners, Jesus died and rose again so we can belong to Him forever.
+God’s story is a love story: He created us, He loves us, He sent Jesus for us—and we can respond by believing and belonging to Him.
