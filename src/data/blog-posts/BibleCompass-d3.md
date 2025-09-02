@@ -37,20 +37,23 @@ Abi signed back. "You mean the Bible was written for me?" Britt's eyes met with 
 Britt leaned closer, her hands steady as she signed:  
 “God made us to know Him, to walk with Him, and to live as His children. The Bible says, *‘See how great a love the Father has given us, that we would be called children of God; and in fact we are.’*” — 1 John 3:1 (NASB 2020)
 
-Abi’s eyes softened. “So God really wants us to be His children?”
+Abi’s eyes softened. “We are God’s children?”
 
-Britt nodded with a smile. “Yes. That’s His heart. He loves us so much that He came close to us. The Bible says, *‘By this the love of God was revealed in us, that God has sent His only Son into the world so that we may live through Him. In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins.’*” — 1 John 4:9–10 (NASB 2020)
+Britt nodded with a smile. “Yes. He loves us so much that He came close to us. The Bible says, *‘By this the love of God was revealed in us, that God has sent His only Son into the world so that we may live through Him. In this is love, not that we loved God, but that He loved us and sent His Son to be the propitiation for our sins.’*” — 1 John 4:9–10 (NASB 2020)
 
-Abi’s eyes grew wide. “So God really sent Jesus because He loved us?”
+Abi’s eyes grew wide. “So God sent Jesus because He loved us?”
 
 Britt nodded again. “Exactly. The Bible also says, *‘But God demonstrates His own love toward us, in that while we were still sinners, Christ died for us.’*” — Romans 5:8 (NASB 2020)
 
 She signed carefully so Abi could catch every word:  
 *“For the wages of sin is death, but the gracious gift of God is eternal life in Christ Jesus our Lord.”* — Romans 6:23 (NASB 2020)
 
-“Jesus gave His life because He loves us. When He rose again, it proved that His love is stronger than death. And here is how we respond: *‘That if you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved; for with the heart a person believes, resulting in righteousness, and with the mouth he confesses, resulting in salvation.’*” — Romans 10:9–10 (NASB 2020)
+Then Britt leaned closer, her expression warm. “**Jesus gave His life because He loves you.** When He rose again, it proved that His love is stronger than death. And if you believe this is true—that Jesus died for you and rose again—all you need to do is respond to Him. The Bible says, *‘That if you confess with your mouth Jesus as Lord, and believe in your heart that God raised Him from the dead, you will be saved; for with the heart a person believes, resulting in righteousness, and with the mouth he confesses, resulting in salvation.’*” — Romans 10:9–10 (NASB 2020)
 
-Abi traced her finger along the porch rail, whispering as she signed back, “I never knew His love was for me too.”
+Britt continued, signing slowly and tenderly:  
+“Jesus died to pay the penalty for our sins—all the ways we disobey God. But when He rose from the dead, it showed that the Father accepted His sacrifice and opened the way for us to be forgiven. Abi, if you believe this—that Jesus, God’s Son, died for your sins and is alive with the Father—and you want to make Him Lord of your life, we can pray to Him right now.”
+
+Abi traced her finger along the porch rail, her voice barely a whisper as she signed back, “I never knew His love was for me too.”
 
 ---
 
