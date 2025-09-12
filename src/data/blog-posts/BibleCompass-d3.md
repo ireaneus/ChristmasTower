@@ -3,7 +3,7 @@ title: 💖 Bible Compass – Day 3 God’s Great Love Story
 slug: bible-compass-day3
 publishDate: 08 Aug 2025
 description: Day 3 of the SD Crew’s journey—Abi hears the gospel as God’s love story for the first time, with help from Britt.
-image: /SolaDeo/images/Abi-shepherd.webp
+image: /ChristmasTower/images/Abi-shepherd.webp
 label: Devotional
 ---
 
@@ -18,7 +18,7 @@ label: Devotional
 
 ### Scene 7 – Back at the Farmhouse
 
-![Britt and Abi on the porch](/SolaDeo/images/AbiBritt-rail.webp)
+![Britt and Abi on the porch](/ChristmasTower/images/AbiBritt-rail.webp)
 
 The sun was dipping low when the Crew returned to the farmhouse for supper. Grammy had spread bread, cheese, and jars of jam across the table. Papa was outside feeding the animals, while the younger kids played in the yard, laughter echoing in the fading light.
 
@@ -59,7 +59,7 @@ Abi traced her finger along the porch rail, her voice barely a whisper as she si
 
 ### Scene 9 – Flowers in Her Lap
 
-![Britt, Abi, Reagan, and Charlie](/SolaDeo/images/BrittAbi-Reagan.webp)
+![Britt, Abi, Reagan, and Charlie](/ChristmasTower/images/BrittAbi-Reagan.webp)
 
 Just then, Reagan bounded up, arms full of blossoms. She placed them into Abi’s hands. “Here—these are too pretty to keep to myself.”
 
@@ -79,7 +79,7 @@ Abi nodded slowly, holding the flowers tight. The love of God was no longer just
 
 ---
 
-![Abi and Britt - I love you](/SolaDeo/images/AbiBritt.webp)
+![Abi and Britt - I love you](/ChristmasTower/images/AbiBritt.webp)
 
 ## The SD Crew Thought for the day
 

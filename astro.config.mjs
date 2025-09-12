@@ -9,7 +9,7 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://ireaneus.github.io/SolaDeo/',
+  site: 'https://ireaneus.github.io/ChristmasTower/',
   base: '/SolaDeo/',
   integrations: [mdx(), svelte(), sitemap()],
 

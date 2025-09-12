@@ -3,7 +3,7 @@ title: 🕊️ Hearing God’s Voice and Following Him
 slug: baptism-devotional
 publishDate: 02 Aug 2025
 description: A 5-minute devotional for Michael and Samuel on their baptism day
-image: /SolaDeo/images/Baptism-boys.webp
+image: /ChristmasTower/images/Baptism-boys.webp
 label: Note
 ---
 
@@ -49,7 +49,7 @@ But baptism is your **first act of obedience**, just like when Jesus was baptize
 
 ---
 
-![Boys being baptized](/SolaDeo/images/Baptism-boys.webp)
+![Boys being baptized](/ChristmasTower/images/Baptism-boys.webp)
 
 ## The Journey Ahead
 

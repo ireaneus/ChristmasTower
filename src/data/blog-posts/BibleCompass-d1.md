@@ -3,7 +3,7 @@ title: 📖 Bible Compass – Day 1 The Map and the Paths
 slug: bible-compass
 publishDate: 06 Aug 2025
 description: Day 1 of an exciting devotional journey where the SD Crew follow a map and Bible clues toward hidden treasure.
-image: /SolaDeo/images/Samuel.webp
+image: /ChristmasTower/images/Samuel.webp
 label: Devotional
 ---
 
@@ -18,7 +18,7 @@ label: Devotional
 
 ### Scene 1 - the Farmhouse
 
-![Grandma prays before the trip](/SolaDeo/images/Grammy-breakfast.webp)
+![Grandma prays before the trip](/ChristmasTower/images/Grammy-breakfast.webp)
 
 The smell of fresh biscuits filled the kitchen. Grammy hummed as she packed sandwiches, apples, and a bottle of water into a canvas picnic bag. The table was set with mugs of hot cocoa.
 
@@ -36,7 +36,7 @@ They all joined hands around the table.
 
 ### Scene 2 – The Forest Lanterns
 
-![Forest kids and lanterns](/SolaDeo/images/Papa-lantern.webp)
+![Forest kids and lanterns](/ChristmasTower/images/Papa-lantern.webp)
 
 The cool hush of the forest wrapped around them as they left the farmhouse behind. Dew clung to the grass and leaves, sparkling in the thin beams of early sunlight that slipped through the canopy overhead. Birds stirred in the branches, their songs weaving through the stillness like a gentle prelude.
 
@@ -63,7 +63,7 @@ Papa nodded. *“Exactly. Let’s go see where God’s Word leads us next.”*
 
 With lanterns held high, they stepped forward into the cool green shade, their lights dancing ahead like little promises.
 
-![Forest kids and lanterns](/SolaDeo/images/Grammy-lanterns.webp)
+![Forest kids and lanterns](/ChristmasTower/images/Grammy-lanterns.webp)
 
 ---
 
@@ -79,7 +79,7 @@ Papa unrolled the next clue and read aloud, his voice steady:
 
 > “Enter through the narrow gate… For the gate is narrow and the way is constricted that leads to life.” — Matthew 7:13–14 (NASB 2020)
 
-![Papa Narrow path](/SolaDeo/images/Papa-narrow-path.webp)
+![Papa Narrow path](/ChristmasTower/images/Papa-narrow-path.webp)
 
 The group grew quiet. A breeze stirred the leaves above. Reagan leaned down to Charlie’s level, squeezing his small hand. *“I think we should go the narrow way,”* she whispered, smiling gently.
 

@@ -3,7 +3,7 @@ title: 🕊️ Bible Compass – Day 2 Following Jesus into the Water
 slug: baptism-compass
 publishDate: 07 Aug 2025
 description: Day 2 of the SD Crew’s journey—Michael and Samuel learn from Jesus’ baptism and choose to follow His example.
-image: /SolaDeo/images/Reagan-flower.webp
+image: /ChristmasTower/images/Reagan-flower.webp
 label: Devotional
 ---
 
@@ -20,13 +20,13 @@ label: Devotional
 
 The narrow path twisted deeper into the woods until the sound of rushing water grew louder. The trees opened to reveal a clear, wide river, sunlight flashing across its ripples. A narrow wooden footbridge spanned the slowest part of the current.
 
-![Papa and kids crossing](/SolaDeo/images/Grammy-meadow.webp)
+![Papa and kids crossing](/ChristmasTower/images/Grammy-meadow.webp)
 
 The Crew paused at the river’s edge. Grammy spotted a meadow just off the trail where wildflowers danced in the breeze. She led Reagan and little Charlie toward it, giving the others space to sit and listen. Reagan bent to gather blossoms, her bright laughter floating on the air, while Charlie plopped down in the grass and tried to grab the petals drifting in the wind. Grammy smiled, watching them with gentle eyes, her presence a quiet reminder of God’s care.
 
 Papa waited until the others settled near the bank. “Before we cross,” he said, “I want to tell you about another river—the Jordan River, where John the Baptist preached.”
 
-![Papa and children sitting on the bank](/SolaDeo/images/Papa-Baptism-riverbank.webp)
+![Papa and children sitting on the bank](/ChristmasTower/images/Papa-Baptism-riverbank.webp)
 
 He unrolled the scroll and read:
 
@@ -68,7 +68,7 @@ Michael and Samuel exchanged a look, both grinning. Abi leaned forward. “So ba
 
 Papa nodded. “Yes—and just like Jesus, it pleases the Father.”
 
-![Michael sees Elijah vision](/SolaDeo/images/Michael-vision.webp)
+![Michael sees Elijah vision](/ChristmasTower/images/Michael-vision.webp)
 
 ---
 
