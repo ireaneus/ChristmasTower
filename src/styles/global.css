@@ -16,6 +16,13 @@
   background-color: var(--background-body) !important;
 }
 
+.markdown-body p,
+.markdown-content p,
+.content p {
+  line-height: 2;
+}
+
+
 :root {
   --background-body: rgb(252, 251, 233); /* Use a light background color */
   --text-main: #36393b;

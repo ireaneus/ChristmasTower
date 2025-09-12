@@ -10,7 +10,7 @@ export async function getStaticPaths() {
 }
 
 const { label } = Astro.params;
-const title = label.charAt(0).toUpperCase() + label.slice(1) + 's';
+const title = label.toUpperCase();
 const description = `All blog posts labeled as ${label}`;
 const permalink = `${Astro.site.href}blog/label/${label}`;
 
