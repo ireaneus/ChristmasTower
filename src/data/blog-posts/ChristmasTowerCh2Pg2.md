@@ -1,20 +1,18 @@
 ---
-title: The Christmas Tower - Boaz Notices Ruth
+title: The Christmas Tower
 slug: chapter2-page2
 publishDate: 12 Sept 2025
-description: PAGE 5. Boaz shows kindness to Ruth.
+description: Chapter 1 Pg.5 Boaz shows kindness to Ruth
 image: /ChristmasTower/images/Ruth.webp
 label: christmastower
 ---
 
-## Chapter 2 – Boaz Shows Kindness  
-
 ![Ruth](/ChristmasTower/images/Ruth.webp)
 
-Each morning, Ruth would come to the fields beneath the tower to pluck grains from their stems. Though she was a stranger in the land, she felt safe under the watchful eye of the tower, as if it was quietly assuring her that she belonged. The tower observed her hard work and quiet determination, standing as a silent witness to her faithfulness and trust in God’s provision.  
+Each morning, Ruth gathered grain in the fields beneath the tower. Though a stranger, she felt safe under its watchful eye. One day Boaz, the owner of the fields, noticed her, she fell to the ground, and asked him softly, *“Why have I found favor in your eyes, that you should take notice of me, since I am a foreigner?”*  But Boaz answered her, *“All that you have done for your mother-in-law since the death of your husband has been fully told to me, and how you left your father and mother and your native land and came to a people that you did not know before.”* **(Ruth 2:10-11)**
 
-One day, Boaz, the owner of the fields, came to meet Ruth. Boaz was a kind and generous man, and he admired Ruth’s loyalty to Naomi. He made sure she had more than enough grain to take home, offering her protection and kindness. Day by day, as the tower watched, their friendship grew.  
+Day by day, as the tower watched, their friendship grew. Eventually, Boaz became Ruth’s kinsman redeemer—the one who rescued and cared for her family. He married Ruth, giving her a new beginning and restoring hope to both her and Naomi.  
 
 ---
 
-⬅️ [Previous Page](chapter2-page1) | [Next Page →](chapter2-page3)
+[⬅️ Previous Page](chapter2-page1) | [Next Page ➡️](chapter2-page3)

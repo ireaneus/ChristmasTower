@@ -1,18 +1,18 @@
 ---
-title: The Christmas Tower - Ruth Redeemed
+title: The Christmas Tower
 slug: chapter2-page3
 publishDate: 12 Sept 2025
-description: PAGE 6. Boaz redeems Ruth; a lineage of hope begins.
+description: Chapter 2 Pg.6 Boaz redeems Ruth; a lineage of hope begins.
 image: /ChristmasTower/images/Ruth.webp
 label: christmastower
 ---
 
-## Chapter 2 – Ruth Redeemed
+![Tower Sunrise](/ChristmasTower/images/TowerSunrise.webp)
 
-In time, Boaz became Ruth’s **kinsman redeemer**—stepping in to rescue and restore Naomi’s family. He married Ruth, giving her a new beginning and bringing hope back to their household. Their love story reflected God’s perfect plan: a kindness that covered sorrow and a redemption that turned loss into life.
+Their story is a beautiful picture of God’s perfect plan to redeem His people. And in those very fields near the Tower of the Flock, the ultimate Kinsman Redeemer would one day be born—Jesus, who became like us so He could rescue and restore us.  
 
-From the family of Ruth and Boaz came a son, **Obed**; and from Obed came **Jesse**; and from Jesse came **David**—a shepherd who would one day be king. Yet even this royal line was pointing to Someone greater still: the **ultimate Redeemer** who would rescue not just one family, but all who look to Him in faith.
+From the family of Ruth and Boaz came a son Obed, and then a grandson, named Jesse. And from Jesse’s family came a young shepherd boy named David—who would one day be king.
 
 ---
 
-⬅️ [Previous Page](chapter2-page2) | [Next Page →](chapter3-page1)
+[⬅️ Previous Page](chapter2-page2) | [Next Page ➡️](chapter3-page1)

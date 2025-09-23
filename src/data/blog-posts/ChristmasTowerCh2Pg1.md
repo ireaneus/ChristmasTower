@@ -1,20 +1,16 @@
 ---
-title: The Christmas Tower - Ruth and the Kinsman Redeemer
+title: The Christmas Tower
 slug: chapter2-page1
 publishDate: 12 Sept 2025
-description: PAGE 4. Ruth gleans in the fields near the Tower.
+description: Chapter 2 Page 4. Boaz and Ruth
 image: /ChristmasTower/images/RuthNaomi.webp
 label: christmastower
 ---
 
-## Chapter 2 – Ruth and the Kinsman Redeemer
-
 ![Ruth and Naomi](/ChristmasTower/images/RuthNaomi.webp)
 
-Long after Jacob’s time, the fields around *Migdal Eder* were still full of life. Shepherds cared for their flocks, and the tower continued its silent vigil over the hills of what was now being called Bethlehem Ephrathah (which means “place where Rachel died”).  
-
-Years passed, and the tower watched over the fields and the lives of those who worked beneath its shadow. One day, it noticed a woman named Ruth, carefully gathering leftover grain after the harvest. Ruth wasn’t from Bethlehem; she had traveled from a distant land called Moab. Despite her sorrow over losing her husband, Ruth had chosen to stay by her mother-in-law Naomi’s side, showing remarkable kindness and loyalty.  
+Years passed, and the tower watched over the fields and the lives of those who worked beneath its shadow. One day, it noticed a woman named Ruth, carefully gathering leftover grain after the harvest. Ruth was not from Bethlehem but from the land of Moab. After losing her husband, she chose to stay with her mother-in-law Naomi. With great courage she said, *“Where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God”* (Ruth 1:16, ESV).
 
 ---
 
-⬅️ [Previous Page](chapter1-page3) | [Next Page →](chapter2-page2)
+[⬅️ Previous Page](chapter1-page3) | [Next Page ➡️](chapter2-page2)

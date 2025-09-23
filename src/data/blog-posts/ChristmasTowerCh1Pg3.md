@@ -1,20 +1,16 @@
 ---
-title: The Christmas Tower - Jacob’s Farewell
+title: The Christmas Tower
 slug: chapter1-page3
 publishDate: 12 Sept 2025
-description: PAGE 3. Jacob takes one last look at the Tower.
+description: Chapter 1 Pg 3. Jacob’s Farewell
 image: /ChristmasTower/images/JacobMemorial.webp
 label: christmastower
 ---
 
-## Chapter 1 – Jacob’s Farewell
-
 ![Jacob Memorial stone](/ChristmasTower/images/JacobMemorial.webp)
 
-Jacob took one last look at the tower, pausing for several moments as memories of Rachel filled his heart. A warm breeze gently surrounded him, as if the tower itself was offering a quiet comfort, wrapping him in a blanket of love and tender mercy.  
-
-Though he journeyed on from the tower, Israel was forever changed by that moment, carrying its silent strength and God’s promise with him.  
+The tower stood silently sharing Jacob’s grief. It watched as Jacob buried Rachel near Bethlehem, setting up a memorial stone to mark her resting place (Genesis 35:19–20, ESV). Yet, even in this moment of sadness, something greater was unfolding—God’s perfect plan was quietly at work. Though Jacob couldn’t yet see it, the tower seemed to stand as a silent promise that joy would one day come from this sorrow. Many years later, in these same fields, the tower would witness another birth—one that would bring hope and salvation to the whole world.
 
 ---
 
-⬅️ [Previous Page](chapter1-page2) | [Next Page →](chapter2-page1)
+⬅️ [Previous Page](chapter1-page2) | [Next Page ➡️](chapter2-page1)

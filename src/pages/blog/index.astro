@@ -3,8 +3,8 @@ import { getCollection } from 'astro:content'
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import ResourceCard from '../../components/ResourceCard.astro';
 
-const title = 'Sola Deo Devotional Articles';
-const description = 'Latest articles.';
+const title = 'The Christmas Tower Book';
+const description = 'Migdal Eder - The tower of the flock';
 const permalink = `${Astro.site.href}blog`;
 
 let allPosts = await getCollection('posts')
@@ -14,18 +14,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new 
 <BaseLayout title={title} description={description} permalink={permalink} current="articles">
   {/* Blog main container */}
   <div class="container">
-    <h1>Sola Deo Articles</h1>
-
-    {/* Kids face strip (flex, wraps to 2+ rows as needed) */}
-    <div class="face-strip">
-  <img src={`${import.meta.env.BASE_URL}images/Abi-face.webp`} alt="Abi" class="face" />
-  <img src={`${import.meta.env.BASE_URL}images/Charlie-face.webp`} alt="Charlie" class="face" />
-  <img src={`${import.meta.env.BASE_URL}images/Levi-face.webp`} alt="Levi" class="face" />
-  <img src={`${import.meta.env.BASE_URL}images/Michael-face.webp`} alt="Michael" class="face" />
-  <img src={`${import.meta.env.BASE_URL}images/Reagan-face.webp`} alt="Reagan" class="face" />
-  <img src={`${import.meta.env.BASE_URL}images/Samuel-face.webp`} alt="Samuel" class="face" />
-    </div>
-
+    
     {/* Blog post grid */}
     <div class="post-grid">
       {allPosts.map((post) => (
