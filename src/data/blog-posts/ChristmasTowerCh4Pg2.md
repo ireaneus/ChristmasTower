@@ -1,20 +1,20 @@
 ---
-title: The Christmas Tower - Shadows of a Greater Lamb
+title: The Christmas Tower
 slug: chapter4-page2
 publishDate: 12 Sept 2025
-description: PAGE 11. Each spotless lamb points to God’s promise.
-image: /ChristmasTower/images/Shepherds.webp
+description: Chapter 4 Pg.10 Shadows of a Greater Lamb
+image: /ChristmasTower/images/TowerFlockSunrise.webp
 label: christmastower
 ---
 
-## Chapter 4 – Shadows of a Greater Lamb  
+![Christmas Tower](/ChristmasTower/images/TowerFlockSunrise.webp)
 
-The Levitical shepherds worked carefully, ensuring every lamb remained spotless. If a lamb was found to be perfect, they wrapped it gently in **swaddling cloths** to keep it clean and safe. Then, they placed it in a **manger**, where it could rest quietly, unblemished and protected.  
+From that day on, the Tower of the Flock carried a greater purpose. To the shepherds it was still called Migdal Eder, but to us, it has a new name — The Christmas Tower.
 
-Unlike ordinary shepherds, these priests knew they were part of something much greater. Each lamb pointed to a promise of redemption. Though they did not yet know how or when, they trusted God’s perfect plan was unfolding—and the tower stood as a silent witness to their faithfulness.  
+The Christmas Tower now had a holy purpose. No longer just a shelter from storms, it became part of God’s promise of salvation. Each spotless lamb wrapped in cloths was a picture of something greater still—the Lamb of God who would one day take away the sins of the world.  
 
-The fields grew still with quiet anticipation, as if creation itself held its breath. The tower, ancient and steadfast, seemed to wait for the moment when God’s greatest promise would be fulfilled.  
+Though the fields around Migdal Eder were calm and peaceful, it felt as if something important was about to happen. It was as if the whole world was waiting for a promise to be fulfilled. The Tower, strong and steady, stood in the center of it all—watching, waiting, and knowing that soon, God’s greatest promise would come true.
 
 ---
 
-⬅️ [Previous Page](chapter4-page1) | [Next Page →](chapter5-page1)
+[⬅️ Previous Page](chapter4-page1) | [Next Page ➡️](chapter5-page1)

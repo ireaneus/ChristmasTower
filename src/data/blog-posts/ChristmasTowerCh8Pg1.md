@@ -1,20 +1,20 @@
 ---
-title: The Christmas Tower - Shepherds at the Manger
+title: The Christmas Tower
 slug: chapter8-page1
 publishDate: 12 Sept 2025
-description: PAGE 19. The shepherds hurry to the Tower and find the child.
-image: /ChristmasTower/images/NativityShepherds.webp
+description: PAGE 16 Worship Christ the King
+image: /ChristmasTower/images/ShepherdsRunning.webp
 label: christmastower
 ---
 
-## Chapter 8 – Worship Christ the King  
+![Shepherds Running](/ChristmasTower/images/ShepherdsRunning.webp)
 
-With hearts racing and wonder filling their souls, the shepherds moved quickly across the fields, their footsteps light despite the weight of the news they carried. Every step toward the Tower of the Flock felt guided, as though heaven itself was leading them.  
+Without wasting a moment, the shepherds jumped to their feet. Their fear had turned into excitement and determination. They had been given an important message—a message of hope, joy, and peace for everyone.
 
-As they neared the ancient tower, its stones gleamed faintly in the moonlight, standing tall and steadfast against the night sky. This was the place where lambs for sacrifice were raised, yet tonight it felt different—holy, as though the very ground was part of God’s story unfolding.  
+*“We have to go!”* one of them said, his voice shaking with excitement. *“Let us go to Migdal Eder and see this thing that has happened, which the Lord has made known to us”* **(Luke 2:15, ESV)**
 
-They entered the humble shelter, and there, in the soft glow of lamplight, they saw Him—the baby wrapped in swaddling cloths and lying in a manger, just as the angel had said. A hush fell over them as awe and reverence filled their hearts.  
+They hurried across the fields, and as they approached the old Tower, its ancient stones seemed to glow faintly in the moonlight, as if the very ground around it was holy. They drew closer cautiously, their steps slow and reverent. Without saying a word, the shepherds took off their sandals, sensing they were standing on sacred ground.
 
 ---
 
-⬅️ [Previous Page](chapter7-page2) | [Next Page →](chapter8-page2)
+[⬅️ Previous Page](chapter7-page2) | [Next Page ➡️](chapter8-page2)

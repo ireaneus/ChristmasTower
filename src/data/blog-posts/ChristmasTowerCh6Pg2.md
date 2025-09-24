@@ -1,18 +1,18 @@
 ---
-title: The Christmas Tower - Refuge at Migdal Eder
+title: The Christmas Tower
 slug: chapter6-page2
 publishDate: 12 Sept 2025
-description: PAGE 15. Joseph and Mary find shelter at the Tower.
-image: /ChristmasTower/images/Bethlehem.webp
+description: Chapter 6 Pg.13 Refuge at Migdal Eder
+image: /ChristmasTower/images/MaryJosephBaby.webp
 label: christmastower
 ---
 
-## Chapter 6 – Refuge at Migdal Eder  
+![Mary, Joseph, Baby](/ChristmasTower/images/MaryJosephBaby.webp)
 
-As they moved away from the crowded town, Joseph’s eyes caught the outline of the **Tower of the Flock**, silhouetted against the starry sky. A soft glow spilled from the entrance, almost as if beckoning the weary couple to come and rest.  
+Inside, the air was still and peaceful. The thick stone walls sheltered them from the chill of the night, and fresh straw covered the floor, offering a soft place to rest. It wasn’t grand or adorned with riches, but it was enough—a humble refuge for a holy moment, a perfect place for God’s perfect plan to unfold.
 
-Though it was just a simple shelter, Joseph felt peace wash over him. He gently guided Mary toward the tower, trusting they would find warmth and protection within its walls. Inside, the thick stone walls sheltered them from the night’s chill, and fresh straw covered the floor, offering a soft place to rest.  
+And then, in that quiet place, the moment all of history had waited for arrived. That night, inside the ancient Tower, Mary gave birth to her son. She wrapped Him in swaddling cloths and laid Him in a manger. Outside, the fields were still, with only the rustle of sheep and the watchful murmurs of shepherds—but heaven itself rejoiced, for the Savior had come.  
 
 ---
 
-⬅️ [Previous Page](/ChristmasTower/blog/chapter6-page1) | [Next Page →](/ChristmasTower/blog/chapter6-page3)
+[⬅️ Previous Page](/ChristmasTower/blog/chapter6-page1) | [Next Page ➡️](/ChristmasTower/blog/chapter7-page1)

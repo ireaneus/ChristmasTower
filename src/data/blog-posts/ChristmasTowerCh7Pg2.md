@@ -1,22 +1,26 @@
 ---
-title: The Christmas Tower - Angels Praise God
+title: The Christmas Tower
 slug: chapter7-page2
 publishDate: 12 Sept 2025
-description: PAGE 18. A multitude of angels proclaim peace on earth.
-image: /ChristmasTower/images/ShepherdsNight.webp
+description: Chapter 7 Pg.15 A multitude of angels proclaim peace on earth.
+image: /ChristmasTower/images/AngelsShepherds.webp
 label: christmastower
 ---
 
-## Chapter 7 – Heaven’s Song  
+![Angels and Shepherds](/ChristmasTower/images/AngelsShepherds.webp)
 
-Before the shepherds could speak, the sky above them erupted into dazzling splendor as a multitude of angels appeared. Their voices soared in perfect harmony, filling the night with glorious praise:  
-
-**“Glory to God in the highest, and on earth peace among those with whom He is pleased!”** (Luke 2:14, ESV)  
-
-The heavenly chorus rang out with power and beauty, echoing through the stillness of the fields. The shepherds stood frozen in awe, their hearts racing at the wonder of it all. And then, just as suddenly as they had appeared, the angels were gone, vanishing into the starry sky.  
-
-The night returned to silence, but nothing would ever be the same again. The shepherds had witnessed heaven itself declaring that God’s promise had come true.  
+And then, heaven’s joy spilled into the night. A great company of angels filled the sky, praising God and saying,
 
 ---
 
-⬅️ [Previous Page](/ChristmasTower/blog/chapter7-page1) | [Next Page →](/ChristmasTower/blog/chapter8-page1)
+> *“Glory to God in the highest, and on earth peace among those with whom He is pleased”*
+>
+> **(Luke 2:14, ESV)**
+
+---
+
+And just as suddenly as they had appeared, the angels were gone, vanishing into the starry sky. Silence returned, and though the fields were once again cloaked in darkness, everything felt different. To the shepherds, the world around them no longer seemed ordinary. They had witnessed something incredible—a message so grand it seemed fit for kings and rulers, yet it had been entrusted to them, lowly shepherds, watching over their flocks.
+
+---
+
+[⬅️ Previous Page](/ChristmasTower/blog/chapter7-page1) | [Next Page ➡️](/ChristmasTower/blog/chapter8-page1)

@@ -1,18 +1,20 @@
 ---
-title: The Christmas Tower - Journey to Bethlehem
+title: The Christmas Tower
 slug: chapter5-page1
 publishDate: 12 Sept 2025
-description: PAGE 12. Joseph and Mary travel toward Bethlehem.
-image: /ChristmasTower/images/JosephMary.webp
+description: Chapter 5 Pg.11 Joseph and Mary travel toward Bethlehem.
+image: /ChristmasTower/images/MaryJosephTower.webp
 label: christmastower
 ---
 
-## Chapter 5 – The Journey to Bethlehem  
+![Mary Joseph Tower](/ChristmasTower/images/MaryJosephTower.webp)
 
-The roads leading to Bethlehem were bustling with travelers. The Roman Emperor had ordered a census, and families from far and wide returned to their ancestral towns to be registered. Among them was a young couple from Nazareth—**Joseph**, a carpenter, and **Mary**, his wife, carrying a very special child.  
+The Roman Emperor ordered a census, and families everywhere returned to their hometowns. Among them were Joseph, a carpenter, and Mary, who was expecting a very special child.
 
-As they made their way along the dusty paths, the fields of Bethlehem Ephrathah stretched out before them. The sun hung low in the sky, casting a warm golden glow across the rolling hills. Mary sat quietly on the back of a donkey, her hands resting gently on her growing belly. Joseph walked beside her, guiding the way with care. Concern flickered in his eyes, for the time of her delivery was drawing near.  
+They traveled the dusty roads toward Bethlehem Ephrathah, the place where Rachel had died. The evening sun cast a golden light over the hills. Mary sat quietly on a donkey, her hands resting on her child inside, while Joseph guided their way with care.
+
+As they neared Bethlehem, Joseph looked up at the old Tower of the Flock. Its weathered stones stood firm on the hillside, blending into the land as if it had always been there. Something about the tower gave him hope. He gently squeezed Mary’s hand, remembering the angel’s words: *“Joseph, son of David, don’t be afraid to take Mary as your wife. The child she carries is from the Holy Spirit. She will give birth to a son, and you will name Him Jesus, for He will save His people from their sins”* **(Matthew 1:20–21, ESV)**.
 
 ---
 
-⬅️ [Previous Page](chapter4-page2) | [Next Page →](chapter5-page2)
+[⬅️ Previous Page](chapter4-page2) | [Next Page ➡️](chapter6-page1)

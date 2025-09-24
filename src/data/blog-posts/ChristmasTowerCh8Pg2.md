@@ -1,20 +1,26 @@
 ---
-title: The Christmas Tower - Proclaiming the Savior
+title: The Christmas Tower
 slug: chapter8-page2
 publishDate: 12 Sept 2025
-description: PAGE 20. The shepherds worship and spread the good news.
+description: Chapter 8 Pg.17 Proclaiming the Savior
 image: /ChristmasTower/images/NativityShepherds.webp
 label: christmastower
 ---
 
-## Chapter 8 – Proclaiming the Savior  
+They stepped into the Christmas Tower’s sheltered doorway, and in the soft glow of a small lamp, they saw Him—the baby, wrapped in swaddling cloth and lying in a manger, just as the angel had said. Tears filled their eyes as they knelt before the child. It felt like time stopped as they thought about how much they needed this Savior, their Messiah. In that moment, they gave Him all their attention, not just as shepherds, but as people who had found hope in the One who had come to save them.
 
-Tears welled in their eyes as the shepherds knelt before the child, overwhelmed by love and peace they could scarcely explain. This was no ordinary child. He was the **Lamb of God**, born in the very place where spotless lambs were prepared for sacrifice. Heaven and earth had met in this tiny manger.  
-
-With hearts overflowing, the shepherds left the tower eager to share the incredible news. They didn’t care that they were considered lowly by others—God had entrusted them with the greatest message of all time. As they returned through the fields, their voices rang out joyfully, proclaiming:  
-
-**“The Savior has been born! We have seen Him—the Lamb of God, lying in a manger!”**  
+They had been given the most important message of all time. Their voices rang out in the night as they called to anyone who would listen:
 
 ---
 
-⬅️ [Previous Page](/ChristmasTower/blog/chapter8-page1) | [Next Page →](/ChristmasTower/blog/chapter9-page1)
+> *“For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.”*
+>
+> **(Isaiah 9:6)**
+
+---
+
+Heaven and earth had met in that small, quiet place, simple shepherds, in an ordinary town, had witnessed the Creator of the universe lying in a manger.
+
+---
+
+[⬅️ Previous Page](/ChristmasTower/blog/chapter8-page1) | [Next Page ➡️](/ChristmasTower/blog/chapter9-page1)

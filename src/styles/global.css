@@ -324,7 +324,7 @@ em, i {
 
 :root.theme-dark em,
 :root.theme-dark i {
-  color: #da4444; /* light beige for dark theme */
+  color: #f8eb74; /* light beige for dark theme */
 }
 
 #logo-img {

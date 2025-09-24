@@ -25,33 +25,30 @@ label: christmastower
 
 - [PAGE 7 – David the Shepherd Boy](/ChristmasTower/blog/chapter3-page1)
 - [PAGE 8 – David Anointed King](/ChristmasTower/blog/chapter3-page2)
-- [PAGE 9 – David’s Dedication of the Tower fields](/ChristmasTower/blog/chapter3-page3)
 
 ### Chapter 4 – The Levitical Shepherds  
 
-- [PAGE 10 – Sacred shepherds raise spotless lambs](/ChristmasTower/blog/chapter4-page1)
-- [PAGE 11 – Shadows of a Greater Lamb](/ChristmasTower/blog/chapter4-page2)
+- [PAGE 9 – Sacred shepherds raise spotless lambs](/ChristmasTower/blog/chapter4-page1)
+- [PAGE 10 – Shadows of a Greater Lamb](/ChristmasTower/blog/chapter4-page2)
 
 ### Chapter 5 – The Journey to Bethlehem  
 
-- [PAGE 12 – Joseph and Mary travel to Bethlehem](/ChristmasTower/blog/chapter5-page1)
-- [PAGE 13 – Joseph sees the Tower and finds reassurance](/ChristmasTower/blog/chapter5-page2)
+- [PAGE 11 – Joseph and Mary travel to Bethlehem](/ChristmasTower/blog/chapter5-page1)
 
 ### Chapter 6 – Under the Shadow of the Tower  
 
-- [PAGE 14 – No Room in Bethlehem](/ChristmasTower/blog/chapter6-page1)
-- [PAGE 15 – Refuge at Migdal Eder](/ChristmasTower/blog/chapter6-page2)
-- [PAGE 16 – The Birth of Christ](/ChristmasTower/blog/chapter6-page3)
+- [PAGE 12 – No Room in Bethlehem](/ChristmasTower/blog/chapter6-page1)
+- [PAGE 13 – Refuge at Migdal Eder](/ChristmasTower/blog/chapter6-page2)
 
 ### Chapter 7 – Good News and Glad Tidings  
 
-- [PAGE 17 – Angel brings good news to shepherds](/ChristmasTower/blog/chapter7-page1)
-- [PAGE 18 – Angels praise God](/ChristmasTower/blog/chapter7-page2)
+- [PAGE 14 – Good News and Glad Tidings](/ChristmasTower/blog/chapter7-page1)
+- [PAGE 15 – Angels praise God](/ChristmasTower/blog/chapter7-page2)
 
 ### Chapter 8 – Worship Christ the King  
 
-- [PAGE 19 – Shepherds at the Manger](/ChristmasTower/blog/chapter8-page1)
-- [PAGE 20 – Proclaiming the Savior](/ChristmasTower/blog/chapter8-page2)
+- [PAGE 16 – Shepherds at the Manger](/ChristmasTower/blog/chapter8-page1)
+- [PAGE 17 – Proclaiming the Savior](/ChristmasTower/blog/chapter8-page2)
 
 ### Chapter 9 – The Good Shepherd / The Tower’s Silent Testimony  
 
