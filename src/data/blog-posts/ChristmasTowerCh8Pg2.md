@@ -17,4 +17,4 @@ With hearts overflowing, the shepherds left the tower eager to share the incredi
 
 ---
 
-⬅️ [Previous Page](chapter8-page1) | [Next Page →](chapter9-page1)
+⬅️ [Previous Page](/ChristmasTower/blog/chapter8-page1) | [Next Page →](/ChristmasTower/blog/chapter9-page1)

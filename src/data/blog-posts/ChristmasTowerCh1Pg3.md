@@ -13,4 +13,4 @@ The tower stood silently sharing Jacob’s grief. It watched as Jacob buried Rac
 
 ---
 
-⬅️ [Previous Page](chapter1-page2) | [Next Page ➡️](chapter2-page1)
+⬅️ [Previous Page](/ChristmasTower/blog/chapter1-page2) | [Next Page ➡️](/ChristmasTower/blog/chapter2-page1)

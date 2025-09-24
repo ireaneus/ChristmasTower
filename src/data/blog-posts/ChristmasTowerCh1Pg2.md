@@ -28,4 +28,4 @@ One day, Jacob, the father of the 12 tribes of Israel, pitched his tent beyond t
 
 ---
 
-⬅️ [Previous Page](chapter1-page1) | [Next Page ➡️](chapter1-page3)
+⬅️ [Previous Page](/ChristmasTower/blog/chapter1-page1) | [Next Page ➡️](/ChristmasTower/blog/chapter1-page3)

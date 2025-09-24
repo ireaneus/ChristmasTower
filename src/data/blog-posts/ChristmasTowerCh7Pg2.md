@@ -19,4 +19,4 @@ The night returned to silence, but nothing would ever be the same again. The she
 
 ---
 
-⬅️ [Previous Page](chapter7-page1) | [Next Page →](chapter8-page1)
+⬅️ [Previous Page](/ChristmasTower/blog/chapter7-page1) | [Next Page →](/ChristmasTower/blog/chapter8-page1)

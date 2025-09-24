@@ -15,4 +15,4 @@ From the family of Ruth and Boaz came a son Obed, and then a grandson, named Jes
 
 ---
 
-[⬅️ Previous Page](chapter2-page2) | [Next Page ➡️](chapter3-page1)
+[⬅️ Previous Page](/ChristmasTower/blog/chapter2-page2) | [Next Page ➡️](/ChristmasTower/blog/chapter3-page1)

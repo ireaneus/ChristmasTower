@@ -15,4 +15,4 @@ Joseph’s heart grew heavy as he knocked on door after door. Each time he was t
 
 ---
 
-⬅️ [Previous Page](chapter5-page2) | [Next Page →](chapter6-page2)
+⬅️ [Previous Page](/ChristmasTower/blog/chapter5-page2) | [Next Page →](/ChristmasTower/blog/chapter6-page2)

@@ -15,4 +15,4 @@ Though it was just a simple shelter, Joseph felt peace wash over him. He gently 
 
 ---
 
-⬅️ [Previous Page](chapter6-page1) | [Next Page →](chapter6-page3)
+⬅️ [Previous Page](/ChristmasTower/blog/chapter6-page1) | [Next Page →](/ChristmasTower/blog/chapter6-page3)

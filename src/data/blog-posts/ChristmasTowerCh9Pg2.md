@@ -19,4 +19,4 @@ He is our **strong tower**, our refuge, and our Redeemer.
 
 ---
 
-⬅️ [Previous Page](chapter9-page1)
+⬅️ [Previous Page](/ChristmasTower/blog/chapter9-page1)

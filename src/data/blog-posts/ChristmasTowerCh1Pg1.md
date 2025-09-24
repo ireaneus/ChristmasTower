@@ -23,4 +23,4 @@ Long ago, in the quiet hills of a region called Canaan (now Israel), there stood
 
 ---
 
-[Next Page ➡️](chapter1-page2)
+[Next Page ➡️](/ChristmasTower/blog/chapter1-page2)

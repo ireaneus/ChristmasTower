@@ -17,4 +17,4 @@ Though David was anointed king, he didn’t become king right away. He returned 
 
 ---
 
-⬅️ [Previous Page](chapter3-page1) | [Next Page →](chapter3-page3)
+⬅️ [Previous Page](/ChristmasTower/blog/chapter3-page1) | [Next Page →](/ChristmasTower/blog/chapter3-page3)

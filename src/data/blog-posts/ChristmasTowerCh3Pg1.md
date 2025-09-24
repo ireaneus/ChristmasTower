@@ -19,4 +19,4 @@ Finally, Samuel asked, “Are all your sons here?” Jesse replied, “There rem
 
 ---
 
-⬅️ [Previous Page](chapter2-page3) | [Next Page →](chapter3-page2)
+⬅️ [Previous Page](/ChristmasTower/blog/chapter2-page3) | [Next Page →](/ChristmasTower/blog/chapter3-page2)

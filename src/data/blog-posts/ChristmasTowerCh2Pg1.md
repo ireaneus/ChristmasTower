@@ -13,4 +13,4 @@ Years passed, and the tower watched over the fields and the lives of those who w
 
 ---
 
-[⬅️ Previous Page](chapter1-page3) | [Next Page ➡️](chapter2-page2)
+[⬅️ Previous Page](/ChristmasTower/blog/chapter1-page3) | [Next Page ➡️](/ChristmasTower/blog/chapter2-page2)

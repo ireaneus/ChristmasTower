@@ -15,4 +15,4 @@ Day by day, as the tower watched, their friendship grew. Eventually, Boaz became
 
 ---
 
-[⬅️ Previous Page](chapter2-page1) | [Next Page ➡️](chapter2-page3)
+[⬅️ Previous Page](/ChristmasTower/blog/chapter2-page1) | [Next Page ➡️](/ChristmasTower/blog/chapter2-page3)
