@@ -36,7 +36,7 @@ If you are reading this with your children, explain that the Bible is one story 
 - *“For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, 4that he was buried, that he was raised on the third day in accordance with the Scriptures,”*
 (1 Corinthians 15:3–4, ESV)
 
-Then invite them, like the shepherds, to believe the good news and share it with others.
+Then pray with them, and like the shepherds, share the *good news* with others.
 
 ---
 
