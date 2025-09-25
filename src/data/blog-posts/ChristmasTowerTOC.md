@@ -58,3 +58,7 @@ label: christmastower
 ### Epilogue - The Good News
 
 - [PAGE 20 - Epilogue - The Good News](/ChristmasTower/blog/epilogue)
+
+### For the Kids
+
+- [PAGE 21 - For the Kids](/ChristmasTower/blog/kids)

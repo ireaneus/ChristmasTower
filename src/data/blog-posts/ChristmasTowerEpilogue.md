@@ -2,7 +2,7 @@
 title: The Christmas Tower
 slug: epilogue
 publishDate: 12 Sept 2025
-description: Pg.20 Epilogue. The Good News
+description: Epilogue. The Good News
 image: /ChristmasTower/images/JesusFace.webp
 label: christmastower
 ---
@@ -15,4 +15,4 @@ The story of *the Christmas Tower* had come full circle. It had seen the birth o
 
 ---
 
-[⬅️ Previous Page](/ChristmasTower/blog/chapter9-page2) | [Next Page ➡️](/ChristmasTower/blog/chapter9-page2)
+[⬅️ Previous Page](/ChristmasTower/blog/chapter9-page2) | [Next Page ➡️](/ChristmasTower/blog/kids)

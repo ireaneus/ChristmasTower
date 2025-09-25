@@ -2,7 +2,7 @@
 title: The Christmas Tower
 slug: chapter9-page2
 publishDate: 12 Sept 2025
-description: Chapter 9 Pg.19 The Good Shepherd
+description: The Good Shepherd
 image: /ChristmasTower/images/JesusLambTower.webp
 label: christmastower
 ---
@@ -17,9 +17,9 @@ label: christmastower
 
 ---
 
-The Christmas Tower paused and reflected on all the man said and did. This man was more than just a teacher—He was the Good Shepherd, the one who would lead His people and give His life for His sheep. 
+The Christmas Tower paused and reflected on all the man said and did. This man was more than just a teacher—He was the Good Shepherd, the one who would lead His people and give His life for His sheep.
 
-Jesus continued to bless those who listened, saying: 
+Jesus continued to bless those who listened, saying:
 
 ---
 
