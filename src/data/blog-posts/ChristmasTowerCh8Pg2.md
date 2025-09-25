@@ -3,9 +3,11 @@ title: The Christmas Tower
 slug: chapter8-page2
 publishDate: 12 Sept 2025
 description: Chapter 8 Pg.17 Proclaiming the Savior
-image: /ChristmasTower/images/NativityShepherds.webp
+image: /ChristmasTower/images/ShepherdsBaby.webp
 label: christmastower
 ---
+
+![Shepherds Manger Baby Jesus](/ChristmasTower/images/ShepherdsBaby.webp)
 
 They stepped into the Christmas Tower’s sheltered doorway, and in the soft glow of a small lamp, they saw Him—the baby, wrapped in swaddling cloth and lying in a manger, just as the angel had said. Tears filled their eyes as they knelt before the child. It felt like time stopped as they thought about how much they needed this Savior, their Messiah. In that moment, they gave Him all their attention, not just as shepherds, but as people who had found hope in the One who had come to save them.
 

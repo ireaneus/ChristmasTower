@@ -17,4 +17,4 @@ They hurried across the fields, and as they approached the old Tower, its ancien
 
 ---
 
-[⬅️ Previous Page](chapter7-page2) | [Next Page ➡️](chapter8-page2)
+[⬅️ Previous Page](/ChristmasTower/blog/chapter7-page2) | [Next Page ➡️](/ChristmasTower/blog/chapter8-page2)

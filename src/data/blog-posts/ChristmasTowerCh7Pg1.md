@@ -21,4 +21,4 @@ Suddenly, a light shone around them, and an angel of the Lord appeared. The shep
 
 ---
 
-[⬅️ Previous Page](chapter6-page2) | [Next Page ➡️](chapter7-page2)
+[⬅️ Previous Page](/ChristmasTower/blog/chapter6-page2) | [Next Page ➡️](/ChristmasTower/blog/chapter7-page2)

@@ -1,22 +1,32 @@
 ---
-title: The Christmas Tower - The Tower’s Testimony
+title: The Christmas Tower
 slug: chapter9-page2
 publishDate: 12 Sept 2025
-description: PAGE 22. The Tower stands as a witness to God’s perfect plan.
-image: /ChristmasTower/images/TowerTestimony.webp
+description: Chapter 9 Pg.19 The Good Shepherd
+image: /ChristmasTower/images/JesusLambTower.webp
 label: christmastower
 ---
 
-## Chapter 9 – The Tower’s Silent Testimony  
-
-The ancient tower was unwavering, its stones weathered yet steadfast, holding the memories of all it had witnessed.  
-
-It had seen Jacob’s sorrow turned to hope, Ruth’s redemption, David’s anointing, and Mary’s child born beneath its shadow. It had watched heaven’s angels proclaim good news, and now it stood as a reminder of the Good Shepherd who laid down His life for His sheep.  
-
-Though the tower now lies in ruins, its story lives on. It reminds us that God often works through ordinary people and simple places to accomplish extraordinary things. Just as shepherds once carried the good news of Jesus, so are we invited to carry the same message today.  
-
-He is our **strong tower**, our refuge, and our Redeemer.  
+![Jesus Lamb and Tower](/ChristmasTower/images/JesusLambTower.webp)
 
 ---
 
-⬅️ [Previous Page](/ChristmasTower/blog/chapter9-page1)
+> *“Truly, I tell you, I am the good shepherd. The good shepherd lays down his life for the sheep. I know my sheep, and my sheep know me—just as the Father knows me and I know the Father—and I lay down my life for the sheep.”*
+>
+> **John 10:11, 14-15, ESV**
+
+---
+
+The Christmas Tower paused and reflected on all the man said and did. This man was more than just a teacher—He was the Good Shepherd, the one who would lead His people and give His life for His sheep. 
+
+Jesus continued to bless those who listened, saying: 
+
+---
+
+> *“Blessed are the poor in spirit, for theirs is the kingdom of heaven… Blessed are those who hunger and thirst for righteousness, for they shall be satisfied… Blessed are the pure in heart, for they shall see God”*
+>
+> **Matthew 5:3, 6, 8, ESV**
+
+---
+
+[⬅️ Previous Page](/ChristmasTower/blog/chapter9-page1) | [Next Page ➡️](/ChristmasTower/blog/epilogue)

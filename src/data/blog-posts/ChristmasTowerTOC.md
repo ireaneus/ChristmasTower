@@ -52,5 +52,9 @@ label: christmastower
 
 ### Chapter 9 – The Good Shepherd / The Tower’s Silent Testimony  
 
-- [PAGE 21 – Jesus, the Good Shepherd](/ChristmasTower/blog/chapter9-page1)
-- [PAGE 22 – The Tower’s Testimony](/ChristmasTower/blog/chapter9-page2)
+- [PAGE 18 – Jesus, the Good Shepherd](/ChristmasTower/blog/chapter9-page1)
+- [PAGE 19 – The Tower’s Testimony](/ChristmasTower/blog/chapter9-page2)
+
+### Epilogue - The Good News
+
+- [PAGE 20 - Epilogue - The Good News](/ChristmasTower/blog/epilogue)

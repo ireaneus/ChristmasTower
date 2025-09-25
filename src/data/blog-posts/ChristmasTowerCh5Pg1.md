@@ -17,4 +17,4 @@ As they neared Bethlehem, Joseph looked up at the old Tower of the Flock. Its we
 
 ---
 
-[⬅️ Previous Page](chapter4-page2) | [Next Page ➡️](chapter6-page1)
+[⬅️ Previous Page](/ChristmasTower/blog/chapter4-page2) | [Next Page ➡️](/ChristmasTower/blog/chapter6-page1)

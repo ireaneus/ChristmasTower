@@ -1,24 +1,20 @@
 ---
-title: The Christmas Tower - The Good Shepherd
+title: The Christmas Tower
 slug: chapter9-page1
 publishDate: 12 Sept 2025
-description: PAGE 21. Jesus teaches near the Tower, declaring He is the Good Shepherd.
-image: /ChristmasTower/images/JesusTeaching.webp
+description: Chapter 9 Pg.18 Jesus heals near the Christmas Tower
+image: /ChristmasTower/images/JesusLeper.webp
 label: christmastower
 ---
 
-## Chapter 9 – The Good Shepherd  
+![Jesus and the Leper](/ChristmasTower/images/JesusLeper.webp)
 
-Many years passed after that holy night when Jesus was born. Though worn by time, the Tower still stood tall, watching over the fields. Shepherds continued to care for their sheep, but now something greater was unfolding.  
+Many years passed after that special night when Jesus was born. The Christmas Tower though worn by time, still stood tall, watching over the fields where shepherds continued to care for their sheep.
 
-One day, a man walked along the road near the tower. He was not alone—twelve close followers and a crowd walked with Him, listening closely to His words. As He passed, He saw a man suffering with leprosy. Most avoided lepers, but this man did not. He stepped forward, touched the leper, and healed him instantly. The crowd gasped in amazement.  
+One day, a man walked along the road near the tower. He wasn’t alone—twelve close followers and a group of men and women walked with Him, listening closely to everything He said. As He walked, He noticed a man with leprosy standing nearby. Most people avoided lepers because of their disease, but this man didn’t. The man with leprosy called out, asking for help. Without hesitation, the man stepped forward, touched the leper, and healed him instantly.
 
-Then He began to speak, His voice carrying across the fields:  
-
-**“I am the good shepherd. The good shepherd lays down his life for the sheep.”** (John 10:11, ESV)  
-
-The Tower, which had seen the birth of the Lamb of God, now stood as witness to the words of the Good Shepherd Himself.  
+The crowd gasped in amazement. No one had ever seen anything like it before. The man turned and looked toward the Christmas Tower. His eyes seemed to reflect the long history of that place—a place where shepherds once watched over lambs meant for sacrifices. With sheep grazing in the nearby fields and shepherds tending their flocks, He began to speak.
 
 ---
 
-⬅️ [Previous Page](chapter8-page2) | [Next Page →](chapter9-page2)
+[⬅️ Previous Page](/ChristmasTower/blog/chapter8-page2) | [Next Page ➡️](/ChristmasTower/blog/chapter9-page2)
