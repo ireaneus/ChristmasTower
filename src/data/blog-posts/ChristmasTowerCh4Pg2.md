@@ -17,4 +17,4 @@ Though the fields around Migdal Eder were calm and peaceful, it felt as if somet
 
 ---
 
-[⬅️ Previous Page](chapter4-page1) | [Next Page ➡️](chapter5-page1)
+[⬅️ Previous Page](/ChristmasTower/blog/chapter4-page1) | [Next Page ➡️](/ChristmasTower/blog/chapter5-page1)
