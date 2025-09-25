@@ -23,4 +23,4 @@ The shepherds worked carefully, making sure the lambs stayed clean and unharmed.
 
 ---
 
-[⬅️ Previous Page](chapter3-page2) | [Next Page ➡️](chapter4-page2)
+[⬅️ Previous Page](/ChristmasTower/blog/chapter3-page2) | [Next Page ➡️](/ChristmasTower/blog/chapter4-page2)
