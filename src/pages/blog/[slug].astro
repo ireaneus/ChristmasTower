@@ -45,9 +45,9 @@ const next = index >= 0 && index < sorted.length - 1 ? sorted[index + 1] : null;
     </article>
     <hr />
     <nav class="post-nav" aria-label="Post navigation">
-      {prev ? <a class="prev" href={`/blog/${prev.data.slug}`}>← {prev.data.title}</a> : <span />}
+      {prev ? <a class="prev" href={`/ChristmasTower/blog/${prev.data.slug}`}>← {prev.data.title}</a> : <span />}
       <a class="home" href="/ChristmasTower/">Home</a>
-      {next ? <a class="next" href={`/blog/${next.data.slug}`}>{next.data.title} →</a> : <span />}
+      {next ? <a class="next" href={`/ChristmasTower/blog/${next.data.slug}`}>{next.data.title} →</a> : <span />}
     </nav>
   </div>
 </BaseLayout>

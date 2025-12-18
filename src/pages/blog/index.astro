@@ -19,7 +19,7 @@ allPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new 
     <div class="post-grid">
       {allPosts.map((post) => (
         <ResourceCard
-          href={`/blog/${post.data.slug}`}
+          href={`/ChristmasTower/blog/${post.data.slug}`}
           title={post.data.title}
           description={post.data.description}
           image={post.data.image}
