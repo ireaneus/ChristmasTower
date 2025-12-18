@@ -16,6 +16,15 @@ const { title, slug, description, publishDate, label } = post.data;
 const readingTimeEstimate = readingTime(post.body).text
 const permalink = `${Astro.site.href}blog/${slug}`;
 const { Content } = await render(post)
+
+// build prev/next navigation (natural slug order: chapter1-page1, chapter1-page2...)
+const allPosts = await getCollection('posts');
+const sorted = allPosts.sort((a, b) =>
+  String(a.data.slug).localeCompare(String(b.data.slug), undefined, { numeric: true, sensitivity: 'base' })
+);
+const index = sorted.findIndex(p => p.data.slug === slug);
+const prev = index > 0 ? sorted[index - 1] : null;
+const next = index >= 0 && index < sorted.length - 1 ? sorted[index + 1] : null;
 ---
 
 <BaseLayout title={title} description={description} permalink={permalink} current="blog">
@@ -32,6 +41,11 @@ const { Content } = await render(post)
       <Content />
     </article>
     <hr />
+    <nav class="post-nav" aria-label="Post navigation">
+      {prev ? <a class="prev" href={`/blog/${prev.data.slug}`}>← {prev.data.title}</a> : <span />}
+      <a class="home" href="/ChristmasTower/">Home</a>
+      {next ? <a class="next" href={`/blog/${next.data.slug}`}>{next.data.title} →</a> : <span />}
+    </nav>
   </div>
 </BaseLayout>
 
@@ -78,5 +92,24 @@ const { Content } = await render(post)
 
   .post-description {
     font-style: italic;
+  }
+
+  .post-nav {
+    display: flex;
+    justify-content: space-between;
+    gap: 1em;
+    align-items: center;
+    margin: 2em 0 4em 0;
+    font-weight: 700;
+  }
+
+  .post-nav a {
+    color: var(--primary-color);
+    text-decoration: none;
+    padding: 0.4em 0.6em;
+  }
+
+  .post-nav .home {
+    margin: 0 auto;
   }
 </style>

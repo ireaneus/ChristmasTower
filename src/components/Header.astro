@@ -3,6 +3,7 @@ import Logo from './Logo.astro'
 import Nav from './Nav.astro'
 
 const { current = '' } = Astro.props;
+const isBlog = current === 'blog';
 ---
 
 <style>
@@ -21,7 +22,40 @@ const { current = '' } = Astro.props;
   }
 </style>
 
-<header>
+{isBlog ? <div class="top-hover-zone" aria-hidden="true"></div> : null}
+
+<header class={isBlog ? 'blog-hidden' : ''}>
   <Logo />
   <Nav current={current} />
 </header>
+
+<style>
+  .top-hover-zone {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 8px;
+    z-index: 999;
+    background: transparent;
+  }
+
+  header.blog-hidden {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    transform: translateY(-100%);
+    transition: transform .25s ease, opacity .25s ease;
+    opacity: 0;
+    z-index: 1000;
+    background: var(--bg);
+  }
+
+  .top-hover-zone:hover + header.blog-hidden,
+  header.blog-hidden:hover {
+    transform: translateY(0);
+    opacity: 1;
+  }
+
+</style>

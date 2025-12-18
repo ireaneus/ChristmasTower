@@ -235,6 +235,31 @@ td {
   width: 100%;
 }
 
+/* Wider container for blog posts so media aligns with content */
+.is-blog .container {
+  max-width: 1000px;
+}
+
+/* Allow images in blog posts to scale larger and center */
+.is-blog .markdown-content img,
+.is-blog .content img {
+  max-width: 100%;
+  max-height: none;
+  margin: 1em auto;
+}
+
+/* Make embedded videos/iframes responsive and centered in blog pages */
+.is-blog .content iframe,
+.is-blog .content video,
+.is-blog .content embed,
+.is-blog .content object {
+  display: block;
+  max-width: 100%;
+  width: 100%;
+  height: auto;
+  margin: 1em auto;
+}
+
 .content h1 {
   font-size: 3em;
   margin: 1em 0;

@@ -11,16 +11,17 @@ export interface Props {
   image?: string;
 }
 const { title, description, permalink, current } = Astro.props;
+const isBlog = current === 'blog';
 ---
 <html lang="en">
 <head>
   <BaseHead title={title} description={description} permalink={permalink} />
 </head>
-<body>
+<body class={isBlog ? 'is-blog' : ''}>
   <div class="layout">
     <Header current={current} />
 
-    <main>
+    <main style={`padding-top: ${isBlog ? '110px' : '1em'};`}>
       <slot />
     </main>
 

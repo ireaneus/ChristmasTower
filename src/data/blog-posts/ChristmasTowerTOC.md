@@ -3,11 +3,13 @@ title: The Christmas Tower
 slug: table-of-contents
 publishDate: 12 Sept 2025
 description: Table of Contents for The Christmas Tower story (Pages 1–22).
-image: /ChristmasTower/images/Tower.webp
 label: christmastower
 ---
 
-![Tower of the Flock](/ChristmasTower/images/TowerFlockSunrise.webp)
+<video controls autoplay muted loop playsinline preload="metadata" poster="/ChristmasTower/images/TowerSunrise.webp" aria-label="the Tower video">
+	<source src="/ChristmasTower/videos/nightshepherds.mp4" type="video/mp4" />
+	Your browser does not support the video tag. <a href="/ChristmasTower/videos/nightshepherds.mp4">Download the video</a>.
+</video>
 
 ### Chapter 1 – Before Jacob was, I Am  
 
