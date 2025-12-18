@@ -2,7 +2,7 @@
 title: The Christmas Tower
 slug: chapter2-page1
 publishDate: 12 Sept 2025
-description: Chapter 2 Page 4. Boaz and Ruth
+description: Chapter 2 Ruth and the Kinsman Redeemer
 image: /ChristmasTower/images/RuthNaomi.webp
 label: christmastower
 ---

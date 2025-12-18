@@ -2,7 +2,7 @@
 title: The Christmas Tower
 slug: chapter2-page3
 publishDate: 12 Sept 2025
-description: Chapter 2 Pg.6 Boaz redeems Ruth; a lineage of hope begins.
+description: Chapter 2 Ruth and the Kinsman Redeemer
 image: /ChristmasTower/images/Ruth.webp
 label: christmastower
 ---

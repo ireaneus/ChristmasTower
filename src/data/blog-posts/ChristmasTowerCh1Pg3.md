@@ -2,8 +2,7 @@
 title: The Christmas Tower
 slug: chapter1-page3
 publishDate: 12 Sept 2025
-description: Chapter 1 Pg 3. Jacob’s Farewell
-image: /ChristmasTower/images/JacobMemorial.webp
+description: Chapter 1 Before Jacob was, I am
 label: christmastower
 ---
 
