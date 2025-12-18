@@ -1,12 +1,10 @@
 ---
-title: The Christmas Tower
+title: The Christmas Tower - Israel and the tower of Migdal Eder
 slug: chapter1-page3
-publishDate: 12 Sept 2025
-description: Chapter 1 Before Jacob was, I am
 label: christmastower
 ---
 
-<video controls autoplay muted loop playsinline preload="metadata" poster="/ChristmasTower/images/TowerSunrise.webp" aria-label="the Tower video">
+<video controls autoplay muted loop playsinline preload="metadata" poster="/ChristmasTower/images/TowerFlockSunrise.webp" aria-label="the Tower video">
 	<source src="/ChristmasTower/videos/jacobstone.mp4" type="video/mp4" />
 	Your browser does not support the video tag. <a href="/ChristmasTower/videos/jacobstone.mp4">Download the video</a>.
 </video>

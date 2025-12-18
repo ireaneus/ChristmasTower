@@ -1,22 +1,14 @@
 ---
-title: The Christmas Tower
-slug: kids
-publishDate: 12 Sept 2025
-description: For the Kids
-image: /ChristmasTower/images/JesusKidsSheep.webp
+title: The Christmas Tower - For the kids
+slug: chapter3-page4
 label: christmastower
 ---
 
-![Jesus Lamb and Tower](/ChristmasTower/images/JesusKidsSheep.webp)
+<video controls autoplay muted loop playsinline preload="metadata" poster="/ChristmasTower/images/TowerFlockSunrise.webp" aria-label="the Tower video">
+	<source src="/ChristmasTower/videos/JesusKids.mp4" type="video/mp4" />
+	Your browser does not support the video tag. <a href="/ChristmasTower/videos/JesusKids.mp4">Download the video</a>.
+</video>
 
----
-
-All through the Bible, God was showing us pictures of Jesus. Jacob’s sorrow and joy, Ruth’s rescuer, David the shepherd-king, and the spotless lambs—all of them pointed to God’s Son. At just the right time, Jesus came—the *Lamb of God, the King, the Redeemer*.
-
-The Bible says: *“Christ died for our sins.., He was buried, and He was raised on the third day according to the Scriptures”* (1 Corinthians 15:3–4, ESV).
-
-That’s the *good news*—God planned it all because He loves you. And just like the shepherds, you can believe this news and share it with others.
-
----
-
-[⬅️ Previous Page](/ChristmasTower/blog/epilogue) | [Next Page ➡️](/ChristmasTower/blog/adults)
+> *"For the Lord sees not as man sess: man looks on the outward appearance, but the Lord looks on the heart."*  
+>
+> **1 Samuel 16:7**

@@ -1,26 +1,14 @@
 ---
-title: The Christmas Tower
+title: The Christmas Tower - Sacred shepherds raise spotless lambs
 slug: chapter4-page1
-publishDate: 12 Sept 2025
-description: Chapter 4 Pg.9 Sacred shepherds raise spotless lambs.
-image: /ChristmasTower/images/ShepherdMangerSheep.webp
 label: christmastower
 --- 
 
-![Levitical Shepherd Sheep](/ChristmasTower/images/ShepherdMangerSheep.webp)
+<video controls autoplay muted loop playsinline preload="metadata" poster="/ChristmasTower/images/TowerFlockSunrise.webp" aria-label="the Tower video">
+	<source src="/ChristmasTower/videos/ShepherdLamb.mp4" type="video/mp4" />
+	Your browser does not support the video tag. <a href="/ChristmasTower/videos/ShepherdLamb.mp4">Download the video</a>.
+</video>
 
-David gave Migdal Eder and the fields around it to the Levitical shepherd-priests, who were given a sacred task: to raise lambs for the Temple sacrifices. These lambs had to be perfect, without spots or blemishes, because they would be offered to God. Some were chosen as Passover lambs, a sacrifice reminding Israel of how God had rescued them from Egypt.
-
----
-
-> *Speak to all the congregation of Israel, saying, ‘On the tenth of this month they are each one to take a lamb for themselves, according to their fathers’ households, a lamb for each household. Your lamb shall be an unblemished male a year old*
+> *Then Samuel took the horn of oil and anointed him in the midst of his brothers. And the Spirit of the Lord rushed upon David from that day forward.*  
 >
-> **Exodus 12.3,5**
-
----
-
-The shepherds worked carefully, making sure the lambs stayed clean and unharmed. If one was found to be perfect, they gently wrapped it in swaddling cloths and laid it in a manger keeping it safe and unblemished
-
----
-
-[⬅️ Previous Page](/ChristmasTower/blog/chapter3-page2) | [Next Page ➡️](/ChristmasTower/blog/chapter4-page2)
+> **1 Samuel 16:13**

@@ -68,7 +68,7 @@ body {
 
 
 h1 {
-  font-size: 3em;
+  font-size: 2.2em;
   margin: 0 0 1em 0;
 }
 
@@ -261,7 +261,7 @@ td {
 }
 
 .content h1 {
-  font-size: 3em;
+  font-size: 2.2em;
   margin: 1em 0;
 }
 
@@ -369,11 +369,11 @@ em, i {
 
 @media (max-width: 1020px) {
   h1 {
-    font-size: 3em;
+    font-size: 2.2em;
   }
 
   .content h1 {
-    font-size: 2.4em;
+    font-size: 2.2em;
   }
 }
 

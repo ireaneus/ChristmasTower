@@ -1,12 +1,10 @@
 ---
-title: The Christmas Tower
+title: The Christmas Tower - Jacob buries Rachel and names Benjamin
 slug: chapter1-page2
-publishDate: 12 Sept 2025
-description: Chapter 1 Pg.2 Jacob buries Rachel and names Benjamin.
 label: christmastower
 ---
 
-<video controls autoplay muted loop playsinline preload="metadata" poster="/ChristmasTower/images/TowerSunrise.webp" aria-label="the Tower video">
+<video controls autoplay muted loop playsinline preload="metadata" poster="/ChristmasTower/images/TowerFlockSunrise.webp" aria-label="the Tower video">
 	<source src="/ChristmasTower/videos/jacobben.mp4" type="video/mp4" />
 	Your browser does not support the video tag. <a href="/ChristmasTower/videos/jacobben.mp4">Download the video</a>.
 </video>

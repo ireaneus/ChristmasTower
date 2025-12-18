@@ -1,12 +1,10 @@
 ---
-title: The Christmas Tower 
+title: The Christmas Tower - Before Jacob was, I Am. 
 slug: chapter1-page1
-publishDate: 12 Sept 2025
-description: Chapter 1 Pg.1 Before Jacob was, I Am. 
 label: christmastower
 ---
 
-<video controls autoplay muted loop playsinline preload="metadata" poster="/ChristmasTower/images/TowerSunrise.webp" aria-label="the Tower video">
+<video controls autoplay muted loop playsinline preload="metadata" poster="/ChristmasTower/images/TowerFlockSunrise.webp" aria-label="the Tower video">
 	<source src="/ChristmasTower/videos/Tower.mp4" type="video/mp4" />
 	Your browser does not support the video tag. <a href="/ChristmasTower/videos/Tower.mp4">Download the video</a>.
 </video>

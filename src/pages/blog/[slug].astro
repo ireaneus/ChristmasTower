@@ -29,12 +29,15 @@ const next = index >= 0 && index < sorted.length - 1 ? sorted[index + 1] : null;
 
 <BaseLayout title={title} description={description} permalink={permalink} current="blog">
   <header>
-    <p>{publishDate} ~ {readingTimeEstimate}</p>
+    
     <h1>{title}</h1>
-    <div class="post-meta">
-      <span class="post-description">{description}</span>
-    </div>
-    <hr />
+
+    {description ? (
+      <div class="post-meta">
+        <span class="post-description">{description}</span>
+      </div>
+    ) : null}
+
   </header>
   <div class="container">
     <article class="content">
