@@ -189,7 +189,7 @@ export function renderBody(source, pageLabel, log) {
       if (isRef) {
         const ref = plainText(first[1]).trim();
         const verse = md.renderer.render(inner.slice(1).flat(), md.options, {});
-        out.push({ kind: 'scripture', html: `<blockquote class="scripture"><p class="scripture-ref"><span class="chrome">Second voice · </span>${esc(ref)}</p><div class="verse">${verse}</div></blockquote>` });
+        out.push({ kind: 'scripture', html: `<blockquote class="scripture"><p class="scripture-ref"><span class="chrome">Narrator voice · </span>${esc(ref)}</p><div class="verse">${verse}</div></blockquote>` });
       } else {
         const html = md.renderer.render(inner.flat(), md.options, {});
         log.unlabeled.push({ page: pageLabel, text: html.replace(/<[^>]+>/g, '').trim() });
