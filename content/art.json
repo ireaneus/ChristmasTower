@@ -1,0 +1,18 @@
+{
+  "home-hero": { "file": "NightTower.webp", "alt": "The stone tower at night above the shepherds' fields" },
+  "prologue": { "file": "TowerFlockSunrise.webp", "alt": "The old stone tower alone on its hill under a sky full of stars" },
+  "ch01": { "file": "ch01.webp", "alt": "Jacob holding his newborn son beside Rachel's stone on the road to Bethlehem, the tower on the hill" },
+  "ch02": { "file": "ch02.webp", "alt": "Ruth gathering barley in the field of Boaz below the tower" },
+  "ch03": { "file": "ch03.webp", "alt": "Samuel pouring oil over young David's head while his brothers watch" },
+  "ch04": { "file": "ch04.webp", "alt": "A Levitical shepherd laying a spotless lamb wrapped in cloth in the stone manger" },
+  "ch05": { "file": "MaryJoseph.webp", "alt": "Joseph leading Mary on a donkey along the road at sunset, the tower on its hill ahead" },
+  "ch06": { "file": "MaryJosephinn.webp", "alt": "Joseph leading Mary on a donkey through the crowded lamplit streets of Bethlehem" },
+  "ch07": { "file": "MaryJosepbaby.webp", "alt": "Mary and Joseph kneeling beside the baby in the stone manger inside the tower, sheep resting nearby" },
+  "interlude": { "file": "NightTower.webp", "alt": "Shepherds around a small fire in the fields at night, the tower glowing on the hill beneath the stars" },
+  "ch08": { "file": "ch08.webp", "alt": "An angel standing in the field, the tower lit on the hill" },
+  "ch09": { "file": "ch09.webp", "alt": "The shepherds kneeling in the straw before the baby in the manger" },
+  "ch10": { "file": "JesusLeper.webp", "alt": "Jesus reaching out his hand to a kneeling man on the road, a crowd following and the tower on the hill" },
+  "ch11": { "file": "ch11.webp", "alt": "Jesus riding a young donkey down the road past the tower as the crowd lays down their cloaks" },
+  "epilogue": { "file": "epilogue.webp", "alt": "A white stone with a new name written on it, resting in the grass among the tower's old stones" },
+  "for-the-adults": { "file": "for-the-adults.webp", "alt": "A grandparent reading aloud to children gathered close by lamplight" }
+}

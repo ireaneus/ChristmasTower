@@ -1,0 +1,36 @@
+<svg class="hero-svg" viewBox="0 0 1152 620" preserveAspectRatio="xMaxYMax slice" aria-hidden="true" focusable="false">
+<defs>
+<linearGradient id="hero-sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0B1426"/><stop offset="0.7" stop-color="#16264A"/><stop offset="1" stop-color="#22335A"/></linearGradient>
+<linearGradient id="hero-stone" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#141E33"/><stop offset="0.35" stop-color="#2A3A5C"/><stop offset="0.6" stop-color="#22304D"/><stop offset="1" stop-color="#111A2D"/></linearGradient>
+<radialGradient id="hero-glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#E3B04B" stop-opacity="0.55"/><stop offset="1" stop-color="#E3B04B" stop-opacity="0"/></radialGradient>
+<radialGradient id="hero-starglow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FFF4D6" stop-opacity="0.35"/><stop offset="1" stop-color="#FFF4D6" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1152" height="620" fill="url(#hero-sky)"/>
+<g fill="#F3E7C4">
+<circle cx="90" cy="70" r="1.6"/><circle cx="210" cy="140" r="1.1"/><circle cx="330" cy="60" r="1.4"/><circle cx="450" cy="190" r="1"/><circle cx="560" cy="90" r="1.8"/><circle cx="640" cy="40" r="1.1"/><circle cx="720" cy="160" r="1.3"/><circle cx="800" cy="70" r="1"/><circle cx="880" cy="130" r="1.6"/><circle cx="960" cy="50" r="1.2"/><circle cx="1040" cy="170" r="1"/><circle cx="1110" cy="80" r="1.5"/><circle cx="150" cy="240" r="1"/><circle cx="390" cy="290" r="1.2"/><circle cx="1000" cy="260" r="1"/><circle cx="700" cy="250" r="1"/><circle cx="1080" cy="300" r="1.1"/><circle cx="600" cy="300" r="0.9"/><circle cx="760" cy="30" r="1.2"/><circle cx="1130" cy="220" r="0.9"/><circle cx="260" cy="30" r="1"/><circle cx="500" cy="30" r="0.8"/><circle cx="930" cy="210" r="0.9"/><circle cx="40" cy="160" r="1.2"/>
+</g>
+<circle cx="760" cy="104" r="46" fill="url(#hero-starglow)"/>
+<path d="M760 84l3.4 16.6L780 104l-16.6 3.4L760 124l-3.4-16.6L740 104l16.6-3.4z" fill="#FFF4D6"/>
+<path d="M0 470 C 200 420, 380 390, 580 420 C 700 438, 800 420, 900 432 C 1000 444, 1080 430, 1152 440 L 1152 620 L 0 620 Z" fill="#101B31"/>
+<g transform="translate(830 170)">
+<ellipse cx="70" cy="330" rx="170" ry="60" fill="url(#hero-glow)"/>
+<path d="M0 40 V272 Q70 292 140 272 V40 Z" fill="url(#hero-stone)"/>
+<path d="M-10 26 Q70 16 150 26 V44 Q70 58 -10 44 Z" fill="url(#hero-stone)"/>
+<g fill="url(#hero-stone)"><path d="M-10 4h13v26h-13z"/><path d="M17 1h22v28h-22z"/><path d="M58 0h24v28h-24z"/><path d="M101 1h22v28h-22z"/><path d="M137 4h13v26h-13z"/></g>
+<path d="M-10 44 Q70 58 150 44" fill="none" stroke="#0F1729" stroke-width="2"/>
+<g fill="none" stroke="#0F1729" stroke-width="2" opacity="0.8"><path d="M0 100 Q70 118 140 100"/><path d="M0 158 Q70 176 140 158"/><path d="M0 216 Q70 234 140 216"/></g>
+<g stroke="#0F1729" stroke-width="2" opacity="0.55"><path d="M30 56V103M104 56V103M12 104V160M70 110V167M124 104V160M44 166V222M100 166V222M20 220V274M120 220V274"/></g>
+<path d="M0 40 V272 Q14 276 24 278 V44 Z" fill="#0A1222" opacity="0.35"/>
+<path d="M140 40 V272 Q126 276 116 278 V44 Z" fill="#0A1222" opacity="0.5"/>
+<rect x="62" y="64" width="16" height="30" rx="8" fill="#E3B04B" opacity="0.9"/>
+<path d="M48 280 V 232 a 22 22 0 0 1 44 0 V 280 Z" fill="#E3B04B"/>
+<path d="M48 280 L 92 280 L 190 340 L -60 340 Z" fill="#E3B04B" opacity="0.12"/>
+</g>
+<path d="M0 530 C 240 495, 470 515, 690 505 C 880 497, 1010 525, 1152 515 L 1152 620 L 0 620 Z" fill="#0A1222"/>
+<g fill="#D9D2BE" opacity="0.7">
+<ellipse cx="500" cy="534" rx="13" ry="7.5"/><ellipse cx="560" cy="524" rx="15" ry="8.5"/><ellipse cx="604" cy="530" rx="12" ry="7"/><ellipse cx="646" cy="522" rx="14" ry="8"/><ellipse cx="700" cy="530" rx="12" ry="7"/>
+</g>
+<g fill="#3A4A6B">
+<ellipse cx="488" cy="530" rx="5" ry="4"/><ellipse cx="546" cy="519" rx="5.5" ry="4.5"/><ellipse cx="615" cy="526" rx="4.5" ry="4"/><ellipse cx="632" cy="517" rx="5" ry="4.5"/><ellipse cx="711" cy="526" rx="4.5" ry="4"/>
+</g>
+</svg>

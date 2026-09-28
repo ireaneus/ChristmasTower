@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Christmas Tower family template</title>
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&amp;family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&amp;display=swap" rel="stylesheet">
+<style>
+body{margin:0}
+</style>
+</helmet>
+<div style="width: 1280px; height: 3100px; box-sizing: border-box; background: {{t.bg}}; color: {{t.text}}; font-family: 'Source Serif 4', Georgia, serif; display: flex; flex-direction: column; align-items: center">
+
+<nav style="width: 1152px; height: 84px; display: flex; align-items: center; justify-content: space-between">
+<a href="#top" style="font-family: 'Cormorant Garamond', serif; font-weight: 700; font-size: 30px; color: {{t.heading}}; text-decoration: none">The Christmas Tower</a>
+<div style="display: flex; gap: 32px; align-items: center; font-size: 18px">
+<a href="#plan" style="color: {{t.muted}}; text-decoration: none">Reading plan</a>
+<a href="#voices" style="color: {{t.muted}}; text-decoration: none">Two voices</a>
+<a href="#adults" style="color: {{t.muted}}; text-decoration: none">For grown-ups</a>
+<button type="button" onClick="{{toggle}}" aria-label="{{toggleLabel}}" style="display: inline-flex; align-items: center; gap: 10px; height: 44px; padding: 0 18px; border-radius: 22px; border: 1px solid {{t.border}}; background: {{t.surface}}; color: {{t.text}}; font-family: 'Source Serif 4', Georgia, serif; font-size: 16px; cursor: pointer">
+<sc-if value="{{isDark}}" hint-placeholder-val="{{true}}">
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="4"></circle><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"></path></svg>
+<span>Light</span>
+</sc-if>
+<sc-if value="{{isLight}}" hint-placeholder-val="{{false}}">
+<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"></path></svg>
+<span>Dark</span>
+</sc-if>
+</button>
+</div>
+</nav>
+
+<header style="position: relative; width: 1152px; height: 620px; border-radius: 28px; overflow: hidden; background: linear-gradient(180deg, #0B1426 0%, #16264A 70%, #22335A 100%)">
+<svg width="1152" height="620" viewBox="0 0 1152 620" style="position: absolute; left: 0; top: 0" aria-hidden="true">
+<g fill="#F3E7C4">
+<circle cx="90" cy="70" r="1.6"></circle><circle cx="210" cy="140" r="1.1"></circle><circle cx="330" cy="60" r="1.4"></circle><circle cx="450" cy="190" r="1"></circle><circle cx="560" cy="90" r="1.8"></circle><circle cx="640" cy="40" r="1.1"></circle><circle cx="720" cy="160" r="1.3"></circle><circle cx="800" cy="70" r="1"></circle><circle cx="880" cy="130" r="1.6"></circle><circle cx="960" cy="50" r="1.2"></circle><circle cx="1040" cy="170" r="1"></circle><circle cx="1110" cy="80" r="1.5"></circle><circle cx="150" cy="240" r="1"></circle><circle cx="390" cy="290" r="1.2"></circle><circle cx="1000" cy="260" r="1"></circle><circle cx="700" cy="250" r="1"></circle>
+</g>
+<circle cx="820" cy="100" r="5" fill="#FFF4D6"></circle>
+<circle cx="820" cy="100" r="22" fill="#FFF4D6" opacity="0.12"></circle>
+<path d="M0 470 C 200 420, 380 390, 580 420 C 740 445, 880 395, 1152 440 L 1152 620 L 0 620 Z" fill="#101B31"></path>
+<path d="M0 530 C 240 495, 470 515, 690 505 C 880 497, 1010 525, 1152 515 L 1152 620 L 0 620 Z" fill="#0A1222"></path>
+<g transform="translate(830 190)">
+<rect x="0" y="0" width="140" height="240" fill="#1A2640"></rect>
+<rect x="-8" y="-18" width="156" height="22" fill="#1A2640"></rect>
+<rect x="-8" y="-40" width="20" height="24" fill="#1A2640"></rect><rect x="26" y="-40" width="20" height="24" fill="#1A2640"></rect><rect x="60" y="-40" width="20" height="24" fill="#1A2640"></rect><rect x="94" y="-40" width="20" height="24" fill="#1A2640"></rect><rect x="128" y="-40" width="20" height="24" fill="#1A2640"></rect>
+<path d="M0 64 H140 M0 128 H140 M0 188 H140" stroke="#243352" stroke-width="2"></path>
+<rect x="62" y="56" width="16" height="28" rx="8" fill="#E3B04B" opacity="0.85"></rect>
+<path d="M48 240 V 194 a 22 22 0 0 1 44 0 V 240 Z" fill="#E3B04B"></path>
+<path d="M28 240 L 112 240 L 190 300 L -56 300 Z" fill="#E3B04B" opacity="0.12"></path>
+</g>
+<g fill="#D9D2BE" opacity="0.55">
+<ellipse cx="560" cy="520" rx="14" ry="8"></ellipse><ellipse cx="600" cy="526" rx="12" ry="7"></ellipse><ellipse cx="640" cy="518" rx="14" ry="8"></ellipse><ellipse cx="500" cy="530" rx="12" ry="7"></ellipse>
+</g>
+</svg>
+<div style="position: absolute; left: 56px; top: 110px; width: 580px; display: flex; flex-direction: column; gap: 22px">
+<p style="margin: 0; font-size: 17px; font-weight: 600; color: #E3B04B">Two evenings. Eleven chapters. One tower.</p>
+<h1 style="margin: 0; font-family: 'Cormorant Garamond', serif; font-weight: 700; font-size: 92px; line-height: 0.95; color: #F4EEDC">The Christmas Tower</h1>
+<p style="margin: 0; font-size: 22px; line-height: 1.6; color: #D6D0BE">An old stone tower on a hill above Bethlehem tells how it held the lambs, then held the Lamb, and was given a new name.</p>
+<div style="display: flex; gap: 14px; padding-top: 6px">
+<a href="#plan" style="display: inline-flex; align-items: center; height: 56px; padding: 0 30px; border-radius: 28px; background: #E3B04B; color: #1A1406; font-weight: 700; font-size: 19px; text-decoration: none">Read together tonight</a>
+</div>
+</div>
+</header>
+
+<section id="plan" style="width: 1152px; padding: 72px 0 24px; display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px">
+<div style="padding: 36px; border-radius: 24px; background: {{t.surface}}; border: 1px solid {{t.border}}; display: flex; flex-direction: column; gap: 12px">
+<p style="margin: 0; font-size: 16px; font-weight: 700; color: {{t.accentText}}">Evening one · about 25 minutes</p>
+<h2 style="margin: 0 0 8px; font-family: 'Cormorant Garamond', serif; font-weight: 700; font-size: 44px; line-height: 1.05; color: {{t.heading}}">The tower receives its name</h2>
+<sc-for list="{{day1}}" as="ch" hint-placeholder-count="8">
+<a href="#ch" style="display: flex; align-items: center; gap: 14px; min-height: 46px; text-decoration: none; color: {{t.text}}; font-size: 19px">
+<span style="width: 38px; height: 38px; flex-shrink: 0; border-radius: 19px; background: {{t.chipBg}}; color: {{t.chipText}}; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 15px">{{ch.num}}</span>
+<span>{{ch.title}}</span>
+</a>
+</sc-for>
+</div>
+<div style="padding: 36px; border-radius: 24px; background: {{t.surface}}; border: 1px solid {{t.border}}; display: flex; flex-direction: column; gap: 12px">
+<p style="margin: 0; font-size: 16px; font-weight: 700; color: {{t.accentText}}">Evening two · about 20 minutes</p>
+<h2 style="margin: 0 0 8px; font-family: 'Cormorant Garamond', serif; font-weight: 700; font-size: 44px; line-height: 1.05; color: {{t.heading}}">Heaven breaks in</h2>
+<sc-for list="{{day2}}" as="ch" hint-placeholder-count="6">
+<a href="#ch" style="display: flex; align-items: center; gap: 14px; min-height: 46px; text-decoration: none; color: {{t.text}}; font-size: 19px">
+<span style="width: 38px; height: 38px; flex-shrink: 0; border-radius: 19px; background: {{t.chipBg}}; color: {{t.chipText}}; display: flex; align-items: center; justify-content: center; font-weight: 700; font-size: 15px">{{ch.num}}</span>
+<span>{{ch.title}}</span>
+</a>
+</sc-for>
+</div>
+</section>
+
+<section id="voices" style="width: 1152px; padding: 40px 0 16px; display: flex; gap: 18px; align-items: center">
+<span style="padding: 9px 16px; border-radius: 12px; background: {{t.chipBg}}; color: {{t.chipText}}; font-size: 16px; font-weight: 700">The Tower speaks</span>
+<span style="padding: 9px 16px; border-radius: 12px; background: {{t.scripBg}}; color: {{t.scripText}}; border: 1px solid {{t.scripRule}}; font-size: 16px; font-weight: 700">Second voice: Scripture and questions</span>
+<span style="font-size: 17px; color: {{t.muted}}">Give the second voice a different sound, and the children will follow the whole book.</span>
+</section>
+
+<article style="width: 760px; padding: 56px 0 64px; display: flex; flex-direction: column; gap: 24px; font-size: 22px; line-height: 1.75">
+<div style="display: flex; flex-direction: column; gap: 6px">
+<p style="margin: 0; font-size: 17px; font-weight: 700; color: {{t.accentText}}">Evening two · Chapter 8</p>
+<h2 style="margin: 0; font-family: 'Cormorant Garamond', serif; font-weight: 700; font-size: 62px; line-height: 1.05; color: {{t.heading}}">Good News and Glad Tidings</h2>
+</div>
+<div style="height: 360px; box-sizing: border-box; border-radius: 20px; border: 2px dashed {{t.phBorder}}; background: {{t.phBg}}; display: flex; align-items: center; justify-content: center; text-align: center; padding: 40px; color: {{t.phText}}; font-size: 18px">[Art: the angel in the field, shepherds shielding their eyes, the tower lit on the hill]</div>
+<p style="margin: 0">Inside my walls the child was sleeping. Out in the fields, my shepherds knew nothing about it. They sat with their flocks the way they had on a thousand other nights, the soft bleating of the sheep mingling with the night breeze, and everything was quiet and ordinary and theirs.</p>
+<p style="margin: 0; font-family: 'Cormorant Garamond', serif; font-weight: 700; font-size: 36px; line-height: 1.2; color: {{t.heading}}">Then the sky opened over my fields.</p>
+<p style="margin: 0">An angel of the Lord stood in the grass, and the brightness of him washed across the flocks and up my stones until every crack in me was lit. The shepherds went down on the ground and covered their eyes and shook. And out of all that burning light came a voice as gentle as a hand on a shoulder.</p>
+<blockquote style="margin: 8px 0; padding: 32px 36px; border-radius: 20px; background: {{t.scripBg}}; border-top: 2px solid {{t.scripRule}}; border-bottom: 2px solid {{t.scripRule}}; color: {{t.scripText}}; display: flex; flex-direction: column; gap: 12px">
+<p style="margin: 0; font-size: 16px; font-weight: 700; color: #E3B04B">Second voice · Luke 2:10-12 (ESV)</p>
+<p style="margin: 0; font-family: 'Cormorant Garamond', serif; font-style: italic; font-weight: 600; font-size: 29px; line-height: 1.45">“Fear not, for behold, I bring you good news of great joy that will be for all the people. For unto you is born this day in the city of David a Savior, who is Christ the Lord. And this will be a sign for you: you will find a baby wrapped in swaddling cloths and lying in a manger.”</p>
+</blockquote>
+<p style="margin: 0">These words came back across the field to me, spoken out loud by a shepherd still on his knees.</p>
+<p style="margin: 0; font-style: italic">“Swaddling cloths, and a manger!”</p>
+<p style="margin: 0">Then another voice, closer. “Which manger? Ours?”</p>
+<div style="padding: 28px 32px; border-radius: 20px; background: {{t.surface}}; border: 1px solid {{t.border}}; display: flex; flex-direction: column; gap: 10px">
+<p style="margin: 0; font-size: 16px; font-weight: 700; color: {{t.accentText}}">Talk about it</p>
+<p style="margin: 0; font-size: 21px">The shepherds knew exactly which manger to run to. Why do you think the angel gave them that sign?</p>
+</div>
+<div style="display: flex; justify-content: space-between; padding-top: 16px; font-size: 18px; font-weight: 600">
+<a href="#ch7" style="color: {{t.accentText}}; text-decoration: none">Back: The Tower Receives Its Name</a>
+<a href="#ch9" style="color: {{t.accentText}}; text-decoration: none">Next: Worship Christ the King</a>
+</div>
+</article>
+
+<footer id="adults" style="margin-top: auto; width: 1152px; padding: 36px 0 52px; border-top: 1px solid {{t.border}}; display: flex; justify-content: space-between; font-size: 17px; color: {{t.muted}}">
+<span>Written by David Haines. Scripture quotations are from the ESV® Bible.</span>
+<a href="#kdp" style="color: {{t.accentText}}; text-decoration: none; font-weight: 600">The original edition on Amazon [KDP LINK]</a>
+</footer>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props='{"startTheme":{"editor":"enum","options":["dark","light"],"default":"dark"},"$preview":{"width":1280,"height":3100}}'>
+class Component extends DCLogic {
+  constructor(props) {
+    super(props);
+    this.state = { theme: null };
+  }
+  renderVals() {
+    const theme = this.state.theme ?? this.props.startTheme ?? 'dark';
+    const dark = {
+      bg: '#0B1426', surface: '#121F38', border: '#24324F', text: '#E8E2D0', muted: '#B4BCCB',
+      heading: '#F4EEDC', accentText: '#E3B04B', chipBg: '#1E2C48', chipText: '#E8E2D0',
+      scripBg: '#101B31', scripText: '#F1E6C8', scripRule: '#E3B04B',
+      phBorder: '#3A4A6B', phBg: '#101B31', phText: '#8E99B0'
+    };
+    const light = {
+      bg: '#FBF6EC', surface: '#FFFFFF', border: '#EADFC6', text: '#262A33', muted: '#5A5F6B',
+      heading: '#22335A', accentText: '#8A6516', chipBg: '#F1E7CF', chipText: '#22335A',
+      scripBg: '#22335A', scripText: '#FBF6EC', scripRule: '#E3B04B',
+      phBorder: '#CDBB93', phBg: '#F5EDDB', phText: '#7A6A48'
+    };
+    const isDark = theme === 'dark';
+    return {
+      t: isDark ? dark : light,
+      isDark: isDark,
+      isLight: !isDark,
+      toggleLabel: isDark ? 'Switch to light theme' : 'Switch to dark theme',
+      toggle: () => this.setState({ theme: isDark ? 'light' : 'dark' }),
+      day1: [
+        { num: 'P', title: 'The Tower Speaks' },
+        { num: '1', title: 'Jacob and Benjamin, Two Names and One Destiny' },
+        { num: '2', title: 'Ruth, a Foreigner Receives a New Family Name' },
+        { num: '3', title: 'David, Sent to the Fields and Raised to the Throne' },
+        { num: '4', title: 'The Levitical Shepherds, Lambs Chosen and Set Apart' },
+        { num: '5', title: 'Mary and Joseph, a Child Named Before He Was Born' },
+        { num: '6', title: 'Joseph and Mary, Turned Away and Taken In' },
+        { num: '7', title: 'The Tower Receives Its Name' }
+      ],
+      day2: [
+        { num: '8', title: 'Good News and Glad Tidings' },
+        { num: '9', title: 'Worship Christ the King' },
+        { num: '10', title: 'The Good Shepherd' },
+        { num: '11', title: 'The Stones Would Cry Out' },
+        { num: 'E', title: 'The One Who Gives the Names' },
+        { num: 'A', title: 'For the Adults' }
+      ]
+    };
+  }
+}
+</script>
+</body>
+</html>
