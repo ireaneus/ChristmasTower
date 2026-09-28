@@ -1,0 +1,19 @@
+{
+  "name": "christmas-tower-site",
+  "version": "11.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Read-aloud website for The Christmas Tower, built from the v11 manuscript.",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "check": "node src/check.mjs",
+    "contrast": "node src/contrast.mjs",
+    "preview": "SITE_BASE=/ node src/build.mjs && python3 -m http.server 8080 -d _site"
+  },
+  "dependencies": {
+    "markdown-it": "^15.0.2"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
