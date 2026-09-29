@@ -24,6 +24,32 @@
     });
   }
 
+  // Turn pages with the arrow keys or a sideways swipe.
+  function turn(rel) {
+    var link = document.querySelector('.pager a[rel="' + rel + '"]');
+    if (link) window.location.href = link.href;
+  }
+  document.addEventListener('keydown', function (e) {
+    if (e.defaultPrevented || e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) return;
+    var tag = (e.target && e.target.tagName) || '';
+    if (tag === 'INPUT' || tag === 'TEXTAREA' || tag === 'SELECT') return;
+    if (e.key === 'ArrowRight') turn('next');
+    if (e.key === 'ArrowLeft') turn('prev');
+  });
+  var startX = null, startY = 0;
+  document.addEventListener('touchstart', function (e) {
+    if (e.touches.length !== 1) { startX = null; return; }
+    startX = e.touches[0].clientX;
+    startY = e.touches[0].clientY;
+  }, { passive: true });
+  document.addEventListener('touchend', function (e) {
+    if (startX === null) return;
+    var dx = e.changedTouches[0].clientX - startX;
+    var dy = e.changedTouches[0].clientY - startY;
+    startX = null;
+    if (Math.abs(dx) > 80 && Math.abs(dy) < 50) turn(dx < 0 ? 'next' : 'prev');
+  }, { passive: true });
+
   var body = document.body;
   var href = body.getAttribute('data-continue-href');
   if (href) {

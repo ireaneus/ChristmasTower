@@ -1,6 +1,7 @@
 {
   "home-hero": { "file": "NightTower.webp", "alt": "The stone tower at night above the shepherds' fields" },
   "prologue": { "file": "TowerFlockSunrise.webp", "alt": "The old stone tower alone on its hill under a sky full of stars" },
+  "prologue-3": { "file": "tower-dream.webp", "alt": "Then one day the earth shook beneath me" },
   "ch01": { "file": "ch01.webp", "alt": "Jacob holding his newborn son beside Rachel's stone on the road to Bethlehem, the tower on the hill" },
   "ch02": { "file": "ch02.webp", "alt": "Ruth gathering barley in the field of Boaz below the tower" },
   "ch03": { "file": "ch03.webp", "alt": "Samuel pouring oil over young David's head while his brothers watch" },

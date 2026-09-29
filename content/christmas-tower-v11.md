@@ -438,8 +438,6 @@ I knew that name. It came up my road ahead of Him, carried by a tired carpenter 
 >
 > *\"She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.\"*
 
----
-
 He will save his people. I had heard those words in the dark years before, and I had kept them, and I had never once known what they would look like. That day I watched them happen on my road, to a man nobody else would touch.
 
 And then Jesus turned and looked up at me. He looked at my old broken stones for a long while, the way you look at something you made with your own hands. Then He looked out at the sheep in the grass and at the shepherds standing among them, and He began to teach the people about shepherds and their sheep.
@@ -480,8 +478,6 @@ Some men in the crowd told Him to make the singing stop.
 >
 > *\"I tell you, if these were silent, the very stones would cry out.\"*
 
----
-
 The very stones.
 
 I have been one of those stones since before there was a Bethlehem to look down on. I have stood on this hill through storm and fire and every silent year in between, and I have never once stopped my worship. If every voice in that crowd had gone quiet, I would have sung His arrival out of my own cracked walls and been glad to do it.
@@ -493,8 +489,6 @@ Then He went over the rise, and the road took Him out of my sight, and I could n
 I learned the rest, from the people who came back up the road afterward, saying it to each other with their hands over their mouths. They took Him outside the city and they killed Him on a cross, the way I had seen it in the lightning when I was young and understood none of it. The sky went black in the middle of the day. And the ground shook so hard that the rocks in that country split open.
 
 I felt it in my foundation. Every stone of me shuddered, and I knew what it meant, because I had known those hands since the day they set me here.
-
----
 
 > **Matthew 27:51 (ESV)**
 >
@@ -519,8 +513,6 @@ The Master Stonemason has a new name too, and it was His all along.
 > *\"I am the Alpha and the Omega, the first and the last, the beginning and the end.\"*
 
 **Every name in this book was given. His was revealed.**
-
----
 
 My stones sleep now. They are scattered on a quiet hill where the grass has grown over them, and no one who passes knows what they are. My work is finished and I am content with how it went. I held the lambs. I held the Lamb. And I was handed a name I did nothing to earn, by the only hands that have ever made anything new.
 
@@ -548,10 +540,6 @@ Every one of those names was given. Not one of them was earned.
 
 The One who handed them out kept His own name quiet for a long time. The tower knew Him as the Master Stonemason, because hands are what the tower understood. At the end, He said the rest out loud. Jesus, who saves His people from their sins. Immanuel, which means God with us. The Lamb, the Good Shepherd, the King, the Beginning and the End. The Baby in the manger is God Himself, come down to be held.
 
----
-
-Now here is the part that belongs to you.
-
 He is still doing this. He still goes to the overlooked, the crumbling, the ones everybody walks wide around, and He reaches out His hand. And to everyone who comes to Him, He gives a new life and a new name.
 
 ---
@@ -563,8 +551,6 @@ He is still doing this. He still goes to the overlooked, the crumbling, the ones
 A white stone with your name on it, written by the same hands that chose an old tower out of the rock and set it on a hill to wait.
 
 He knows which stone is yours. He has known since before Bethlehem had a name.
-
----
 
 > **Isaiah 43:1 (ESV)**
 >
@@ -608,8 +594,6 @@ The tower calls Him the Master Stonemason for most of the book, because hands ar
 >
 > *See what kind of love the Father has given to us, that we should be called children of God; and so we are.*
 
----
-
 **We sinned.** We turned away from Him and we need rescuing.
 
 ---
@@ -621,8 +605,6 @@ The tower calls Him the Master Stonemason for most of the book, because hands ar
 > **Romans 6:23 (ESV)**
 >
 > *For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.*
-
----
 
 **Jesus saves us.** He died for our sins, was buried, and rose again, so that we can be forgiven and belong to Him forever.
 

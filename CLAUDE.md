@@ -13,10 +13,10 @@ A static read-aloud site for *The Christmas Tower* (v11), served at https://irea
 ## Layout
 
 - `content/christmas-tower-v11.md`: the manuscript (single source of truth)
-- `content/art.json`: page key to illustration in `assets/art/` (WebP). A missing file renders a placeholder with the alt text.
+- `content/art.json`: page key to illustration in `assets/art/` (WebP). Keys are `ch08` for a chapter's first page (always has a slot; a missing file shows a placeholder), `ch08-2` for later pages (art only when listed), plus `prologue-3`, `epilogue-2`, `for-the-adults-2`, `interlude`, and `home-hero`. Unknown keys fail the build. `ART_PAGES.md` (generated) lists every key.
 - `content/asides.json`: overrides for italic paragraphs, keyed by opening words: `"aside"` (Talk about it card) or `"tower"` (italic Tower voice)
 - `content/redirects.json`: old site paths to new pages
-- `src/build.mjs`: parser and page generator. It also writes `ASIDES_REVIEW.md`.
+- `src/build.mjs`: parser and page generator. Each `---` in the manuscript is a page break: a chapter's first page is `/read/08/`, and later pages are `/read/08/2/` and so on. Previous and Next turn one page, crossing into the next chapter at the end. It also writes `ASIDES_REVIEW.md`.
 - `src/check.mjs`: verification (`npm run check`). It must pass before deploy.
 - `src/contrast.mjs`: WCAG contrast from the CSS tokens
 - `src/templates/`, `src/styles.css`, `src/site.js`: HTML partials, design tokens and components, theme toggle and continue-reading
@@ -25,7 +25,7 @@ A static read-aloud site for *The Christmas Tower* (v11), served at https://irea
 ## Commands
 
 - `npm run build`: builds `_site/` with base `/ChristmasTower/` (override with `SITE_BASE`)
-- `npm run check`: Scripture card count, page chain, no working notes, word-for-word story match, internal links, and page quality and contrast
+- `npm run check`: Scripture card count, the page-by-page chain, no working notes, word-for-word story match, internal links, and page quality and contrast
 - `npm run preview`: builds with base `/` and serves on http://localhost:8080
 
 Pushing to `main` deploys through `.github/workflows/pages.yml` (GitHub Actions Pages source).

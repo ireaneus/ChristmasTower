@@ -54,5 +54,5 @@ The v11.3.1 note says "no em dashes found", but four remain. They appear on the 
 ## Display cleanup applied (words unchanged)
 
 - Escaped quotes (`\"`) become curly quotes, and straight apostrophes become curly apostrophes.
-- Horizontal rules become a gold star divider, except beside a Scripture card, at the start or end of a page, or when two rules sit together (Chapter 7, lines 311–313).
+- Each horizontal rule (`---`) is a page break: the site starts a new page there. Two rules together (Chapter 7, lines 311–313) or a rule at the start or end of a section never make an empty page. A gold star divider marks the end of each chapter.
 - The "Working manuscript" line and the Version History section are left out.

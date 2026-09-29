@@ -157,8 +157,9 @@ function loadAsides() {
 }
 const ASIDES = loadAsides();
 
-// Renders one page body. Records italic paragraphs and unlabeled quotes in `log`.
-export function renderBody(source, pageLabel, log) {
+// Renders a section as a list of page bodies, split at each ---.
+// Records italic paragraphs and unlabeled quotes in `log`.
+export function renderPages(source, pageLabel, log) {
   const toks = md.parse(source, {});
   const blocks = topLevelBlocks(toks);
   const out = [];
@@ -209,16 +210,20 @@ export function renderBody(source, pageLabel, log) {
       throw new Error(`${pageLabel}: unexpected block "${t}"`);
     }
   }
-  // Section breaks: drop at the edges, collapse repeats, and drop beside Scripture cards.
-  const kept = [];
-  out.forEach((blk, i) => {
-    if (blk.kind !== 'hr') return kept.push(blk);
-    const prev = kept.at(-1);
-    const next = out.slice(i + 1).find((x) => x.kind !== 'hr');
-    if (!prev || !next || prev.kind === 'hr' || prev.kind === 'scripture' || next.kind === 'scripture') return;
-    kept.push(blk);
-  });
-  return kept.map((blk) => (blk.kind === 'hr' ? `<div class="section-break">${ORNAMENT}</div>` : blk.html)).join('\n');
+  // Each --- is a page break. Repeated breaks and breaks at the edges never make an empty page.
+  const pages = [[]];
+  for (const blk of out) {
+    if (blk.kind === 'hr') {
+      if (pages.at(-1).length) pages.push([]);
+    } else pages.at(-1).push(blk.html);
+  }
+  if (!pages.at(-1).length) pages.pop();
+  return pages.map((blocks) => blocks.join('\n'));
+}
+
+// Renders a section with no page breaks (Dedication, Personal Note).
+export function renderBody(source, pageLabel, log) {
+  return renderPages(source, pageLabel, log).join('\n');
 }
 
 function talkCard(inner) {
@@ -338,48 +343,82 @@ function main() {
     }));
   };
 
-  // Reading pages
+  // Reading pages: every --- in a chapter starts a new page.
   const eveningWords = { 1: 0, 2: 0 };
-  reading.forEach((p, i) => {
-    const prev = reading[i - 1];
-    const next = reading[i + 1];
-    const link = (q, dir) => q
-      ? `<a class="pager-${dir}" href="${href(q)}" rel="${dir}"><span class="pager-label chrome">${dir === 'prev' ? 'Back' : 'Next'}</span><span>${esc(q.isInterlude ? 'End of Evening One' : q.title)}</span></a>`
-      : dir === 'prev'
-        ? `<a class="pager-prev" href="${BASE}#plan"><span class="pager-label chrome">Back</span><span>Reading plan</span></a>`
-        : `<a class="pager-next" href="${BASE}about/"><span class="pager-label chrome">Next</span><span>About the book</span></a>`;
-    const pager = `<nav class="pager" aria-label="Chapters">${link(prev, 'prev')}${link(next, 'next')}</nav>`;
+  const sheets = [];
+  for (const p of reading) {
+    const bodies = p.isInterlude ? [null] : renderPages(p.md, p.label, log);
+    if (p.evening === 1 || p.evening === 2) eveningWords[p.evening] += p.isInterlude ? 0 : manuscriptTokens(p.md).length;
+    bodies.forEach((body, k) => {
+      const sub = k === 0 ? '' : `${k + 1}/`;
+      const artKey = p.isInterlude ? 'interlude' : k === 0 ? p.key : `${p.key}-${k + 1}`;
+      sheets.push({ p, body, n: k + 1, total: bodies.length, artKey, rel: `read/${p.slug}/${sub}index.html`, href: `${href(p)}${sub}` });
+    });
+  }
+  // Every art.json key must name a real page, so a typo fails loudly instead of silently showing nothing.
+  const artKeys = new Set(['home-hero', ...sheets.map((sh) => sh.artKey)]);
+  const unknown = Object.keys(ART).filter((k) => !artKeys.has(k));
+  if (unknown.length) {
+    throw new Error(`content/art.json has keys that match no page: ${unknown.join(', ')}. See ART_PAGES.md for the valid keys.`);
+  }
+  writeArtPages(sheets);
+
+  const chapterName = (q) => (q.isInterlude ? 'End of Evening One' : q.num ? `Chapter ${q.num}: ${q.title}` : q.evening === 'after' ? q.title : `${q.label}: ${q.title}`);
+
+  sheets.forEach((sh, i) => {
+    const { p } = sh;
+    const prev = sheets[i - 1];
+    const next = sheets[i + 1];
+    const turn = (to, dir) => {
+      if (!to) {
+        return dir === 'prev'
+          ? `<a class="pager-prev" href="${BASE}#plan"><span class="pager-label chrome">Back</span><span>Reading plan</span></a>`
+          : `<a class="pager-next" href="${BASE}about/"><span class="pager-label chrome">The end</span><span>About the book</span></a>`;
+      }
+      const same = to.p === p;
+      const label = same ? (dir === 'prev' ? 'Previous page' : 'Next page') : dir === 'prev' ? 'Back to' : 'Next';
+      const text = same ? `Page ${to.n} of ${to.total}` : chapterName(to.p);
+      return `<a class="pager-${dir}" href="${to.href}" rel="${dir}"><span class="pager-label chrome">${label}</span><span>${esc(text)}</span></a>`;
+    };
+    const count = sh.total > 1 ? `<p class="pager-count chrome" aria-hidden="true">${sh.n} / ${sh.total}</p>` : '';
+    const pager = `<nav class="pager" aria-label="Turn the page">${turn(prev, 'prev')}${count}${turn(next, 'next')}</nav>`;
 
     if (p.isInterlude) {
       const main = fill(tpl('interlude.html'), {
         title: esc(p.title),
         art: artSlot('interlude', p.description),
         starIcon: STAR,
-        nextHref: href(next),
+        nextHref: next.href,
         pager,
       });
-      page({ rel: `read/${p.slug}/index.html`, title: 'End of Evening One', description: `The end of Evening One of The Christmas Tower. ${p.title}.`, main, bodyClass: 'page-interlude' });
+      page({ rel: sh.rel, title: 'End of Evening One', description: `The end of Evening One of The Christmas Tower. ${p.title}.`, main, bodyClass: 'page-interlude' });
       return;
     }
 
-    const body = renderBody(p.md, p.label, log);
-    if (p.evening === 1 || p.evening === 2) eveningWords[p.evening] += manuscriptTokens(p.md).length;
-    const eyebrow = p.evening === 'after' ? 'After Evening Two' : `Evening ${p.evening === 1 ? 'one' : 'two'} · ${p.label}`;
+    const first = sh.n === 1;
+    const last = sh.n === sh.total;
+    const where = p.evening === 'after' ? 'After Evening Two' : `Evening ${p.evening === 1 ? 'one' : 'two'} · ${p.label}`;
+    const eyebrow = sh.total > 1 ? `${where} · Page ${sh.n} of ${sh.total}` : where;
     const main = fill(tpl('chapter.html'), {
+      headClass: first ? 'reading-head' : 'reading-head continued',
       eyebrow: esc(eyebrow),
       title: esc(p.title),
-      art: artSlot(p.key, ART[p.key]?.alt || `Illustration for ${p.label}`),
-      body,
+      // Page 1 always has an art slot (placeholder until the file exists); later pages only when art.json names one.
+      art: first || ART[sh.artKey] ? artSlot(sh.artKey, ART[sh.artKey]?.alt || `Illustration for ${p.label}`) : '',
+      body: sh.body,
+      end: last ? `<div class="section-break chapter-end">${ORNAMENT}</div>` : '',
       pager,
     });
-    const firstPara = (body.match(/<p>([\s\S]*?)<\/p>/) || [, ''])[1];
+    const firstPara = (sh.body.match(/<p>([\s\S]*?)<\/p>/) || (sh.body.match(/<div class="verse"><p>([\s\S]*?)<\/p>/) || [, '']))[1];
+    const baseTitle = p.evening === 'after' ? p.title : `${p.label}: ${p.title}`;
+    const pageLabel = sh.total > 1 && !first ? `, page ${sh.n}` : '';
     page({
-      rel: `read/${p.slug}/index.html`,
-      title: p.evening === 'after' ? p.title : `${p.label}: ${p.title}`,
-      description: firstSentences(firstPara),
+      rel: sh.rel,
+      title: first ? baseTitle : `${baseTitle} (page ${sh.n})`,
+      description: firstSentences(firstPara) || `${baseTitle}. The Christmas Tower.`,
       main,
       bodyClass: 'page-reading',
-      bodyData: ` data-continue-href="${href(p)}" data-continue-label="${esc(p.continueLabel)}"`,
+      bodyData: ` data-continue-href="${sh.href}" data-continue-label="${esc(p.continueLabel + pageLabel)}"`,
     });
   });
 
@@ -448,15 +487,44 @@ function main() {
   for (const f of usedArt) fs.copyFileSync(path.join(ROOT, 'assets/art', f), path.join(OUT, 'assets/art', f));
 
   // Sitemap
-  const urls = ['', 'about/', ...reading.map((p) => `read/${p.slug}/`)];
+  const urls = ['', 'about/', ...sheets.map((sh) => sh.href.slice(BASE.length))];
   fs.writeFileSync(path.join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls.map((u) => `<url><loc>${SITE_URL}${u}</loc></url>`).join('\n')}\n</urlset>\n`);
 
   writeAsidesReview(log);
   if (log.unlabeled.length) {
     console.log(`Note: ${log.unlabeled.length} blockquote(s) without a reference line (listed in MANUSCRIPT_FLAGS.md).`);
   }
-  console.log(`Built ${reading.length + 3} pages into ${path.relative(ROOT, OUT)}/ with base ${BASE}`);
+  console.log(`Built ${sheets.length + 3} pages (${sheets.length} reading pages) into ${path.relative(ROOT, OUT)}/ with base ${BASE}`);
   console.log(`Evening one: ${eveningWords[1]} words (~${Math.round(eveningWords[1] / WORDS_PER_MINUTE)} min). Evening two: ${eveningWords[2]} words (~${Math.round(eveningWords[2] / WORDS_PER_MINUTE)} min).`);
+}
+
+function writeArtPages(sheets) {
+  const status = (key) => {
+    const e = ART[key];
+    if (!e?.file) return '';
+    return fs.existsSync(path.join(ROOT, 'assets/art', e.file)) ? `\`${e.file}\`` : `\`${e.file}\` (missing, shows placeholder)`;
+  };
+  const lines = [
+    '# Art keys for every page',
+    '',
+    'Generated by `npm run build`. Use the key in `content/art.json` to put an illustration on that page:',
+    '',
+    '```json',
+    '"ch08-2": { "file": "ch08-angels.webp", "alt": "A great company of angels filling the sky above the fields" }',
+    '```',
+    '',
+    'Page 1 of every chapter always has an art slot, which shows a placeholder until its file exists. Any other page shows art only when it has an entry. The art sits at the top of the page, under the heading. The home page hero uses the key `home-hero`.',
+    '',
+    '| Key | Page | Starts with | Art |',
+    '| --- | --- | --- | --- |',
+    ...sheets.map((sh) => {
+      const words = sh.body === null ? sh.p.title : sh.body.replace(/<span class="chrome">[^<]*<\/span>|<p class="talk-label chrome">[^<]*<\/p>/g, '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().split(' ').slice(0, 9).join(' ') + '…';
+      const where = sh.p.isInterlude ? 'Interlude' : `${sh.p.label}, page ${sh.n} of ${sh.total}`;
+      return `| \`${sh.artKey}\` | ${where} | ${words.replace(/\|/g, '\\|')} | ${status(sh.artKey)} |`;
+    }),
+    '',
+  ];
+  fs.writeFileSync(path.join(ROOT, 'ART_PAGES.md'), lines.join('\n'));
 }
 
 function writeAsidesReview(log) {

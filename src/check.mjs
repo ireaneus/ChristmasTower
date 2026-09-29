@@ -2,7 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { loadManuscript, splitSections, classify, manuscriptTokens, tokens } from './build.mjs';
+import { loadManuscript, splitSections, classify, manuscriptTokens, tokens, renderPages } from './build.mjs';
 import { contrastFailures } from './contrast.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -28,6 +28,7 @@ const files = walk(OUT);
 const htmlFiles = files.filter((f) => f.endsWith('.html'));
 const html = Object.fromEntries(htmlFiles.map((f) => [path.relative(OUT, f), fs.readFileSync(f, 'utf8')]));
 const pageFor = (slug) => html[`read/${slug}/index.html`];
+const noLog = { italics: [], unlabeled: [] };
 
 // Detect the base path the site was built with from the favicon link.
 const base = (html['index.html'].match(/href="([^"]*)assets\/favicon\.svg/) || [])[1];
@@ -36,6 +37,9 @@ const src = loadManuscript();
 const { sections } = splitSections(src);
 const { pages, about, interlude } = classify(sections);
 const reading = pages;
+// Every page the site should have, in reading order: 08, 08/2, 08/3, ...
+const pageCount = (p) => (p.isInterlude ? 1 : renderPages(p.md, p.label, noLog).length);
+const sheetSlugs = (p) => Array.from({ length: pageCount(p) }, (_, k) => (k === 0 ? p.slug : `${p.slug}/${k + 1}`));
 
 console.log('Checking _site/ against content/christmas-tower-v11.md');
 
@@ -48,10 +52,11 @@ console.log('Checking _site/ against content/christmas-tower-v11.md');
   cards === refs ? pass(`Scripture cards: ${cards} of ${refs} (ESV) references`) : fail(`Scripture cards: site has ${cards}, manuscript has ${refs} (ESV) references`);
 }
 
-// 2. Every heading has a page, and prev/next form one chain from Prologue to For the Adults.
+// 2. Every heading has its pages, and prev/next form one chain from Prologue to For the Adults.
 {
-  const missing = reading.filter((p) => !pageFor(p.slug));
-  missing.length ? fail(`Missing pages: ${missing.map((p) => p.slug).join(', ')}`) : pass(`All ${reading.length} reading pages exist`);
+  const expected = reading.flatMap(sheetSlugs);
+  const missing = expected.filter((slug) => !pageFor(slug));
+  missing.length ? fail(`Missing pages: ${missing.join(', ')}`) : pass(`All ${reading.length} sections exist as ${expected.length} pages`);
   if (!html['about/index.html']) fail('Missing /about/');
   if (!html['404.html']) fail('Missing /404.html');
 
@@ -71,12 +76,12 @@ console.log('Checking _site/ against content/christmas-tower-v11.md');
     }
     slug = nextSlug;
   }
-  const expected = reading.map((p) => p.slug);
   JSON.stringify(chain) === JSON.stringify(expected)
-    ? pass(`Prev/next chain: ${chain.join(' > ')}`)
-    : fail(`Prev/next chain is ${chain.join(' > ')}, expected ${expected.join(' > ')}`);
-  const seven = pageFor('07');
-  if (!seven || relHref(seven, 'next') !== `${base}read/interlude/`) fail('Chapter 7 next link must go to the interlude');
+    ? pass(`Page chain unbroken: ${chain.length} pages from prologue to ${chain.at(-1)}`)
+    : fail(`Page chain is ${chain.join(' > ')}, expected ${expected.join(' > ')}`);
+  const seven = reading.find((p) => p.slug === '07');
+  const lastOfSeven = pageFor(sheetSlugs(seven).at(-1));
+  if (!lastOfSeven || relHref(lastOfSeven, 'next') !== `${base}read/interlude/`) fail('The last page of Chapter 7 must turn to the interlude');
 }
 
 // 3. No working notes leak into the output.
@@ -114,12 +119,14 @@ console.log('Checking _site/ against content/christmas-tower-v11.md');
   for (const p of reading.filter((q) => !q.isInterlude)) {
     const want = manuscriptTokens(p.md);
     total += want.length;
-    if (compare(p.label, want, storyTokens(pageFor(p.slug))) !== true) ok = false;
+    const pagesHtml = sheetSlugs(p).map(pageFor);
+    const got = pagesHtml.every(Boolean) ? pagesHtml.flatMap((h) => storyTokens(h) || []) : null;
+    if (compare(p.label, want, got) !== true) ok = false;
   }
   const aboutWant = [...manuscriptTokens(about.dedication), ...manuscriptTokens(about.note)];
   total += aboutWant.length;
   if (compare('About', aboutWant, storyTokens(html['about/index.html'])) !== true) ok = false;
-  if (ok) pass(`Story words match the manuscript: ${total} words across ${reading.length} pages and /about/`);
+  if (ok) pass(`Story words match the manuscript: ${total} words across every reading page and /about/`);
 
   if (interlude) {
     const ih = pageFor('interlude');
