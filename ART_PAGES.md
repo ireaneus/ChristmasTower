@@ -14,33 +14,32 @@ Page 1 of every chapter always has an art slot, which shows a placeholder until 
 | `prologue-2` | Prologue, page 2 of 4 | Micah 4:8 (ESV) “And you, O tower of the… |  |
 | `prologue-3` | Prologue, page 3 of 4 | Then one day the earth shook beneath me, my… | `tower-dream.webp` |
 | `prologue-4` | Prologue, page 4 of 4 | Isaiah 53:3 (ESV) “He was despised and rejected by… |  |
-| `ch01` | Chapter 1, page 1 of 2 | One day a man pitched his tent in my… | `ch01.webp` (missing, shows placeholder) |
+| `ch01` | Chapter 1, page 1 of 2 | One day a man pitched his tent in my… | `JacobBen.webp` |
 | `ch01-2` | Chapter 1, page 2 of 2 | Genesis 35:18-20 (ESV) And as her soul was departing… |  |
-| `ch02` | Chapter 2, page 1 of 6 | A new morning came up over the hills and… | `ch02.webp` (missing, shows placeholder) |
-| `ch02-2` | Chapter 2, page 2 of 6 | Ruth 1:16 (ESV) But Ruth said, “Do not urge… |  |
-| `ch02-3` | Chapter 2, page 3 of 6 | So the two of them walked the road back… |  |
-| `ch02-4` | Chapter 2, page 4 of 6 | Ruth 2:10-13 (ESV) Then she fell on her face,… |  |
-| `ch02-5` | Chapter 2, page 5 of 6 | In time Boaz took Ruth as his wife. That… |  |
-| `ch02-6` | Chapter 2, page 6 of 6 | Ephesians 2:13 (ESV) But now in Christ Jesus you… |  |
-| `ch03` | Chapter 3, page 1 of 2 | The fields were soft and still that morning, and… | `ch03.webp` (missing, shows placeholder) |
-| `ch03-2` | Chapter 3, page 2 of 2 | 1 Samuel 16:13 (ESV) Then Samuel took the horn… |  |
-| `ch04` | Chapter 4, page 1 of 2 | Exodus 12:3, 5 (ESV) Speak to all the congregation… | `ch04.webp` (missing, shows placeholder) |
+| `ch02` | Chapter 2, page 1 of 4 | A new morning came up over the hills and… | `RuthNaomi.webp` |
+| `ch02-2` | Chapter 2, page 2 of 4 | Ruth 1:16 (ESV) But Ruth said, “Do not urge… |  |
+| `ch02-3` | Chapter 2, page 3 of 4 | So the two of them walked the road back… | `BoazRuth.webp` |
+| `ch02-4` | Chapter 2, page 4 of 4 | Ruth 2:10-13 (ESV) Then she fell on her face,… |  |
+| `ch03` | Chapter 3, page 1 of 3 | The fields were soft and still that morning, and… | `DavidTower.webp` |
+| `ch03-2` | Chapter 3, page 2 of 3 | That morning a prophet named Samuel came down the… | `DavidSamuel.webp` |
+| `ch03-3` | Chapter 3, page 3 of 3 | 1 Samuel 16:13 (ESV) Then Samuel took the horn… |  |
+| `ch04` | Chapter 4, page 1 of 2 | Exodus 12:3, 5 (ESV) Speak to all the congregation… | `TowerShepherdsheep.webp` |
 | `ch04-2` | Chapter 4, page 2 of 2 | The years went by, and the throne came, the… |  |
 | `ch05` | Chapter 5, page 1 of 4 | Luke 2:1-5 (ESV) In those days a decree went… | `MaryJoseph.webp` |
 | `ch05-2` | Chapter 5, page 2 of 4 | It was evening, the sun was going down behind… |  |
-| `ch05-3` | Chapter 5, page 3 of 4 | Matthew 1:20-21 (ESV) But as he considered these things,… |  |
+| `ch05-3` | Chapter 5, page 3 of 4 | Matthew 1:20-21 (ESV) But as he considered these things,… | `JosephTowerDream.webp` |
 | `ch05-4` | Chapter 5, page 4 of 4 | Luke 1:26-31 (ESV) The angel Gabriel came to her… |  |
 | `ch06` | Chapter 6, page 1 of 2 | Night fell softly over Bethlehem’s hills, and I stood… | `MaryJosephinn.webp` |
-| `ch06-2` | Chapter 6, page 2 of 2 | Every door in town said no. The tower said… |  |
-| `ch07` | Chapter 7, page 1 of 2 | They came in out of the cold, and I… | `MaryJosepbaby.webp` |
-| `ch07-2` | Chapter 7, page 2 of 2 | Then the baby opened His eyes and looked at… |  |
+| `ch06-2` | Chapter 6, page 2 of 2 | Every door in town said no. The tower said… | `MaryJosephNightTower.webp` |
+| `ch07` | Chapter 7, page 1 of 2 | They came in out of the cold, and I… | `MaryJosephBaby.webp` |
+| `ch07-2` | Chapter 7, page 2 of 2 | Then the baby opened His eyes and looked at… | `BabyJesusTower.webp` |
 | `interlude` | Interlude | The Night with the Shepherds Under the Tower | `NightTower.webp` |
-| `ch08` | Chapter 8, page 1 of 3 | Inside my walls the child was sleeping. Out in… | `ch08.webp` (missing, shows placeholder) |
+| `ch08` | Chapter 8, page 1 of 3 | Inside my walls the child was sleeping. Out in… | `ShepherdsAngel.webp` |
 | `ch08-2` | Chapter 8, page 2 of 3 | Luke 2:10-12 (ESV) “Fear not, for behold, I bring… |  |
-| `ch08-3` | Chapter 8, page 3 of 3 | Luke 2:14 (ESV) “Glory to God in the highest,… |  |
-| `ch09` | Chapter 9, page 1 of 3 | The shepherds came up off the ground, and the… | `ch09.webp` (missing, shows placeholder) |
+| `ch08-3` | Chapter 8, page 3 of 3 | Luke 2:14 (ESV) “Glory to God in the highest,… | `ShepherdsAngels.webp` |
+| `ch09` | Chapter 9, page 1 of 3 | The shepherds came up off the ground, and the… | `ShepherdsBaby.webp` |
 | `ch09-2` | Chapter 9, page 2 of 3 | Isaiah 9:6 (ESV) For to us a child is… |  |
-| `ch09-3` | Chapter 9, page 3 of 3 | They could not hold it. They went back out… |  |
+| `ch09-3` | Chapter 9, page 3 of 3 | They could not hold it. They went back out… | `ShepherdsPraising.webp` |
 | `ch10` | Chapter 10, page 1 of 6 | Many years went by after the night the child… | `JesusLeper.webp` |
 | `ch10-2` | Chapter 10, page 2 of 6 | Matthew 8:1-3 (ESV) When he came down from the… |  |
 | `ch10-3` | Chapter 10, page 3 of 6 | “He touched him,” a woman said. “Look at his… |  |

@@ -19,8 +19,8 @@ Rows marked `asides.json` are already overridden there. Delete the key to fall b
 | 7 | Chapter 1 | aside | italic list | Did you know there are heavenly books that have our names written in it? Which book is your name listed in? |
 | 8 | Chapter 2 | aside | default rule | Did you notice the name change? Was there one or two name changes? |
 | 9 | Chapter 2 | aside | asides.json | Scripture still calls her Ruth the Moabite after the redemption. She kept the name she came with, and God wrote her into the family line of the King anyway. |
-| 10 | Chapter 2 | aside | asides.json | Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to? It's exhausting to try and keep up with them all. |
-| 11 | Chapter 2 | aside | asides.json | The Master Stonemason had reached all the way into Moab for one foreign widow with nothing to her name. Ruth walks out of the story as a mother in the family line of the King of kings. He gave her a new people, a new home, and a new name. |
+| 10 | Chapter 2 | aside | asides.json | The Master Stonemason had reached all the way into Moab for one foreign widow with nothing to her name. Ruth walks out of the story as a mother in the family line of the King of kings. He gave her a new people, a new home, and a new name. |
+| 11 | Chapter 2 | aside | asides.json | Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to? |
 | 12 | Chapter 3 | aside | asides.json | The Master Stonemason's Spirit fell on David from that day on, he came back to the field a shepherd king |
 | 13 | Chapter 5 | tower | default rule | The Tower did not rest that night. Something in its stones had come awake when that man looked at him, and it would not settle again. |
 | 14 | Chapter 5 | tower | default rule | Something has come. |

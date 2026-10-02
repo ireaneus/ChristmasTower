@@ -113,7 +113,7 @@ Ruth could have stayed in Moab. Her sister-in-law did. She could have kept her c
 
 > **Ruth 1:16 (ESV)**
 >
-> *But Ruth said, \"Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God.\"*
+> *But Ruth said, "Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God."*
 
 *Scripture still calls her Ruth the Moabite after the redemption. She kept the name she came with, and God wrote her into the family line of the King anyway.*
 
@@ -127,21 +127,13 @@ The field belonged to a man named Boaz. One morning he came out to his harvest, 
 
 Boaz walked over and spoke to her kindly.
 
-*Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to? It's exhausting to try and keep up with them all.*
+In time Boaz took Ruth as his wife. A son was born to them, and they named him Obed. Obed became the father of Jesse, and Jesse became the father of David the king.
 
 ---
 
 > **Ruth 2:10-13 (ESV)**
 >
-> *Then she fell on her face, bowing to the ground, and said to him, \"Why have I found favor in your eyes, that you should take notice of me, since I am a foreigner?\" But Boaz answered her, \"All that you have done for your mother-in-law since the death of your husband has been fully told to me... The LORD repay you for what you have done, and a full reward be given you by the LORD, the God of Israel, under whose wings you have come to take refuge!\"*
-
----
-
-In time Boaz took Ruth as his wife. That is what a kinsman-redeemer did. When a family had lost everything, the nearest relative could step in, pay what was owed, and carry the loss himself. Boaz paid a price he did not owe to bring a foreign widow home.
-
-A son was born to them, and they named him Obed. Obed became the father of Jesse, and Jesse became the father of David the king.
-
----
+> *Then she fell on her face, bowing to the ground, and said to him, "Why have I found favor in your eyes, that you should take notice of me, since I am a foreigner?\" But Boaz answered her, \"All that you have done for your mother-in-law since the death of your husband has been fully told to me... The LORD repay you for what you have done, and a full reward be given you by the LORD, the God of Israel, under whose wings you have come to take refuge!"*
 
 > **Ephesians 2:13 (ESV)**
 >
@@ -149,9 +141,11 @@ A son was born to them, and they named him Obed. Obed became the father of Jesse
 
 > **Ruth 4:14 (ESV)**
 >
-> *\"Blessed be the LORD, who has not left you this day without a redeemer.\"*
+> *"Blessed be the LORD, who has not left you this day without a redeemer."*
 
 *The Master Stonemason had reached all the way into Moab for one foreign widow with nothing to her name. Ruth walks out of the story as a mother in the family line of the King of kings. He gave her a new people, a new home, and a new name.*
+
+*Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to?*
 
 ---
 
@@ -164,6 +158,8 @@ One of them was a boy.
 His name was David, the youngest son of a man named Jesse. He sang while he worked. I heard him from where I stood, all those songs going up into the open air with no one to hear them but the sheep and the Master Stonemason he was singing to. His hands were gentle with the lambs and steady when something came out of the hills after them.
 
 His family had given him the sheep to watch. The Master Stonemason had given him something more, and had told no one yet.
+
+---
 
 That morning a prophet named Samuel came down the road to Bethlehem with a horn of oil in his hand. The Master Stonemason had sent him to anoint a king.
 
@@ -233,14 +229,14 @@ He turned back to the road and reached up and took her hand.
 
 > **Matthew 1:20-21 (ESV)**
 >
-> *But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, \"Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.\"*
+> *But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. She will bear a son, and you shall call his name Jesus, for he will save his people from their sins."*
 
 >
 > *And you tower of the flock.. A loud voice called out in the night, waking the Tower from it's slumber.*
 
 > **Micah 4:8 (ESV)**
 >
-> *\"And you, O tower of the flock, hill of the daughter of Zion, to you shall it come, the former dominion shall come, kingship for the daughter of Jerusalem.\"*
+> *"And you, O tower of the flock, hill of the daughter of Zion, to you shall it come, the former dominion shall come, kingship for the daughter of Jerusalem."*
 
 *The Tower did not rest that night. Something in its stones had come awake when that man looked at him, and it would not settle again.*
 
@@ -250,11 +246,11 @@ He turned back to the road and reached up and took her hand.
 
 > **Luke 1:26-31 (ESV)**
 >
-> *The angel Gabriel came to her and said, \"Greetings, O favored one, the Lord is with you! Do not be afraid, Mary, for you have found favor with God. And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus.\"*
+> *The angel Gabriel came to her and said, "Greetings, O favored one, the Lord is with you! Do not be afraid, Mary, for you have found favor with God. And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus."*
 
 > **Luke 1:32-33 (ESV)**
 >
-> *\"He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David, and he will reign over the house of Jacob forever, and of his kingdom there will be no end.\"*
+> *"He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David, and he will reign over the house of Jacob forever, and of his kingdom there will be no end."*
 
 ---
 
@@ -270,7 +266,7 @@ So I did the only thing an old tower can do. I let my light spill out of the ent
 
 ---
 
-**Every door in town said no. The tower said yes.**
+Every door in town said no. The tower said yes.
 
 The world had no room, The Master Stonemason made room anyway, and He used an old pile of stone on a hill to do it.
 
@@ -352,7 +348,7 @@ The praise of heaven came down on those fields until my old stones rang with it.
 
 And then they were gone, as suddenly as they had come, and the night closed back over us, and the silence afterward was the loudest thing I have ever heard. The grass was the same. The sheep were the same. Nothing out there had changed except everything.
 
-**The biggest news in history, and it was given to shepherds instead of kings. The overlooked told first, just like David, watching sheep while his brothers stood in line for the crown.**
+The biggest news in history, and it was given to shepherds instead of kings. The overlooked told first, just like David, watching sheep while his brothers stood in line for the crown.
 
 I had stood over those fields for a long time, and I had watched the important things of Bethlehem pass those men by. That night however, heaven came down into their field and told them before anyone else. I was starting to learn how the Master Stonemason works, He goes to the ones nobody sends for.
 
@@ -372,7 +368,7 @@ I knew what they were seeing.
 
 I had held a thousand lambs in that stone box. Every one of them inspected, every one of them perfect, every one of them wrapped in those same cloths and laid in that same manger and called a Passover lamb.
 
-**A tower full of lambs named for a Lamb who had not yet come. That night I held the One they were named for.**
+A tower full of lambs named for a Lamb who had not yet come. That night I held the One they were named for.
 
 Then one of the shepherds began to speak, and the words were older than any of us, older than my foundation, spoken by a prophet who never saw this night and saw it anyway.
 
