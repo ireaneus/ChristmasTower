@@ -43,10 +43,10 @@ Page 1 of every chapter always has an art slot, which shows a placeholder until 
 | `ch10` | Chapter 10, page 1 of 6 | Many years went by after the night the child… | `JesusLeper.webp` |
 | `ch10-2` | Chapter 10, page 2 of 6 | Matthew 8:1-3 (ESV) When he came down from the… |  |
 | `ch10-3` | Chapter 10, page 3 of 6 | “He touched him,” a woman said. “Look at his… |  |
-| `ch10-4` | Chapter 10, page 4 of 6 | Matthew 1:21 (ESV) “She will bear a son, and… |  |
+| `ch10-4` | Chapter 10, page 4 of 6 | Matthew 1:21 (ESV) “She will bear a son, and… | `Jesussheep.webp` |
 | `ch10-5` | Chapter 10, page 5 of 6 | John 10:10-11, 14-16 (ESV) “The thief comes only to… |  |
 | `ch10-6` | Chapter 10, page 6 of 6 | Thieves who come to steal and kill and destroy.… |  |
-| `ch11` | Chapter 11, page 1 of 4 | The seasons turned over me again and again after… | `ch11.webp` (missing, shows placeholder) |
+| `ch11` | Chapter 11, page 1 of 4 | The seasons turned over me again and again after… | `Jesusdonkey.webp` |
 | `ch11-2` | Chapter 11, page 2 of 4 | Luke 19:40 (ESV) “I tell you, if these were… |  |
 | `ch11-3` | Chapter 11, page 3 of 4 | Three days later, He walked out of a grave.… |  |
 | `ch11-4` | Chapter 11, page 4 of 4 | Revelation 22:13 (ESV) “I am the Alpha and the… |  |
