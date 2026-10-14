@@ -50,9 +50,9 @@ Page 1 of every chapter always has an art slot, which shows a placeholder until 
 | `ch11-2` | Chapter 11, page 2 of 4 | Luke 19:40 (ESV) “I tell you, if these were… |  |
 | `ch11-3` | Chapter 11, page 3 of 4 | Three days later, He walked out of a grave.… |  |
 | `ch11-4` | Chapter 11, page 4 of 4 | Revelation 22:13 (ESV) “I am the Alpha and the… |  |
-| `epilogue` | Epilogue, page 1 of 2 | The Narrator speaks. These pages carry a different voice.… | `epilogue.webp` (missing, shows placeholder) |
+| `epilogue` | Epilogue, page 1 of 2 | The Narrator speaks. These pages carry a different voice.… | `whitestonetower.webp` |
 | `epilogue-2` | Epilogue, page 2 of 2 | Revelation 2:17 (ESV) “To the one who conquers I… |  |
-| `for-the-adults` | For the Adults, page 1 of 5 | This is a book about names, and every one… | `for-the-adults.webp` (missing, shows placeholder) |
+| `for-the-adults` | For the Adults, page 1 of 5 | This is a book about names, and every one… | `grandkidstower.webp` |
 | `for-the-adults-2` | For the Adults, page 2 of 5 | Genesis 1:27 (ESV) So God created man in his… |  |
 | `for-the-adults-3` | For the Adults, page 3 of 5 | Romans 3:23 (ESV) For all have sinned and fall… |  |
 | `for-the-adults-4` | For the Adults, page 4 of 5 | Romans 5:8 (ESV) But God shows his love for… |  |
