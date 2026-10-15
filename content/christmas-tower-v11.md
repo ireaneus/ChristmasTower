@@ -16,17 +16,17 @@ To my beloved wife — she has always loved me the mostestes.
 
 ## Prologue: The Tower Speaks
 
-My name is Migdal Eder. In Hebrew it means Tower of the Flock, and I carried that name alone for thousands of years. Then came one very special night when I was given a new name; The Christmas Tower. That name is a high honor, and it came with important work to do. Stay with me and I will tell you how I received it.
+My name is Migdal Eder. In Hebrew it means Tower of the Flock, and I carried that name for thousands of years. Then came one very special night when I was given a new name - *"The Christmas Tower"*. That name is a high honor, and it came with important work. Stay with me and I will tell you how I received it.
 
-That special night was long ago. Today I am nothing more than a pile of rocks on a quiet hill, and time has forgotten me altogether.
+That night was long ago, today I am nothing more than a pile of rocks on a quiet hill, and time has forgotten me altogether.
 
 My foundation was laid so long ago, that it feels as if I was here at the beginning of creation. I was built in the quiet hills of Canaan, south of a town called Salem. Both of those names have changed since then. The hills of Canaan are called Israel now, and Salem is called Jerusalem. Names change here. Hold on to that.
 
-The Master Stonemason built me. He chose every stone Himself and worked it slowly, chipping away all that did not belong, patient and exact, until each one would settle against its neighbor and hold. He set them all in place.
+The Master Stonemason who built me chose every stone Himself, working them in patiently, and precise, so that each one would settle against its neighbor and hold firm.
 
 From high above I watched the shepherds guard their flocks from prowling wolves, from wild weather, and from robbers who came only to steal and kill and destroy.
 
-And so I slept.
+For many years the shepherds took care of the sheep, their occasional bleating would lull me into a calming and peacefull state, and so I slept.
 
 ---
 
@@ -70,11 +70,11 @@ Something is coming.
 
 One day a man pitched his tent in my shadow. His name was Jacob, the grandson of Abraham, and the Master Stonemason had just given him a new name of his own. Israel. He came carrying a grief so heavy I could feel it from where I stood. His wife Rachel had died giving birth to a son.
 
-With her last breath, Rachel named the baby Ben-oni, which means son of my sorrow. Jacob took the boy in his arms and gave him a different name. Benjamin. Son of my right hand.
+With her last breath, Rachel named the baby Ben-oni, which means son of my sorrow. Jacob took the boy in his arms and gave him a different name. Benjamin, Son of my right hand.
 
 *Same little boy, two names.*
 
-Israel buried Rachel on the road to Bethlehem and set a stone over her grave so that no one would forget her. I stood quiet through all of it. There was nothing for me to do but keep watch, so I kept watch.
+Israel buried Rachel on the road to Bethlehem and set a stone over her grave so that no one would forget her. There was nothing for me to do but keep watch.
 
 I stood a long while after they had gone. I did not understand yet why the Master Stonemason had set me on this hill, or what He wanted with an old tower made of rock. I only knew that He had put me here with His own hands, and that He was not finished with me.
 
@@ -97,13 +97,13 @@ I stood a long while after they had gone. I did not understand yet why the Maste
 
 ## Chapter 2: Ruth, a Foreigner Receives a New Family Name
 
-A new morning came up over the hills and laid its light across the barley fields. The heads of grain bowed and lifted in the wind like a field of worshipers. I had watched a hundred harvests come in from where I stood. This one brought me something I had never seen.
+A new morning came up over the hills and laid its light across the barley fields. The heads of grain bowed and lifted in the wind like a field of worshipers. I had watched a hundred harvests come in from where I stood. 
 
-A young woman came walking into my fields.
+This morning brought me something new. A young foreign woman came walking into my fields.
 
-Her name was Ruth, and she had come a long way from home. She was born in Moab, where the people prayed to gods carved out of wood, gods that had never once answered them. She married into a family from Bethlehem, my home town. The family had run to Moab to escape the famine in Israel. Then death came for that family. The father died. Then both sons. Three widows were left standing in a foreign country: Ruth, her sister-in-law, and Naomi, the mother.
+Her name was Ruth, and she had come a long way from home. She was born in Moab, where the people prayed to gods carved out of wood, gods that seem to take more than they give. She married into a family from Bethlehem, my home town. The family had run to Moab to escape the famine in Israel. Then death came for that family, the father and both sons died. Leaving three widows left in the foreign country: Ruth, her sister-in-law, and Naomi, the mother.
 
-Naomi decided to go home. She had left Bethlehem with a husband and two sons, and she was walking back with nothing, and bitterness. When the women of Bethlehem called her by name, she told them to stop. Do not call me Naomi, she said. Call me Mara. Naomi means pleasant. Mara means bitter. She had renamed herself out of her own grief.
+Naomi decided to go home, she had left Bethlehem with a husband and two sons, and she was walking back with nothing, and bitterness. When the women of Bethlehem called her by name, she told them to stop. *"Do not call me Naomi"*, she said. *"Call me Mara"*. Naomi means pleasant. Mara means bitter. She had renamed herself out of her own grief.
 
 Ruth could have stayed in Moab. Her sister-in-law did. She could have kept her country, her people, and her gods, and no one would have thought less of her for it. She chose Naomi instead, and she chose Naomi's God.
 
@@ -157,7 +157,7 @@ One of them was a boy.
 
 His name was David, the youngest son of a man named Jesse. He sang while he worked. I heard him from where I stood, all those songs going up into the open air with no one to hear them but the sheep and the Master Stonemason he was singing to. His hands were gentle with the lambs and steady when something came out of the hills after them.
 
-His family had given him the sheep to watch. The Master Stonemason had given him something more, and had told no one yet.
+His family had given him the sheep to watch. The Master Stonemason had given him something as well, something very special.
 
 ---
 
@@ -217,6 +217,8 @@ I had been watching a long while by then. A boy renamed over his mother's grave.
 
 ---
 
+/*Note: move image to this page */
+
 It was evening, the sun was going down behind the hills and the light came across the fields the color of honey. That's when I saw them on the road, a man walking, leading a donkey, and a young woman riding it with both hands resting on the child still inside her.
 
 As the weary couple continued on their journey, the man looked up and found me on my hill, he did not look away. He held my gaze, his face was filled with heavy concern, I felt his burden, and although it seemed heavy he knew he wasn't doing it alone.  He had put his faith and trust in the Master Stonemason.
@@ -262,7 +264,7 @@ Mary and Joseph reached Bethlehem at last, and found the town full of travelers.
 
 Then the two of them turned and left the noise behind them, out past the last lamp and into the cold and the quiet. I had stood on this hill through storm and fire and a thousand ordinary nights. That night I knew, whatever the Master Stonemason had been keeping me for was coming up my road.
 
-So I did the only thing an old tower can do. I let my light spill out of the entrance like a hand held out, and I presented to them an invitation to come, providing strength, warmth, and protection. There is a manger, and there are clean cloths folded beside it. Come in, and let the child be born where the perfect lambs are kept.
+So I did the only thing I could do. I let my light spill out of the entrance like a hand held out, and I presented to them an invitation to come, providing strength, warmth, and protection. There is a manger, and there are clean cloths folded beside it. Come in, and let the child be born where the perfect lambs are kept.
 
 ---
 
