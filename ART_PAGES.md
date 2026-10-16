@@ -26,7 +26,7 @@ Page 1 of every chapter always has an art slot, which shows a placeholder until 
 | `ch04` | Chapter 4, page 1 of 2 | Exodus 12:3, 5 (ESV) Speak to all the congregation… | `TowerShepherdsheep.webp` |
 | `ch04-2` | Chapter 4, page 2 of 2 | The years went by, and the throne came, the… |  |
 | `ch05` | Chapter 5, page 1 of 4 | Luke 2:1-5 (ESV) In those days a decree went… | `MaryJoseph.webp` |
-| `ch05-2` | Chapter 5, page 2 of 4 | It was evening, the sun was going down behind… |  |
+| `ch05-2` | Chapter 5, page 2 of 4 | /*Note: move image to this page */ It was… |  |
 | `ch05-3` | Chapter 5, page 3 of 4 | Matthew 1:20-21 (ESV) But as he considered these things,… | `JosephTowerDream.webp` |
 | `ch05-4` | Chapter 5, page 4 of 4 | Luke 1:26-31 (ESV) The angel Gabriel came to her… |  |
 | `ch06` | Chapter 6, page 1 of 2 | Night fell softly over Bethlehem’s hills, and I stood… | `MaryJosephinn.webp` |
