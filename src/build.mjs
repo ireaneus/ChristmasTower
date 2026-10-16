@@ -27,6 +27,7 @@ export function loadManuscript() {
   const vh = src.search(/^## Version History\s*$/m);
   if (vh !== -1) src = src.slice(0, vh);
   src = src.replace(/^.*Working manuscript.*$/m, '');
+  src = src.replace(/^\/\*Note:.*\*\/\s*$/gm, '');
   return src.replace(/\\"/g, '"');
 }
 
@@ -56,7 +57,7 @@ export function classify(sections) {
       const n = Number(m[1]);
       const nn = String(n).padStart(2, '0');
       let body = md;
-      const ill = md.match(/^#### \*Full-Page Illustration: (.+?)\*\s*\n+([\s\S]*)$/m);
+      const ill = md.match(/^#{3,4} \*Full-Page Illustration: (.+?)\*\s*\n+([\s\S]*)$/m);
       if (ill) {
         body = md.slice(0, ill.index);
         const desc = ill[2].trim().split(/\n\s*\n/)[0].trim();

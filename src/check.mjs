@@ -98,7 +98,8 @@ console.log('Checking _site/ against content/christmas-tower-v11.md');
     const text = m[1]
       .replace(/<(\w+)\b[^>]*\bclass="[^"]*\bchrome\b[^"]*"[^>]*>[\s\S]*?<\/\1>/g, ' ')
       .replace(/<svg[\s\S]*?<\/svg>/g, ' ')
-      .replace(/<[^>]+>/g, ' ')
+      .replace(/<\/?(?:address|article|aside|blockquote|br|dd|div|dl|dt|fieldset|figcaption|figure|footer|form|h[1-6]|header|hr|li|main|nav|ol|p|pre|section|table|tbody|td|th|thead|tr|ul)\b[^>]*>/gi, ' ')
+      .replace(/<[^>]+>/g, '')
       .replace(/&#x([0-9a-f]+);/gi, (_, n) => String.fromCodePoint(parseInt(n, 16)))
       .replace(/&#(\d+);/g, (_, n) => String.fromCodePoint(Number(n)))
       .replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');

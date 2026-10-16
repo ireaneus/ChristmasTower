@@ -27,4 +27,6 @@ Rows marked `asides.json` are already overridden there. Delete the key to fall b
 | 15 | Chapter 7 | tower | default rule | The Christmas Tower. |
 | 16 | Chapter 8 | tower | default rule | "swaddling cloths, and a manger!" |
 | 17 | Chapter 9 | aside | default rule | How many names were given to the baby?, can you name them all? |
-| 18 | Epilogue | tower | default rule | The Narrator speaks. These pages carry a different voice. |
+| 18 | Chapter 10 | tower | default rule | "Look at his skin. Look at his face." |
+| 19 | Chapter 10 | aside | default rule | "Who is this man?" |
+| 20 | Chapter 10 | tower | default rule | David was a shepherd who became king, Jesus is the King of Kings who calls Himself "The Good Shepherd" |

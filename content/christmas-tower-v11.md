@@ -16,7 +16,7 @@ To my beloved wife — she has always loved me the mostestes.
 
 ## Prologue: The Tower Speaks
 
-My name is Migdal Eder. In Hebrew it means Tower of the Flock, and I carried that name for thousands of years. Then came one very special night when I was given a new name - *"The Christmas Tower"*. That name is a high honor, and it came with important work. Stay with me and I will tell you how I received it.
+My name is Migdal Eder. In Hebrew it means Tower of the Flock, and I carried that name for thousands of years. Then came one very special night when I was given a new name - *\"The Christmas Tower\"*. That name is a high honor, and it came with important work. Stay with me and I will tell you how I received it.
 
 That night was long ago, today I am nothing more than a pile of rocks on a quiet hill, and time has forgotten me altogether.
 
@@ -97,7 +97,7 @@ I stood a long while after they had gone. I did not understand yet why the Maste
 
 ## Chapter 2: Ruth, a Foreigner Receives a New Family Name
 
-A new morning came up over the hills and laid its light across the barley fields. The heads of grain bowed and lifted in the wind like a field of worshipers. I had watched a hundred harvests come in from where I stood. 
+A new morning came up over the hills and laid its light across the barley fields. The heads of grain bowed and lifted in the wind like a field of worshipers. I had watched a hundred harvests come in from where I stood.
 
 This morning brought me something new. A young foreign woman came walking into my fields.
 
@@ -217,8 +217,6 @@ I had been watching a long while by then. A boy renamed over his mother's grave.
 
 ---
 
-/*Note: move image to this page */
-
 It was evening, the sun was going down behind the hills and the light came across the fields the color of honey. That's when I saw them on the road, a man walking, leading a donkey, and a young woman riding it with both hands resting on the child still inside her.
 
 As the weary couple continued on their journey, the man looked up and found me on my hill, he did not look away. He held my gaze, his face was filled with heavy concern, I felt his burden, and although it seemed heavy he knew he wasn't doing it alone.  He had put his faith and trust in the Master Stonemason.
@@ -310,7 +308,7 @@ Then He spoke a new name over me, the way He had spoken one over a grieving fath
 
 ---
 
-#### *Full-Page Illustration: The Night with the Shepherds Under the Tower*
+### *Full-Page Illustration: The Night with the Shepherds Under the Tower*
 
 *A visual moment showing the shepherds in the fields below Migdal Eder, their flocks gathered in the dark night, the tower standing strong and sheltering on the hill above them. This is the pause before the sky opens with the angel's announcement—the moment of waiting, of the night holding its breath, the tower standing guard as it has for a thousand years, and now holding the One it was built for.*
 
@@ -334,9 +332,9 @@ These words came back across the field to me, spoken out loud by a shepherd stil
 
 *\"swaddling cloths, and a manger!\"*
 
-Then another voice, closer. \"Which manger? Ours?\"
+Then another voice, closer. *\"Could it be, right here in our tower of the flock?\"*
 
-They knew every manger in those hills, because they had laid the lambs in them with their own hands. There was one manger a spotless lamb was carried to, wrapped in cloth, and kept until the day it was called for. It was inside me. It had a baby in it.
+There was one manger a spotless lamb was carried to, wrapped in cloth, and kept until the day it was called for. It was inside me. It had a baby in it now.
 
 Before they could rise, the whole sky filled. Heaven's joy burst over the hills, and a great multitude of angels stood above my fields, praising God and proclaiming:
 
@@ -348,29 +346,27 @@ Before they could rise, the whole sky filled. Heaven's joy burst over the hills,
 
 The praise of heaven came down on those fields until my old stones rang with it.
 
-And then they were gone, as suddenly as they had come, and the night closed back over us, and the silence afterward was the loudest thing I have ever heard. The grass was the same. The sheep were the same. Nothing out there had changed except everything.
+And then they were gone, as suddenly as they had come, the night closed in and there was silence. It was only a moment of silence but enough to ponder.
 
-The biggest news in history, and it was given to shepherds instead of kings. The overlooked told first, just like David, watching sheep while his brothers stood in line for the crown.
-
-I had stood over those fields for a long time, and I had watched the important things of Bethlehem pass those men by. That night however, heaven came down into their field and told them before anyone else. I was starting to learn how the Master Stonemason works, He goes to the ones nobody sends for.
+The biggest news in history, and it was given to shepherds instead of kings. The overlooked told first, just like David, watching sheep while his brothers stood in line for the crown. That night, heaven came down into their field and told them before anyone else. I was starting to learn how the Master Stonemason works, He goes to the ones nobody sends for.
 
 ---
 
 ## Chapter 9: Worship Christ the King
 
-The shepherds came up off the ground, and the fear went out of them all at once. The men who had been face down in the grass a moment before were standing and looking at one another with their mouths open.
+Then suddenly the silence broke, The shepherds scampered to their feet, and the fear went out of them all at once. The men who had been face down in the grass a moment before were standing and looking at one another with their mouths open.
 
-\"We must go!\" one of them said, and his voice was shaking. \"Let us hurry to Migdal Eder and see this thing the Lord has made known to us.\"
+*\"We must go!\"* one of them said, and his voice was shaking. *\"Let us hurry to Migdal Eder and see this thing the Lord has made known to us.\"*
 
 They came across the fields toward me at a run, and then, close in, they slowed. My old stones were catching the moonlight, and the ground I had stood on for a thousand years was not the ground they had walked out on that evening. They stopped at my doorway and took off their sandals. They had worked in these fields their whole lives, and they came into me that night the way a man comes into a holy place.
+
+---
 
 They stepped inside and found Him, wrapped in swaddling cloths, lying in the manger, exactly as the angel had told them. And these strong men who wrestle lambs went down on their knees in my straw and wept.
 
 I knew what they were seeing.
 
-I had held a thousand lambs in that stone box. Every one of them inspected, every one of them perfect, every one of them wrapped in those same cloths and laid in that same manger and called a Passover lamb.
-
-A tower full of lambs named for a Lamb who had not yet come. That night I held the One they were named for.
+I had held spotless lambs in that stone box. Every one of them inspected, every one of them perfect, every one of them wrapped in those same cloths and laid in that same manger and called Passover lamb.
 
 Then one of the shepherds began to speak, and the words were older than any of us, older than my foundation, spoken by a prophet who never saw this night and saw it anyway.
 
@@ -388,9 +384,9 @@ Then one of the shepherds began to speak, and the words were older than any of u
 
 ---
 
-They could not hold it. They went back out through my doorway into the dark, and I heard them going down the road toward the town, calling out to every soul awake enough to listen, telling it to strangers, telling it to shut doors, telling it to anyone at all.
+They could not hold it in, they went back out through my doorway into the dark, and I heard them going down the road toward the town, calling out to every soul awake enough to listen, telling it to strangers, telling it to shut doors, telling it to anyone at all.
 
-The fields were quiet again, and the child slept inside me, and I stood in the dark doing the work I had been built for. I had watched shepherds keep lambs safe on this hill for longer than any of them could remember. That night I finally understood what all of it had been practice for.
+The fields were quiet again, and the child slept inside me, and I stood in the dark doing the work I had been built for. I had watched shepherds keep lambs safe on this hill for longer than any of them could remember. That night I finally understood what all of it had been meant for.
 
 ---
 
@@ -416,27 +412,25 @@ The Master Stonemason walked over to him. He reached out His hand, and He touche
 
 > **Matthew 8:1-3 (ESV)**
 >
-> *When he came down from the mountain, great crowds followed him. And behold, a leper came to him and knelt before him, saying, \"Lord, if you will, you can make me clean.\" And Jesus stretched out his hand and touched him, saying, \"I will; be clean.\" And immediately his leprosy was cleansed.*
-
----
-
-\"He touched him,\" a woman said.
-
-\"Look at his skin. Look at his face.\"
-
-\"Who is this man?\"
-
-\"Jesus,\" someone answered. \"Jesus of Nazareth.\"
-
-I knew that name. It came up my road ahead of Him, carried by a tired carpenter and a girl on a donkey, given to Him by an angel before He had a face.
-
----
+> When he came down from the mountain, great crowds followed him. And behold, a leper came to him and knelt before him, saying, *\"Lord, if you will, you can make me clean.\"* And Jesus stretched out his hand and touched him, saying, *\"I will; be clean.\"* And immediately his leprosy was cleansed.
 
 > **Matthew 1:21 (ESV)**
 >
 > *\"She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.\"*
 
-He will save his people. I had heard those words in the dark years before, and I had kept them, and I had never once known what they would look like. That day I watched them happen on my road, to a man nobody else would touch.
+---
+
+*\"He touched him,\"* a woman said.
+
+*\"Look at his skin. Look at his face.\"*
+
+*\"Who is this man?\"*
+
+*\"Jesus,\"* someone answered. *\"Jesus of Nazareth.\"*
+
+I knew that name. It came up my road ahead of Him, carried by a tired carpenter and a girl on a donkey, given to Him by an angel before He had a face.
+
+He will save his people. I had heard those words in the dark years before, and I had never once known what they would look like. That day I watched them happen on my road, to a man nobody else would touch.
 
 And then Jesus turned and looked up at me. He looked at my old broken stones for a long while, the way you look at something you made with your own hands. Then He looked out at the sheep in the grass and at the shepherds standing among them, and He began to teach the people about shepherds and their sheep.
 
@@ -446,35 +440,21 @@ And then Jesus turned and looked up at me. He looked at my old broken stones for
 >
 > *\"The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly. I am the good shepherd. The good shepherd lays down his life for the sheep. I am the good shepherd. I know my own and my own know me, just as the Father knows me and I know the Father; and I lay down my life for the sheep. And I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd.\"*
 
----
-
-Thieves who come to steal and kill and destroy. I knew about those. I had stood over these fields to keep them off the flock.
-
-He was telling them that a good shepherd gives his own life for his sheep. A tower can stand in the way. A tower can keep the weather off and hold the dark back until morning. A tower cannot do that.
-
-The man He healed walked away from my road that day with clean skin and a new name. He had been called unclean his whole life. He would be called a son of God for the rest of it.
-
-**David was a shepherd who became a king. Jesus is the King who calls Himself a Shepherd.**
-
-I watched him go, and I thought about a widow from Moab, and a boy with oil still wet in his hair, and an old pile of stone on a hill that was handed a name it never earned. The Master Stonemason has never once thrown away a broken thing. He picks it up. He works it with His own hands. He gives it a new name.
+*David was a shepherd who became king, Jesus is the King of Kings who calls Himself \"The Good Shepherd\"*
 
 ---
 
 ## Chapter 11: The Stones Would Cry Out
 
-The seasons turned over me again and again after the day I watched Him heal the man on my road. I lost count of them. I had been losing count of things for a long while by then.
-
-Then one afternoon He came down my road one last time.
-
-He was riding a young donkey, and His face was set toward Jerusalem. A crowd went with Him, and they were singing. They pulled the cloaks off their own backs and threw them down in the dust for the donkey to walk on. I had watched kings' roads my whole life. I had never seen a road laid down like that.
+The seasons turned over me again and again after that day,Then one afternoon He came down my road one last time. He was riding a young donkey, and His face was set toward Jerusalem. A crowd went with Him, and they were singing. They pulled the cloaks off their own backs and threw them down in the dust for the donkey to walk on. I had watched kings' roads my whole life. I had never seen a road laid down like that.
 
 Some men in the crowd told Him to make the singing stop.
-
----
 
 > **Luke 19:40 (ESV)**
 >
 > *\"I tell you, if these were silent, the very stones would cry out.\"*
+
+---
 
 The very stones.
 
@@ -483,6 +463,8 @@ I have been one of those stones since before there was a Bethlehem to look down 
 And as He passed me, He turned His head and looked at me, the old tower on the hill, He saw me, He saw right through me. He was seeing me as I was in the beginning, strong sturdy, steadfast, brilliant and new. If He would let me, my stones would cry out in praise to Him.
 
 Then He went over the rise, and the road took Him out of my sight, and I could not follow. Towers stay where they are set.
+
+---
 
 I learned the rest, from the people who came back up the road afterward, saying it to each other with their hands over their mouths. They took Him outside the city and they killed Him on a cross, the way I had seen it in the lightning when I was young and understood none of it. The sky went black in the middle of the day. And the ground shook so hard that the rocks in that country split open.
 
@@ -520,28 +502,6 @@ I am Migdal Eder. I am the Christmas Tower. He called me that, and I carry it st
 
 ## Epilogue: The One Who Gives the Names
 
-*The Narrator speaks. These pages carry a different voice.*
-
-Count them with me.
-
-A baby born on the road to Bethlehem, named son of my sorrow by a dying mother and son of my right hand by his father. Same little boy, two names.
-
-A widow from Moab who left her country with nothing and was written into the family line of the King. Scripture still calls her Ruth the Moabite, even after Boaz redeemed her. She kept the name she came with, and God wrote her into His own family anyway.
-
-A shepherd boy with oil running down his hair, sent back out to the sheep, carrying a king's name for years before he ever carried a crown.
-
-A man on a road whose skin made everyone step back, who walked away clean, and was called a son of God.
-
-And an old stone tower on a hill above Bethlehem, built to keep lambs, that held the Lamb for one night and has been called the Christmas Tower ever since.
-
-Every one of those names was given. Not one of them was earned.
-
-The One who handed them out kept His own name quiet for a long time. The tower knew Him as the Master Stonemason, because hands are what the tower understood. At the end, He said the rest out loud. Jesus, who saves His people from their sins. Immanuel, which means God with us. The Lamb, the Good Shepherd, the King, the Beginning and the End. The Baby in the manger is God Himself, come down to be held.
-
-He is still doing this. He still goes to the overlooked, the crumbling, the ones everybody walks wide around, and He reaches out His hand. And to everyone who comes to Him, He gives a new life and a new name.
-
----
-
 > **Revelation 2:17 (ESV)**
 >
 > *\"To the one who conquers I will give some of the hidden manna, and I will give him a white stone, with a new name written on the stone that no one knows except the one who receives it.\"*
@@ -564,7 +524,7 @@ This is a book about names, and every one of them points to Jesus.
 
 Rachel named her dying breath's son Ben-oni, son of my sorrow, and Jacob renamed him Benjamin, son of my right hand. Hold those two names together and you have Christ: the Man of Sorrows who carried our griefs, and the risen Son seated now at the Father's right hand.
 
-Ruth came out of Moab with nothing and was redeemed by Boaz, her kinsman-redeemer, a relative near enough and willing enough to pay a debt he did not owe. Notice that Scripture still calls her Ruth the Moabite after the redemption. She keeps the name she came with, and God writes her into the family line of the King anyway. That is grace with the receipts left in.
+Ruth came out of Moab with nothing and was redeemed by Boaz, her kinsman-redeemer, a relative near enough and willing enough to pay a debt he did not owe. Notice that Scripture still calls her Ruth the Moabite after the redemption. She keeps the name she came with, and God writes her into the family line of the King anyway. That is grace.
 
 Samuel poured oil over the head of the youngest son, the one his own father left out in the field, and then that boy went back to the sheep and waited years for a throne. The greater Son of David would come from those same fields.
 
@@ -576,7 +536,7 @@ And an old tower that had done nothing to deserve it was given a new name by the
 
 The tower calls Him the Master Stonemason for most of the book, because hands are what a tower can understand. That is deliberate. It holds back the full weight of who He is until the end, where He is named plainly: Jesus, who saves His people from their sins; Immanuel, God with us; the Lamb, the Good Shepherd, the King, the Beginning and the End. The Baby in the manger is God Himself.
 
-**If you are reading this aloud,** the book has two voices. The tower tells the story. A second voice reads the Scripture and talks directly to your children. Give that second voice a different sound and they will follow the whole book without effort.
+**If you are reading this aloud,** the book has two voices. The tower tells the story. A second voice reads the Scripture and talks directly to your children. The children can also play the part of the shepherds and the angels.
 
 **Telling them the gospel.** Three truths, with verses to read together.
 
@@ -592,7 +552,7 @@ The tower calls Him the Master Stonemason for most of the book, because hands ar
 >
 > *See what kind of love the Father has given to us, that we should be called children of God; and so we are.*
 
-**We sinned.** We turned away from Him and we need rescuing.
+**We are created in His image** See the great love in which He has for His creation.
 
 ---
 
@@ -604,7 +564,7 @@ The tower calls Him the Master Stonemason for most of the book, because hands ar
 >
 > *For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.*
 
-**Jesus saves us.** He died for our sins, was buried, and rose again, so that we can be forgiven and belong to Him forever.
+**We sinned.** We disobeyed our Creator, doing what we wanted and was right in our own eyes.
 
 ---
 
@@ -616,7 +576,7 @@ The tower calls Him the Master Stonemason for most of the book, because hands ar
 >
 > *For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures.*
 
----
+**Jesus saves us.** He died for our sins, was buried, and rose again, so that we can be forgiven and belong to Him forever.
 
 Then ask them the question the book has been asking the whole way through. Every person in this story was given a new name by God. Would you like Him to give you one?
 

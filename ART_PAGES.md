@@ -26,7 +26,7 @@ Page 1 of every chapter always has an art slot, which shows a placeholder until 
 | `ch04` | Chapter 4, page 1 of 2 | Exodus 12:3, 5 (ESV) Speak to all the congregation… | `TowerShepherdsheep.webp` |
 | `ch04-2` | Chapter 4, page 2 of 2 | The years went by, and the throne came, the… |  |
 | `ch05` | Chapter 5, page 1 of 4 | Luke 2:1-5 (ESV) In those days a decree went… | `MaryJoseph.webp` |
-| `ch05-2` | Chapter 5, page 2 of 4 | /*Note: move image to this page */ It was… |  |
+| `ch05-2` | Chapter 5, page 2 of 4 | It was evening, the sun was going down behind… |  |
 | `ch05-3` | Chapter 5, page 3 of 4 | Matthew 1:20-21 (ESV) But as he considered these things,… | `JosephTowerDream.webp` |
 | `ch05-4` | Chapter 5, page 4 of 4 | Luke 1:26-31 (ESV) The angel Gabriel came to her… |  |
 | `ch06` | Chapter 6, page 1 of 2 | Night fell softly over Bethlehem’s hills, and I stood… | `MaryJosephinn.webp` |
@@ -37,23 +37,21 @@ Page 1 of every chapter always has an art slot, which shows a placeholder until 
 | `ch08` | Chapter 8, page 1 of 3 | Inside my walls the child was sleeping. Out in… | `ShepherdsAngel.webp` |
 | `ch08-2` | Chapter 8, page 2 of 3 | Luke 2:10-12 (ESV) “Fear not, for behold, I bring… |  |
 | `ch08-3` | Chapter 8, page 3 of 3 | Luke 2:14 (ESV) “Glory to God in the highest,… | `ShepherdsAngels.webp` |
-| `ch09` | Chapter 9, page 1 of 3 | The shepherds came up off the ground, and the… | `ShepherdsBaby.webp` |
-| `ch09-2` | Chapter 9, page 2 of 3 | Isaiah 9:6 (ESV) For to us a child is… |  |
-| `ch09-3` | Chapter 9, page 3 of 3 | They could not hold it. They went back out… | `ShepherdsPraising.webp` |
-| `ch10` | Chapter 10, page 1 of 6 | Many years went by after the night the child… | `JesusLeper.webp` |
-| `ch10-2` | Chapter 10, page 2 of 6 | Matthew 8:1-3 (ESV) When he came down from the… |  |
-| `ch10-3` | Chapter 10, page 3 of 6 | “He touched him,” a woman said. “Look at his… |  |
-| `ch10-4` | Chapter 10, page 4 of 6 | Matthew 1:21 (ESV) “She will bear a son, and… | `Jesussheep.webp` |
-| `ch10-5` | Chapter 10, page 5 of 6 | John 10:10-11, 14-16 (ESV) “The thief comes only to… |  |
-| `ch10-6` | Chapter 10, page 6 of 6 | Thieves who come to steal and kill and destroy.… |  |
-| `ch11` | Chapter 11, page 1 of 4 | The seasons turned over me again and again after… | `Jesusdonkey.webp` |
-| `ch11-2` | Chapter 11, page 2 of 4 | Luke 19:40 (ESV) “I tell you, if these were… |  |
-| `ch11-3` | Chapter 11, page 3 of 4 | Three days later, He walked out of a grave.… |  |
-| `ch11-4` | Chapter 11, page 4 of 4 | Revelation 22:13 (ESV) “I am the Alpha and the… |  |
-| `epilogue` | Epilogue, page 1 of 2 | The Narrator speaks. These pages carry a different voice.… | `whitestonetower.webp` |
-| `epilogue-2` | Epilogue, page 2 of 2 | Revelation 2:17 (ESV) “To the one who conquers I… |  |
-| `for-the-adults` | For the Adults, page 1 of 5 | This is a book about names, and every one… | `grandkidstower.webp` |
-| `for-the-adults-2` | For the Adults, page 2 of 5 | Genesis 1:27 (ESV) So God created man in his… |  |
-| `for-the-adults-3` | For the Adults, page 3 of 5 | Romans 3:23 (ESV) For all have sinned and fall… |  |
-| `for-the-adults-4` | For the Adults, page 4 of 5 | Romans 5:8 (ESV) But God shows his love for… |  |
-| `for-the-adults-5` | For the Adults, page 5 of 5 | Then ask them the question the book has been… |  |
+| `ch09` | Chapter 9, page 1 of 4 | Then suddenly the silence broke, The shepherds scampered to… | `ShepherdsBaby.webp` |
+| `ch09-2` | Chapter 9, page 2 of 4 | They stepped inside and found Him, wrapped in swaddling… |  |
+| `ch09-3` | Chapter 9, page 3 of 4 | Isaiah 9:6 (ESV) For to us a child is… | `ShepherdsPraising.webp` |
+| `ch09-4` | Chapter 9, page 4 of 4 | They could not hold it in, they went back… |  |
+| `ch10` | Chapter 10, page 1 of 4 | Many years went by after the night the child… | `JesusLeper.webp` |
+| `ch10-2` | Chapter 10, page 2 of 4 | Matthew 8:1-3 (ESV) When he came down from the… |  |
+| `ch10-3` | Chapter 10, page 3 of 4 | “He touched him,” a woman said. “Look at his… |  |
+| `ch10-4` | Chapter 10, page 4 of 4 | John 10:10-11, 14-16 (ESV) “The thief comes only to… | `Jesussheep.webp` |
+| `ch11` | Chapter 11, page 1 of 5 | The seasons turned over me again and again after… | `Jesusdonkey.webp` |
+| `ch11-2` | Chapter 11, page 2 of 5 | The very stones. I have been one of those… |  |
+| `ch11-3` | Chapter 11, page 3 of 5 | I learned the rest, from the people who came… |  |
+| `ch11-4` | Chapter 11, page 4 of 5 | Three days later, He walked out of a grave.… |  |
+| `ch11-5` | Chapter 11, page 5 of 5 | Revelation 22:13 (ESV) “I am the Alpha and the… |  |
+| `epilogue` | Epilogue, page 1 of 1 | Revelation 2:17 (ESV) “To the one who conquers I… | `whitestonetower.webp` |
+| `for-the-adults` | For the Adults, page 1 of 4 | This is a book about names, and every one… | `grandkidstower.webp` |
+| `for-the-adults-2` | For the Adults, page 2 of 4 | Genesis 1:27 (ESV) So God created man in his… |  |
+| `for-the-adults-3` | For the Adults, page 3 of 4 | Romans 3:23 (ESV) For all have sinned and fall… |  |
+| `for-the-adults-4` | For the Adults, page 4 of 4 | Romans 5:8 (ESV) But God shows his love for… |  |
