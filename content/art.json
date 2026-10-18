@@ -17,11 +17,12 @@
   "interlude": { "file": "NightTower.webp", "alt": "Shepherds around a small fire in the fields at night, the tower glowing on the hill beneath the stars" },
   "ch08": { "file": "ShepherdsAngel.webp", "alt": "An angel standing in the field, the tower lit on the hill" },
   "ch08-3": { "file": "ShepherdsAngels.webp", "alt": "Angels praising God, Shepherds bowed in fear" },
+  "ch09": { "file": "shepherdsheadingtower.webp", "alt": "The shepherds walking to the tower on the hill" },
   "ch09-2": { "file": "ShepherdsBaby.webp", "alt": "The shepherds kneeling in the straw before the baby in the manger" },
-  "ch09-3": { "file": "ShepherdsPraising.webp", "alt": "The shepherds walking back from the manger, praising God" },
+  "ch09-4": { "file": "ShepherdsPraising.webp", "alt": "The shepherds walking back from the manger, praising God" },
   "ch10": { "file": "JesusLeper.webp", "alt": "Jesus reaching out his hand to a kneeling man on the road, a crowd following and the tower on the hill" },
   "ch10-4": { "file": "Jesussheep.webp", "alt": "Jesus holding a lamb, looking at the Christmas Tower"},
-  "ch11": { "file": "Jesusdonkey.webp", "alt": "Jesus riding a young donkey down the road past the tower as the crowd lays down their cloaks" },
+  "ch11": { "file": "Jesusdonkeytower.webp", "alt": "Jesus riding a young donkey down the road past the tower as the crowd lays down their cloaks" },
   "epilogue": { "file": "whitestonetower.webp", "alt": "A white stone with a new name written on it, resting in the grass among the tower's old stones" },
   "for-the-adults": { "file": "grandkidstower.webp", "alt": "A grandparent reading aloud to children gathered close by lamplight" }
 }

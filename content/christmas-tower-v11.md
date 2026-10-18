@@ -424,7 +424,7 @@ The Master Stonemason walked over to him. He reached out His hand, and He touche
 
 *\"Look at his skin. Look at his face.\"*
 
-*"Who is this man?"*
+*\"Who is this man?\"*
 
 *\"Jesus,\"* someone answered. *\"Jesus of Nazareth.\"*
 

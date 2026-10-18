@@ -37,15 +37,15 @@ Page 1 of every chapter always has an art slot, which shows a placeholder until 
 | `ch08` | Chapter 8, page 1 of 3 | Inside my walls the child was sleeping. Out in… | `ShepherdsAngel.webp` |
 | `ch08-2` | Chapter 8, page 2 of 3 | Luke 2:10-12 (ESV) “Fear not, for behold, I bring… |  |
 | `ch08-3` | Chapter 8, page 3 of 3 | Luke 2:14 (ESV) “Glory to God in the highest,… | `ShepherdsAngels.webp` |
-| `ch09` | Chapter 9, page 1 of 4 | Then suddenly the silence broke, The shepherds scampered to… |  |
+| `ch09` | Chapter 9, page 1 of 4 | Then suddenly the silence broke, The shepherds scampered to… | `shepherdsheadingtower.webp` |
 | `ch09-2` | Chapter 9, page 2 of 4 | They stepped inside and found Him, wrapped in swaddling… | `ShepherdsBaby.webp` |
-| `ch09-3` | Chapter 9, page 3 of 4 | Isaiah 9:6 (ESV) For to us a child is… | `ShepherdsPraising.webp` |
-| `ch09-4` | Chapter 9, page 4 of 4 | They could not hold it in, they went back… |  |
+| `ch09-3` | Chapter 9, page 3 of 4 | Isaiah 9:6 (ESV) For to us a child is… |  |
+| `ch09-4` | Chapter 9, page 4 of 4 | They could not hold it in, they went back… | `ShepherdsPraising.webp` |
 | `ch10` | Chapter 10, page 1 of 4 | Many years went by after the night the child… | `JesusLeper.webp` |
 | `ch10-2` | Chapter 10, page 2 of 4 | Matthew 8:1-3 (ESV) When he came down from the… |  |
 | `ch10-3` | Chapter 10, page 3 of 4 | “He touched him,” a woman said. “Look at his… |  |
 | `ch10-4` | Chapter 10, page 4 of 4 | John 10:10-11, 14-16 (ESV) “The thief comes only to… | `Jesussheep.webp` |
-| `ch11` | Chapter 11, page 1 of 5 | The seasons turned over me again and again after… | `Jesusdonkey.webp` |
+| `ch11` | Chapter 11, page 1 of 5 | The seasons turned over me again and again after… | `Jesusdonkeytower.webp` |
 | `ch11-2` | Chapter 11, page 2 of 5 | The very stones. I have been one of those… |  |
 | `ch11-3` | Chapter 11, page 3 of 5 | I learned the rest, from the people who came… |  |
 | `ch11-4` | Chapter 11, page 4 of 5 | Three days later, He walked out of a grave.… |  |
