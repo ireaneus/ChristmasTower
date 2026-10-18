@@ -2,7 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { loadManuscript, splitSections, classify, manuscriptTokens, tokens, renderPages } from './build.mjs';
+import { loadManuscript, splitSections, classify, manuscriptTokens, tokens, renderSection } from './build.mjs';
 import { contrastFailures } from './contrast.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -38,7 +38,7 @@ const { sections } = splitSections(src);
 const { pages, about, interlude } = classify(sections);
 const reading = pages;
 // Every page the site should have, in reading order: 08, 08/2, 08/3, ...
-const pageCount = (p) => (p.isInterlude ? 1 : renderPages(p.md, p.label, noLog).length);
+const pageCount = (p) => (p.isInterlude ? 1 : renderSection(p, noLog).length);
 const sheetSlugs = (p) => Array.from({ length: pageCount(p) }, (_, k) => (k === 0 ? p.slug : `${p.slug}/${k + 1}`));
 
 console.log('Checking _site/ against content/christmas-tower-v11.md');
@@ -165,6 +165,24 @@ console.log('Checking _site/ against content/christmas-tower-v11.md');
     }
   }
   broken.length ? fail(`Broken internal links:\n      ${broken.join('\n      ')}`) : pass(`${count} internal links resolve`);
+}
+
+// 6. Art rules: page 1 of each section has a picture. A section of 4 or more pages has exactly one more,
+// with at least one full page of text between the two. Each file is named after its key.
+{
+  const problems = [];
+  for (const p of reading.filter((q) => !q.isInterlude)) {
+    const withArt = sheetSlugs(p).map((slug, k) => [k + 1, /<figure class="art(?! art-placeholder)/.test(pageFor(slug) || '')]).filter(([, has]) => has).map(([n]) => n);
+    const want = pageCount(p) >= 4 ? 2 : 1;
+    if (withArt[0] !== 1) problems.push(`${p.label}: page 1 has no picture`);
+    if (withArt.length !== want) problems.push(`${p.label}: ${withArt.length} pictures across ${pageCount(p)} pages, expected ${want}`);
+    if (withArt[1] && withArt[1] < 3) problems.push(`${p.label}: second picture on page ${withArt[1]}, needs a full page of text after page 1`);
+  }
+  const art = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/art.json'), 'utf8'));
+  for (const file of new Set(Object.values(art).map((e) => e.file))) {
+    if (!Object.entries(art).some(([k, e]) => e.file === file && file === `${k}.webp`)) problems.push(`assets/art/${file}: name it after its page key, like ch08.webp`);
+  }
+  problems.length ? fail(`Art:\n      ${problems.join('\n      ')}`) : pass('Every section opens with a picture, long sections have a second one, and art files are named by page key');
 }
 
 // Quality extras: one <h1> per page, alt on every image, titles and descriptions, contrast.

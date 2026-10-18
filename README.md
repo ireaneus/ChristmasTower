@@ -35,6 +35,7 @@ The whole website is generated from one file: the manuscript, `content/christmas
 ```text
 content/christmas-tower-v11.md ─┐
 content/art.json               ─┤
+content/pages.json, titles.json ┤
 content/asides.json            ─┼─►  src/build.mjs  ─►  _site/  ─►  GitHub Pages
 content/redirects.json         ─┤    (npm run build)    (the finished website)
 src/templates/, styles.css     ─┘
@@ -46,8 +47,8 @@ The build script reads the manuscript and turns each part into web pages:
 
 | In the manuscript | On the website |
 | --- | --- |
-| `## Prologue: ...`, `## Chapter N: ...`, `## Epilogue: ...`, `## For the Adults` | A section of the book, with its title |
-| `---` | A page break. Each section is split into pages at every `---`. |
+| `## Prologue: ...`, `## Chapter N: ...`, `## Epilogue: ...`, `## For the Adults` | A section of the book. Its title on the site comes from `content/titles.json` when listed there. |
+| `---` | A page break in the printed book. The website pages by subject from `content/pages.json` instead. |
 | `## Dedication`, `## A Personal Note from the Author` | The About page |
 | A blockquote that starts with `**Reference (ESV)**` | A Scripture card labeled "Narrator voice · Reference (ESV)" |
 | A paragraph that is all **bold** | A large "payoff" line |
@@ -86,10 +87,13 @@ The live site sits under `/ChristmasTower/`, so Chapter 8 is at `https://ireaneu
 content/
   christmas-tower-v11.md   the manuscript (the source of all story text)
   art.json                 which illustration goes on which page
+  pages.json               where each section turns the page on the website
+  titles.json              short section titles for the website
   asides.json              overrides for italic paragraphs (card or Tower voice)
   redirects.json           old site addresses and where they now point
 assets/
-  art/                     illustrations (WebP)
+  art/                     illustrations (WebP), named after their page key
+  art-unused/              illustrations not on the site right now
   video/                   videos from the original site (not published yet)
   ornaments/               star divider, sun and moon icons (SVG)
   favicon.svg              browser tab icon
@@ -130,11 +134,19 @@ Each of these follows the same loop: **edit the file, run `npm run preview`, rel
 
 ### 1. Change the story text
 
-Edit `content/christmas-tower-v11.md`. Everything on the reading pages comes from it, including chapter titles (from the `## Chapter N: Title` lines) and the reading plan on the home page.
+Edit `content/christmas-tower-v11.md`. Everything on the reading pages comes from it. Short chapter titles for the site live in `content/titles.json`.
 
-- To add a page break, put `---` on a line by itself, with a blank line above and below.
-- To remove a page break, delete that `---` line.
-- Two `---` lines in a row never make an empty page.
+### 1a. Change where a page turns
+
+Edit `content/pages.json`. Each section lists the opening words of the paragraph (or the reference of the Scripture card) that starts each new page after the first:
+
+```json
+"ch09": ["They stepped inside", "Isaiah 9:6", "They could not hold"]
+```
+
+- Start a new page where the subject changes, and keep pages roughly even (about 120 to 290 words, lighter on a page with a picture).
+- The opening words must match exactly one paragraph in that section, or the build stops and says which one.
+- The `---` lines in the manuscript stay as the printed book's page breaks.
 
 ### 2. Change words on the home page
 
@@ -196,7 +208,7 @@ Illustrations live in `assets/art/`. The file `content/art.json` decides which o
 - To convert with ImageMagick:
 
   ```sh
-  magick my-picture.png -resize 1600x -quality 80 assets/art/ch08-angels.webp
+  magick my-picture.png -resize 1600x -quality 80 assets/art/ch09-3.webp
   ```
 
 ### Step 2: Find the page's key
@@ -207,16 +219,16 @@ Open `ART_PAGES.md`. It lists every page with its key and first words, so you ca
 | --- | --- |
 | `home-hero` | The large picture at the top of the home page |
 | `prologue`, `ch01` ... `ch11`, `epilogue`, `for-the-adults` | The first page of that section |
-| `ch08-2`, `ch08-3`, `prologue-3`, `for-the-adults-2`, ... | A later page of that section |
+| `ch02-4`, `ch09-3`, `ch11-5`, ... | A later page of that section |
 | `interlude` | The End of Evening One page |
 
 ### Step 3: Add or change the entry in `content/art.json`
 
 ```json
-"ch08-2": { "file": "ch08-angels.webp", "alt": "A great company of angels filling the sky above the fields" }
+"ch09-3": { "file": "ch09-3.webp", "alt": "The shepherds walking back from the manger, praising God" }
 ```
 
-- `file` is the file name inside `assets/art/`.
+- `file` is the file name inside `assets/art/`, named after its key.
 - `alt` describes the picture for readers who cannot see it and for screen readers. Describe what is in the picture. House style: no em dashes.
 - Every entry except the last ends with a comma.
 
@@ -228,6 +240,7 @@ Run `npm run preview` and open the page. The build works out the image's width a
 
 - **The first page of each section** always has an art slot. Until its file exists, it shows a styled placeholder with the `alt` text as a caption, so the site looks finished before the art is done.
 - **Later pages** show art only when `art.json` has an entry for them. Pages without an entry stay plain text.
+- **How many pictures:** one on page 1 of every section. A section of 4 or more pages gets exactly one more, on page 3 or later, so a full page of text sits between the two. Put it on a lighter page to even out the weight. `npm run check` enforces this.
 - Art appears at the top of the page, under the heading.
 - **Tall (portrait) pictures** are centered at a comfortable height instead of stretched across the page.
 - **The home hero** shows the drawn tower scene (`src/templates/hero.svg`) until the `home-hero` file exists. Its title text sits on top of the picture, so a dark night image reads best.

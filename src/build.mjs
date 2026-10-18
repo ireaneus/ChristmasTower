@@ -19,6 +19,10 @@ const ESV_NOTICE = 'Scripture quotations are from the ESV® Bible (The Holy Bibl
 const read = (p) => fs.readFileSync(path.join(ROOT, p), 'utf8');
 const readJson = (p) => JSON.parse(read(p));
 
+// Site-only structure. The manuscript's --- breaks are the printed book's; the website pages by subject instead.
+const TITLES = readJson('content/titles.json');
+const BREAKS = readJson('content/pages.json');
+
 // ---------- Manuscript ----------
 
 // Display cleanup only: escaped quotes become plain quotes so markdown-it can curl them.
@@ -72,6 +76,12 @@ export function classify(sections) {
       throw new Error(`Unrecognized section heading: "## ${heading}"`);
     }
   }
+  const keys = new Set(pages.map((p) => p.key));
+  for (const [file, map] of [['titles.json', TITLES], ['pages.json', BREAKS]]) {
+    const unknown = Object.keys(map).filter((k) => !keys.has(k));
+    if (unknown.length) throw new Error(`content/${file} has keys that match no section: ${unknown.join(', ')}`);
+  }
+  for (const p of pages) if (TITLES[p.key]) p.title = TITLES[p.key];
   if (interlude) {
     const at = pages.findIndex((p) => p.num === interlude.afterChapter) + 1;
     pages.splice(at, 0, { key: 'interlude', slug: 'interlude', title: interlude.title, description: interlude.description, isInterlude: true, evening: 1 });
@@ -158,9 +168,21 @@ function loadAsides() {
 }
 const ASIDES = loadAsides();
 
-// Renders a section as a list of page bodies, split at each ---.
+// Plain text of a rendered block, for matching the opening words in content/pages.json.
+const normQuotes = (s) => s.replace(/[“”]/g, '"').replace(/[‘’]/g, "'");
+function blockText(html) {
+  const text = html
+    .replace(/<span class="chrome">[^<]*<\/span>|<p class="talk-label chrome">[^<]*<\/p>/g, '')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+  return normQuotes(text).replace(/\s+/g, ' ').trim();
+}
+
+// Renders a section as a list of page bodies.
+// With `breaks` (opening words from content/pages.json), a new page starts at each block that begins with one of them
+// and the manuscript's --- lines are ignored. Without it, each --- is a page break.
 // Records italic paragraphs and unlabeled quotes in `log`.
-export function renderPages(source, pageLabel, log) {
+export function renderPages(source, pageLabel, log, breaks) {
   const toks = md.parse(source, {});
   const blocks = topLevelBlocks(toks);
   const out = [];
@@ -211,6 +233,17 @@ export function renderPages(source, pageLabel, log) {
       throw new Error(`${pageLabel}: unexpected block "${t}"`);
     }
   }
+  if (breaks) {
+    const blocks = out.filter((blk) => blk.kind !== 'hr');
+    const starts = breaks.map((key) => {
+      const hits = blocks.flatMap((blk, i) => (blockText(blk.html).startsWith(normQuotes(key)) ? [i] : []));
+      if (hits.length !== 1) throw new Error(`content/pages.json: "${key}" matches ${hits.length} blocks in ${pageLabel}. Use opening words that match exactly one.`);
+      if (hits[0] === 0) throw new Error(`content/pages.json: "${key}" is the first block of ${pageLabel}, which already starts a page.`);
+      return hits[0];
+    });
+    if (starts.some((at, i) => i && at <= starts[i - 1])) throw new Error(`content/pages.json: the breaks for ${pageLabel} are out of reading order.`);
+    return [0, ...starts].map((at, i) => blocks.slice(at, starts[i] ?? blocks.length).map((blk) => blk.html).join('\n'));
+  }
   // Each --- is a page break. Repeated breaks and breaks at the edges never make an empty page.
   const pages = [[]];
   for (const blk of out) {
@@ -220,6 +253,11 @@ export function renderPages(source, pageLabel, log) {
   }
   if (!pages.at(-1).length) pages.pop();
   return pages.map((blocks) => blocks.join('\n'));
+}
+
+// Renders a reading section into its pages, using its breaks from content/pages.json when it has an entry.
+export function renderSection(p, log) {
+  return renderPages(p.md, p.label, log, BREAKS[p.key]);
 }
 
 // Renders a section with no page breaks (Dedication, Personal Note).
@@ -344,11 +382,11 @@ function main() {
     }));
   };
 
-  // Reading pages: every --- in a chapter starts a new page.
+  // Reading pages: content/pages.json says where each section turns the page.
   const eveningWords = { 1: 0, 2: 0 };
   const sheets = [];
   for (const p of reading) {
-    const bodies = p.isInterlude ? [null] : renderPages(p.md, p.label, log);
+    const bodies = p.isInterlude ? [null] : renderSection(p, log);
     if (p.evening === 1 || p.evening === 2) eveningWords[p.evening] += p.isInterlude ? 0 : manuscriptTokens(p.md).length;
     bodies.forEach((body, k) => {
       const sub = k === 0 ? '' : `${k + 1}/`;
@@ -475,11 +513,14 @@ function main() {
   const labelFor = (target) => {
     if (target === '') return 'the home page';
     if (target === 'about/') return 'About the book';
-    const p = reading.find((q) => `read/${q.slug}/` === target);
-    if (!p) throw new Error(`redirects.json points to a missing page: ${target}`);
-    return p.num ? `${p.label}: ${p.title}` : p.label === 'For the Adults' ? p.title : `${p.label}: ${p.title}`;
+    const sh = sheets.find((q) => q.href === BASE + target);
+    if (!sh) throw new Error(`redirects.json points to a missing page: ${target}`);
+    const p = sh.p;
+    const name = p.label === 'For the Adults' ? p.title : `${p.label}: ${p.title}`;
+    return sh.n > 1 ? `${name}, page ${sh.n}` : name;
   };
   for (const [from, to] of Object.entries(readJson('content/redirects.json'))) {
+    if (sheets.some((sh) => sh.rel === path.join(from, 'index.html'))) throw new Error(`redirects.json would replace a real page: ${from}`);
     const target = BASE + to;
     writePage(path.join(from, 'index.html'), fill(redirectTpl, { label: esc(labelFor(to)), target, canonical: SITE_URL + to }));
   }
@@ -511,10 +552,12 @@ function writeArtPages(sheets) {
     'Generated by `npm run build`. Use the key in `content/art.json` to put an illustration on that page:',
     '',
     '```json',
-    '"ch08-2": { "file": "ch08-angels.webp", "alt": "A great company of angels filling the sky above the fields" }',
+    '"ch09-3": { "file": "ch09-3.webp", "alt": "The shepherds walking back from the manger, praising God" }',
     '```',
     '',
     'Page 1 of every chapter always has an art slot, which shows a placeholder until its file exists. Any other page shows art only when it has an entry. The art sits at the top of the page, under the heading. The home page hero uses the key `home-hero`.',
+    '',
+    'House rules, enforced by `npm run check`: page 1 of each section has art. A section of 4 or more pages has one more picture, with at least one full page of text between the two. Each file is named after its key, for example `ch08.webp` and `ch08-3.webp`.',
     '',
     '| Key | Page | Starts with | Art |',
     '| --- | --- | --- | --- |',

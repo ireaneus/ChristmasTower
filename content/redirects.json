@@ -25,5 +25,12 @@
   "blog/chapter9-page2/": "read/10/",
   "blog/epilogue/": "read/epilogue/",
   "blog/adults/": "read/for-the-adults/",
-  "blog/coloring/": ""
+  "blog/coloring/": "",
+  "read/prologue/3/": "read/prologue/2/",
+  "read/prologue/4/": "read/prologue/2/",
+  "read/03/3/": "read/03/2/",
+  "read/05/3/": "read/05/2/",
+  "read/05/4/": "read/05/2/",
+  "read/08/3/": "read/08/2/",
+  "read/for-the-adults/4/": "read/for-the-adults/3/"
 }

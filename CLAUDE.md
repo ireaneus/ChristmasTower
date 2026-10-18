@@ -13,10 +13,12 @@ A static read-aloud site for *The Christmas Tower* (v11), served at https://irea
 ## Layout
 
 - `content/christmas-tower-v11.md`: the manuscript (single source of truth)
-- `content/art.json`: page key to illustration in `assets/art/` (WebP). Keys are `ch08` for a chapter's first page (always has a slot; a missing file shows a placeholder), `ch08-2` for later pages (art only when listed), plus `prologue-3`, `epilogue-2`, `for-the-adults-2`, `interlude`, and `home-hero`. Unknown keys fail the build. `ART_PAGES.md` (generated) lists every key.
+- `content/art.json`: page key to illustration in `assets/art/` (WebP). Keys are `ch08` for a chapter's first page (always has a slot; a missing file shows a placeholder), `ch08-3` for later pages (art only when listed), plus `interlude` and `home-hero`. Unknown keys fail the build. `ART_PAGES.md` (generated) lists every key. Art rules (enforced by `npm run check`): page 1 of every section has a picture; a section of 4+ pages has exactly one more, on page 3 or later, so a full page of text sits between them; each file is named after its key (`ch09-3.webp`). Retired art lives in `assets/art-unused/`.
+- `content/pages.json`: the site's page breaks, by subject. Each section lists the opening words of the block that starts each page after the first (a Scripture card matches on its reference, like `Isaiah 9:6`). Each must match exactly one block. A section listed here ignores the manuscript's `---` lines, which belong to the printed book. Aim for roughly 120 to 290 words a page, lighter on pages with a picture.
+- `content/titles.json`: short display titles for each section. The manuscript keeps its full titles.
 - `content/asides.json`: overrides for italic paragraphs, keyed by opening words: `"aside"` (Talk about it card) or `"tower"` (italic Tower voice)
 - `content/redirects.json`: old site paths to new pages
-- `src/build.mjs`: parser and page generator. Each `---` in the manuscript is a page break: a chapter's first page is `/read/08/`, and later pages are `/read/08/2/` and so on. Previous and Next turn one page, crossing into the next chapter at the end. It also writes `ASIDES_REVIEW.md`.
+- `src/build.mjs`: parser and page generator. Pages split where `content/pages.json` says: a chapter's first page is `/read/08/`, and later pages are `/read/08/2/` and so on. Previous and Next turn one page, crossing into the next chapter at the end. It also writes `ASIDES_REVIEW.md`.
 - `src/check.mjs`: verification (`npm run check`). It must pass before deploy.
 - `src/contrast.mjs`: WCAG contrast from the CSS tokens
 - `src/templates/`, `src/styles.css`, `src/site.js`: HTML partials, design tokens and components, theme toggle and continue-reading
