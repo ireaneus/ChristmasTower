@@ -12,9 +12,10 @@ House rules, enforced by `npm run check`: page 1 of each section has art. A sect
 
 | Key | Page | Starts with | Art |
 | --- | --- | --- | --- |
-| `prologue` | Prologue, page 1 of 3 | My name is Migdal Eder. In Hebrew it means… | `prologue.webp` |
-| `prologue-2` | Prologue, page 2 of 3 | The Master Stonemason who built me chose every stone… |  |
-| `prologue-3` | Prologue, page 3 of 3 | Then one day the earth shook beneath me, my… | `prologue-3.webp` |
+| `prologue` | Prologue, page 1 of 4 | My name is Migdal Eder. In Hebrew it means… | `prologue.webp` |
+| `prologue-2` | Prologue, page 2 of 4 | The Master Stonemason who built me chose every stone… |  |
+| `prologue-3` | Prologue, page 3 of 4 | Then one day the earth shook beneath me, my… | `prologue-3.webp` |
+| `prologue-4` | Prologue, page 4 of 4 | Isaiah 53:3 (ESV) “He was despised and rejected by… |  |
 | `ch01` | Chapter 1, page 1 of 2 | One day a man pitched his tent in my… | `ch01.webp` |
 | `ch01-2` | Chapter 1, page 2 of 2 | Genesis 35:18-20 (ESV) And as her soul was departing… |  |
 | `ch02` | Chapter 2, page 1 of 4 | A new morning came up over the hills and… | `ch02.webp` |
