@@ -1,9 +1,10 @@
 {
   "home-hero": { "file": "home-hero.webp", "alt": "The stone tower at night above the shepherds' fields" },
   "prologue": { "file": "prologue.webp", "alt": "The old stone tower alone on its hill under a sky full of stars" },
+  "prologue-3": { "file": "prologue-3.webp", "alt": "The old tower cracking and crumbling in a lightning storm" },
   "ch01": { "file": "ch01.webp", "alt": "Jacob holding his newborn son on the road to Bethlehem, the tower on the hill" },
   "ch02": { "file": "ch02.webp", "alt": "Ruth and Naomi on the road to Bethlehem" },
-  "ch02-4": { "file": "ch02-4.webp", "alt": "Boaz and Ruth in the field" },
+  "ch02-3": { "file": "ch02-3.webp", "alt": "Boaz and Ruth in the field" },
   "ch03": { "file": "ch03.webp", "alt": "David with his sheep in the field below the tower" },
   "ch04": { "file": "ch04.webp", "alt": "A Levitical shepherd laying a spotless lamb wrapped in cloth in the stone manger" },
   "ch05": { "file": "ch05.webp", "alt": "Joseph leading Mary on a donkey along the road at sunset, the tower on its hill ahead" },
@@ -11,12 +12,11 @@
   "ch07": { "file": "ch07.webp", "alt": "Mary and Joseph kneeling beside the baby in the stone manger inside the tower, sheep resting nearby" },
   "interlude": { "file": "home-hero.webp", "alt": "Shepherds around a small fire in the fields at night, the tower glowing on the hill beneath the stars" },
   "ch08": { "file": "ch08.webp", "alt": "An angel standing in the field, the tower lit on the hill" },
-  "ch09": { "file": "ch09.webp", "alt": "The shepherds walking to the tower on the hill" },
+  "ch09": { "file": "ch09.webp", "alt": "The shepherds kneeling in the straw before the baby in the manger" },
   "ch09-3": { "file": "ch09-3.webp", "alt": "The shepherds walking back from the manger, praising God" },
   "ch10": { "file": "ch10.webp", "alt": "Jesus reaching out his hand to a kneeling man on the road, a crowd following and the tower on the hill" },
-  "ch10-3": { "file": "ch10-3.webp", "alt": "Jesus on the road looking up at the tower, a crowd following behind Him" },
+  "ch10-3": { "file": "ch10-3.webp", "alt": "Jesus holding a lamb, looking at the Christmas Tower" },
   "ch11": { "file": "ch11.webp", "alt": "Jesus riding a young donkey down the road past the tower as the crowd lays down their cloaks" },
-  "ch11-5": { "file": "ch11-5.webp", "alt": "Jesus holding a lamb, looking at the Christmas Tower" },
   "epilogue": { "file": "epilogue.webp", "alt": "A white stone with a new name written on it, resting in the grass among the tower's old stones" },
   "for-the-adults": { "file": "for-the-adults.webp", "alt": "A grandparent reading aloud to children gathered close by lamplight" }
 }

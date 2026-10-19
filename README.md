@@ -240,7 +240,7 @@ Run `npm run preview` and open the page. The build works out the image's width a
 
 - **The first page of each section** always has an art slot. Until its file exists, it shows a styled placeholder with the `alt` text as a caption, so the site looks finished before the art is done.
 - **Later pages** show art only when `art.json` has an entry for them. Pages without an entry stay plain text.
-- **How many pictures:** one on page 1 of every section. A section of 4 or more pages gets exactly one more, on page 3 or later, so a full page of text sits between the two. Put it on a lighter page to even out the weight. `npm run check` enforces this.
+- **How many pictures:** one on page 1 of every section, and at most one more, on page 3 or later, so a full page of text sits between the two. Sections of 4 or more pages usually get the second picture; put it on a lighter page to even out the weight. `npm run check` enforces this and notes long sections with one picture.
 - Art appears at the top of the page, under the heading.
 - **Tall (portrait) pictures** are centered at a comfortable height instead of stretched across the page.
 - **The home hero** shows the drawn tower scene (`src/templates/hero.svg`) until the `home-hero` file exists. Its title text sits on top of the picture, so a dark night image reads best.
