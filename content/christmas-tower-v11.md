@@ -508,8 +508,6 @@ I am Migdal Eder. I am the Christmas Tower. He called me that, and I carry it st
 
 A white stone with your name on it, written by the same hands that chose an old tower out of the rock and set it on a hill to wait.
 
-He knows which stone is yours. He has known since before Bethlehem had a name.
-
 > **Isaiah 43:1 (ESV)**
 >
 > *But now thus says the LORD, he who created you, O Jacob, he who formed you, O Israel: \"Fear not, for I have redeemed you; I have called you by name, you are mine.\"*
