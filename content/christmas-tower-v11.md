@@ -16,7 +16,7 @@ To my beloved wife — she has always loved me the mostestes.
 
 ## Prologue: The Tower Speaks
 
-My name is Migdal Eder. In Hebrew it means Tower of the Flock, and I carried that name for thousands of years. Then came one very special night when I was given a new name - *\"The Christmas Tower\"*. That name is a high honor, and it came with important work. Stay with me and I will tell you how I received it.
+My name is Migdal Eder. In Hebrew it means Tower of the Flock, and I carried that name for thousands of years. Then came one very special night when I was given a new name - *\"The Christmas Tower\"*. That name is a high honor, and it came with important work.
 
 That night was long ago, today I am nothing more than a pile of rocks on a quiet hill, and time has forgotten me altogether.
 
@@ -24,7 +24,7 @@ My foundation was laid so long ago, that it feels as if I was here at the beginn
 
 The Master Stonemason who built me chose every stone Himself, working them in patiently, and precise, so that each one would settle against its neighbor and hold firm.
 
-From high above I watched the shepherds guard their flocks from prowling wolves, from wild weather, and from robbers who came only to steal and kill and destroy.
+From high above I watched the shepherds guard their flocks from prowling wolves, from wild weather, and from robbers who came only to steal, and destroy.
 
 For many years the shepherds took care of the sheep, their occasional bleating would lull me into a calming and peacefull state, and so I slept.
 
