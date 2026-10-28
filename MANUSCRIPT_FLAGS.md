@@ -4,17 +4,7 @@ Things noticed in `content/christmas-tower-v11.md` (v11.3) while building the si
 
 Line numbers refer to the manuscript file as of 28 Oct 2026.
 
-## Voice and consistency
-
-| Line | Chapter | Note |
-| --- | --- | --- |
-| 7 / 605 | Front matter | The version line says v11.3; the newest Version History entry is v11.3.1. Neither appears on the site. |
-
-## Likely typos
-
-| Line | Chapter | Text | Suggestion |
-| --- | --- | --- | --- |
-| 449 | Chapter 11 | "after that day,Then one afternoon" | Missing space, and a capital after a comma. Perhaps "after that day. Then one afternoon". |
+No open flags.
 
 ## Display cleanup applied (words unchanged)
 

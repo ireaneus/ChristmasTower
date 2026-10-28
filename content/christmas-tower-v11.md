@@ -4,7 +4,7 @@
 
 David Haines
 
-**Working manuscript v11.3** · 28 September 2026
+**Working manuscript v11.3.1** · 28 September 2026
 
 ---
 
@@ -446,7 +446,7 @@ And then Jesus turned and looked up at me. He looked at my old broken stones for
 
 ## Chapter 11: The Stones Would Cry Out
 
-The seasons turned over me again and again after that day,Then one afternoon He came down my road one last time. He was riding a young donkey, and His face was set toward Jerusalem. A crowd went with Him, and they were singing. They pulled the cloaks off their own backs and threw them down in the dust for the donkey to walk on. I had watched kings' roads my whole life. I had never seen a road laid down like that.
+The seasons turned over me again and again after that day, then one afternoon He came down my road one last time. He was riding a young donkey, and His face was set toward Jerusalem. A crowd went with Him, and they were singing. They pulled the cloaks off their own backs and threw them down in the dust for the donkey to walk on. I had watched kings' roads my whole life. I had never seen a road laid down like that.
 
 Some men in the crowd told Him to make the singing stop.
 
