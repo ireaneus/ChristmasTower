@@ -19,9 +19,8 @@ const ESV_NOTICE = 'Scripture quotations are from the ESV® Bible (The Holy Bibl
 const read = (p) => fs.readFileSync(path.join(ROOT, p), 'utf8');
 const readJson = (p) => JSON.parse(read(p));
 
-// Site-only structure. The manuscript's --- breaks are the printed book's; the website pages by subject instead.
+// Site-only structure. Page breaks come from the manuscript's --- lines.
 const TITLES = readJson('content/titles.json');
-const BREAKS = readJson('content/pages.json');
 
 // ---------- Manuscript ----------
 
@@ -77,10 +76,8 @@ export function classify(sections) {
     }
   }
   const keys = new Set(pages.map((p) => p.key));
-  for (const [file, map] of [['titles.json', TITLES], ['pages.json', BREAKS]]) {
-    const unknown = Object.keys(map).filter((k) => !keys.has(k));
-    if (unknown.length) throw new Error(`content/${file} has keys that match no section: ${unknown.join(', ')}`);
-  }
+  const unknown = Object.keys(TITLES).filter((k) => !keys.has(k));
+  if (unknown.length) throw new Error(`content/titles.json has keys that match no section: ${unknown.join(', ')}`);
   for (const p of pages) if (TITLES[p.key]) p.title = TITLES[p.key];
   if (interlude) {
     const at = pages.findIndex((p) => p.num === interlude.afterChapter) + 1;
@@ -168,21 +165,9 @@ function loadAsides() {
 }
 const ASIDES = loadAsides();
 
-// Plain text of a rendered block, for matching the opening words in content/pages.json.
-const normQuotes = (s) => s.replace(/[“”]/g, '"').replace(/[‘’]/g, "'");
-function blockText(html) {
-  const text = html
-    .replace(/<span class="chrome">[^<]*<\/span>|<p class="talk-label chrome">[^<]*<\/p>/g, '')
-    .replace(/<[^>]+>/g, ' ')
-    .replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
-  return normQuotes(text).replace(/\s+/g, ' ').trim();
-}
-
-// Renders a section as a list of page bodies.
-// With `breaks` (opening words from content/pages.json), a new page starts at each block that begins with one of them
-// and the manuscript's --- lines are ignored. Without it, each --- is a page break.
+// Renders a section as a list of page bodies. Each --- is a page break.
 // Records italic paragraphs and unlabeled quotes in `log`.
-export function renderPages(source, pageLabel, log, breaks) {
+export function renderPages(source, pageLabel, log) {
   const toks = md.parse(source, {});
   const blocks = topLevelBlocks(toks);
   const out = [];
@@ -233,18 +218,7 @@ export function renderPages(source, pageLabel, log, breaks) {
       throw new Error(`${pageLabel}: unexpected block "${t}"`);
     }
   }
-  if (breaks) {
-    const blocks = out.filter((blk) => blk.kind !== 'hr');
-    const starts = breaks.map((key) => {
-      const hits = blocks.flatMap((blk, i) => (blockText(blk.html).startsWith(normQuotes(key)) ? [i] : []));
-      if (hits.length !== 1) throw new Error(`content/pages.json: "${key}" matches ${hits.length} blocks in ${pageLabel}. Use opening words that match exactly one.`);
-      if (hits[0] === 0) throw new Error(`content/pages.json: "${key}" is the first block of ${pageLabel}, which already starts a page.`);
-      return hits[0];
-    });
-    if (starts.some((at, i) => i && at <= starts[i - 1])) throw new Error(`content/pages.json: the breaks for ${pageLabel} are out of reading order.`);
-    return [0, ...starts].map((at, i) => blocks.slice(at, starts[i] ?? blocks.length).map((blk) => blk.html).join('\n'));
-  }
-  // Each --- is a page break. Repeated breaks and breaks at the edges never make an empty page.
+  // Repeated breaks and breaks at the edges never make an empty page.
   const pages = [[]];
   for (const blk of out) {
     if (blk.kind === 'hr') {
@@ -255,9 +229,9 @@ export function renderPages(source, pageLabel, log, breaks) {
   return pages.map((blocks) => blocks.join('\n'));
 }
 
-// Renders a reading section into its pages, using its breaks from content/pages.json when it has an entry.
+// Renders a reading section into its pages.
 export function renderSection(p, log) {
-  return renderPages(p.md, p.label, log, BREAKS[p.key]);
+  return renderPages(p.md, p.label, log);
 }
 
 // Renders a section with no page breaks (Dedication, Personal Note).
@@ -382,7 +356,7 @@ function main() {
     }));
   };
 
-  // Reading pages: content/pages.json says where each section turns the page.
+  // Reading pages: each --- in the manuscript turns the page.
   const eveningWords = { 1: 0, 2: 0 };
   const sheets = [];
   for (const p of reading) {

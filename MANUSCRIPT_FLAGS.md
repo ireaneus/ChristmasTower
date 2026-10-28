@@ -54,5 +54,5 @@ The v11.3.1 note says "no em dashes found", but four remain. They appear on the 
 ## Display cleanup applied (words unchanged)
 
 - Escaped quotes (`\"`) become curly quotes, and straight apostrophes become curly apostrophes.
-- The site turns pages by subject, from `content/pages.json`, and leaves the manuscript's horizontal rules (`---`) to the printed book. Short section titles for the site come from `content/titles.json`; the manuscript keeps its full titles. A gold star divider marks the end of each chapter.
+- The site turns the page at each of the manuscript's horizontal rules (`---`). Short section titles for the site come from `content/titles.json`; the manuscript keeps its full titles. A gold star divider marks the end of each chapter.
 - The "Working manuscript" line and the Version History section are left out.

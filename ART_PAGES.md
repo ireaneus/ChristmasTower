@@ -13,34 +13,38 @@ House rules, enforced by `npm run check`: page 1 of each section has art. A sect
 | Key | Page | Starts with | Art |
 | --- | --- | --- | --- |
 | `prologue` | Prologue, page 1 of 4 | My name is Migdal Eder. In Hebrew it means… | `prologue.webp` |
-| `prologue-2` | Prologue, page 2 of 4 | The Master Stonemason who built me chose every stone… |  |
+| `prologue-2` | Prologue, page 2 of 4 | Micah 4:8 (ESV) “And you, O tower of the… |  |
 | `prologue-3` | Prologue, page 3 of 4 | Then one day the earth shook beneath me, my… | `prologue-3.webp` |
 | `prologue-4` | Prologue, page 4 of 4 | Isaiah 53:3 (ESV) “He was despised and rejected by… |  |
 | `ch01` | Chapter 1, page 1 of 2 | One day a man pitched his tent in my… | `ch01.webp` |
 | `ch01-2` | Chapter 1, page 2 of 2 | Genesis 35:18-20 (ESV) And as her soul was departing… |  |
 | `ch02` | Chapter 2, page 1 of 4 | A new morning came up over the hills and… | `ch02.webp` |
 | `ch02-2` | Chapter 2, page 2 of 4 | Ruth 1:16 (ESV) But Ruth said, “Do not urge… |  |
-| `ch02-3` | Chapter 2, page 3 of 4 | The field belonged to a man named Boaz. One… | `ch02-3.webp` |
-| `ch02-4` | Chapter 2, page 4 of 4 | Ephesians 2:13 (ESV) But now in Christ Jesus you… |  |
-| `ch03` | Chapter 3, page 1 of 2 | The fields were soft and still that morning, and… | `ch03.webp` |
-| `ch03-2` | Chapter 3, page 2 of 2 | That morning a prophet named Samuel came down the… |  |
+| `ch02-3` | Chapter 2, page 3 of 4 | So the two of them walked the road back… | `ch02-3.webp` |
+| `ch02-4` | Chapter 2, page 4 of 4 | Ruth 2:10-13 (ESV) Then she fell on her face,… |  |
+| `ch03` | Chapter 3, page 1 of 3 | The fields were soft and still that morning, and… | `ch03.webp` |
+| `ch03-2` | Chapter 3, page 2 of 3 | That morning a prophet named Samuel came down the… |  |
+| `ch03-3` | Chapter 3, page 3 of 3 | 1 Samuel 16:13 (ESV) Then Samuel took the horn… |  |
 | `ch04` | Chapter 4, page 1 of 2 | Exodus 12:3, 5 (ESV) Speak to all the congregation… | `ch04.webp` |
-| `ch04-2` | Chapter 4, page 2 of 2 | They inspected each one over and over, running their… |  |
-| `ch05` | Chapter 5, page 1 of 2 | Luke 2:1-5 (ESV) In those days a decree went… | `ch05.webp` |
-| `ch05-2` | Chapter 5, page 2 of 2 | Matthew 1:20-21 (ESV) But as he considered these things,… |  |
+| `ch04-2` | Chapter 4, page 2 of 2 | The years went by, and the throne came, the… |  |
+| `ch05` | Chapter 5, page 1 of 4 | Luke 2:1-5 (ESV) In those days a decree went… | `ch05.webp` |
+| `ch05-2` | Chapter 5, page 2 of 4 | It was evening, the sun was going down behind… |  |
+| `ch05-3` | Chapter 5, page 3 of 4 | Matthew 1:20-21 (ESV) But as he considered these things,… |  |
+| `ch05-4` | Chapter 5, page 4 of 4 | Luke 1:26-31 (ESV) The angel Gabriel came to her… |  |
 | `ch06` | Chapter 6, page 1 of 2 | Night fell softly over Bethlehem’s hills, and I stood… | `ch06.webp` |
-| `ch06-2` | Chapter 6, page 2 of 2 | Then the two of them turned and left the… |  |
+| `ch06-2` | Chapter 6, page 2 of 2 | Every door in town said no. The tower said… |  |
 | `ch07` | Chapter 7, page 1 of 2 | They came in out of the cold, and I… | `ch07.webp` |
 | `ch07-2` | Chapter 7, page 2 of 2 | Then the baby opened His eyes and looked at… |  |
 | `interlude` | Interlude | The Night with the Shepherds Under the Tower | `home-hero.webp` |
-| `ch08` | Chapter 8, page 1 of 2 | Inside my walls the child was sleeping. Out in… | `ch08.webp` |
-| `ch08-2` | Chapter 8, page 2 of 2 | These words came back across the field to me,… |  |
+| `ch08` | Chapter 8, page 1 of 3 | Inside my walls the child was sleeping. Out in… | `ch08.webp` |
+| `ch08-2` | Chapter 8, page 2 of 3 | Luke 2:10-12 (ESV) “Fear not, for behold, I bring… |  |
+| `ch08-3` | Chapter 8, page 3 of 3 | Luke 2:14 (ESV) “Glory to God in the highest,… |  |
 | `ch09` | Chapter 9, page 1 of 4 | Then suddenly the silence broke, The shepherds scampered to… | `ch09.webp` |
 | `ch09-2` | Chapter 9, page 2 of 4 | They stepped inside and found Him, wrapped in swaddling… |  |
 | `ch09-3` | Chapter 9, page 3 of 4 | Isaiah 9:6 (ESV) For to us a child is… | `ch09-3.webp` |
 | `ch09-4` | Chapter 9, page 4 of 4 | They could not hold it in, they went back… |  |
 | `ch10` | Chapter 10, page 1 of 4 | Many years went by after the night the child… | `ch10.webp` |
-| `ch10-2` | Chapter 10, page 2 of 4 | A sick man sat off by himself at the… |  |
+| `ch10-2` | Chapter 10, page 2 of 4 | Matthew 8:1-3 (ESV) When he came down from the… |  |
 | `ch10-3` | Chapter 10, page 3 of 4 | “He touched him,” a woman said. “Look at his… | `ch10-3.webp` |
 | `ch10-4` | Chapter 10, page 4 of 4 | John 10:10-11, 14-16 (ESV) “The thief comes only to… |  |
 | `ch11` | Chapter 11, page 1 of 5 | The seasons turned over me again and again after… | `ch11.webp` |
@@ -49,6 +53,7 @@ House rules, enforced by `npm run check`: page 1 of each section has art. A sect
 | `ch11-4` | Chapter 11, page 4 of 5 | Three days later, He walked out of a grave.… |  |
 | `ch11-5` | Chapter 11, page 5 of 5 | Revelation 22:13 (ESV) “I am the Alpha and the… |  |
 | `epilogue` | Epilogue, page 1 of 1 | Revelation 2:17 (ESV) “To the one who conquers I… | `epilogue.webp` |
-| `for-the-adults` | For the Adults, page 1 of 3 | This is a book about names, and every one… | `for-the-adults.webp` |
-| `for-the-adults-2` | For the Adults, page 2 of 3 | The tower calls Him the Master Stonemason for most… |  |
-| `for-the-adults-3` | For the Adults, page 3 of 3 | Romans 3:23 (ESV) For all have sinned and fall… |  |
+| `for-the-adults` | For the Adults, page 1 of 4 | This is a book about names, and every one… | `for-the-adults.webp` |
+| `for-the-adults-2` | For the Adults, page 2 of 4 | Genesis 1:27 (ESV) So God created man in his… |  |
+| `for-the-adults-3` | For the Adults, page 3 of 4 | Romans 3:23 (ESV) For all have sinned and fall… |  |
+| `for-the-adults-4` | For the Adults, page 4 of 4 | Romans 5:8 (ESV) But God shows his love for… |  |

@@ -35,7 +35,7 @@ The whole website is generated from one file: the manuscript, `content/christmas
 ```text
 content/christmas-tower-v11.md ─┐
 content/art.json               ─┤
-content/pages.json, titles.json ┤
+content/titles.json            ─┤
 content/asides.json            ─┼─►  src/build.mjs  ─►  _site/  ─►  GitHub Pages
 content/redirects.json         ─┤    (npm run build)    (the finished website)
 src/templates/, styles.css     ─┘
@@ -48,7 +48,7 @@ The build script reads the manuscript and turns each part into web pages:
 | In the manuscript | On the website |
 | --- | --- |
 | `## Prologue: ...`, `## Chapter N: ...`, `## Epilogue: ...`, `## For the Adults` | A section of the book. Its title on the site comes from `content/titles.json` when listed there. |
-| `---` | A page break in the printed book. The website pages by subject from `content/pages.json` instead. |
+| `---` | A page break. The website turns the page here. |
 | `## Dedication`, `## A Personal Note from the Author` | The About page |
 | A blockquote that starts with `**Reference (ESV)**` | A Scripture card labeled "Narrator voice · Reference (ESV)" |
 | A paragraph that is all **bold** | A large "payoff" line |
@@ -87,7 +87,6 @@ The live site sits under `/ChristmasTower/`, so Chapter 8 is at `https://ireaneu
 content/
   christmas-tower-v11.md   the manuscript (the source of all story text)
   art.json                 which illustration goes on which page
-  pages.json               where each section turns the page on the website
   titles.json              short section titles for the website
   asides.json              overrides for italic paragraphs (card or Tower voice)
   redirects.json           old site addresses and where they now point
@@ -138,15 +137,10 @@ Edit `content/christmas-tower-v11.md`. Everything on the reading pages comes fro
 
 ### 1a. Change where a page turns
 
-Edit `content/pages.json`. Each section lists the opening words of the paragraph (or the reference of the Scripture card) that starts each new page after the first:
+Add, move, or remove a `---` line in the manuscript. Each one starts a new page on the website.
 
-```json
-"ch09": ["They stepped inside", "Isaiah 9:6", "They could not hold"]
-```
-
-- Start a new page where the subject changes, and keep pages roughly even (about 120 to 290 words, lighter on a page with a picture).
-- The opening words must match exactly one paragraph in that section, or the build stops and says which one.
-- The `---` lines in the manuscript stay as the printed book's page breaks.
+- Keep pages roughly even (about 120 to 290 words, lighter on a page with a picture).
+- A chapter's second picture (like `ch09-3` in `content/art.json`) sits on page 3, so check that page 3 still fits it after you move a break.
 
 ### 2. Change words on the home page
 
