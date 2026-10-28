@@ -20,7 +20,7 @@ My name is Migdal Eder. In Hebrew it means Tower of the Flock, and I carried tha
 
 That night was long ago, today I am nothing more than a pile of rocks on a quiet hill, and time has forgotten me altogether.
 
-My foundation was laid so long ago, that it feels as if I was here at the beginning of creation. I was built in the quiet hills of Canaan, south of a town called Salem. Both of those names have changed since then. The hills of Canaan are called Israel now, and Salem is called Jerusalem. Names change here. Hold on to that.
+My foundation was laid so long ago that it feels as if I was here at the beginning of creation. I was built in the quiet hills of Canaan, south of a town called Salem. Both of those names have changed since then. The hills of Canaan are called Israel now, and Salem is called Jerusalem. Names change here. Hold on to that.
 
 The Master Stonemason who built me chose every stone Himself, working them in patiently, and precise, so that each one would settle against its neighbor and hold firm.
 
@@ -38,7 +38,7 @@ For many years the shepherds took care of the sheep, their occasional bleating w
 >
 > *\"The name of the LORD is a strong tower; the righteous man runs into it and is safe.\"*
 
-*Micah was talking about Migdal Eder, the Bible actually records this very special tower. This same tower pictures God, in that we can run to Him and He will provide you safety.*
+*Micah was talking about Migdal Eder the Bible actually records this very special tower. This same tower pictures God, in that we can run to Him and He will provide us safety.*
 
 ---
 
@@ -91,7 +91,7 @@ I stood a long while after they had gone. I did not understand yet why the Maste
 - *Ephrath, that is Bethlehem, how many name changes are we at? Can you list them all?*
 - *Did you notice our little tower is mentioned in the Bible again?*
 - *Wouldn't it be wonderful to have your name listed in the Bible too?*
-- *Did you know there are heavenly books that have our names written in it? Which book is your name listed in?*
+- *Did you know there are heavenly books that have our names written in them? Which book is your name listed in?*
 
 ---
 
@@ -183,7 +183,7 @@ They brought the boy in from my fields, still smelling like the flock, and Samue
 >
 > *He will tend his flock like a shepherd; he will gather the lambs in his arms; he will carry them in his bosom, and gently lead those that are with young.*
 
-*The Master Stonemason's Spirit fell on David from that day on, he came back to the field a shepherd king*
+*The Master Stonemason's Spirit fell on David from that day on. He came back to the field a shepherd king.*
 
 ---
 
@@ -219,7 +219,7 @@ I had been watching a long while by then. A boy renamed over his mother's grave.
 
 It was evening, the sun was going down behind the hills and the light came across the fields the color of honey. That's when I saw them on the road, a man walking, leading a donkey, and a young woman riding it with both hands resting on the child still inside her.
 
-As the weary couple continued on their journey, the man looked up and found me on my hill, he did not look away. He held my gaze, his face was filled with heavy concern, I felt his burden, and although it seemed heavy he knew he wasn't doing it alone.  He had put his faith and trust in the Master Stonemason.
+As the weary couple continued on their journey, the man looked up and found me on my hill, he did not look away. He held my gaze, his face was filled with heavy concern, I felt his burden, and although it seemed heavy he knew he wasn't doing it alone. He had put his faith and trust in the Master Stonemason.
 
 I looked back at him trying to reassure him that I have been here a long time, I wanted to present a firm, steady, strong tower, able to provide them with protection and much needed rest.
 
@@ -232,7 +232,7 @@ He turned back to the road and reached up and took her hand.
 > *But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. She will bear a son, and you shall call his name Jesus, for he will save his people from their sins."*
 
 >
-> *And you tower of the flock.. A loud voice called out in the night, waking the Tower from it's slumber.*
+> *And you, O tower of the flock... A loud voice called out in the night, waking the Tower from its slumber.*
 
 > **Micah 4:8 (ESV)**
 >
@@ -268,7 +268,7 @@ So I did the only thing I could do. I let my light spill out of the entrance lik
 
 Every door in town said no. The tower said yes.
 
-The world had no room, The Master Stonemason made room anyway, and He used an old pile of stone on a hill to do it.
+The world had no room, the Master Stonemason made room anyway, and He used an old pile of stone on a hill to do it.
 
 > **Luke 2:6-7 (ESV)**
 >
@@ -284,7 +284,7 @@ My walls are thick. The wind that was tearing across the hill that night never r
 
 That night, inside my walls, Mary gave birth to her Son.
 
-They wrapped Him in swaddling cloths. They laid Him in my manger. The same cloths, The same manger, I held a thousand spotless lambs in that stone box and never once understood why, and in that moment I understood everything.
+They wrapped Him in swaddling cloths. They laid Him in my manger. The same cloths, the same manger, I held a thousand spotless lambs in that stone box and never once understood why, and in that moment I understood everything.
 
 Outside, the fields went quiet. The shepherds out there had no idea yet.
 
@@ -330,9 +330,9 @@ An angel of the Lord stood in the grass, and the brightness of him washed across
 
 These words came back across the field to me, spoken out loud by a shepherd still on his knees.
 
-*\"swaddling cloths, and a manger!\"*
+*\"Swaddling cloths, and a manger!\"*
 
-Then another voice, closer. *\"Could it be, right here in our tower of the flock?\"*
+Then another voice, closer. *\"Could it be, right here in Migdal Eder?\"*
 
 There was one manger a spotless lamb was carried to, wrapped in cloth, and kept until the day it was called for. It was inside me. It had a baby in it now.
 
@@ -380,7 +380,7 @@ Then one of the shepherds began to speak, and the words were older than any of u
 >
 > *And the shepherds returned, glorifying and praising God for all they had heard and seen, as it had been told them.*
 
-*How many names were given to the baby?, can you name them all?*
+*How many names were given to the baby? Can you name them all?*
 
 ---
 
@@ -460,7 +460,7 @@ The very stones.
 
 I have been one of those stones since before there was a Bethlehem to look down on. I have stood on this hill through storm and fire and every silent year in between, and I have never once stopped my worship. If every voice in that crowd had gone quiet, I would have sung His arrival out of my own cracked walls and been glad to do it.
 
-And as He passed me, He turned His head and looked at me, the old tower on the hill, He saw me, He saw right through me. He was seeing me as I was in the beginning, strong sturdy, steadfast, brilliant and new. If He would let me, my stones would cry out in praise to Him.
+And as He passed me, He turned His head and looked at me, the old tower on the hill, He saw me, He saw right through me. He was seeing me as I was in the beginning, strong, sturdy, steadfast, brilliant and new. If He would let me, my stones would cry out in praise to Him.
 
 Then He went over the rise, and the road took Him out of my sight, and I could not follow. Towers stay where they are set.
 
@@ -580,7 +580,7 @@ Then ask them the question the book has been asking the whole way through. Every
 
 Pray with them. Then, like the shepherds, go tell somebody.
 
-— David Haines
+*David Haines*
 
 ---
 
@@ -592,7 +592,7 @@ That message stayed with me. It stirred something deep inside: a longing to tell
 
 With gratitude,
 
-— David Haines, Author of *The Christmas Tower*
+*David Haines, Author of The Christmas Tower*
 
 ---
 

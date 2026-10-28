@@ -10,23 +10,25 @@ Rows marked `asides.json` are already overridden there. Delete the key to fall b
 
 | # | Page | Renders as | Decided by | Text |
 | --- | --- | --- | --- | --- |
-| 1 | Prologue | aside | asides.json | Micah was talking about Migdal Eder, the Bible actually records this very special tower. This same tower pictures God, in that we can run to Him and He will provide you safety. |
+| 1 | Prologue | aside | asides.json | Micah was talking about Migdal Eder the Bible actually records this very special tower. This same tower pictures God, in that we can run to Him and He will provide us safety. |
 | 2 | Prologue | aside | asides.json | Who is the Bible talking about here? Hint, they are one and the same person. |
 | 3 | Chapter 1 | tower | asides.json | Same little boy, two names. |
 | 4 | Chapter 1 | aside | italic list | Ephrath, that is Bethlehem, how many name changes are we at? Can you list them all? |
 | 5 | Chapter 1 | aside | italic list | Did you notice our little tower is mentioned in the Bible again? |
 | 6 | Chapter 1 | aside | italic list | Wouldn’t it be wonderful to have your name listed in the Bible too? |
-| 7 | Chapter 1 | aside | italic list | Did you know there are heavenly books that have our names written in it? Which book is your name listed in? |
+| 7 | Chapter 1 | aside | italic list | Did you know there are heavenly books that have our names written in them? Which book is your name listed in? |
 | 8 | Chapter 2 | aside | default rule | Did you notice the name change? Was there one or two name changes? |
 | 9 | Chapter 2 | aside | asides.json | Scripture still calls her Ruth the Moabite after the redemption. She kept the name she came with, and God wrote her into the family line of the King anyway. |
 | 10 | Chapter 2 | aside | asides.json | The Master Stonemason had reached all the way into Moab for one foreign widow with nothing to her name. Ruth walks out of the story as a mother in the family line of the King of kings. He gave her a new people, a new home, and a new name. |
 | 11 | Chapter 2 | aside | asides.json | Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to? |
-| 12 | Chapter 3 | aside | asides.json | The Master Stonemason's Spirit fell on David from that day on, he came back to the field a shepherd king |
+| 12 | Chapter 3 | aside | asides.json | The Master Stonemason's Spirit fell on David from that day on. He came back to the field a shepherd king. |
 | 13 | Chapter 5 | tower | default rule | The Tower did not rest that night. Something in its stones had come awake when that man looked at him, and it would not settle again. |
 | 14 | Chapter 5 | tower | default rule | Something has come. |
 | 15 | Chapter 7 | tower | default rule | The Christmas Tower. |
-| 16 | Chapter 8 | tower | default rule | "swaddling cloths, and a manger!" |
-| 17 | Chapter 9 | aside | default rule | How many names were given to the baby?, can you name them all? |
+| 16 | Chapter 8 | tower | default rule | "Swaddling cloths, and a manger!" |
+| 17 | Chapter 9 | aside | default rule | How many names were given to the baby? Can you name them all? |
 | 18 | Chapter 10 | tower | default rule | "Look at his skin. Look at his face." |
-| 19 | Chapter 10 | aside | default rule | "Who is this man?" |
+| 19 | Chapter 10 | tower | asides.json | "Who is this man?" |
 | 20 | Chapter 10 | tower | default rule | David was a shepherd who became king, Jesus is the King of Kings who calls Himself "The Good Shepherd" |
+| 21 | For the Adults | tower | default rule | David Haines |
+| 22 | A Personal Note | tower | default rule | David Haines, Author of The Christmas Tower |
