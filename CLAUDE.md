@@ -13,7 +13,7 @@ A static read-aloud site for *The Christmas Tower* (v11), served at https://irea
 ## Layout
 
 - `content/christmas-tower-v11.md`: the manuscript (single source of truth)
-- `content/art.json`: page key to illustration in `assets/art/` (WebP). Keys are `ch08` for a chapter's first page (always has a slot; a missing file shows a placeholder), `ch08-3` for later pages (art only when listed), plus `interlude` and `home-hero`. Unknown keys fail the build. `ART_PAGES.md` (generated) lists every key. Art rules (enforced by `npm run check`): page 1 of every section has a picture; a section may have one more, on page 3 or later, so a full page of text sits between them (sections of 4+ pages usually do; Dave left Chapter 11 at one); each file is named after its key (`ch09-3.webp`). Retired art lives in `assets/art-unused/`.
+- `content/art.json`: page key to illustration in `assets/art/` (WebP). Keys are `ch08` for a chapter's first page (always has a slot; a missing file shows a placeholder), `ch08-3` for later pages (art only when listed), plus `interlude` and `home-hero`. Unknown keys fail the build. `ART_PAGES.md` (generated) lists every key. Art rules (enforced by `npm run check`): page 1 of every section has a picture; a section may have one more, on any later page (sections of 4+ pages usually do; Dave left Chapter 11 at one); each file is named after its key (`ch09-3.webp`). Retired art lives in `assets/art-unused/`.
 - `content/titles.json`: short display titles for each section. The manuscript keeps its full titles.
 - `content/asides.json`: overrides for italic paragraphs, keyed by opening words: `"aside"` (Talk about it card) or `"tower"` (italic Tower voice)
 - `content/redirects.json`: old site paths to new pages

@@ -531,7 +531,7 @@ function writeArtPages(sheets) {
     '',
     'Page 1 of every chapter always has an art slot, which shows a placeholder until its file exists. Any other page shows art only when it has an entry. The art sits at the top of the page, under the heading. The home page hero uses the key `home-hero`.',
     '',
-    'House rules, enforced by `npm run check`: page 1 of each section has art. A section may have one more picture on page 3 or later, so a full page of text sits between the two. Each file is named after its key, for example `ch08.webp` and `ch08-3.webp`.',
+    'House rules, enforced by `npm run check`: page 1 of each section has art. A section may have one more picture on any later page. Each file is named after its key, for example `ch08.webp` and `ch08-3.webp`.',
     '',
     '| Key | Page | Starts with | Art |',
     '| --- | --- | --- | --- |',

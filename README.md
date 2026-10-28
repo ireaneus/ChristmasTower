@@ -140,7 +140,7 @@ Edit `content/christmas-tower-v11.md`. Everything on the reading pages comes fro
 Add, move, or remove a `---` line in the manuscript. Each one starts a new page on the website.
 
 - Keep pages roughly even (about 120 to 290 words, lighter on a page with a picture).
-- A chapter's second picture (like `ch09-3` in `content/art.json`) sits on page 3, so check that page 3 still fits it after you move a break.
+- A chapter's second picture is tied to a page number (like `ch09-3` in `content/art.json`), so check that its page still fits it after you move a break.
 
 ### 2. Change words on the home page
 
@@ -234,7 +234,7 @@ Run `npm run preview` and open the page. The build works out the image's width a
 
 - **The first page of each section** always has an art slot. Until its file exists, it shows a styled placeholder with the `alt` text as a caption, so the site looks finished before the art is done.
 - **Later pages** show art only when `art.json` has an entry for them. Pages without an entry stay plain text.
-- **How many pictures:** one on page 1 of every section, and at most one more, on page 3 or later, so a full page of text sits between the two. Sections of 4 or more pages usually get the second picture; put it on a lighter page to even out the weight. `npm run check` enforces this and notes long sections with one picture.
+- **How many pictures:** one on page 1 of every section, and at most one more, on any later page. Sections of 4 or more pages usually get the second picture; put it on a lighter page to even out the weight. `npm run check` enforces this and notes long sections with one picture.
 - Art appears at the top of the page, under the heading.
 - **Tall (portrait) pictures** are centered at a comfortable height instead of stretched across the page.
 - **The home hero** shows the drawn tower scene (`src/templates/hero.svg`) until the `home-hero` file exists. Its title text sits on top of the picture, so a dark night image reads best.

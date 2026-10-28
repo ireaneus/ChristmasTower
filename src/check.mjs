@@ -167,8 +167,7 @@ console.log('Checking _site/ against content/christmas-tower-v11.md');
   broken.length ? fail(`Broken internal links:\n      ${broken.join('\n      ')}`) : pass(`${count} internal links resolve`);
 }
 
-// 6. Art rules: page 1 of each section has a picture, and at most one more, with at least one full page of text
-// between the two. A 4+ page section with only one picture is noted, since Dave can choose that. Each file is named after its key.
+// 6. Art rules: page 1 of each section has a picture, and at most one more on any later page. A 4+ page section with only one picture is noted, since Dave can choose that. Each file is named after its key.
 {
   const problems = [];
   for (const p of reading.filter((q) => !q.isInterlude)) {
@@ -176,13 +175,12 @@ console.log('Checking _site/ against content/christmas-tower-v11.md');
     if (withArt[0] !== 1) problems.push(`${p.label}: page 1 has no picture`);
     if (withArt.length > 2) problems.push(`${p.label}: ${withArt.length} pictures, at most 2 allowed`);
     if (withArt.length === 1 && pageCount(p) >= 4) console.log(`  note ${p.label} has ${pageCount(p)} pages and one picture`);
-    if (withArt[1] && withArt[1] < 3) problems.push(`${p.label}: second picture on page ${withArt[1]}, needs a full page of text after page 1`);
   }
   const art = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/art.json'), 'utf8'));
   for (const file of new Set(Object.values(art).map((e) => e.file))) {
     if (!Object.entries(art).some(([k, e]) => e.file === file && file === `${k}.webp`)) problems.push(`assets/art/${file}: name it after its page key, like ch08.webp`);
   }
-  problems.length ? fail(`Art:\n      ${problems.join('\n      ')}`) : pass('Every section opens with a picture, second pictures sit a full page later, and art files are named by page key');
+  problems.length ? fail(`Art:\n      ${problems.join('\n      ')}`) : pass('Every section opens with a picture, has at most two, and art files are named by page key');
 }
 
 // Quality extras: one <h1> per page, alt on every image, titles and descriptions, contrast.
