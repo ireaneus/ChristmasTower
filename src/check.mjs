@@ -2,7 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { loadManuscript, splitSections, classify, manuscriptTokens, tokens, renderSection } from './build.mjs';
+import { loadManuscript, splitSections, classify, manuscriptTokens, tokens, renderSection, NO_OPENING_ART } from './build.mjs';
 import { contrastFailures } from './contrast.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -167,20 +167,24 @@ console.log('Checking _site/ against content/christmas-tower-v11.md');
   broken.length ? fail(`Broken internal links:\n      ${broken.join('\n      ')}`) : pass(`${count} internal links resolve`);
 }
 
-// 6. Art rules: page 1 of each section has a picture, and at most one more on any later page. A 4+ page section with only one picture is noted, since Dave can choose that. Each file is named after its key.
+// 6. Art rules: page 1 of each section has a picture (the Prologue opens with text and its first picture follows later), and at most two per section. A 4+ page section with only one picture is noted, since Dave can choose that. Each file is named after its key, except the Prologue's, which are named by page (prologue-04.webp).
 {
   const problems = [];
   for (const p of reading.filter((q) => !q.isInterlude)) {
     const withArt = sheetSlugs(p).map((slug, k) => [k + 1, /<figure class="art(?! art-placeholder)/.test(pageFor(slug) || '')]).filter(([, has]) => has).map(([n]) => n);
-    if (withArt[0] !== 1) problems.push(`${p.label}: page 1 has no picture`);
+    if (NO_OPENING_ART.has(p.key) ? withArt[0] === 1 : withArt[0] !== 1) problems.push(`${p.label}: page 1 ${NO_OPENING_ART.has(p.key) ? 'should be text only' : 'has no picture'}`);
     if (withArt.length > 2) problems.push(`${p.label}: ${withArt.length} pictures, at most 2 allowed`);
     if (withArt.length === 1 && pageCount(p) >= 4) console.log(`  note ${p.label} has ${pageCount(p)} pages and one picture`);
   }
   const art = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/art.json'), 'utf8'));
+  const fileForKey = (k) => {
+    const m = k.match(/^prologue-(\d+)$/);
+    return m ? `prologue-${m[1].padStart(2, '0')}.webp` : `${k}.webp`;
+  };
   for (const file of new Set(Object.values(art).map((e) => e.file))) {
-    if (!Object.entries(art).some(([k, e]) => e.file === file && file === `${k}.webp`)) problems.push(`assets/art/${file}: name it after its page key, like ch08.webp`);
+    if (!Object.entries(art).some(([k, e]) => e.file === file && file === fileForKey(k))) problems.push(`assets/art/${file}: name it after its page key, like ch08.webp (Prologue: prologue-04.webp)`);
   }
-  problems.length ? fail(`Art:\n      ${problems.join('\n      ')}`) : pass('Every section opens with a picture, has at most two, and art files are named by page key');
+  problems.length ? fail(`Art:\n      ${problems.join('\n      ')}`) : pass('Every section opens with a picture (the Prologue on page 2), has at most two, and art files are named by page');
 }
 
 // Quality extras: one <h1> per page, alt on every image, titles and descriptions, contrast.

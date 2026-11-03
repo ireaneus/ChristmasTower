@@ -16,17 +16,19 @@ To my beloved wife — she has always loved me the mostestes.
 
 ## Prologue: The Tower Speaks
 
-My name is Migdal Eder. In Hebrew it means Tower of the Flock, and I carried that name for thousands of years. Then came one very special night when I was given a new name - *\"The Christmas Tower\"*. That name is a high honor, and it came with important work.
+Hello, my name is Migdal Eder, which means Tower of the Flock in Hebrew. If you went looking for me today, on the hills south of Jerusalem near the town of Bethlehem, all you would find is rocks scattered across the ground. The tower I once was is gone.
 
-That night was long ago, today I am nothing more than a pile of rocks on a quiet hill, and time has forgotten me altogether.
+But I was real, and this story is true. Think about Jesus, you can't see Him walking down your street, because He is in heaven now, and yet you know He is real. You have the Bible to tell you about Him, and you can feel that He is near. In a small way, it is the same with me. You can't see my walls anymore, but the Bible still calls me by name, and it tells of the Child born in Bethlehem and the shepherds who hurried to find Him.
 
-My foundation was laid so long ago that it feels as if I was here at the beginning of creation. I was built in the quiet hills of Canaan, south of a town called Salem. Both of those names have changed since then. The hills of Canaan are called Israel now, and Salem is called Jerusalem. Names change here. Hold on to that.
+I watched it all happen from my hill. So come and read along with me, and I will tell you how an old tower came to be known as *\"The Christmas Tower\"*.
 
-The Master Stonemason who built me chose every stone Himself, working them in patiently, and precise, so that each one would settle against its neighbor and hold firm.
+---
 
-From high above I watched the shepherds guard their flocks from prowling wolves, from wild weather, and from robbers who came only to steal, and destroy.
+I wasn't always a pile of rocks. Long ago I was a grand tower, standing tall and strong on those same hills. The Master Stonemason built me Himself. He chose every stone and set each one patiently in its place, so that it would settle against its neighbor and hold firm.
 
-For many years the shepherds took care of the sheep, their occasional bleating would lull me into a calming and peacefull state, and so I slept.
+Back then the land was called Canaan, and the town to the north of me was called Salem. Both of those names have changed since then. Canaan is called Israel now, and Salem is called Jerusalem. My name would change too, on one very special night, and my new name would be a high honor that came with important work. That night was still a long way off, but names change here. Hold on to that.
+
+From high above I watched the shepherds guard their flocks from prowling wolves, from wild weather, and from robbers who came only to steal and destroy. Year after year they cared for their sheep, and the soft sound of bleating lulled me into a calm and peaceful rest, and so I slept.
 
 ---
 

@@ -1,7 +1,7 @@
 {
   "home-hero": { "file": "home-hero.webp", "alt": "The stone tower at night above the shepherds' fields" },
-  "prologue": { "file": "prologue.webp", "alt": "The old stone tower alone on its hill under a sky full of stars" },
-  "prologue-3": { "file": "prologue-3.webp", "alt": "The old tower cracking and crumbling in a lightning storm" },
+  "prologue-2": { "file": "prologue-02.webp", "alt": "The old stone tower standing tall on its green hill at sunset" },
+  "prologue-4": { "file": "prologue-04.webp", "alt": "The old tower cracking and crumbling in a lightning storm" },
   "ch01": { "file": "ch01.webp", "alt": "Jacob holding his newborn son on the road to Bethlehem, the tower on the hill" },
   "ch02": { "file": "ch02.webp", "alt": "Ruth and Naomi on the road to Bethlehem" },
   "ch02-3": { "file": "ch02-3.webp", "alt": "Boaz and Ruth in the field" },
