@@ -4,7 +4,7 @@ Things noticed in `content/christmas-tower-v11.md` (v11.3) while building the si
 
 Line numbers refer to the manuscript file as of 28 Oct 2026.
 
-- **Line 91, Genesis 35:21 (added 2 Nov 2026):** the manuscript quotes the ESV as "the tower of Migdal Eder". The ESV reads "the tower of Eder". The Scripture card and the Chapter 1 question about the tower being named in the Bible both depend on this line.
+No open flags.
 
 ## Display cleanup applied (words unchanged)
 

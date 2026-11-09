@@ -17,8 +17,10 @@ House rules, enforced by `npm run check`: page 1 of each section has art, except
 | `prologue-3` | Prologue, page 3 of 5 | Micah 4:8 (ESV) “And you, O tower of the… |  |
 | `prologue-4` | Prologue, page 4 of 5 | Then one day the earth shook beneath me, my… | `prologue-04.webp` |
 | `prologue-5` | Prologue, page 5 of 5 | Isaiah 53:3 (ESV) “He was despised and rejected by… |  |
-| `ch01` | Chapter 1, page 1 of 2 | One day a man pitched his tent in my… | `ch01.webp` |
-| `ch01-2` | Chapter 1, page 2 of 2 | Genesis 35:18-20 (ESV) And as her soul was departing… |  |
+| `ch01` | Chapter 1, page 1 of 4 | On cool nights the shepherds would sit around their… | `ch01.webp` |
+| `ch01-2` | Chapter 1, page 2 of 4 | Genesis 17:5 (ESV) “No longer shall your name be… |  |
+| `ch01-3` | Chapter 1, page 3 of 4 | Then one day, the man from the shepherds’ stories… | `ch01-3.webp` |
+| `ch01-4` | Chapter 1, page 4 of 4 | Genesis 35:18-20 (ESV) And as her soul was departing… |  |
 | `ch02` | Chapter 2, page 1 of 4 | A new morning came up over the hills and… | `ch02.webp` |
 | `ch02-2` | Chapter 2, page 2 of 4 | Ruth 1:16 (ESV) But Ruth said, “Do not urge… |  |
 | `ch02-3` | Chapter 2, page 3 of 4 | So the two of them walked the road back… | `ch02-3.webp` |

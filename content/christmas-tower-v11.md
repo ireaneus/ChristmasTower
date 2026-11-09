@@ -70,15 +70,44 @@ Something is coming.
 
 ## Chapter 1: Jacob and Benjamin, Two Names and One Destiny
 
-One day a man pitched his tent in my shadow. His name was Jacob, the grandson of Abraham, and the Master Stonemason had just given him a new name of his own. Israel. He came carrying a grief so heavy I could feel it from where I stood. His wife Rachel had died giving birth to a son.
+On cool nights the shepherds would sit around their fires at the foot of my hill and tell stories. Their favorite stories were about a family the Master Stonemason had chosen as His own.
 
-With her last breath, Rachel named the baby Ben-oni, which means son of my sorrow. Jacob took the boy in his arms and gave him a different name. Benjamin, Son of my right hand.
+The family began with a man named Abram. The Master Stonemason promised Abram that his family would grow until there were more of them than stars in the sky. That was a hard promise to believe, because Abram and his wife Sarai were very old and had no children at all. Then the Master Stonemason did something surprising. He gave them both new names. Abram became Abraham, and Sarai became Sarah. Just as He had promised, they had a baby boy in their old age, and they named him Isaac.
+
+When Isaac grew up, he had twin sons, and one of them was named Jacob. Jacob tricked his brother and had to run far from home, but the Master Stonemason never let go of him. One night Jacob wrestled with a man sent from the Master Stonemason, and they wrestled all night long. When morning came, the man gave Jacob a new name too. Jacob became Israel.
+
+As I listened, I began to wonder about the Master Stonemason. He seemed to love giving new names.
+
+---
+
+> **Genesis 17:5 (ESV)**
+>
+> *\"No longer shall your name be called Abram, but your name shall be Abraham, for I have made you the father of a multitude of nations.\"*
+
+> **Genesis 17:15 (ESV)**
+>
+> *And God said to Abraham, \"As for Sarai your wife, you shall not call her name Sarai, but Sarah shall be her name.\"*
+
+> **Genesis 32:28 (ESV)**
+>
+> *Then he said, \"Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed.\"*
+
+- *Abram means exalted father, and Abraham means father of a multitude.*
+- *Sarai and Sarah both mean princess.*
+- *Jacob means he takes by the heel, and Israel means he strives with God.*
+- *Abram, Sarai, and Jacob all got new names from the Master Stonemason. Why do you think He gives people new names?*
+
+---
+
+Then one day, the man from the shepherds' stories pitched his tent in my shadow. It was Jacob, now called Israel. He came carrying a grief so heavy I could feel it from where I stood. His wife Rachel had died giving birth to a baby boy.
+
+With her last breath, Rachel named the baby Ben-oni, which means son of my sorrow. Israel took the boy in his arms and gave him a different name, Benjamin, which means son of my right hand.
 
 *Same little boy, two names.*
 
-Israel buried Rachel on the road to Bethlehem and set a stone over her grave so that no one would forget her. There was nothing for me to do but keep watch.
+Israel buried Rachel beside the road to Bethlehem and set up a stone pillar over her grave so that no one would forget her. All I could do was keep watch.
 
-I stood a long while after they had gone. I did not understand yet why the Master Stonemason had set me on this hill, or what He wanted with an old tower made of rock. I only knew that He had put me here with His own hands, and that He was not finished with me.
+I stood a long while after they had gone. I did not understand yet why the Master Stonemason had set me on this hill, or what He wanted with an old tower made of rock. I only knew that He had put me here with His own hands.
 
 ---
 
@@ -88,7 +117,7 @@ I stood a long while after they had gone. I did not understand yet why the Maste
 
 > **Genesis 35:21 (ESV)**
 >
-> *Then Israel journeyed on and pitched his tent beyond the tower of Migdal Eder.*
+> *Then Israel journeyed on and pitched his tent beyond the tower of Eder.*
 
 - *Ephrath, that is Bethlehem, how many name changes are we at? Can you list them all?*
 - *Did you notice our little tower is mentioned in the Bible again?*
