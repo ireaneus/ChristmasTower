@@ -128,17 +128,15 @@ I stood a long while after they had gone. I did not understand yet why the Maste
 
 ## Chapter 2: Ruth, a Foreigner Receives a New Family Name
 
-A new morning came up over the hills and laid its light across the barley fields. The heads of grain bowed and lifted in the wind like a field of worshipers. I had watched a hundred harvests come in from where I stood.
+A new morning came up over the hills and laid its light across the barley fields. The heads of grain bowed and lifted in the wind like a field of worshipers. I had watched a hundred harvests come in from where I stood, but this morning brought me something new. Two women were walking up the road toward Bethlehem, and one of them was a stranger.
 
-This morning brought me something new. A young foreign woman came walking into my fields.
+The older woman was Naomi. Years before, during a famine, she had left Bethlehem with her husband and two sons to find food in the land of Moab. Her sons married Moabite women there. Then sorrow came, Naomi's husband died, and both of her sons died after him, until three widows were left alone in a foreign country.
 
-Her name was Ruth, and she had come a long way from home. She was born in Moab, where the people prayed to gods carved out of wood, gods that seem to take more than they give. She married into a family from Bethlehem, my home town. The family had run to Moab to escape the famine in Israel. Then death came for that family, the father and both sons died. Leaving three widows left in the foreign country: Ruth, her sister-in-law, and Naomi, the mother.
+Naomi decided to go home. She had left Bethlehem with a husband and two sons, and she was coming back with nothing. When the women of the town saw her and called her by name, she told them to stop. \"Do not call me Naomi,\" she said. \"Call me Mara.\" Naomi means pleasant, and Mara means bitter. Her grief gave her that new name, and she chose it for herself.
 
-Naomi decided to go home, she had left Bethlehem with a husband and two sons, and she was walking back with nothing, and bitterness. When the women of Bethlehem called her by name, she told them to stop. *"Do not call me Naomi"*, she said. *"Call me Mara"*. Naomi means pleasant. Mara means bitter. She had renamed herself out of her own grief.
+The young woman beside her was Ruth. She was born in Moab, where people prayed to gods carved from wood and stone, gods that took more than they ever gave. Ruth could have stayed there. Her sister-in-law did, Ruth chose Naomi instead, and she chose Naomi's God.
 
-Ruth could have stayed in Moab. Her sister-in-law did. She could have kept her country, her people, and her gods, and no one would have thought less of her for it. She chose Naomi instead, and she chose Naomi's God.
-
-*Did you notice the name change? Was there one or two name changes?*
+*Did you notice the name change? Who gave Naomi her new name?*
 
 ---
 
@@ -146,25 +144,29 @@ Ruth could have stayed in Moab. Her sister-in-law did. She could have kept her c
 >
 > *But Ruth said, "Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God."*
 
-*Scripture still calls her Ruth the Moabite after the redemption. She kept the name she came with, and God wrote her into the family line of the King anyway.*
-
----
-
-So the two of them walked the road back to Bethlehem together. House of Bread, that town is called, and they came into it hungry in every way. I had watched Jacob weep on that same road. Now I watched the two widows walk it.
-
-Ruth went out to the fields every morning after that. She gathered what the harvesters left behind, which was what the poor and the foreigner were allowed to do, and she never once complained about it. I watched her work. There is a kind of faith that works. Hers was the kind that shows up early and stays late.
-
-The field belonged to a man named Boaz. One morning he came out to his harvest, saw her working, and asked whose young woman she was. His workers told him. She was Naomi's daughter-in-law, and she had left her whole country to take care of the old woman who had nothing left.
-
-Boaz walked over and spoke to her kindly.
-
-In time Boaz took Ruth as his wife. A son was born to them, and they named him Obed. Obed became the father of Jesse, and Jesse became the father of David the king.
-
----
-
-> **Ruth 2:10-13 (ESV)**
+> **Ruth 1:20 (ESV)**
 >
-> *Then she fell on her face, bowing to the ground, and said to him, "Why have I found favor in your eyes, that you should take notice of me, since I am a foreigner?\" But Boaz answered her, \"All that you have done for your mother-in-law since the death of your husband has been fully told to me... The LORD repay you for what you have done, and a full reward be given you by the LORD, the God of Israel, under whose wings you have come to take refuge!"*
+> *She said to them, \"Do not call me Naomi; call me Mara, for the Almighty has dealt very bitterly with me.\"*
+
+*Naomi gave herself a bitter name. Do you think the Master Stonemason agreed with her?*
+
+---
+
+So the two of them walked the road back to Bethlehem together. The name Bethlehem means House of Bread, and they came into it hungry, yet hopeful, trusting God to provide for them.
+
+Ruth went out to the fields every morning to gather the grain the harvesters left behind. The law of Israel allowed the poor and the foreigner to do that, and Ruth never once complained. I watched her work. Hers was the kind of faith that shows up early and stays late.
+
+Of all the fields around Bethlehem, Ruth just happened to pick the one that belonged to a man named Boaz, the same fields I watch over.
+
+One morning Boaz came out to his harvest, saw her working, and asked who she was. His workers told him she was Naomi's daughter-in-law, the one who had left her whole country to take care of an old woman with nothing left. Boaz walked over and spoke to her kindly.
+
+In Israel, when a man died, a close relative could step in as his family's redeemer. He could buy back the family's land and marry the widow, so that the man's name would live on. Boaz was one of those relatives, and he chose to be Ruth's redeemer. He married her, and they had a son named Obed. Obed became the father of Jesse, and Jesse became the father of David the king.
+
+---
+
+> **Ruth 2:10-12 (ESV)**
+>
+> *Then she fell on her face, bowing to the ground, and said to him, \"Why have I found favor in your eyes, that you should take notice of me, since I am a foreigner?\" But Boaz answered her, \"All that you have done for your mother-in-law since the death of your husband has been fully told to me, and how you left your father and mother and your native land and came to a people that you did not know before. The LORD repay you for what you have done, and a full reward be given you by the LORD, the God of Israel, under whose wings you have come to take refuge!\"*
 
 > **Ephesians 2:13 (ESV)**
 >
@@ -172,9 +174,15 @@ In time Boaz took Ruth as his wife. A son was born to them, and they named him O
 
 > **Ruth 4:14 (ESV)**
 >
-> *"Blessed be the LORD, who has not left you this day without a redeemer."*
+> *Then the women said to Naomi, \"Blessed be the LORD, who has not left you this day without a redeemer, and may his name be renowned in Israel!\"*
 
-*The Master Stonemason had reached all the way into Moab for one foreign widow with nothing to her name. Ruth walks out of the story as a mother in the family line of the King of kings. He gave her a new people, a new home, and a new name.*
+> **Matthew 1:5-6 (ESV)**
+>
+> *and Salmon the father of Boaz by Rahab, and Boaz the father of Obed by Ruth, and Obed the father of Jesse, and Jesse the father of David the king.*
+
+*The Master Stonemason had reached all the way into Moab for one foreign widow with nothing to her name. Ruth walks out of the story as a mother in the family line of the King of kings. He gave her a new people, a new home, and a new family name.*
+
+*More than a thousand years after Ruth walked into Bethlehem, Matthew wrote her name into the family line of Jesus. Why would he make sure we knew about her?*
 
 *Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to?*
 

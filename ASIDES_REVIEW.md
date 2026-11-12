@@ -21,18 +21,19 @@ Rows marked `asides.json` are already overridden there. Delete the key to fall b
 | 9 | Chapter 1 | aside | italic list | Did you notice our little tower is mentioned in the Bible again? |
 | 10 | Chapter 1 | aside | italic list | Wouldn’t it be wonderful to have your name listed in the Bible too? |
 | 11 | Chapter 1 | aside | italic list | Did you know there are heavenly books that have our names written in them? Which book is your name listed in? |
-| 12 | Chapter 2 | aside | default rule | Did you notice the name change? Was there one or two name changes? |
-| 13 | Chapter 2 | aside | asides.json | Scripture still calls her Ruth the Moabite after the redemption. She kept the name she came with, and God wrote her into the family line of the King anyway. |
-| 14 | Chapter 2 | aside | asides.json | The Master Stonemason had reached all the way into Moab for one foreign widow with nothing to her name. Ruth walks out of the story as a mother in the family line of the King of kings. He gave her a new people, a new home, and a new name. |
-| 15 | Chapter 2 | aside | asides.json | Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to? |
-| 16 | Chapter 3 | aside | asides.json | The Master Stonemason's Spirit fell on David from that day on. He came back to the field a shepherd king. |
-| 17 | Chapter 5 | tower | default rule | The Tower did not rest that night. Something in its stones had come awake when that man looked at him, and it would not settle again. |
-| 18 | Chapter 5 | tower | default rule | Something has come. |
-| 19 | Chapter 7 | tower | default rule | The Christmas Tower. |
-| 20 | Chapter 8 | tower | default rule | "Swaddling cloths, and a manger!" |
-| 21 | Chapter 9 | aside | default rule | How many names were given to the baby? Can you name them all? |
-| 22 | Chapter 10 | tower | default rule | "Look at his skin. Look at his face." |
-| 23 | Chapter 10 | tower | asides.json | "Who is this man?" |
-| 24 | Chapter 10 | tower | default rule | David was a shepherd who became king, Jesus is the King of Kings who calls Himself "The Good Shepherd" |
-| 25 | For the Adults | tower | default rule | David Haines |
-| 26 | A Personal Note | tower | default rule | David Haines, Author of The Christmas Tower |
+| 12 | Chapter 2 | aside | default rule | Did you notice the name change? Who gave Naomi her new name? |
+| 13 | Chapter 2 | aside | default rule | Naomi gave herself a bitter name. Do you think the Master Stonemason agreed with her? |
+| 14 | Chapter 2 | aside | asides.json | The Master Stonemason had reached all the way into Moab for one foreign widow with nothing to her name. Ruth walks out of the story as a mother in the family line of the King of kings. He gave her a new people, a new home, and a new family name. |
+| 15 | Chapter 2 | aside | default rule | More than a thousand years after Ruth walked into Bethlehem, Matthew wrote her name into the family line of Jesus. Why would he make sure we knew about her? |
+| 16 | Chapter 2 | aside | asides.json | Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to? |
+| 17 | Chapter 3 | aside | asides.json | The Master Stonemason's Spirit fell on David from that day on. He came back to the field a shepherd king. |
+| 18 | Chapter 5 | tower | default rule | The Tower did not rest that night. Something in its stones had come awake when that man looked at him, and it would not settle again. |
+| 19 | Chapter 5 | tower | default rule | Something has come. |
+| 20 | Chapter 7 | tower | default rule | The Christmas Tower. |
+| 21 | Chapter 8 | tower | default rule | "Swaddling cloths, and a manger!" |
+| 22 | Chapter 9 | aside | default rule | How many names were given to the baby? Can you name them all? |
+| 23 | Chapter 10 | tower | default rule | "Look at his skin. Look at his face." |
+| 24 | Chapter 10 | tower | asides.json | "Who is this man?" |
+| 25 | Chapter 10 | tower | default rule | David was a shepherd who became king, Jesus is the King of Kings who calls Himself "The Good Shepherd" |
+| 26 | For the Adults | tower | default rule | David Haines |
+| 27 | A Personal Note | tower | default rule | David Haines, Author of The Christmas Tower |
