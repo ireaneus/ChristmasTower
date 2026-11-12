@@ -202,7 +202,7 @@ His family gave him the smallest job there was. The Master Stonemason had a much
 
 One morning a prophet named Samuel came down the road to Bethlehem with a horn of oil in his hand. The Master Stonemason had sent him to anoint a new king, and He had told Samuel exactly where to look: among the sons of Jesse.
 
-Samuel invited Jesse and his sons to a sacrifice. The oldest son came first, tall and strong, exactly what a king is supposed to look like. Samuel was sure he must be the one, but the Master Stonemason told him to stop looking at the outside. He was looking at the heart.
+Samuel came to Jesse's house and began to call upon his sons. The oldest son came first, tall and strong, exactly what a king is supposed to look like. Samuel was sure he must be the one, but the Master Stonemason told him to stop looking at the outside. He was looking at the heart.
 
 One by one, seven sons walked past Samuel, and each time the answer was no. Samuel turned to Jesse and asked, \"Are all your sons here?\"
 
