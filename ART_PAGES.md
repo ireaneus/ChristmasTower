@@ -26,8 +26,8 @@ House rules, enforced by `npm run check`: page 1 of each section has art, except
 | `ch02-3` | Chapter 2, page 3 of 4 | So the two of them walked the road back… | `ch02-3.webp` |
 | `ch02-4` | Chapter 2, page 4 of 4 | Ruth 2:10-12 (ESV) Then she fell on her face,… |  |
 | `ch03` | Chapter 3, page 1 of 3 | The fields were soft and still that morning, and… | `ch03.webp` |
-| `ch03-2` | Chapter 3, page 2 of 3 | That morning a prophet named Samuel came down the… | `ch03-2.webp` |
-| `ch03-3` | Chapter 3, page 3 of 3 | 1 Samuel 16:13 (ESV) Then Samuel took the horn… |  |
+| `ch03-2` | Chapter 3, page 2 of 3 | One morning a prophet named Samuel came down the… | `ch03-2.webp` |
+| `ch03-3` | Chapter 3, page 3 of 3 | 1 Samuel 16:7 (ESV) But the LORD said to… |  |
 | `ch04` | Chapter 4, page 1 of 2 | Exodus 12:3, 5 (ESV) Speak to all the congregation… | `ch04.webp` |
 | `ch04-2` | Chapter 4, page 2 of 2 | The years went by, and the throne came, the… |  |
 | `ch05` | Chapter 5, page 1 of 4 | Luke 2:1-5 (ESV) In those days a decree went… | `ch05.webp` |

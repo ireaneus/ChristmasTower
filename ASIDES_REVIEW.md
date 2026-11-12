@@ -27,13 +27,14 @@ Rows marked `asides.json` are already overridden there. Delete the key to fall b
 | 15 | Chapter 2 | aside | default rule | More than a thousand years after Ruth walked into Bethlehem, Matthew wrote her name into the family line of Jesus. Why would he make sure we knew about her? |
 | 16 | Chapter 2 | aside | asides.json | Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to? |
 | 17 | Chapter 3 | aside | asides.json | The Master Stonemason's Spirit fell on David from that day on. He came back to the field a shepherd king. |
-| 18 | Chapter 5 | tower | default rule | The Tower did not rest that night. Something in its stones had come awake when that man looked at him, and it would not settle again. |
-| 19 | Chapter 5 | tower | default rule | Something has come. |
-| 20 | Chapter 7 | tower | default rule | The Christmas Tower. |
-| 21 | Chapter 8 | tower | default rule | "Swaddling cloths, and a manger!" |
-| 22 | Chapter 9 | aside | default rule | How many names were given to the baby? Can you name them all? |
-| 23 | Chapter 10 | tower | default rule | "Look at his skin. Look at his face." |
-| 24 | Chapter 10 | tower | asides.json | "Who is this man?" |
-| 25 | Chapter 10 | tower | default rule | David was a shepherd who became king, Jesus is the King of Kings who calls Himself "The Good Shepherd" |
-| 26 | For the Adults | tower | default rule | David Haines |
-| 27 | A Personal Note | tower | default rule | David Haines, Author of The Christmas Tower |
+| 18 | Chapter 3 | aside | default rule | Micah wrote those words hundreds of years after David and about seven hundred years before Jesus was born. Did you spot Bethlehem's old name? Who do you think the ruler from Bethlehem would be? |
+| 19 | Chapter 5 | tower | default rule | The Tower did not rest that night. Something in its stones had come awake when that man looked at him, and it would not settle again. |
+| 20 | Chapter 5 | tower | default rule | Something has come. |
+| 21 | Chapter 7 | tower | default rule | The Christmas Tower. |
+| 22 | Chapter 8 | tower | default rule | "Swaddling cloths, and a manger!" |
+| 23 | Chapter 9 | aside | default rule | How many names were given to the baby? Can you name them all? |
+| 24 | Chapter 10 | tower | default rule | "Look at his skin. Look at his face." |
+| 25 | Chapter 10 | tower | asides.json | "Who is this man?" |
+| 26 | Chapter 10 | tower | default rule | David was a shepherd who became king, Jesus is the King of Kings who calls Himself "The Good Shepherd" |
+| 27 | For the Adults | tower | default rule | David Haines |
+| 28 | A Personal Note | tower | default rule | David Haines, Author of The Christmas Tower |

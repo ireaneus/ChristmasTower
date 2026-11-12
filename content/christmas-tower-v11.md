@@ -190,39 +190,51 @@ In Israel, when a man died, a close relative could step in as his family's redee
 
 ## Chapter 3: David, Sent to the Fields and Raised to the Throne
 
-The fields were soft and still that morning, and the sun came up warm over Bethlehem. Shepherds moved through the grass the way shepherds always had, counting, calling, keeping the flock together. I had watched their fathers do this, and their fathers before them.
+The fields were soft and still that morning, and the sun came up warm over Bethlehem. Shepherds moved through the grass the way shepherds always had, counting, calling, and keeping the flock together. I had watched their fathers do the same work, and their fathers before them.
 
-One of them was a boy.
+One of the shepherds was just a boy. His name was David, and he was the youngest of the eight sons of a man named Jesse. David's great-grandmother was Ruth, the young woman from Moab who had once gathered grain in these same fields.
 
-His name was David, the youngest son of a man named Jesse. He sang while he worked. I heard him from where I stood, all those songs going up into the open air with no one to hear them but the sheep and the Master Stonemason he was singing to. His hands were gentle with the lambs and steady when something came out of the hills after them.
+David sang while he worked. I heard him from where I stood, his songs rising into the open air with no one to hear them but the sheep and the Master Stonemason he was singing to. His hands were gentle with the lambs and steady when a lion or a bear came out of the hills after them.
 
-His family had given him the sheep to watch. The Master Stonemason had given him something as well, something very special.
+His family gave him the smallest job there was. The Master Stonemason had a much bigger one in mind.
+
+---
+
+One morning a prophet named Samuel came down the road to Bethlehem with a horn of oil in his hand. The Master Stonemason had sent him to anoint a new king, and He had told Samuel exactly where to look: among the sons of Jesse.
+
+Samuel invited Jesse and his sons to a sacrifice. The oldest son came first, tall and strong, exactly what a king is supposed to look like. Samuel was sure he must be the one, but the Master Stonemason told him to stop looking at the outside. He was looking at the heart.
+
+One by one, seven sons walked past Samuel, and each time the answer was no. Samuel turned to Jesse and asked, \"Are all your sons here?\"
+
+\"There is one more,\" Jesse said. \"The youngest. He is out keeping the sheep.\"
+
+\"Send for him,\" Samuel said. \"We will not sit down until he comes.\"
+
+They brought the boy in from my fields, still smelling like the flock. The Master Stonemason told Samuel, \"This is the one,\" and Samuel poured the oil over David's head right there in front of all the brothers who had gone ahead of him.
+
+Then David went back to his sheep, with oil in his hair and a promise in his heart.
 
 ---
 
-That morning a prophet named Samuel came down the road to Bethlehem with a horn of oil in his hand. The Master Stonemason had sent him to anoint a king.
-
-Samuel went to the house of Jesse, and Jesse brought out his sons. The oldest came first, tall and strong and exactly what a king is supposed to look like. The Master Stonemason said no. The next one came. No. Seven sons passed before Samuel that day, and He said no to every one of them.
-
-Samuel asked whether these were all of them.
-
-There is one more, Jesse said. The youngest. But he is out with the sheep.
-
-Send for him, Samuel said. We will not sit down until he gets here.
-
-They brought the boy in from my fields, still smelling like the flock, and Samuel poured the oil over his head in front of every brother who had been called ahead of him.
-
----
+> **1 Samuel 16:7 (ESV)**
+>
+> *But the LORD said to Samuel, \"Do not look on his appearance or on the height of his stature, because I have rejected him. For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart.\"*
 
 > **1 Samuel 16:13 (ESV)**
 >
 > *Then Samuel took the horn of oil and anointed him in the midst of his brothers. And the Spirit of the LORD rushed upon David from that day forward.*
+
+> **Micah 5:2 (ESV)**
+>
+> *But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days.*
 
 > **Isaiah 40:11 (ESV)**
 >
 > *He will tend his flock like a shepherd; he will gather the lambs in his arms; he will carry them in his bosom, and gently lead those that are with young.*
 
 *The Master Stonemason's Spirit fell on David from that day on. He came back to the field a shepherd king.*
+
+*Micah wrote those words hundreds of years after David and about seven hundred years before Jesus was born. Did you spot Bethlehem's old name? Who do you think the ruler from Bethlehem would be?*
 
 ---
 
