@@ -165,6 +165,17 @@ function loadAsides() {
 }
 const ASIDES = loadAsides();
 
+// Speaking parts for kids reading along: a plain paragraph containing a quote that opens with
+// one of these words gets the part's name shown above it. Every key must appear in the manuscript.
+function loadParts() {
+  const raw = readJson('content/parts.json');
+  const src = read('content/christmas-tower-v11.md').replace(/\\"/g, '"');
+  const missing = Object.keys(raw).filter((k) => !src.includes(`"${k}`));
+  if (missing.length) throw new Error(`content/parts.json has lines that match no quote in the manuscript: ${missing.join(', ')}`);
+  return Object.entries(raw);
+}
+const PARTS = loadParts();
+
 // Renders a section as a list of page bodies. Each --- is a page break.
 // Records italic paragraphs and unlabeled quotes in `log`.
 export function renderPages(source, pageLabel, log) {
@@ -189,7 +200,11 @@ export function renderPages(source, pageLabel, log) {
           ? { kind: 'aside', html: talkCard(`<p>${unwrap(inline)}</p>`) }
           : { kind: 'tower-em', html: `<p class="tower-em">${renderInline(inline.children)}</p>` });
       } else {
-        out.push({ kind: 'p', html: `<p>${renderInline(inline.children)}</p>` });
+        const text = plainText(inline).replace(/[“”]/g, '"').replace(/[‘’]/g, "'");
+        const part = PARTS.find(([k]) => text.includes(`"${k}`));
+        out.push(part
+          ? { kind: 'line', html: `<p class="line"><span class="part chrome">${esc(part[1])}</span>${renderInline(inline.children)}</p>` }
+          : { kind: 'p', html: `<p>${renderInline(inline.children)}</p>` });
       }
     } else if (t === 'blockquote_open') {
       const inner = topLevelBlocks(b.slice(1, -1));
@@ -538,7 +553,7 @@ function writeArtPages(sheets) {
     '| Key | Page | Starts with | Art |',
     '| --- | --- | --- | --- |',
     ...sheets.map((sh) => {
-      const words = sh.body === null ? sh.p.title : sh.body.replace(/<span class="chrome">[^<]*<\/span>|<p class="talk-label chrome">[^<]*<\/p>/g, '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().split(' ').slice(0, 9).join(' ') + '…';
+      const words = sh.body === null ? sh.p.title : sh.body.replace(/<span class="[^"]*\bchrome\b[^"]*">[^<]*<\/span>|<p class="talk-label chrome">[^<]*<\/p>/g, '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().split(' ').slice(0, 9).join(' ') + '…';
       const where = sh.p.isInterlude ? 'Interlude' : `${sh.p.label}, page ${sh.n} of ${sh.total}`;
       return `| \`${sh.artKey}\` | ${where} | ${words.replace(/\|/g, '\\|')} | ${status(sh.artKey)} |`;
     }),

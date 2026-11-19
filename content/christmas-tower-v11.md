@@ -240,86 +240,93 @@ Then David went back to his sheep, with oil in his hair and a promise in his hea
 
 ## Chapter 4: The Levitical Shepherds, Lambs Chosen and Set Apart
 
-> **Exodus 12:3, 5 (ESV)**
->
-> *Speak to all the congregation of Israel, saying, \"On the tenth of this month they are each one to take a lamb for themselves, according to their fathers' households. Your lamb shall be an unblemished male a year old.\"*
+The years rolled on like clouds over the hills. The shepherd boy David became king, and his son Solomon built the great Temple in Jerusalem, where the people came to worship the Master Stonemason.
+
+Then a new kind of shepherd came to the fields below me. They were Levite shepherds, men from the family of Levi, set apart by the Master Stonemason to serve Him. Their flocks were raised for that Temple.
+
+I had watched many shepherds by then, but these were different. They handled every lamb the way a father holds his newborn child.
 
 ---
 
-The years went by, and the throne came, the way I told you it would. And when David was king he remembered me and the fields below, and he gave us to the Levitical shepherds. These holy caretakers would continue a sacred work, tending sheep destined for the Master Stonemason's service in the Temple.
+Every new lamb was looked over with great care. The shepherds ran their hands along its back and down each leg, and they checked its eyes, its ears, and its wool, looking for any flaw. A lamb for the Master Stonemason had to be perfect, without spot or blemish.
 
-I watched them care for the sheep, and how they carefully handled every lamb the way a father handles a newborn.
+The very best were saved for Passover. Every spring the people remembered the night long ago when the Master Stonemason brought their families out of Egypt. Each family had marked its door with the blood of a lamb, and the Master Stonemason passed over every house where He saw the blood.
 
-Every newborn lamb was inspected, it had to be perfect, without spot or blemish. These lambs were gifts to the Master Stonemason, it was to remember the days that He led them out of Egypt. The best of them were kept for Passover, the feast that remembered His great love and His forgiveness.
+When the shepherds found a perfect lamb, they wrapped it gently in swaddling cloths and laid it in a stone manger inside my walls. There it stayed, safe and spotless, until the appointed day.
 
-They inspected each one over and over, running their hands along its back and down its legs, looking for any flaw. And when they found a lamb that was perfect, they wrapped it gently in swaddling cloths and laid it in a manger inside my walls, keeping it safe and spotless until the appointed day.
+I had been watching and waiting a long while by then. A boy renamed over his mother's grave. A widow given a new family name. A shepherd boy named king. And now lambs, chosen one at a time and laid in my manger to wait. I did not know yet what the Master Stonemason was preparing me to hold.
 
-I held those lambs through many long nights. Wrapped in cloth. Lying in a manger. Waiting.
+---
 
-I had been watching a long while by then. A boy renamed over his mother's grave. A widow given a family. A shepherd named king. And now lambs, set apart one at a time and laid in my manger to wait. I did not know yet what the Master Stonemason was preparing me to hold.
+> **Exodus 12:3, 5 (ESV)**
+>
+> *Tell all the congregation of Israel that on the tenth day of this month every man shall take a lamb according to their fathers' houses, a lamb for a household. Your lamb shall be without blemish, a male a year old.*
+
+> **Exodus 12:13 (ESV)**
+>
+> *The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you, when I strike the land of Egypt.*
+
+*The Levites carried the name of their father, Levi, which sounds like the Hebrew word for \"attached.\" They were joined to the Master Stonemason's work. Even the feast has a name that tells its story: Passover, for the night He passed over every house marked by the blood of a lamb.*
 
 ---
 
 ## Chapter 5: Mary and Joseph, a Child Named Before He Was Born
 
-> **Luke 2:1-5 (ESV)**
+It was evening. The sun was sinking behind the hills, and the light spilled across the fields the color of honey. That was when I saw them on the road: a man walking in front, leading a donkey, and a young woman riding it with both hands resting on the child she was carrying.
+
+They had come a long way, all the way from Nazareth, a town in Galilee far to the north. An emperor in faraway Rome had ordered everyone to be counted in their family's hometown, and this man's family came from Bethlehem. He was from the house of David, the shepherd boy who once sang in my fields.
+
+As they came closer, the man looked up and found me on my hill, and he did not look away. His face was heavy with worry. I could feel the weight he was carrying, and I could also tell he was not carrying it alone. He had put his faith and trust in the Master Stonemason.
+
+I looked back at him, steady and strong, the way I had stood for hundreds of years. I wanted him to know there was shelter here, and rest.
+
+He turned back to the road, reached up, and took her hand, and they went on toward the lamps of Bethlehem.
+
+---
+
+> **Luke 2:1, 3-5 (ESV)**
 >
-> *In those days a decree went out from Caesar Augustus that all the world should be registered. And Joseph also went up from Galilee, from the town of Nazareth, to Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David, to be registered with Mary, his betrothed, who was with child.*
+> *In those days a decree went out from Caesar Augustus that all the world should be registered. And all went to be registered, each to his own town. And Joseph also went up from Galilee, from the town of Nazareth, to Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David, to be registered with Mary, his betrothed, who was with child.*
 
----
-
-It was evening, the sun was going down behind the hills and the light came across the fields the color of honey. That's when I saw them on the road, a man walking, leading a donkey, and a young woman riding it with both hands resting on the child still inside her.
-
-As the weary couple continued on their journey, the man looked up and found me on my hill, he did not look away. He held my gaze, his face was filled with heavy concern, I felt his burden, and although it seemed heavy he knew he wasn't doing it alone. He had put his faith and trust in the Master Stonemason.
-
-I looked back at him trying to reassure him that I have been here a long time, I wanted to present a firm, steady, strong tower, able to provide them with protection and much needed rest.
-
-He turned back to the road and reached up and took her hand.
-
----
+> **Luke 1:30-33 (ESV)**
+>
+> *And the angel said to her, \"Do not be afraid, Mary, for you have found favor with God. And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus. He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David, and he will reign over the house of Jacob forever, and of his kingdom there will be no end.\"*
 
 > **Matthew 1:20-21 (ESV)**
 >
-> *But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. She will bear a son, and you shall call his name Jesus, for he will save his people from their sins."*
+> *But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, \"Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.\"*
 
->
-> *And you, O tower of the flock... A loud voice called out in the night, waking the Tower from its slumber.*
+---
+
+*That night the Tower drifted into a restless sleep. Something in its stones had come awake when Joseph looked up at it, and it would not lie still.*
+
+*Then a voice called out in the dark. It was the prophet Micah, repeating the words he had spoken over the Tower long ago.*
 
 > **Micah 4:8 (ESV)**
 >
-> *"And you, O tower of the flock, hill of the daughter of Zion, to you shall it come, the former dominion shall come, kingship for the daughter of Jerusalem."*
+> *And you, O tower of the flock, hill of the daughter of Zion, to you shall it come, the former dominion shall come, kingship for the daughter of Jerusalem.*
 
-*The Tower did not rest that night. Something in its stones had come awake when that man looked at him, and it would not settle again.*
+*The Tower woke, and turned its face toward the road.*
 
 *Something has come.*
 
 ---
 
-> **Luke 1:26-31 (ESV)**
->
-> *The angel Gabriel came to her and said, "Greetings, O favored one, the Lord is with you! Do not be afraid, Mary, for you have found favor with God. And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus."*
-
-> **Luke 1:32-33 (ESV)**
->
-> *"He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David, and he will reign over the house of Jacob forever, and of his kingdom there will be no end."*
-
----
-
 ## Chapter 6: Joseph and Mary, Turned Away and Taken In
 
-Night fell softly over Bethlehem's hills, and I stood in silent watch. Tonight was different: something in me hadn't settled since that man looked up and met my gaze, and some part of me was still standing guard over the fields, the flocks, and all who rested within and outside my walls, waiting to see if what I'd felt was really true.
+Awake and watching now, I looked down the hill toward Bethlehem. It was crowded with travelers who had come to be counted. The narrow streets were packed shoulder to shoulder. Families unloaded their donkeys, merchants called out their wares, and children wove through the crowd. Lamps burned in every window, and a lit window meant a full room.
 
-Mary and Joseph reached Bethlehem at last, and found the town full of travelers. From my hill I could see all of it: the narrow streets packed shoulder to shoulder, families unloading their donkeys, merchants calling out their wares, children weaving through the crowd. Lamps burned in every window, and a lit window meant a full room. I watched one small figure move along the street from door to door, knocking, waiting, knocking again. That was Joseph. Every door he came to was already closed.
+I watched one small figure move from door to door, knocking, waiting, and knocking again. That was Joseph. Every door he came to offered him nothing.
 
-Then the two of them turned and left the noise behind them, out past the last lamp and into the cold and the quiet. I had stood on this hill through storm and fire and a thousand ordinary nights. That night I knew, whatever the Master Stonemason had been keeping me for was coming up my road.
+Then the two of them turned and left the noise behind, out past the last lamp and into the cold and the quiet. I had stood on this hill through storm and fire and a thousand ordinary nights. That night I knew that whatever the Master Stonemason had been keeping me for was coming up my road.
 
-So I did the only thing I could do. I let my light spill out of the entrance like a hand held out, and I presented to them an invitation to come, providing strength, warmth, and protection. There is a manger, and there are clean cloths folded beside it. Come in, and let the child be born where the perfect lambs are kept.
+So I did the only thing I could do. I let my light spill out of my doorway like a hand held out. Come in, I called without a sound. There is a manger here, with clean cloths folded beside it. Let the child be born where the perfect lambs are kept.
 
 ---
 
-Every door in town said no. The tower said yes.
+Every door in town said no. I said yes.
 
-The world had no room, the Master Stonemason made room anyway, and He used an old pile of stone on a hill to do it.
+The world had no room for them, but the Master Stonemason had already made room, and He used an old stone tower on a hill to do it.
 
 > **Luke 2:6-7 (ESV)**
 >
@@ -331,13 +338,13 @@ The world had no room, the Master Stonemason made room anyway, and He used an ol
 
 They came in out of the cold, and I closed around them.
 
-My walls are thick. The wind that was tearing across the hill that night never reached them. There was clean straw on the floor and the smell of it, and the small sounds sheep make when they are settling. I have sheltered a king's flocks and a shepherd's sons. I had never in all my life been so careful.
+My walls are thick, and the wind tearing across the hill that night never reached them. There was clean straw on the floor, and the small sounds sheep make when they are settling. I had sheltered a king's flocks and a shepherd's sons, but I had never in all my life been so careful.
 
 That night, inside my walls, Mary gave birth to her Son.
 
-They wrapped Him in swaddling cloths. They laid Him in my manger. The same cloths, the same manger, I held a thousand spotless lambs in that stone box and never once understood why, and in that moment I understood everything.
+They wrapped Him in swaddling cloths and laid Him in my manger. The same cloths. The same manger. I had held a thousand spotless lambs in that stone box and never understood why. In that moment, I understood everything.
 
-Outside, the fields went quiet. The shepherds out there had no idea yet.
+Outside, the fields were quiet. The shepherds had no idea yet.
 
 ---
 
@@ -345,13 +352,25 @@ Then the baby opened His eyes and looked at me.
 
 Warmth came over me like a blanket laid across my stones, and I knew those eyes. I had seen them in the storm, in the lightning, in the face of the man on the cross and the King shining in His glory.
 
-And I knew the hands. Small and new and curled up inside the cloth, and they were the same hands that chose me out of the rock, and worked me slow, and set every stone of me in place.
+And I knew those hands. They were small and new and curled inside the cloth, and they were the same hands that chose me out of the rock, shaped me slowly, and set every stone of me in place.
 
 The Master Stonemason was lying in my manger.
 
-He built me with those hands. That night He was small enough to be held in mine.
+---
 
-Then He spoke a new name over me, the way He had spoken one over a grieving father's son, and over a widow from Moab, and over a boy with oil still wet in his hair.
+> **John 1:3 (ESV)**
+>
+> *All things were made through him, and without him was not any thing made that was made.*
+
+> **John 1:14 (ESV)**
+>
+> *And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.*
+
+Then He spoke a new name over me, the way new names had been spoken over a grieving father's son, a widow from Moab, and a shepherd boy with oil still wet in his hair.
+
+> **Isaiah 62:2 (ESV)**
+>
+> *The nations shall see your righteousness, and all the kings your glory, and you shall be called by a new name that the mouth of the LORD will give.*
 
 *The Christmas Tower.*
 
@@ -367,11 +386,23 @@ Then He spoke a new name over me, the way He had spoken one over a grieving fath
 
 ## Chapter 8: Good News and Glad Tidings
 
-Inside my walls the child was sleeping. Out in the fields, my shepherds knew nothing about it. They sat with their flocks the way they had on a thousand other nights, the soft bleating of the sheep mingling with the night breeze, and everything was quiet and ordinary and theirs.
+Inside my walls the child was sleeping. Out in the fields, my shepherds knew nothing about it yet. They sat with their flocks the way they had on a thousand other nights, with the sheep bleating softly in the night breeze.
+
+\"It's cold tonight,\" said one shepherd, pulling his cloak tight.
+
+\"Keep the fire going,\" said another. \"And keep watch.\"
 
 Then the sky opened over my fields.
 
-An angel of the Lord stood in the grass, and the brightness of him washed across the flocks and up my stones until every crack in me was lit. The shepherds went down on the ground and covered their eyes and shook. And out of all that burning light came a voice as gentle as a hand on a shoulder.
+An angel of the Lord stood in the grass, and his brightness washed across the flocks and up my stones until every crack in me was lit. The shepherds fell to the ground and covered their eyes.
+
+\"What is that?\" cried the youngest shepherd.
+
+\"Get down!\" shouted another.
+
+Then, out of all that light, came a voice, gently speaking.
+
+\"Fear not!\" said the angel.
 
 ---
 
@@ -379,15 +410,19 @@ An angel of the Lord stood in the grass, and the brightness of him washed across
 >
 > *\"Fear not, for behold, I bring you good news of great joy that will be for all the people. For unto you is born this day in the city of David a Savior, who is Christ the Lord. And this will be a sign for you: you will find a baby wrapped in swaddling cloths and lying in a manger.\"*
 
-These words came back across the field to me, spoken out loud by a shepherd still on his knees.
+The shepherds lifted their heads.
 
-*\"Swaddling cloths, and a manger!\"*
+\"A baby?\" whispered one.
 
-Then another voice, closer. *\"Could it be, right here in Migdal Eder?\"*
+\"Wrapped in swaddling cloths,\" said another.
 
-There was one manger a spotless lamb was carried to, wrapped in cloth, and kept until the day it was called for. It was inside me. It had a baby in it now.
+\"Lying in a manger!\" said a third.
 
-Before they could rise, the whole sky filled. Heaven's joy burst over the hills, and a great multitude of angels stood above my fields, praising God and proclaiming:
+Then the oldest shepherd turned and looked up the hill, right at me. \"Could it be? Right here, at our tower?\"
+
+There was one manger where spotless lambs were wrapped in cloth and kept until the day they were needed. It was inside me, and it had a baby in it now.
+
+Before the shepherds could stand, the whole sky filled with angels, more than anyone could count. They all sang out together, \"Glory to God in the highest!\"
 
 ---
 
@@ -395,11 +430,11 @@ Before they could rise, the whole sky filled. Heaven's joy burst over the hills,
 >
 > *\"Glory to God in the highest, and on earth peace among those with whom he is pleased!\"*
 
-The praise of heaven came down on those fields until my old stones rang with it.
+The praise of heaven poured down on those fields until my old stones rang with it.
 
-And then they were gone, as suddenly as they had come, the night closed in and there was silence. It was only a moment of silence but enough to ponder.
+Then the angels were gone, as suddenly as they had come. The night closed in, and everything was still. It was only a moment of silence, but it was long moment of awe, and wonder.
 
-The biggest news in history, and it was given to shepherds instead of kings. The overlooked told first, just like David, watching sheep while his brothers stood in line for the crown. That night, heaven came down into their field and told them before anyone else. I was starting to learn how the Master Stonemason works, He goes to the ones nobody sends for.
+The biggest news in history was given to shepherds instead of kings. The overlooked were told first, just like David, who was out with the sheep while his brothers lined up before Samuel. That night, heaven came down into their field and told them before anyone else. I was starting to learn how the Master Stonemason works. He goes first to the ones nobody sends for.
 
 ---
 
@@ -419,7 +454,7 @@ I knew what they were seeing.
 
 I had held spotless lambs in that stone box. Every one of them inspected, every one of them perfect, every one of them wrapped in those same cloths and laid in that same manger and called Passover lamb.
 
-Then one of the shepherds began to speak, and the words were older than any of us, older than my foundation, spoken by a prophet who never saw this night and saw it anyway.
+Then one of the shepherds began to speak, and the words were older than any of us, older than my foundation, spoken by a prophet who never saw this night, but saw it anyway.
 
 ---
 

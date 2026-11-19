@@ -28,16 +28,17 @@ House rules, enforced by `npm run check`: page 1 of each section has art, except
 | `ch03` | Chapter 3, page 1 of 3 | The fields were soft and still that morning, and… | `ch03.webp` |
 | `ch03-2` | Chapter 3, page 2 of 3 | One morning a prophet named Samuel came down the… | `ch03-2.webp` |
 | `ch03-3` | Chapter 3, page 3 of 3 | 1 Samuel 16:7 (ESV) But the LORD said to… |  |
-| `ch04` | Chapter 4, page 1 of 2 | Exodus 12:3, 5 (ESV) Speak to all the congregation… | `ch04.webp` |
-| `ch04-2` | Chapter 4, page 2 of 2 | The years went by, and the throne came, the… |  |
-| `ch05` | Chapter 5, page 1 of 4 | Luke 2:1-5 (ESV) In those days a decree went… | `ch05.webp` |
-| `ch05-2` | Chapter 5, page 2 of 4 | It was evening, the sun was going down behind… |  |
-| `ch05-3` | Chapter 5, page 3 of 4 | Matthew 1:20-21 (ESV) But as he considered these things,… |  |
-| `ch05-4` | Chapter 5, page 4 of 4 | Luke 1:26-31 (ESV) The angel Gabriel came to her… |  |
-| `ch06` | Chapter 6, page 1 of 2 | Night fell softly over Bethlehem’s hills, and I stood… | `ch06.webp` |
-| `ch06-2` | Chapter 6, page 2 of 2 | Every door in town said no. The tower said… | `ch06-2.webp` |
-| `ch07` | Chapter 7, page 1 of 2 | They came in out of the cold, and I… | `ch07.webp` |
-| `ch07-2` | Chapter 7, page 2 of 2 | Then the baby opened His eyes and looked at… | `ch07-2.webp` |
+| `ch04` | Chapter 4, page 1 of 3 | The years rolled on like clouds over the hills.… | `ch04.webp` |
+| `ch04-2` | Chapter 4, page 2 of 3 | Every new lamb was looked over with great care.… |  |
+| `ch04-3` | Chapter 4, page 3 of 3 | Exodus 12:3, 5 (ESV) Tell all the congregation of… |  |
+| `ch05` | Chapter 5, page 1 of 3 | It was evening. The sun was sinking behind the… | `ch05.webp` |
+| `ch05-2` | Chapter 5, page 2 of 3 | Luke 2:1, 3-5 (ESV) In those days a decree… |  |
+| `ch05-3` | Chapter 5, page 3 of 3 | That night the Tower drifted into a restless sleep.… |  |
+| `ch06` | Chapter 6, page 1 of 2 | Awake and watching now, I looked down the hill… | `ch06.webp` |
+| `ch06-2` | Chapter 6, page 2 of 2 | Every door in town said no. I said yes.… | `ch06-2.webp` |
+| `ch07` | Chapter 7, page 1 of 3 | They came in out of the cold, and I… | `ch07.webp` |
+| `ch07-2` | Chapter 7, page 2 of 3 | Then the baby opened His eyes and looked at… | `ch07-2.webp` |
+| `ch07-3` | Chapter 7, page 3 of 3 | John 1:3 (ESV) All things were made through him,… |  |
 | `interlude` | Interlude | The Night with the Shepherds Under the Tower | `home-hero.webp` |
 | `ch08` | Chapter 8, page 1 of 3 | Inside my walls the child was sleeping. Out in… | `ch08.webp` |
 | `ch08-2` | Chapter 8, page 2 of 3 | Luke 2:10-12 (ESV) “Fear not, for behold, I bring… |  |
