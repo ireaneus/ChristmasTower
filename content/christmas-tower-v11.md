@@ -478,21 +478,23 @@ The fields were quiet again, and the child slept inside me, and I stood in the d
 
 ## Chapter 10: The Good Shepherd
 
-Many years went by after the night the child was born inside me. I was older and more worn. Cracks ran through my walls where the weather had gotten in, and a few of my stones had worked loose and slid down into the grass. I was still standing, still keeping company with the shepherds and their sheep.
+Many years went by after the night the child was born inside me. I grew older and more worn. Cracks ran through my walls where the weather had gotten in, and a few of my stones had worked loose and slid down into the grass. Still I stood, keeping company with the shepherds and their sheep.
 
-Then one day a man came walking up my road, and He was not alone. Twelve men walked close beside Him, and behind them came a crowd of men and women, hurrying to stay near enough to hear Him.
+One day a man came walking up my road, and He was not alone. Twelve men walked close beside Him, and behind them came a crowd, hurrying to stay near enough to hear Him.
 
 I watched Him come, and everything in me went still.
 
-I knew that face. I had seen it before in the lightning, in a vision I was given long ago.
+I knew that face. I had seen it long ago, in the lightning, in a vision.
 
-And I knew those hands. They were a grown man's hands now, brown and scarred and used to work, but I had held them when they were small enough to close around a finger. I had known them longer than that. He was the Master Stonemason, and He was coming up my road.
+And I knew those hands. They were a grown man's hands now, strong and rough from work, but I had held them when they were small enough to curl around a finger. I had known them even longer than that. He was the Master Stonemason, and He was coming up my road.
 
-A sick man sat off by himself at the edge of the road. He had leprosy, and people with that sickness were made to keep their distance. He was broken down the way I was broken down. Mine was slow years and hard weather. His was a disease that bored into him and ate his skin.
+A sick man sat by himself at the edge of the road. He had leprosy, a sickness of the skin, and people who had it were made to stay far away from everyone else. He was broken down the way I was broken down. Mine came from long years and hard weather. His came from a sickness that would not let go.
 
-He called out to the Master Stonemason and asked for help. Everyone else stepped back.
+\"Please, help me!\" he called out.
 
-The Master Stonemason walked over to him. He reached out His hand, and He touched him, and the sickness went out of the man, and he was made brand new.
+Everyone else stepped back.
+
+The Master Stonemason walked straight over to him. He reached out His hand and touched him, and the sickness left the man, and he was made brand new.
 
 ---
 
@@ -500,25 +502,25 @@ The Master Stonemason walked over to him. He reached out His hand, and He touche
 >
 > When he came down from the mountain, great crowds followed him. And behold, a leper came to him and knelt before him, saying, *\"Lord, if you will, you can make me clean.\"* And Jesus stretched out his hand and touched him, saying, *\"I will; be clean.\"* And immediately his leprosy was cleansed.
 
+---
+
+\"He touched him!\" a woman said.
+
+\"Look at his skin! Look at his face!\" said a man.
+
+\"Who is this man?\" asked a child.
+
+\"Jesus,\" someone answered. \"Jesus of Nazareth.\"
+
+I knew that name. An angel had given it to Him before He was born.
+
 > **Matthew 1:21 (ESV)**
 >
 > *\"She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.\"*
 
----
+He will save His people. That day I watched it begin, right there on my road, for a man nobody else would touch.
 
-*\"He touched him,\"* a woman said.
-
-*\"Look at his skin. Look at his face.\"*
-
-*\"Who is this man?\"*
-
-*\"Jesus,\"* someone answered. *\"Jesus of Nazareth.\"*
-
-I knew that name. It came up my road ahead of Him, carried by a tired carpenter and a girl on a donkey, given to Him by an angel before He had a face.
-
-He will save his people. I had heard those words in the dark years before, and I had never once known what they would look like. That day I watched them happen on my road, to a man nobody else would touch.
-
-And then Jesus turned and looked up at me. He looked at my old broken stones for a long while, the way you look at something you made with your own hands. Then He looked out at the sheep in the grass and at the shepherds standing among them, and He began to teach the people about shepherds and their sheep.
+Then Jesus turned and looked up at me. He looked at my old broken stones for a long while, the way you look at something you made with your own hands. Then He looked out at the sheep in the grass and the shepherds standing among them, and He began to teach the people.
 
 ---
 
@@ -526,49 +528,69 @@ And then Jesus turned and looked up at me. He looked at my old broken stones for
 >
 > *\"The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly. I am the good shepherd. The good shepherd lays down his life for the sheep. I am the good shepherd. I know my own and my own know me, just as the Father knows me and I know the Father; and I lay down my life for the sheep. And I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd.\"*
 
-*David was a shepherd who became king, Jesus is the King of Kings who calls Himself \"The Good Shepherd\"*
+*David was a shepherd who became king. Jesus is the King of kings, and He gave Himself a shepherd's name: the good shepherd.*
 
 ---
 
 ## Chapter 11: The Stones Would Cry Out
 
-The seasons turned over me again and again after that day, then one afternoon He came down my road one last time. He was riding a young donkey, and His face was set toward Jerusalem. A crowd went with Him, and they were singing. They pulled the cloaks off their own backs and threw them down in the dust for the donkey to walk on. I had watched kings' roads my whole life. I had never seen a road laid down like that.
+The seasons turned over me again and again. Then one afternoon He came down my road one last time. He was riding a young donkey, and His face was set toward Jerusalem. A crowd went with Him, singing. They pulled the cloaks off their own backs and spread them in the dust for the donkey to walk on.
 
-Some men in the crowd told Him to make the singing stop.
+\"Blessed is the King!\" the crowd shouted. \"Blessed is the King who comes in the name of the Lord!\"
 
-> **Luke 19:40 (ESV)**
+Some of the religious leaders in the crowd did not like it. \"Teacher,\" one of them said, \"tell your followers to be quiet!\"
+
+> **Luke 19:38-40 (ESV)**
 >
-> *\"I tell you, if these were silent, the very stones would cry out.\"*
+> *\"Blessed is the King who comes in the name of the Lord! Peace in heaven and glory in the highest!\" And some of the Pharisees in the crowd said to him, \"Teacher, rebuke your disciples.\" He answered, \"I tell you, if these were silent, the very stones would cry out.\"*
 
 ---
 
 The very stones.
 
-I have been one of those stones since before there was a Bethlehem to look down on. I have stood on this hill through storm and fire and every silent year in between, and I have never once stopped my worship. If every voice in that crowd had gone quiet, I would have sung His arrival out of my own cracked walls and been glad to do it.
+I was one of those stones, and I had been since before there was a Bethlehem to look down on. I had stood on this hill through storm and fire and every silent year in between, and I had never stopped worshiping. If every voice in that crowd had gone quiet, I would have sung out of my own cracked walls, and been glad to do it.
 
-And as He passed me, He turned His head and looked at me, the old tower on the hill, He saw me, He saw right through me. He was seeing me as I was in the beginning, strong, sturdy, steadfast, brilliant and new. If He would let me, my stones would cry out in praise to Him.
+As He passed, He turned His head and looked up at me, the old tower on the hill. He saw right past my cracks. He saw me as I was in the beginning: strong, steady, and new.
 
-Then He went over the rise, and the road took Him out of my sight, and I could not follow. Towers stay where they are set.
+Then He went over the rise, and the road carried Him out of my sight. I could not follow. Towers stay where they are set.
 
 ---
 
-I learned the rest, from the people who came back up the road afterward, saying it to each other with their hands over their mouths. They took Him outside the city and they killed Him on a cross, the way I had seen it in the lightning when I was young and understood none of it. The sky went black in the middle of the day. And the ground shook so hard that the rocks in that country split open.
+I learned the rest from the people who came back up the road afterward, whispering to each other with their hands over their mouths. They took Him outside the city and put Him to death on a cross, just as I had seen in the lightning when I was young and understood none of it. The sky went dark in the middle of the day.
 
-I felt it in my foundation. Every stone of me shuddered, and I knew what it meant, because I had known those hands since the day they set me here.
+> **John 19:30 (ESV)**
+>
+> *When Jesus had received the sour wine, he said, \"It is finished,\" and he bowed his head and gave up his spirit.*
+
+---
+
+Then the ground shook so hard that rocks split open. I felt it in my foundation. Every stone of me shuddered. Cracks ran up my walls, and stones I had held for a thousand years broke loose and tumbled into the grass. In the Temple in Jerusalem, the great curtain tore in two, from top to bottom.
 
 > **Matthew 27:51 (ESV)**
 >
-> *The curtain of the temple was torn in two, from top to bottom. And the earth shook, and the rocks were split.*
+> *And behold, the curtain of the temple was torn in two, from top to bottom. And the earth shook, and the rocks were split.*
+
+And I understood. For a thousand years I had held spotless lambs in my manger, one after another, and every one of them had been pointing to Him. Now the true Passover Lamb had given His life, once and for all. For those who put their trust and faith in Him. No lamb would ever need to wait in my manger again.
+
+> **1 Corinthians 5:7 (ESV)**
+>
+> *For Christ, our Passover lamb, has been sacrificed.*
+
+My work was finished, because His was.
 
 ---
 
-Three days later, He walked out of a grave.
+Three days later, He walked out of the grave.
 
-I had called Him the Master Stonemason my whole long life, because that was the only way I knew Him. He chose me out of the rock. He chipped away what did not belong. He set me on this hill with His own hands and told me nothing for a thousand years.
+> **Matthew 28:5-6 (ESV)**
+>
+> *But the angel said to the women, \"Do not be afraid, for I know that you seek Jesus who was crucified. He is not here, for he has risen, as he said. Come, see the place where he lay.\"*
 
-I know the rest of it now.
+I had called Him the Master Stonemason my whole long life, because that was the only way I knew Him. He chose me out of the rock. He chipped away what did not belong. He set me on this hill with His own hands, and then He let me wait a thousand years, holding lambs for the Lamb who was coming.
 
-He is the One who made the heavens and set the stars where they hang. He is the Lamb my manger was built for, and the Good Shepherd who laid down His life for the flock I was raised to watch. He is the King the prophets promised, the Son given, the child born. He is Immanuel, which means God with us. He is the Beginning and the End. He is Jesus, and He saves His people from their sins.
+Now I know the rest.
+
+He is the One who made the heavens and set the stars in their places. He is the Lamb my manger was built for, and the good shepherd who laid down His life for the flock I was raised to watch. He is the King the prophets promised, the child born, the Son given. He is Immanuel, which means God with us. He is the beginning and the end. He is Jesus, and He saves His people from their sins.
 
 The Master Stonemason has a new name too, and it was His all along.
 
@@ -578,9 +600,9 @@ The Master Stonemason has a new name too, and it was His all along.
 >
 > *\"I am the Alpha and the Omega, the first and the last, the beginning and the end.\"*
 
-**Every name in this book was given. His was revealed.**
+Every name in this book was given. His was revealed.
 
-My stones sleep now. They are scattered on a quiet hill where the grass has grown over them, and no one who passes knows what they are. My work is finished and I am content with how it went. I held the lambs. I held the Lamb. And I was handed a name I did nothing to earn, by the only hands that have ever made anything new.
+My stones sleep now. The cracks that opened on that dark afternoon never closed, and over the years the rest of me came down. My stones lie scattered on a quiet hill where the grass has grown over them, and the people who pass by have no idea what they are. My work is finished, and I am content with how it went. I held the lambs. I held the Lamb. And I was handed a name I did nothing to earn, by the only hands that have ever made anything new.
 
 I am Migdal Eder. I am the Christmas Tower. He called me that, and I carry it still.
 
@@ -606,21 +628,37 @@ Turn the page, and I will show your grown-ups how to help you find your name in 
 
 This is a book about names, and every one of them points to Jesus.
 
-Rachel named her dying breath's son Ben-oni, son of my sorrow, and Jacob renamed him Benjamin, son of my right hand. Hold those two names together and you have Christ: the Man of Sorrows who carried our griefs, and the risen Son seated now at the Father's right hand.
+With her dying breath, Rachel named her son Ben-oni, \"son of my sorrow,\" and Jacob renamed him Benjamin, \"son of my right hand.\" Hold those two names together and you have Christ: the Man of Sorrows who carried our griefs, and the risen Son now seated at the Father's right hand.
 
-Ruth came out of Moab with nothing and was redeemed by Boaz, her kinsman-redeemer, a relative near enough and willing enough to pay a debt he did not owe. Notice that Scripture still calls her Ruth the Moabite after the redemption. She keeps the name she came with, and God writes her into the family line of the King anyway. That is grace.
+Ruth came out of Moab with nothing and was redeemed by Boaz, her kinsman-redeemer, a relative near enough and willing enough to pay a debt he did not owe. She was given a new family name, and God wrote a foreigner into the family line of the King. That is grace.
 
-Samuel poured oil over the head of the youngest son, the one his own father left out in the field, and then that boy went back to the sheep and waited years for a throne. The greater Son of David would come from those same fields.
+Samuel poured oil over the head of the youngest son, the one his own father left out in the field. That boy went back to the sheep and waited years for a throne. The greater Son of David would come from those same fields.
 
-The Levitical shepherds wrapped spotless lambs in swaddling cloths and laid them in a manger at Migdal Eder to keep them unblemished for the temple. When the angel told the shepherds the sign would be a baby wrapped in cloths and lying in a manger, those men knew exactly which manger to run to. The Lamb of God was laid where the lambs were kept.
+The Levites took their name from Levi, which sounds like the Hebrew for \"attached,\" and the best of the lambs were kept for Passover, the feast named for the night God passed over every house marked by a lamb's blood. Paul gives Jesus that name outright: \"Christ, our Passover lamb, has been sacrificed.\" When Jesus said, \"It is finished,\" the earth shook and the temple curtain tore from top to bottom. No more lambs were needed, and the tower's long work was finished too.
 
-A man with leprosy, untouched for years, was touched and made clean and called a son of God.
+A man with leprosy, kept at a distance for years, was touched and made clean.
 
-And an old tower that had done nothing to deserve it was given a new name by the God who built it.
+And an old tower that had done nothing to deserve it was given a new name by the God who built it. At the center of the book stands Isaiah 62:2: \"you shall be called by a new name that the mouth of the LORD will give.\" At the end, Revelation 2:17 answers it with a white stone and a new name written on it.
 
-The tower calls Him the Master Stonemason for most of the book, because hands are what a tower can understand. That is deliberate. It holds back the full weight of who He is until the end, where He is named plainly: Jesus, who saves His people from their sins; Immanuel, God with us; the Lamb, the Good Shepherd, the King, the Beginning and the End. The Baby in the manger is God Himself.
+The tower calls Him the Master Stonemason for most of the book, because hands are what a tower can understand. That is deliberate. It holds back the full weight of who He is until the end, where He is named plainly: Jesus, who saves His people from their sins; Immanuel, God with us; the Lamb, the good shepherd, the King, the Beginning and the End. The Baby in the manger is God Himself.
 
-**If you are reading this aloud,** the book has two voices. The tower tells the story. A second voice reads the Scripture and talks directly to your children. The children can also play the part of the shepherds and the angels.
+---
+
+**Could this be the place?**
+
+The heart of this story comes straight from the Bible. Luke tells us that Jesus was born in Bethlehem, wrapped in swaddling cloths, and laid in a manger, and that shepherds in the nearby fields were told to look for exactly that sign (Luke 2:7-12). That is the Word of God, and the whole book rests on it.
+
+The tower is real too. Genesis 35:21 says Jacob camped \"beyond the tower of Eder\" after burying Rachel on the way to Bethlehem. Micah 4:8 speaks to it by name: \"And you, O tower of the flock... to you shall it come.\" In Hebrew, tower of the flock is Migdal Eder.
+
+Jewish tradition fills in more of the picture. The Mishnah, a collection of Jewish teaching written down around AD 200, says that animals found between Jerusalem and Migdal Eder were treated as set apart for temple sacrifice (Shekalim 7:4). The flocks grazing near Bethlehem, only a few miles from Jerusalem, were raised for the temple. An ancient Aramaic paraphrase of Genesis, the Targum Pseudo-Jonathan, goes further and calls Migdal Eder the place where the King Messiah would be revealed at the end of days. In 1883 Alfred Edersheim, a Jewish-born Christian scholar, drew these threads together and concluded that the shepherds of Luke 2 were most likely the men who watched those temple flocks.
+
+The picture of lambs wrapped in cloths and kept in the tower's manger comes from later tradition, so we hold that detail loosely. But look at what we do know. God named Bethlehem seven hundred years ahead of time (Micah 5:2). He moved an emperor to order a census so that a carpenter would walk his family to the right town at the right time (Luke 2:1-5). He gave the shepherds a sign they would recognize. Every step of this story was planned. For a God who rules over all of it, laying the true Passover Lamb in the very manger where Passover lambs were kept is well within His power, and it fits everything else He did that night.
+
+That is why we tell it this way. The tower's voice is imagined. The places, the people, and the promises are real, and the Lamb in the manger is the Son of God.
+
+---
+
+**If you are reading this aloud,** the book has two voices. The tower tells the story. A second voice reads the Scripture and talks directly to your children. Children can read the speaking parts too.
 
 **Telling them the gospel.** Three truths, with verses to read together.
 
@@ -636,7 +674,7 @@ The tower calls Him the Master Stonemason for most of the book, because hands ar
 >
 > *See what kind of love the Father has given to us, that we should be called children of God; and so we are.*
 
-**We are created in His image** See the great love in which He has for His creation.
+**We are created in His image.** See how great a love He has for what He made.
 
 ---
 
@@ -648,7 +686,7 @@ The tower calls Him the Master Stonemason for most of the book, because hands ar
 >
 > *For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.*
 
-**We sinned.** We disobeyed our Creator, doing what we wanted and was right in our own eyes.
+**We sinned.** We disobeyed our Creator, doing whatever was right in our own eyes.
 
 ---
 

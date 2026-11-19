@@ -35,8 +35,6 @@ Rows marked `asides.json` are already overridden there. Delete the key to fall b
 | 23 | Chapter 5 | tower | default rule | Something has come. |
 | 24 | Chapter 7 | tower | default rule | The Christmas Tower. |
 | 25 | Chapter 9 | aside | default rule | How many names were given to the baby? Can you name them all? |
-| 26 | Chapter 10 | tower | default rule | "Look at his skin. Look at his face." |
-| 27 | Chapter 10 | tower | asides.json | "Who is this man?" |
-| 28 | Chapter 10 | tower | default rule | David was a shepherd who became king, Jesus is the King of Kings who calls Himself "The Good Shepherd" |
-| 29 | For the Adults | tower | default rule | David Haines |
-| 30 | A Personal Note | tower | default rule | David Haines, Author of The Christmas Tower |
+| 26 | Chapter 10 | aside | asides.json | David was a shepherd who became king. Jesus is the King of kings, and He gave Himself a shepherd's name: the good shepherd. |
+| 27 | For the Adults | tower | default rule | David Haines |
+| 28 | A Personal Note | tower | default rule | David Haines, Author of The Christmas Tower |

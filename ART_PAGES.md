@@ -49,15 +49,18 @@ House rules, enforced by `npm run check`: page 1 of each section has art, except
 | `ch09-4` | Chapter 9, page 4 of 4 | They could not hold it in, they went back… |  |
 | `ch10` | Chapter 10, page 1 of 4 | Many years went by after the night the child… | `ch10.webp` |
 | `ch10-2` | Chapter 10, page 2 of 4 | Matthew 8:1-3 (ESV) When he came down from the… |  |
-| `ch10-3` | Chapter 10, page 3 of 4 | “He touched him,” a woman said. “Look at his… | `ch10-3.webp` |
+| `ch10-3` | Chapter 10, page 3 of 4 | “He touched him!” a woman said. “Look at his… | `ch10-3.webp` |
 | `ch10-4` | Chapter 10, page 4 of 4 | John 10:10-11, 14-16 (ESV) “The thief comes only to… |  |
-| `ch11` | Chapter 11, page 1 of 5 | The seasons turned over me again and again after… | `ch11.webp` |
-| `ch11-2` | Chapter 11, page 2 of 5 | The very stones. I have been one of those… |  |
-| `ch11-3` | Chapter 11, page 3 of 5 | I learned the rest, from the people who came… |  |
-| `ch11-4` | Chapter 11, page 4 of 5 | Three days later, He walked out of a grave.… |  |
-| `ch11-5` | Chapter 11, page 5 of 5 | Revelation 22:13 (ESV) “I am the Alpha and the… |  |
+| `ch11` | Chapter 11, page 1 of 6 | The seasons turned over me again and again. Then… | `ch11.webp` |
+| `ch11-2` | Chapter 11, page 2 of 6 | The very stones. I was one of those stones,… |  |
+| `ch11-3` | Chapter 11, page 3 of 6 | I learned the rest from the people who came… |  |
+| `ch11-4` | Chapter 11, page 4 of 6 | Then the ground shook so hard that rocks split… | `ch11-4.webp` |
+| `ch11-5` | Chapter 11, page 5 of 6 | Three days later, He walked out of the grave.… |  |
+| `ch11-6` | Chapter 11, page 6 of 6 | Revelation 22:13 (ESV) “I am the Alpha and the… |  |
 | `epilogue` | Epilogue, page 1 of 1 | Revelation 2:17 (ESV) “To the one who conquers I… | `epilogue.webp` |
-| `for-the-adults` | For the Adults, page 1 of 4 | This is a book about names, and every one… | `for-the-adults.webp` |
-| `for-the-adults-2` | For the Adults, page 2 of 4 | Genesis 1:27 (ESV) So God created man in his… |  |
-| `for-the-adults-3` | For the Adults, page 3 of 4 | Romans 3:23 (ESV) For all have sinned and fall… |  |
-| `for-the-adults-4` | For the Adults, page 4 of 4 | Romans 5:8 (ESV) But God shows his love for… |  |
+| `for-the-adults` | For the Adults, page 1 of 6 | This is a book about names, and every one… | `for-the-adults.webp` |
+| `for-the-adults-2` | For the Adults, page 2 of 6 | Could this be the place? The heart of this… |  |
+| `for-the-adults-3` | For the Adults, page 3 of 6 | If you are reading this aloud, the book has… |  |
+| `for-the-adults-4` | For the Adults, page 4 of 6 | Genesis 1:27 (ESV) So God created man in his… |  |
+| `for-the-adults-5` | For the Adults, page 5 of 6 | Romans 3:23 (ESV) For all have sinned and fall… |  |
+| `for-the-adults-6` | For the Adults, page 6 of 6 | Romans 5:8 (ESV) But God shows his love for… |  |
