@@ -444,6 +444,24 @@ img, svg { max-width: 100%; }
 .story p { margin: 0; }
 .story .tower-em { font-style: italic; }
 
+/* Banner at the top of a page the narrator reads. */
+.narrator-mark {
+  padding: 14px 20px;
+  border-radius: 14px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  font-size: var(--fs-small);
+  line-height: 1.5;
+  color: var(--muted);
+}
+.narrator-mark strong {
+  display: block;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent-text);
+}
+
 /* A speaking part for a child to read: the part's name sits above the line. */
 .story .line { padding-left: 18px; border-left: 3px solid var(--gold); }
 .part {

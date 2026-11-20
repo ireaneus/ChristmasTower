@@ -18,19 +18,20 @@ To my beloved wife — she has always loved me the mostestes.
 
 Hello, my name is Migdal Eder, which means Tower of the Flock in Hebrew. If you went looking for me today, on the hills south of Jerusalem near the town of Bethlehem, all you would find is rocks scattered across the ground. The tower I once was is gone.
 
-But I was real, and this story is true. Think about Jesus, you can't see Him walking down your street, because He is in heaven now, and yet you know He is real. You have the Bible to tell you about Him, and you can feel that He is near. In a small way, it is the same with me. You can't see my walls anymore, but the Bible still calls me by name, and it tells of the Child born in Bethlehem and the shepherds who hurried to find Him.
+But I was real, and this story is true. Jesus is real, you know because the Bible tells you about Him, and you can feel that He is near. In a small way, it is the same with me. You can't see my walls anymore, but the Bible still calls me by name, and it tells of the Child born in Bethlehem and the shepherds who hurried to find Him.
 
 I watched it all happen from my hill. So come and read along with me, and I will tell you how an old tower came to be known as *\"The Christmas Tower\"*.
 
 ---
 
-I wasn't always a pile of rocks. Long ago I was a grand tower, standing tall and strong on those same hills. The Master Stonemason built me Himself. He chose every stone and set each one patiently in its place, so that it would settle against its neighbor and hold firm.
+I wasn't always a pile of rocks. Long ago I was a grand tower, standing tall and strong on those same hills. The Master Stonemason built me Himself. He chose every stone and set each one patiently in its place.
 
-Back then the land was called Canaan, and the town to the north of me was called Salem. Both of those names have changed since then. Canaan is called Israel now, and Salem is called Jerusalem. My name would change too, on one very special night, and my new name would be a high honor that came with important work. That night was still a long way off, but names change here. Hold on to that.
+Back then the land was called Canaan, and the town to the north of me was called Salem. Both of those names have changed since then, Canaan is called Israel now, and Salem is called Jerusalem. My name would change too, on one very special night, and my new name would be a high honor that came with important work. That night was still a long way off, but names change here. Hold on to that.
 
 From high above I watched the shepherds guard their flocks from prowling wolves, from wild weather, and from robbers who came only to steal and destroy. Year after year they cared for their sheep, and the soft sound of bleating lulled me into a calm and peaceful rest, and so I slept.
 
 ---
+[Narrator page]
 
 > **Micah 4:8 (ESV)**
 >
@@ -55,6 +56,7 @@ I woke. My foundation shuddered, and the voice lingered behind: former dominion,
 Something is coming.
 
 ---
+[Narrator page]
 
 > **Isaiah 53:3 (ESV)**
 >
@@ -80,6 +82,8 @@ As I listened, I began to wonder about the Master Stonemason. He seemed to love 
 
 ---
 
+[Narrator page]
+
 > **Genesis 17:5 (ESV)**
 >
 > *\"No longer shall your name be called Abram, but your name shall be Abraham, for I have made you the father of a multitude of nations.\"*
@@ -99,17 +103,16 @@ As I listened, I began to wonder about the Master Stonemason. He seemed to love 
 
 ---
 
-Then one day, the man from the shepherds' stories pitched his tent in my shadow. It was Jacob, now called Israel. He came carrying a grief so heavy I could feel it from where I stood. His wife Rachel had died giving birth to a baby boy.
+Then one day, the man from the shepherds' stories pitched his tent in my shadow. It was Jacob, now called Israel. He came carrying a grief so heavy I could feel it. His wife Rachel had died giving birth to a baby boy.
 
 With her last breath, Rachel named the baby Ben-oni, which means son of my sorrow. Israel took the boy in his arms and gave him a different name, Benjamin, which means son of my right hand.
 
-*Same little boy, two names.*
-
 Israel buried Rachel beside the road to Bethlehem and set up a stone pillar over her grave so that no one would forget her. All I could do was keep watch.
 
-I stood a long while after they had gone. I did not understand yet why the Master Stonemason had set me on this hill, or what He wanted with an old tower made of rock. I only knew that He had put me here with His own hands.
+I did not understand yet why the Master Stonemason had set me on this hill, or what He wanted with an old tower made of rock.
 
 ---
+[Narrator page]
 
 > **Genesis 35:18-20 (ESV)**
 >
@@ -128,7 +131,7 @@ I stood a long while after they had gone. I did not understand yet why the Maste
 
 ## Chapter 2: Ruth, a Foreigner Receives a New Family Name
 
-A new morning came up over the hills and laid its light across the barley fields. The heads of grain bowed and lifted in the wind like a field of worshipers. I had watched a hundred harvests come in from where I stood, but this morning brought me something new. Two women were walking up the road toward Bethlehem, and one of them was a stranger.
+A new morning came up over the hills and laid its light across the barley fields. The heads of grain bowed and lifted in the wind like a field of worshipers. I had watched a hundred harvests come in from where I stood, but this morning brought something new. Two women were walking up the road toward Bethlehem.
 
 The older woman was Naomi. Years before, during a famine, she had left Bethlehem with her husband and two sons to find food in the land of Moab. Her sons married Moabite women there. Then sorrow came, Naomi's husband died, and both of her sons died after him, until three widows were left alone in a foreign country.
 
@@ -139,6 +142,7 @@ The young woman beside her was Ruth. She was born in Moab, where people prayed t
 *Did you notice the name change? Who gave Naomi her new name?*
 
 ---
+[Narrator page]
 
 > **Ruth 1:16 (ESV)**
 >
@@ -154,15 +158,16 @@ The young woman beside her was Ruth. She was born in Moab, where people prayed t
 
 So the two of them walked the road back to Bethlehem together. The name Bethlehem means House of Bread, and they came into it hungry, yet hopeful, trusting God to provide for them.
 
-Ruth went out to the fields every morning to gather the grain the harvesters left behind. The law of Israel allowed the poor and the foreigner to do that, and Ruth never once complained. I watched her work. Hers was the kind of faith that shows up early and stays late.
+Ruth went out to the fields every morning to gather the grain the harvesters left behind. The law of Israel allowed the poor and the foreigner to do that. I watched her work, her faith was the kind of faith, that shows up early and stays late.
 
 Of all the fields around Bethlehem, Ruth just happened to pick the one that belonged to a man named Boaz, the same fields I watch over.
 
-One morning Boaz came out to his harvest, saw her working, and asked who she was. His workers told him she was Naomi's daughter-in-law, the one who had left her whole country to take care of an old woman with nothing left. Boaz walked over and spoke to her kindly.
+One morning Boaz came out to his harvest, saw her working, and asked who she was. His workers told him she was Naomi's daughter-in-law, the one who had left her country to take care of an old woman with nothing left. Boaz walked over and spoke to her kindly.
 
 In Israel, when a man died, a close relative could step in as his family's redeemer. He could buy back the family's land and marry the widow, so that the man's name would live on. Boaz was one of those relatives, and he chose to be Ruth's redeemer. He married her, and they had a son named Obed. Obed became the father of Jesse, and Jesse became the father of David the king.
 
 ---
+[Narrator page]
 
 > **Ruth 2:10-12 (ESV)**
 >
@@ -190,13 +195,13 @@ In Israel, when a man died, a close relative could step in as his family's redee
 
 ## Chapter 3: David, Sent to the Fields and Raised to the Throne
 
-The fields were soft and still that morning, and the sun came up warm over Bethlehem. Shepherds moved through the grass the way shepherds always had, counting, calling, and keeping the flock together. I had watched their fathers do the same work, and their fathers before them.
+The fields were soft and still that morning, and the sun came up warm over Bethlehem. Shepherds moved through the grass the way shepherds always had, counting, calling, and keeping the flock together.
 
 One of the shepherds was just a boy. His name was David, and he was the youngest of the eight sons of a man named Jesse. David's great-grandmother was Ruth, the young woman from Moab who had once gathered grain in these same fields.
 
-David sang while he worked. I heard him from where I stood, his songs rising into the open air with no one to hear them but the sheep and the Master Stonemason he was singing to. His hands were gentle with the lambs and steady when a lion or a bear came out of the hills after them.
+David sang while he worked, his songs rising into the open air with no one to hear them but the sheep and the Master Stonemason he was singing to. His hands were gentle with the lambs and strong when a lion or a bear came out of the hills after them.
 
-His family gave him the smallest job there was. The Master Stonemason had a much bigger one in mind.
+His family gave him the lowest job there was. The Master Stonemason had a much bigger one in mind.
 
 ---
 
@@ -206,15 +211,16 @@ Samuel came to Jesse's house and began to call upon his sons. The oldest son cam
 
 One by one, seven sons walked past Samuel, and each time the answer was no. Samuel turned to Jesse and asked, \"Are all your sons here?\"
 
-\"There is one more,\" Jesse said. \"The youngest. He is out keeping the sheep.\"
+\"There is one more,\" Jesse said. \"The youngest, but he is out keeping the sheep.\"
 
 \"Send for him,\" Samuel said. \"We will not sit down until he comes.\"
 
-They brought the boy in from my fields, still smelling like the flock. The Master Stonemason told Samuel, \"This is the one,\" and Samuel poured the oil over David's head right there in front of all the brothers who had gone ahead of him.
+They brought the boy in from my fields, still smelling like the flock. The Master Stonemason told Samuel, \"This is the one,\" and Samuel poured the oil over David's head right there in front of all his brothers.
 
 Then David went back to his sheep, with oil in his hair and a promise in his heart.
 
 ---
+[Narrator page]
 
 > **1 Samuel 16:7 (ESV)**
 >
@@ -234,7 +240,7 @@ Then David went back to his sheep, with oil in his hair and a promise in his hea
 
 *The Master Stonemason's Spirit fell on David from that day on. He came back to the field a shepherd king.*
 
-*Micah wrote those words hundreds of years after David and about seven hundred years before Jesus was born. Did you spot Bethlehem's old name? Who do you think the ruler from Bethlehem would be?*
+*Micah wrote those words hundreds of years after David. Who do you think the ruler from Bethlehem would be? Did you spot yet another name change?*
 
 ---
 
@@ -242,7 +248,7 @@ Then David went back to his sheep, with oil in his hair and a promise in his hea
 
 The years rolled on like clouds over the hills. The shepherd boy David became king, and his son Solomon built the great Temple in Jerusalem, where the people came to worship the Master Stonemason.
 
-Then a new kind of shepherd came to the fields below me. They were Levite shepherds, men from the family of Levi, set apart by the Master Stonemason to serve Him. Their flocks were raised for that Temple.
+Then a new kind of shepherd came to my fields. They were Levite shepherds, men from the family of Levi, set apart by the Master Stonemason to serve Him. Their flocks were raised for that Temple.
 
 I had watched many shepherds by then, but these were different. They handled every lamb the way a father holds his newborn child.
 
@@ -254,9 +260,8 @@ The very best were saved for Passover. Every spring the people remembered the ni
 
 When the shepherds found a perfect lamb, they wrapped it gently in swaddling cloths and laid it in a stone manger inside my walls. There it stayed, safe and spotless, until the appointed day.
 
-I had been watching and waiting a long while by then. A boy renamed over his mother's grave. A widow given a new family name. A shepherd boy named king. And now lambs, chosen one at a time and laid in my manger to wait. I did not know yet what the Master Stonemason was preparing me to hold.
-
 ---
+[Narrator page]
 
 > **Exodus 12:3, 5 (ESV)**
 >
@@ -272,17 +277,18 @@ I had been watching and waiting a long while by then. A boy renamed over his mot
 
 ## Chapter 5: Mary and Joseph, a Child Named Before He Was Born
 
-It was evening. The sun was sinking behind the hills, and the light spilled across the fields the color of honey. That was when I saw them on the road: a man walking in front, leading a donkey, and a young woman riding it with both hands resting on the child she was carrying.
+It was evening, the sun was sinking behind the hills, and the light spilled across the fields the color of honey. That was when I saw them on the road: a man walking in front, leading a donkey, and a young woman riding it with both hands resting on the child she was carrying.
 
 They had come a long way, all the way from Nazareth, a town in Galilee far to the north. An emperor in faraway Rome had ordered everyone to be counted in their family's hometown, and this man's family came from Bethlehem. He was from the house of David, the shepherd boy who once sang in my fields.
 
-As they came closer, the man looked up and found me on my hill, and he did not look away. His face was heavy with worry. I could feel the weight he was carrying, and I could also tell he was not carrying it alone. He had put his faith and trust in the Master Stonemason.
+As they came closer, the man looked up and found me on my hill, and he did not look away. His face was heavy with worry, I could feel the weight he was carrying, and I could also tell he was not carrying it alone. He had put his faith and trust in the Master Stonemason.
 
 I looked back at him, steady and strong, the way I had stood for hundreds of years. I wanted him to know there was shelter here, and rest.
 
 He turned back to the road, reached up, and took her hand, and they went on toward the lamps of Bethlehem.
 
 ---
+[Narrator page]
 
 > **Luke 2:1, 3-5 (ESV)**
 >
@@ -297,6 +303,8 @@ He turned back to the road, reached up, and took her hand, and they went on towa
 > *But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, \"Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. She will bear a son, and you shall call his name Jesus, for he will save his people from their sins.\"*
 
 ---
+
+[Narrator page]
 
 *That night the Tower drifted into a restless sleep. Something in its stones had come awake when Joseph looked up at it, and it would not lie still.*
 
@@ -372,7 +380,7 @@ Then He spoke a new name over me, the way new names had been spoken over a griev
 >
 > *The nations shall see your righteousness, and all the kings your glory, and you shall be called by a new name that the mouth of the LORD will give.*
 
-*The Christmas Tower.*
+The Christmas Tower.
 
 ---
 
@@ -405,6 +413,8 @@ Then, out of all that light, came a voice, gently speaking.
 \"Fear not!\" said the angel.
 
 ---
+
+[Narrator page]
 
 > **Luke 2:10-12 (ESV)**
 >
@@ -458,6 +468,8 @@ Then one of the shepherds began to speak, and the words were older than any of u
 
 ---
 
+[Narrator page]
+
 > **Isaiah 9:6 (ESV)**
 >
 > *For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.*
@@ -498,6 +510,8 @@ The Master Stonemason walked straight over to him. He reached out His hand and t
 
 ---
 
+[Narrator page]
+
 > **Matthew 8:1-3 (ESV)**
 >
 > When he came down from the mountain, great crowds followed him. And behold, a leper came to him and knelt before him, saying, *\"Lord, if you will, you can make me clean.\"* And Jesus stretched out his hand and touched him, saying, *\"I will; be clean.\"* And immediately his leprosy was cleansed.
@@ -523,6 +537,8 @@ He will save His people. That day I watched it begin, right there on my road, fo
 Then Jesus turned and looked up at me. He looked at my old broken stones for a long while, the way you look at something you made with your own hands. Then He looked out at the sheep in the grass and the shepherds standing among them, and He began to teach the people.
 
 ---
+
+[Narrator page]
 
 > **John 10:10-11, 14-16 (ESV)**
 >
@@ -570,7 +586,7 @@ Then the ground shook so hard that rocks split open. I felt it in my foundation.
 >
 > *And behold, the curtain of the temple was torn in two, from top to bottom. And the earth shook, and the rocks were split.*
 
-And I understood. For a thousand years I had held spotless lambs in my manger, one after another, and every one of them had been pointing to Him. Now the true Passover Lamb had given His life, once and for all. For those who put their trust and faith in Him. No lamb would ever need to wait in my manger again.
+And I understood. For a thousand years I had held spotless lambs in my manger, one after another, and every one of them had been pointing to Him. Now the true Passover Lamb had given His life, once and for all, for everyone who puts their trust and faith in Him. No lamb would ever need to wait in my manger again.
 
 > **1 Corinthians 5:7 (ESV)**
 >
@@ -580,41 +596,23 @@ My work was finished, because His was.
 
 ---
 
-Three days later, He walked out of the grave.
-
-> **Matthew 28:5-6 (ESV)**
->
-> *But the angel said to the women, \"Do not be afraid, for I know that you seek Jesus who was crucified. He is not here, for he has risen, as he said. Come, see the place where he lay.\"*
-
-I had called Him the Master Stonemason my whole long life, because that was the only way I knew Him. He chose me out of the rock. He chipped away what did not belong. He set me on this hill with His own hands, and then He let me wait a thousand years, holding lambs for the Lamb who was coming.
-
-Now I know the rest.
-
-He is the One who made the heavens and set the stars in their places. He is the Lamb my manger was built for, and the good shepherd who laid down His life for the flock I was raised to watch. He is the King the prophets promised, the child born, the Son given. He is Immanuel, which means God with us. He is the beginning and the end. He is Jesus, and He saves His people from their sins.
-
-The Master Stonemason has a new name too, and it was His all along.
-
----
-
-> **Revelation 22:13 (ESV)**
->
-> *\"I am the Alpha and the Omega, the first and the last, the beginning and the end.\"*
-
-Every name in this book was given. His was revealed.
-
-My stones sleep now. The cracks that opened on that dark afternoon never closed, and over the years the rest of me came down. My stones lie scattered on a quiet hill where the grass has grown over them, and the people who pass by have no idea what they are. My work is finished, and I am content with how it went. I held the lambs. I held the Lamb. And I was handed a name I did nothing to earn, by the only hands that have ever made anything new.
-
-I am Migdal Eder. I am the Christmas Tower. He called me that, and I carry it still.
-
----
-
 ## Epilogue: The One Who Gives the Names
+
+[Narrator page]
 
 > **Revelation 2:17 (ESV)**
 >
 > *\"To the one who conquers I will give some of the hidden manna, and I will give him a white stone, with a new name written on the stone that no one knows except the one who receives it.\"*
 
-A white stone with your name on it, written by the same hands that chose an old tower out of the rock and set it on a hill to wait.
+Picture a small white stone, smooth and round, small enough to close your hand around. Long ago, a white stone could be a ticket into a great feast, or a sign that a person on trial had been set free. Now picture a new name written on it. Your name, written by the same hands that chose an old tower out of the rock and set it on a hill to wait.
+
+The tower's stones lie scattered in the grass now. The stone with your name on it will last forever.
+
+The Master Stonemason is still building. Everyone who trusts in Jesus becomes a living stone, chosen and set in place in His house, the way He once set every stone of an old tower on a hill.
+
+> **1 Peter 2:5 (ESV)**
+>
+> *You yourselves like living stones are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.*
 
 > **Isaiah 43:1 (ESV)**
 >
@@ -640,7 +638,7 @@ A man with leprosy, kept at a distance for years, was touched and made clean.
 
 And an old tower that had done nothing to deserve it was given a new name by the God who built it. At the center of the book stands Isaiah 62:2: \"you shall be called by a new name that the mouth of the LORD will give.\" At the end, Revelation 2:17 answers it with a white stone and a new name written on it.
 
-The tower calls Him the Master Stonemason for most of the book, because hands are what a tower can understand. That is deliberate. It holds back the full weight of who He is until the end, where He is named plainly: Jesus, who saves His people from their sins; Immanuel, God with us; the Lamb, the good shepherd, the King, the Beginning and the End. The Baby in the manger is God Himself.
+The tower calls Him the Master Stonemason for most of the book, because hands are what a tower can understand. That is deliberate. It holds back the full weight of who He is until the manger, where the tower knows its Builder by a newborn's eyes and hands, and then the road, where a crowd gives Him His name: Jesus, who saves His people from their sins. He is the Lamb, the good shepherd, and the King. The Baby in the manger is God Himself.
 
 ---
 

@@ -31,7 +31,7 @@ House rules, enforced by `npm run check`: page 1 of each section has art, except
 | `ch04` | Chapter 4, page 1 of 3 | The years rolled on like clouds over the hills.… | `ch04.webp` |
 | `ch04-2` | Chapter 4, page 2 of 3 | Every new lamb was looked over with great care.… |  |
 | `ch04-3` | Chapter 4, page 3 of 3 | Exodus 12:3, 5 (ESV) Tell all the congregation of… |  |
-| `ch05` | Chapter 5, page 1 of 3 | It was evening. The sun was sinking behind the… | `ch05.webp` |
+| `ch05` | Chapter 5, page 1 of 3 | It was evening, the sun was sinking behind the… | `ch05.webp` |
 | `ch05-2` | Chapter 5, page 2 of 3 | Luke 2:1, 3-5 (ESV) In those days a decree… |  |
 | `ch05-3` | Chapter 5, page 3 of 3 | That night the Tower drifted into a restless sleep.… |  |
 | `ch06` | Chapter 6, page 1 of 2 | Awake and watching now, I looked down the hill… | `ch06.webp` |
@@ -51,12 +51,10 @@ House rules, enforced by `npm run check`: page 1 of each section has art, except
 | `ch10-2` | Chapter 10, page 2 of 4 | Matthew 8:1-3 (ESV) When he came down from the… |  |
 | `ch10-3` | Chapter 10, page 3 of 4 | “He touched him!” a woman said. “Look at his… | `ch10-3.webp` |
 | `ch10-4` | Chapter 10, page 4 of 4 | John 10:10-11, 14-16 (ESV) “The thief comes only to… |  |
-| `ch11` | Chapter 11, page 1 of 6 | The seasons turned over me again and again. Then… | `ch11.webp` |
-| `ch11-2` | Chapter 11, page 2 of 6 | The very stones. I was one of those stones,… |  |
-| `ch11-3` | Chapter 11, page 3 of 6 | I learned the rest from the people who came… |  |
-| `ch11-4` | Chapter 11, page 4 of 6 | Then the ground shook so hard that rocks split… | `ch11-4.webp` |
-| `ch11-5` | Chapter 11, page 5 of 6 | Three days later, He walked out of the grave.… |  |
-| `ch11-6` | Chapter 11, page 6 of 6 | Revelation 22:13 (ESV) “I am the Alpha and the… |  |
+| `ch11` | Chapter 11, page 1 of 4 | The seasons turned over me again and again. Then… | `ch11.webp` |
+| `ch11-2` | Chapter 11, page 2 of 4 | The very stones. I was one of those stones,… |  |
+| `ch11-3` | Chapter 11, page 3 of 4 | I learned the rest from the people who came… |  |
+| `ch11-4` | Chapter 11, page 4 of 4 | Then the ground shook so hard that rocks split… | `ch11-4.webp` |
 | `epilogue` | Epilogue, page 1 of 1 | Revelation 2:17 (ESV) “To the one who conquers I… | `epilogue.webp` |
 | `for-the-adults` | For the Adults, page 1 of 6 | This is a book about names, and every one… | `for-the-adults.webp` |
 | `for-the-adults-2` | For the Adults, page 2 of 6 | Could this be the place? The heart of this… |  |

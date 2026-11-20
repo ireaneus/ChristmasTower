@@ -95,10 +95,13 @@ export function tokens(text) {
     .filter((t) => /[\p{L}\p{N}]/u.test(t));
 }
 
+// A line reading [Narrator page] marks a page the narrator reads. It shows as a banner, never as story words.
+export const NARRATOR_MARK = /^\s*\[Narrator page\]\s*$/i;
+
 export function manuscriptTokens(md) {
   const text = md
     .split('\n')
-    .filter((l) => !/^\s*---\s*$/.test(l))
+    .filter((l) => !/^\s*---\s*$/.test(l) && !NARRATOR_MARK.test(l))
     .map((l) => l.replace(/^\s*>\s?/, '').replace(/^\s*[-*]\s+(?=\S)/, '').replace(/^#+\s+/, ''))
     .join('\n')
     .replace(/\\/g, '')
@@ -188,7 +191,9 @@ export function renderPages(source, pageLabel, log) {
       out.push({ kind: 'hr' });
     } else if (t === 'paragraph_open') {
       const inline = b[1];
-      if (wrappedBy(inline, 'strong')) {
+      if (NARRATOR_MARK.test(inline.content)) {
+        out.push({ kind: 'mark', html: '<p class="narrator-mark chrome"><strong>Narrator page</strong> The narrator reads this page, or invites a child to read along.</p>' });
+      } else if (wrappedBy(inline, 'strong')) {
         out.push({ kind: 'payoff', html: `<p class="payoff">${unwrap(inline)}</p>` });
       } else if (wrappedBy(inline, 'em')) {
         const text = plainText(inline).replace(/[“”]/g, '"').replace(/[‘’]/g, "'");
@@ -553,7 +558,7 @@ function writeArtPages(sheets) {
     '| Key | Page | Starts with | Art |',
     '| --- | --- | --- | --- |',
     ...sheets.map((sh) => {
-      const words = sh.body === null ? sh.p.title : sh.body.replace(/<span class="[^"]*\bchrome\b[^"]*">[^<]*<\/span>|<p class="talk-label chrome">[^<]*<\/p>/g, '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().split(' ').slice(0, 9).join(' ') + '…';
+      const words = sh.body === null ? sh.p.title : sh.body.replace(/<span class="[^"]*\bchrome\b[^"]*">[^<]*<\/span>|<p class="[^"]*\bchrome\b[^"]*">[\s\S]*?<\/p>/g, '').replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().split(' ').slice(0, 9).join(' ') + '…';
       const where = sh.p.isInterlude ? 'Interlude' : `${sh.p.label}, page ${sh.n} of ${sh.total}`;
       return `| \`${sh.artKey}\` | ${where} | ${words.replace(/\|/g, '\\|')} | ${status(sh.artKey)} |`;
     }),
