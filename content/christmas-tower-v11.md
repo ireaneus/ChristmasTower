@@ -414,8 +414,6 @@ Then, out of all that light, came a voice, gently speaking.
 
 ---
 
-[Narrator page]
-
 > **Luke 2:10-12 (ESV)**
 >
 > *\"Fear not, for behold, I bring you good news of great joy that will be for all the people. For unto you is born this day in the city of David a Savior, who is Christ the Lord. And this will be a sign for you: you will find a baby wrapped in swaddling cloths and lying in a manger.\"*
@@ -510,13 +508,9 @@ The Master Stonemason walked straight over to him. He reached out His hand and t
 
 ---
 
-[Narrator page]
-
 > **Matthew 8:1-3 (ESV)**
 >
 > When he came down from the mountain, great crowds followed him. And behold, a leper came to him and knelt before him, saying, *\"Lord, if you will, you can make me clean.\"* And Jesus stretched out his hand and touched him, saying, *\"I will; be clean.\"* And immediately his leprosy was cleansed.
-
----
 
 \"He touched him!\" a woman said.
 

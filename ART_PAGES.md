@@ -47,10 +47,9 @@ House rules, enforced by `npm run check`: page 1 of each section has art, except
 | `ch09-2` | Chapter 9, page 2 of 4 | They stepped inside and found Him, wrapped in swaddling… |  |
 | `ch09-3` | Chapter 9, page 3 of 4 | Isaiah 9:6 (ESV) For to us a child is… | `ch09-3.webp` |
 | `ch09-4` | Chapter 9, page 4 of 4 | They could not hold it in, they went back… |  |
-| `ch10` | Chapter 10, page 1 of 4 | Many years went by after the night the child… | `ch10.webp` |
-| `ch10-2` | Chapter 10, page 2 of 4 | Matthew 8:1-3 (ESV) When he came down from the… |  |
-| `ch10-3` | Chapter 10, page 3 of 4 | “He touched him!” a woman said. “Look at his… | `ch10-3.webp` |
-| `ch10-4` | Chapter 10, page 4 of 4 | John 10:10-11, 14-16 (ESV) “The thief comes only to… |  |
+| `ch10` | Chapter 10, page 1 of 3 | Many years went by after the night the child… | `ch10.webp` |
+| `ch10-2` | Chapter 10, page 2 of 3 | Matthew 8:1-3 (ESV) When he came down from the… |  |
+| `ch10-3` | Chapter 10, page 3 of 3 | John 10:10-11, 14-16 (ESV) “The thief comes only to… | `ch10-3.webp` |
 | `ch11` | Chapter 11, page 1 of 4 | The seasons turned over me again and again. Then… | `ch11.webp` |
 | `ch11-2` | Chapter 11, page 2 of 4 | The very stones. I was one of those stones,… |  |
 | `ch11-3` | Chapter 11, page 3 of 4 | I learned the rest from the people who came… |  |
