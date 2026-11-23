@@ -193,7 +193,8 @@ export function renderPages(source, pageLabel, log) {
       const inline = b[1];
       if (NARRATOR_MARK.test(inline.content)) {
         out.push({ kind: 'mark', html: '<p class="narrator-mark chrome"><strong>Narrator page</strong> The narrator reads this page, or invites a child to read along.</p>' });
-      } else if (wrappedBy(inline, 'strong')) {
+      } else if (wrappedBy(inline, 'strong') && !pageLabel.startsWith('For the Adults')) {
+        // In the story a bold-only line is a large payoff; For the Adults keeps plain bold text.
         out.push({ kind: 'payoff', html: `<p class="payoff">${unwrap(inline)}</p>` });
       } else if (wrappedBy(inline, 'em')) {
         const text = plainText(inline).replace(/[“”]/g, '"').replace(/[‘’]/g, "'");
@@ -234,6 +235,9 @@ export function renderPages(source, pageLabel, log) {
       } else {
         out.push({ kind: 'p', html: md.renderer.render(b, md.options, {}) });
       }
+    } else if (t === 'heading_open' && b[0].tag === 'h3') {
+      // ### inside a section is a subheading; the page keeps its single <h1>.
+      out.push({ kind: 'subhead', html: `<h2 class="subhead">${renderInline(b[1].children)}</h2>` });
     } else {
       throw new Error(`${pageLabel}: unexpected block "${t}"`);
     }

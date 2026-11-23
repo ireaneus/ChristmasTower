@@ -56,6 +56,6 @@ House rules, enforced by `npm run check`: page 1 of each section has art, except
 | `ch11-4` | Chapter 11, page 4 of 4 | Then the ground shook so hard that rocks split… | `ch11-4.webp` |
 | `epilogue` | Epilogue, page 1 of 1 | Revelation 2:17 (ESV) “To the one who conquers I… | `epilogue.webp` |
 | `for-the-adults` | For the Adults, page 1 of 4 | This is a book about names, and every one… | `for-the-adults.webp` |
-| `for-the-adults-2` | For the Adults, page 2 of 4 | Genesis 1:27 (ESV) So God created man in his… |  |
-| `for-the-adults-3` | For the Adults, page 3 of 4 | Romans 3:23 (ESV) For all have sinned and fall… |  |
-| `for-the-adults-4` | For the Adults, page 4 of 4 | Romans 5:8 (ESV) But God shows his love for… |  |
+| `for-the-adults-2` | For the Adults, page 2 of 4 | Telling them the gospel. Three truths, with verses to… |  |
+| `for-the-adults-3` | For the Adults, page 3 of 4 | We all sinned against the Master Stonemason. Romans 3:23… |  |
+| `for-the-adults-4` | For the Adults, page 4 of 4 | Jesus, our Passover Lamb, saves us. Romans 5:8 (ESV)… |  |

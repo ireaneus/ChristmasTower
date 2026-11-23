@@ -4,7 +4,7 @@
 
 David Haines
 
-**Working manuscript v11.3.1** · 28 September 2026
+**Working manuscript v11.4** · 23 November 2026
 
 ---
 
@@ -618,11 +618,11 @@ The Master Stonemason is still building. Everyone who trusts in Jesus becomes a 
 
 **If you are reading this aloud,** the book has two voices. The tower tells the story. A second voice reads the Scripture and talks directly to your children. Children can read the speaking parts too.
 
-**Telling them the gospel.** Three truths, with verses to read together.
-
-**God made us.** He loves us and wants us to know Him.
-
 ---
+
+### Telling them the gospel. Three truths, with verses to read together
+
+**The Master Stonemason made us in His image.**
 
 > **Genesis 1:27 (ESV)**
 >
@@ -632,9 +632,9 @@ The Master Stonemason is still building. Everyone who trusts in Jesus becomes a 
 >
 > *See what kind of love the Father has given to us, that we should be called children of God; and so we are.*
 
-**We are created in His image.** See how great a love He has for what He made.
-
 ---
+
+**We all sinned against the Master Stonemason.**
 
 > **Romans 3:23 (ESV)**
 >
@@ -644,9 +644,9 @@ The Master Stonemason is still building. Everyone who trusts in Jesus becomes a 
 >
 > *For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.*
 
-**We sinned.** We disobeyed our Creator, doing whatever was right in our own eyes.
-
 ---
+
+**Jesus, our Passover Lamb, saves us.**
 
 > **Romans 5:8 (ESV)**
 >
@@ -655,8 +655,6 @@ The Master Stonemason is still building. Everyone who trusts in Jesus becomes a 
 > **1 Corinthians 15:3-4 (ESV)**
 >
 > *For I delivered to you as of first importance what I also received: that Christ died for our sins in accordance with the Scriptures, that he was buried, that he was raised on the third day in accordance with the Scriptures.*
-
-**Jesus saves us.** He died for our sins, was buried, and rose again, so that we can be forgiven and belong to Him forever.
 
 Then ask them the question the book has been asking the whole way through. Every person in this story was given a new name by God. Would you like Him to give you one?
 
@@ -684,6 +682,7 @@ With gratitude,
 
 **Numbering:** a whole number marks a structural change, such as chapters converted, sections added, moved, or removed. A decimal marks an edit inside the existing structure, such as wording, typos, scripture styling, or a single line. The filename changes only on a whole number, so every v11.x edit stays in this same file.
 
+- **v11.4** · 23 Nov 2026 · Chapters 3 through 11 and the Epilogue retold in the Tower's voice. Speaking parts labelled for children reading along (`content/parts.json`), and narrator pages marked with `[Narrator page]`. The story now ends at the earthquake. Second illustrations added for Chapters 1, 3, 6, 7 and 11, the Prologue opens with text, and its two pictures moved to pages 2 and 4. Chapter 10's healing pages joined. The first three For the Adults pages folded into one. Trimmed the Prologue's shepherd paragraph, a Chapter 1 line, and the Epilogue's closing line.
 - **v11.3.1** · 28 Sep 2026 · Pass 1 & 2 Complete: Scripture formatting standardized in "For the Adults" section. All six gospel verses (Genesis 1:27, 1 John 3:1, Romans 3:23, Romans 6:23, Romans 5:8, 1 Corinthians 15:3-4) verified against complete ESV text and reformatted as blockquotes with horizontal rules above/below to match manuscript standard. Pass 2 full review completed: (1) Repeated words checked across all eleven chapters plus Epilogue and For the Adults—no new issues beyond previously noted intentional echoes (Micah 4:8 prologue vision and Chapter 4 recall, "Same little boy, two names" bookend in Chapter 1 and Epilogue, "steal and kill and destroy" thematic callback in Prologue and Chapter 10); (2) Tonal progression verified: wondering (Prologue-3) → climax (4-7) → joy/confirmation (8-9) → mature wisdom (10-11) → Narrator warmth (Epilogue) → teaching voice (For the Adults)—arc holds strong; (3) Standing rules comprehensive check: no em dashes found ✓, no negative-framing constructions ✓, Scripture blocks all formatted as blockquotes with horizontal rules ✓, quotation marks used only on direct speech verses ✓. Manuscript complete and ready for typesetting.
 - **v11.3** · 28 Sep 2026 · Page break structure finalized. Two-day reading split confirmed: Day 1 (Prologue—Chapter 7, ~3,860 words) ends at the tower's receipt of its name as the climactic first moment; Day 2 (Chapter 8—Epilogue, ~3,150 words) carries the revelation, witness, ministry encounter, crucifixion, resurrection, and the Narrator's direct address to the reader. Full-page illustration inserted between Chapters 7–8 with description: "The Night with the Shepherds Under the Tower." Graphic novel visual break marks the pause before the shepherds receive the angel's announcement—the tower on the hill standing guard, the flocks gathered, the night holding its breath as Heaven prepares to break in. Version history expanded with word count analysis and page break rationale.
 - **v11.2** · 25 Sep 2026 · Made some minor additions and removals it needs to keep the removals, and wordsmith the additions.  Needs to be fully reviewed to help eliminate repeated items implied or said verbatim. it needs solid page break structure set with hr page break lines, and decision to include an Epilogue or make it part of the adult read.  Also need to identify the 2-day break.
