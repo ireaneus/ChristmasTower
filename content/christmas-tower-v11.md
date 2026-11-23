@@ -28,9 +28,10 @@ I wasn't always a pile of rocks. Long ago I was a grand tower, standing tall and
 
 Back then the land was called Canaan, and the town to the north of me was called Salem. Both of those names have changed since then, Canaan is called Israel now, and Salem is called Jerusalem. My name would change too, on one very special night, and my new name would be a high honor that came with important work. That night was still a long way off, but names change here. Hold on to that.
 
-From high above I watched the shepherds guard their flocks from prowling wolves, from wild weather, and from robbers who came only to steal and destroy. Year after year they cared for their sheep, and the soft sound of bleating lulled me into a calm and peaceful rest, and so I slept.
+From high above I watched the shepherds guard their flocks from prowling wolves, wild weather, and robbers. Year after year they cared for their sheep, and the soft sound of bleating lulled me into a calm and peaceful rest, and so I slept.
 
 ---
+
 [Narrator page]
 
 > **Micah 4:8 (ESV)**
