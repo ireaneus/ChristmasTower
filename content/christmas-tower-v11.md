@@ -608,45 +608,13 @@ The Master Stonemason is still building. Everyone who trusts in Jesus becomes a 
 >
 > *You yourselves like living stones are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.*
 
-> **Isaiah 43:1 (ESV)**
->
-> *But now thus says the LORD, he who created you, O Jacob, he who formed you, O Israel: \"Fear not, for I have redeemed you; I have called you by name, you are mine.\"*
-
 ---
 
 ## For the Adults
 
-This is a book about names, and every one of them points to Jesus.
+**This is a book about names, and every one of them points to Jesus.** Rachel's Ben-oni, \"son of my sorrow,\" became Benjamin, \"son of my right hand\": the Man of Sorrows now seated at the Father's right hand. Ruth the outsider was redeemed and written into the King's family line. The shepherd boy left out in the field was anointed king. The temple lambs pointed to \"Christ, our Passover lamb,\" and when He said, \"It is finished,\" no more lambs were needed. The tower calls Him the Master Stonemason until the manger, where it knows its Builder. The Baby in the manger is God Himself.
 
-With her dying breath, Rachel named her son Ben-oni, \"son of my sorrow,\" and Jacob renamed him Benjamin, \"son of my right hand.\" Hold those two names together and you have Christ: the Man of Sorrows who carried our griefs, and the risen Son now seated at the Father's right hand.
-
-Ruth came out of Moab with nothing and was redeemed by Boaz, her kinsman-redeemer, a relative near enough and willing enough to pay a debt he did not owe. She was given a new family name, and God wrote a foreigner into the family line of the King. That is grace.
-
-Samuel poured oil over the head of the youngest son, the one his own father left out in the field. That boy went back to the sheep and waited years for a throne. The greater Son of David would come from those same fields.
-
-The Levites took their name from Levi, which sounds like the Hebrew for \"attached,\" and the best of the lambs were kept for Passover, the feast named for the night God passed over every house marked by a lamb's blood. Paul gives Jesus that name outright: \"Christ, our Passover lamb, has been sacrificed.\" When Jesus said, \"It is finished,\" the earth shook and the temple curtain tore from top to bottom. No more lambs were needed, and the tower's long work was finished too.
-
-A man with leprosy, kept at a distance for years, was touched and made clean.
-
-And an old tower that had done nothing to deserve it was given a new name by the God who built it. At the center of the book stands Isaiah 62:2: \"you shall be called by a new name that the mouth of the LORD will give.\" At the end, Revelation 2:17 answers it with a white stone and a new name written on it.
-
-The tower calls Him the Master Stonemason for most of the book, because hands are what a tower can understand. That is deliberate. It holds back the full weight of who He is until the manger, where the tower knows its Builder by a newborn's eyes and hands, and then the road, where a crowd gives Him His name: Jesus, who saves His people from their sins. He is the Lamb, the good shepherd, and the King. The Baby in the manger is God Himself.
-
----
-
-**Could this be the place?**
-
-The heart of this story comes straight from the Bible. Luke tells us that Jesus was born in Bethlehem, wrapped in swaddling cloths, and laid in a manger, and that shepherds in the nearby fields were told to look for exactly that sign (Luke 2:7-12). That is the Word of God, and the whole book rests on it.
-
-The tower is real too. Genesis 35:21 says Jacob camped \"beyond the tower of Eder\" after burying Rachel on the way to Bethlehem. Micah 4:8 speaks to it by name: \"And you, O tower of the flock... to you shall it come.\" In Hebrew, tower of the flock is Migdal Eder.
-
-Jewish tradition fills in more of the picture. The Mishnah, a collection of Jewish teaching written down around AD 200, says that animals found between Jerusalem and Migdal Eder were treated as set apart for temple sacrifice (Shekalim 7:4). The flocks grazing near Bethlehem, only a few miles from Jerusalem, were raised for the temple. An ancient Aramaic paraphrase of Genesis, the Targum Pseudo-Jonathan, goes further and calls Migdal Eder the place where the King Messiah would be revealed at the end of days. In 1883 Alfred Edersheim, a Jewish-born Christian scholar, drew these threads together and concluded that the shepherds of Luke 2 were most likely the men who watched those temple flocks.
-
-The picture of lambs wrapped in cloths and kept in the tower's manger comes from later tradition, so we hold that detail loosely. But look at what we do know. God named Bethlehem seven hundred years ahead of time (Micah 5:2). He moved an emperor to order a census so that a carpenter would walk his family to the right town at the right time (Luke 2:1-5). He gave the shepherds a sign they would recognize. Every step of this story was planned. For a God who rules over all of it, laying the true Passover Lamb in the very manger where Passover lambs were kept is well within His power, and it fits everything else He did that night.
-
-That is why we tell it this way. The tower's voice is imagined. The places, the people, and the promises are real, and the Lamb in the manger is the Son of God.
-
----
+**Could this be the place?** Luke says Jesus was laid in a manger in Bethlehem, the sign the shepherds were told to look for (Luke 2:7-12). Genesis 35:21 and Micah 4:8 name the tower of the flock, Migdal Eder, near Bethlehem. The Mishnah says animals found between Jerusalem and Migdal Eder were set apart for temple sacrifice (Shekalim 7:4). The God who named Bethlehem seven hundred years ahead (Micah 5:2) could surely lay the true Passover Lamb where Passover lambs were kept. The tower's voice is imagined. The places, the people, and the promises are real.
 
 **If you are reading this aloud,** the book has two voices. The tower tells the story. A second voice reads the Scripture and talks directly to your children. Children can read the speaking parts too.
 

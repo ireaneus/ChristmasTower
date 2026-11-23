@@ -55,9 +55,7 @@ House rules, enforced by `npm run check`: page 1 of each section has art, except
 | `ch11-3` | Chapter 11, page 3 of 4 | I learned the rest from the people who came… |  |
 | `ch11-4` | Chapter 11, page 4 of 4 | Then the ground shook so hard that rocks split… | `ch11-4.webp` |
 | `epilogue` | Epilogue, page 1 of 1 | Revelation 2:17 (ESV) “To the one who conquers I… | `epilogue.webp` |
-| `for-the-adults` | For the Adults, page 1 of 6 | This is a book about names, and every one… | `for-the-adults.webp` |
-| `for-the-adults-2` | For the Adults, page 2 of 6 | Could this be the place? The heart of this… |  |
-| `for-the-adults-3` | For the Adults, page 3 of 6 | If you are reading this aloud, the book has… |  |
-| `for-the-adults-4` | For the Adults, page 4 of 6 | Genesis 1:27 (ESV) So God created man in his… |  |
-| `for-the-adults-5` | For the Adults, page 5 of 6 | Romans 3:23 (ESV) For all have sinned and fall… |  |
-| `for-the-adults-6` | For the Adults, page 6 of 6 | Romans 5:8 (ESV) But God shows his love for… |  |
+| `for-the-adults` | For the Adults, page 1 of 4 | This is a book about names, and every one… | `for-the-adults.webp` |
+| `for-the-adults-2` | For the Adults, page 2 of 4 | Genesis 1:27 (ESV) So God created man in his… |  |
+| `for-the-adults-3` | For the Adults, page 3 of 4 | Romans 3:23 (ESV) For all have sinned and fall… |  |
+| `for-the-adults-4` | For the Adults, page 4 of 4 | Romans 5:8 (ESV) But God shows his love for… |  |
