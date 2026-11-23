@@ -110,9 +110,8 @@ With her last breath, Rachel named the baby Ben-oni, which means son of my sorro
 
 Israel buried Rachel beside the road to Bethlehem and set up a stone pillar over her grave so that no one would forget her. All I could do was keep watch.
 
-I did not understand yet why the Master Stonemason had set me on this hill, or what He wanted with an old tower made of rock.
-
 ---
+
 [Narrator page]
 
 > **Genesis 35:18-20 (ESV)**
@@ -618,8 +617,6 @@ The Master Stonemason is still building. Everyone who trusts in Jesus becomes a 
 > **Isaiah 43:1 (ESV)**
 >
 > *But now thus says the LORD, he who created you, O Jacob, he who formed you, O Israel: \"Fear not, for I have redeemed you; I have called you by name, you are mine.\"*
-
-Turn the page, and I will show your grown-ups how to help you find your name in His book.
 
 ---
 
