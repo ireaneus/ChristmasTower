@@ -29,7 +29,7 @@ Success means a grandparent can open the site on a tablet, tap "Read together to
 
 ```text
 content/
-  christmas-tower-v11.md      # copied from ~/Public/christmastower-projectfiles (Dave supplies the current file)
+  christmas-tower-v115.md     # copied from ~/Public/christmastower-projectfiles (v11.5; Dave supplies the current file)
   art.json                    # art manifest (see Step 5)
   asides.json                 # second-voice overrides (see Step 4)
 assets/
@@ -240,7 +240,7 @@ Then preview locally (`npx serve _site` or `python3 -m http.server -d _site`) an
 
 - [ ] `original-site` tag pushed
 - [ ] `MIGRATION_NOTES.md` with old paths and redirects
-- [ ] Site builds from `content/christmas-tower-v11.md` with one command
+- [ ] Site builds from `content/christmas-tower-v115.md` with one command
 - [ ] `ASIDES_REVIEW.md` and `MANUSCRIPT_FLAGS.md` for Dave
 - [ ] `npm run check` passes
 - [ ] Workflow deployed and live
