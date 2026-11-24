@@ -399,9 +399,9 @@ Before the shepherds could stand, the whole sky filled with angels, more than an
 
 The praise of heaven poured down on those fields until my old stones rang with it.
 
-Then the angels were gone, as suddenly as they came. The night closed in, and everything was still. It was only a moment of silence, but it was long moment of awe, and wonder.
+Then the angels were gone, as suddenly as they came. The night closed in, and everything was still. It was only a moment of silence, but it was a long moment of awe, and wonder.
 
-The biggest news in history was given to shepherds instead of kings. The overlooked were told first. That night, heaven came down into their field and told them before anyone else. I was starting to learn how the Master Stonemason works, He goes first to the ones nobody sends for.
+The biggest news in history was given to shepherds instead of kings. The overlooked were told first. That night, heaven came down into their field and told them before anyone else. I was starting to learn how the Master Stonemason works. He goes first to the ones nobody sends for.
 
 *Does this remind you of another shepherd? Who was out in these same fields when the Master Stonemason came looking for him?*
 
