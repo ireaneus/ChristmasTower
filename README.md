@@ -30,10 +30,10 @@ Open <http://localhost:8080/> in a browser. After you change a file, stop the se
 
 ## How the site works
 
-The whole website is generated from one file: the manuscript, `content/christmas-tower-v11.md`. You never edit web pages by hand. You edit the manuscript, the templates, or the settings files, then a build script produces the finished pages.
+The whole website is generated from one file: the manuscript, `content/christmas-tower-v115.md`. You never edit web pages by hand. You edit the manuscript, the templates, or the settings files, then a build script produces the finished pages.
 
 ```text
-content/christmas-tower-v11.md ─┐
+content/christmas-tower-v115.md ─┐
 content/art.json               ─┤
 content/titles.json            ─┤
 content/asides.json            ─┼─►  src/build.mjs  ─►  _site/  ─►  GitHub Pages
@@ -85,7 +85,7 @@ The live site sits under `/ChristmasTower/`, so Chapter 8 is at `https://ireaneu
 
 ```text
 content/
-  christmas-tower-v11.md   the manuscript (the source of all story text)
+  christmas-tower-v115.md   the manuscript (the source of all story text)
   art.json                 which illustration goes on which page
   titles.json              short section titles for the website
   asides.json              overrides for italic paragraphs (card or Tower voice)
@@ -133,7 +133,7 @@ Each of these follows the same loop: **edit the file, run `npm run preview`, rel
 
 ### 1. Change the story text
 
-Edit `content/christmas-tower-v11.md`. Everything on the reading pages comes from it. Short chapter titles for the site live in `content/titles.json`.
+Edit `content/christmas-tower-v115.md`. Everything on the reading pages comes from it. Short chapter titles for the site live in `content/titles.json`.
 
 ### 1a. Change where a page turns
 

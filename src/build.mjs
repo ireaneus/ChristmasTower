@@ -1,4 +1,4 @@
-// Builds the static site in _site/ from content/christmas-tower-v11.md.
+// Builds the static site in _site/ from the manuscript named in MANUSCRIPT.
 // Run with `npm run build`. SITE_BASE overrides the path prefix (default /ChristmasTower/).
 import fs from 'node:fs';
 import path from 'node:path';
@@ -19,6 +19,9 @@ const ESV_NOTICE = 'Scripture quotations are from the ESV® Bible (The Holy Bibl
 const read = (p) => fs.readFileSync(path.join(ROOT, p), 'utf8');
 const readJson = (p) => JSON.parse(read(p));
 
+// The manuscript, Dave's text and the single source of truth for every reading page.
+export const MANUSCRIPT = 'content/christmas-tower-v115.md';
+
 // Site-only structure. Page breaks come from the manuscript's --- lines.
 const TITLES = readJson('content/titles.json');
 
@@ -26,7 +29,7 @@ const TITLES = readJson('content/titles.json');
 
 // Display cleanup only: escaped quotes become plain quotes so markdown-it can curl them.
 export function loadManuscript() {
-  let src = read('content/christmas-tower-v11.md').replace(/\r\n/g, '\n');
+  let src = read(MANUSCRIPT).replace(/\r\n/g, '\n');
   const vh = src.search(/^## Version History\s*$/m);
   if (vh !== -1) src = src.slice(0, vh);
   src = src.replace(/^.*Working manuscript.*$/m, '');
@@ -42,6 +45,15 @@ export function splitSections(src) {
     const nl = part.indexOf('\n');
     return { heading: part.slice(0, nl).trim(), md: part.slice(nl + 1) };
   });
+  // A narrator table labeled for the next chapter ("Narrator voice · Chapter 3") that sits at the
+  // end of the section before it opens that chapter instead.
+  for (let i = 0; i < sections.length - 1; i++) {
+    const m = sections[i].md.match(/\n(\| \*\*Narrator voice · (Chapter \d+)\*\* \|\n(?:\|.*\|[ \t]*\n?)+)\s*$/);
+    if (m && sections[i + 1].heading.startsWith(m[2] + ':')) {
+      sections[i].md = sections[i].md.slice(0, m.index) + '\n';
+      sections[i + 1].md = '\n' + m[1].trimEnd() + '\n' + sections[i + 1].md;
+    }
+  }
   return { front, sections };
 }
 
@@ -60,11 +72,11 @@ export function classify(sections) {
       const n = Number(m[1]);
       const nn = String(n).padStart(2, '0');
       let body = md;
-      const ill = md.match(/^#{3,4} \*Full-Page Illustration: (.+?)\*\s*\n+([\s\S]*)$/m);
+      // The full-page illustration table becomes the interlude page after this chapter.
+      const ill = md.match(/^\| \*\*Full-page illustration\*\* \|\n\|[-: |]+\|\n\| \*\*(.+?)\*\* \|\n\| (.+?) \|[ \t]*$/im);
       if (ill) {
-        body = md.slice(0, ill.index);
-        const desc = ill[2].trim().split(/\n\s*\n/)[0].trim();
-        interlude = { title: ill[1].trim(), description: desc.replace(/^\*|\*$/g, ''), afterChapter: n };
+        body = md.slice(0, ill.index) + md.slice(ill.index + ill[0].length);
+        interlude = { title: ill[1].trim(), description: ill[2].trim().replace(/^\*|\*$/g, ''), afterChapter: n };
       }
       pages.push({ key: 'ch' + nn, slug: nn, chip: String(n), num: n, label: `Chapter ${n}`, continueLabel: `Chapter ${n}`, title: m[2], md: body, evening: n <= 7 ? 1 : 2 });
     } else if ((m = heading.match(/^Epilogue: (.+)$/))) {
@@ -98,10 +110,14 @@ export function tokens(text) {
 // A line reading [Narrator page] marks a page the narrator reads. It shows as a banner, never as story words.
 export const NARRATOR_MARK = /^\s*\[Narrator page\]\s*$/i;
 
+// A table's header row names the voice ("Narrator voice", "Tower voice") and never shows as story words.
+const TABLE_RULE = /^\s*\|[-: |]+\|\s*$/;
+
 export function manuscriptTokens(md) {
-  const text = md
-    .split('\n')
-    .filter((l) => !/^\s*---\s*$/.test(l) && !NARRATOR_MARK.test(l))
+  const lines = md.split('\n');
+  const text = lines
+    .filter((l, i) => !/^\s*---\s*$/.test(l) && !NARRATOR_MARK.test(l) && !TABLE_RULE.test(l) && !TABLE_RULE.test(lines[i + 1] || ''))
+    .map((l) => l.replace(/^\s*\|\s?(.*?)\s*\|\s*$/, '$1'))
     .map((l) => l.replace(/^\s*>\s?/, '').replace(/^\s*[-*]\s+(?=\S)/, '').replace(/^#+\s+/, ''))
     .join('\n')
     .replace(/\\/g, '')
@@ -172,7 +188,7 @@ const ASIDES = loadAsides();
 // one of these words gets the part's name shown above it. Every key must appear in the manuscript.
 function loadParts() {
   const raw = readJson('content/parts.json');
-  const src = read('content/christmas-tower-v11.md').replace(/\\"/g, '"');
+  const src = read(MANUSCRIPT).replace(/\\"/g, '"');
   const missing = Object.keys(raw).filter((k) => !src.includes(`"${k}`));
   if (missing.length) throw new Error(`content/parts.json has lines that match no quote in the manuscript: ${missing.join(', ')}`);
   return Object.entries(raw);
@@ -197,11 +213,7 @@ export function renderPages(source, pageLabel, log) {
         // In the story a bold-only line is a large payoff; For the Adults keeps plain bold text.
         out.push({ kind: 'payoff', html: `<p class="payoff">${unwrap(inline)}</p>` });
       } else if (wrappedBy(inline, 'em')) {
-        const text = plainText(inline).replace(/[“”]/g, '"').replace(/[‘’]/g, "'");
-        const override = ASIDES.find(([k]) => text.startsWith(k));
-        const byDefault = /\?["']?$/.test(text.trim()) ? 'aside' : 'tower';
-        const kind = override ? override[1] : byDefault;
-        log.italics.push({ page: pageLabel, text, kind, source: override ? 'asides.json' : 'default rule' });
+        const { text, kind } = italicKind(inline, 'tower', pageLabel, log);
         out.push(kind === 'aside'
           ? { kind: 'aside', html: talkCard(`<p>${unwrap(inline)}</p>`) }
           : { kind: 'tower-em', html: `<p class="tower-em">${renderInline(inline.children)}</p>` });
@@ -235,6 +247,13 @@ export function renderPages(source, pageLabel, log) {
       } else {
         out.push({ kind: 'p', html: md.renderer.render(b, md.options, {}) });
       }
+    } else if (t === 'table_open') {
+      // A one-column table is a voice box. Its header names the voice; each body row is one line.
+      const [head, ...rows] = b.filter((x) => x.type === 'inline');
+      const voice = plainText(head).trim();
+      if (/^Narrator voice\b/i.test(voice)) out.push(...narratorRows(rows, pageLabel, log));
+      else if (/^Tower voice$/i.test(voice)) for (const r of rows) out.push({ kind: 'p', html: `<p>${renderInline(r.children)}</p>` });
+      else throw new Error(`${pageLabel}: unrecognized table "${voice}"`);
     } else if (t === 'heading_open' && b[0].tag === 'h3') {
       // ### inside a section is a subheading; the page keeps its single <h1>.
       out.push({ kind: 'subhead', html: `<h2 class="subhead">${renderInline(b[1].children)}</h2>` });
@@ -261,6 +280,49 @@ export function renderSection(p, log) {
 // Renders a section with no page breaks (Dedication, Personal Note).
 export function renderBody(source, pageLabel, log) {
   return renderPages(source, pageLabel, log).join('\n');
+}
+
+// Decides how an italic line renders: an asides.json override, else a question is a "Talk about it" aside.
+function italicKind(inline, fallback, pageLabel, log) {
+  const text = plainText(inline).replace(/[“”]/g, '"').replace(/[‘’]/g, "'");
+  const override = ASIDES.find(([k]) => text.startsWith(k));
+  const kind = override ? override[1] : /\?["']?$/.test(text.trim()) ? 'aside' : fallback;
+  log.italics.push({ page: pageLabel, text, kind, source: override ? 'asides.json' : 'default rule' });
+  return { text, kind };
+}
+
+// Rows of a Narrator voice table: a bold "Book 1:2 (ESV)" row and the verse row after it make a
+// Scripture card; runs of aside rows share one "Talk about it" card; other lines are italic narration.
+function narratorRows(rows, pageLabel, log) {
+  const out = [];
+  let talk = [];
+  const flush = () => {
+    if (talk.length === 1) out.push({ kind: 'aside', html: talkCard(`<p>${talk[0]}</p>`) });
+    else if (talk.length) out.push({ kind: 'aside', html: talkCard(`<ul>${talk.map((t) => `<li>${t}</li>`).join('')}</ul>`) });
+    talk = [];
+  };
+  for (let i = 0; i < rows.length; i++) {
+    const r = rows[i];
+    const text = plainText(r).trim();
+    if (wrappedBy(r, 'strong') && /\(ESV\)$/.test(text)) {
+      const verse = rows[++i];
+      if (!verse) throw new Error(`${pageLabel}: ${text} has no verse row after it`);
+      flush();
+      out.push({ kind: 'scripture', html: `<blockquote class="scripture"><p class="scripture-ref"><span class="chrome">Narrator voice · </span>${esc(text)}</p><div class="verse"><p>${renderInline(verse.children)}</p></div></blockquote>` });
+    } else if (wrappedBy(r, 'em')) {
+      const { kind } = italicKind(r, 'narrator', pageLabel, log);
+      if (kind === 'aside') talk.push(unwrap(r));
+      else {
+        flush();
+        out.push({ kind: 'narrator', html: `<p class="narrator-em">${renderInline(r.children)}</p>` });
+      }
+    } else {
+      flush();
+      out.push({ kind: 'p', html: `<p>${renderInline(r.children)}</p>` });
+    }
+  }
+  flush();
+  return out;
 }
 
 function talkCard(inner) {
@@ -557,7 +619,7 @@ function writeArtPages(sheets) {
     '',
     'Page 1 of every chapter has an art slot, which shows a placeholder until its file exists. The Prologue opens with text, so its first picture is on page 2. Any other page shows art only when it has an entry. The art sits at the top of the page, under the heading. The home page hero uses the key `home-hero`.',
     '',
-    'House rules, enforced by `npm run check`: page 1 of each section has art, except the Prologue. A section may have one more picture on any later page, and the Prologue has its two on later pages. Each file is named after its key, for example `ch08.webp` and `ch08-3.webp`. Prologue files are named by page, for example `prologue-04.webp` for the key `prologue-4`.',
+    'House rules, enforced by `npm run check`: page 1 of each section has art, except the Prologue. A section may have one more picture on any later page, and the Prologue has its two on later pages. Each file is named after its key, for example `ch08.webp` and `ch08-3.webp`. Prologue files are named by page, for example `prologue-03.webp` for the key `prologue-3`.',
     '',
     '| Key | Page | Starts with | Art |',
     '| --- | --- | --- | --- |',
@@ -579,6 +641,7 @@ function writeAsidesReview(log) {
     '',
     '- **aside** renders as a "Talk about it" card (second voice).',
     '- **tower** renders as italic text in the Tower\'s voice.',
+    '- **narrator** renders as italic narration (a line inside a Narrator voice box).',
     '',
     'To change one, add or edit its opening words in `content/asides.json`, for example `{"Same little boy": "tower"}`, then rebuild.',
     'Rows marked `asides.json` are already overridden there. Delete the key to fall back to the default rule (ends with `?` means aside).',

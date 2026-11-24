@@ -3,7 +3,7 @@
   "version": "11.0.0",
   "private": true,
   "type": "module",
-  "description": "Read-aloud website for The Christmas Tower, built from the v11 manuscript.",
+  "description": "Read-aloud website for The Christmas Tower, built from the v11.5 manuscript.",
   "scripts": {
     "build": "node src/build.mjs",
     "check": "node src/check.mjs",

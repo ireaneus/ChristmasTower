@@ -442,7 +442,7 @@ img, svg { max-width: 100%; }
 
 .story { display: flex; flex-direction: column; gap: 24px; }
 .story p { margin: 0; }
-.story .tower-em { font-style: italic; }
+.story .tower-em, .story .narrator-em { font-style: italic; }
 
 /* Banner at the top of a page the narrator reads. */
 .narrator-mark {

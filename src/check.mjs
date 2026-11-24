@@ -2,7 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { loadManuscript, splitSections, classify, manuscriptTokens, tokens, renderSection, NO_OPENING_ART } from './build.mjs';
+import { MANUSCRIPT, loadManuscript, splitSections, classify, manuscriptTokens, tokens, renderSection, NO_OPENING_ART } from './build.mjs';
 import { contrastFailures } from './contrast.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -41,11 +41,11 @@ const reading = pages;
 const pageCount = (p) => (p.isInterlude ? 1 : renderSection(p, noLog).length);
 const sheetSlugs = (p) => Array.from({ length: pageCount(p) }, (_, k) => (k === 0 ? p.slug : `${p.slug}/${k + 1}`));
 
-console.log('Checking _site/ against content/christmas-tower-v11.md');
+console.log(`Checking _site/ against ${MANUSCRIPT}`);
 
 // 1. Scripture cards equal (ESV) reference lines, excluding Version History.
 {
-  const raw = fs.readFileSync(path.join(ROOT, 'content/christmas-tower-v11.md'), 'utf8');
+  const raw = fs.readFileSync(path.join(ROOT, MANUSCRIPT), 'utf8');
   const beforeHistory = raw.split(/^## Version History\s*$/m)[0];
   const refs = beforeHistory.split('\n').filter((l) => /\(ESV\)/.test(l)).length;
   const cards = Object.values(html).reduce((n, h) => n + (h.match(/<blockquote class="scripture">/g) || []).length, 0);
@@ -167,7 +167,7 @@ console.log('Checking _site/ against content/christmas-tower-v11.md');
   broken.length ? fail(`Broken internal links:\n      ${broken.join('\n      ')}`) : pass(`${count} internal links resolve`);
 }
 
-// 6. Art rules: page 1 of each section has a picture (the Prologue opens with text and its first picture follows later), and at most two per section. A 4+ page section with only one picture is noted, since Dave can choose that. Each file is named after its key, except the Prologue's, which are named by page (prologue-04.webp).
+// 6. Art rules: page 1 of each section has a picture (the Prologue opens with text and its first picture follows later), and at most two per section. A 4+ page section with only one picture is noted, since Dave can choose that. Each file is named after its key, except the Prologue's, which are named by page (prologue-03.webp).
 {
   const problems = [];
   for (const p of reading.filter((q) => !q.isInterlude)) {
@@ -182,7 +182,7 @@ console.log('Checking _site/ against content/christmas-tower-v11.md');
     return m ? `prologue-${m[1].padStart(2, '0')}.webp` : `${k}.webp`;
   };
   for (const file of new Set(Object.values(art).map((e) => e.file))) {
-    if (!Object.entries(art).some(([k, e]) => e.file === file && file === fileForKey(k))) problems.push(`assets/art/${file}: name it after its page key, like ch08.webp (Prologue: prologue-04.webp)`);
+    if (!Object.entries(art).some(([k, e]) => e.file === file && file === fileForKey(k))) problems.push(`assets/art/${file}: name it after its page key, like ch08.webp (Prologue: prologue-03.webp)`);
   }
   problems.length ? fail(`Art:\n      ${problems.join('\n      ')}`) : pass('Every section opens with a picture (the Prologue on page 2), has at most two, and art files are named by page');
 }
