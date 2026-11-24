@@ -27,13 +27,14 @@ To my beloved wife — she has always loved me the mostestes.
 | *"And you, O tower of the flock, hill of the daughter of Zion, to you shall it come, the former dominion shall come, kingship for the daughter of Jerusalem."* |
 | **Proverbs 18:10 (ESV)** |
 | *"The name of the LORD is a strong tower; the righteous man runs into it and is safe."* |
-| *Micah was talking about Migdal Eder the Bible actually records this very special tower. This same tower pictures God, in that we can run to Him and He will provide us safety.* |
 
 Hello, my name is Migdal Eder, which means Tower of the Flock in Hebrew. If you went looking for me today, on the hills south of Jerusalem near the town of Bethlehem, all you would find is rocks scattered across the ground. The tower I once was is gone.
 
-But I was real, and this story is true. Jesus is real, you know because the Bible tells you about Him, and you can feel that He is near. In a small way, it is the same with me. You can't see my walls anymore, but the Bible still calls me by name, and it tells of the Child born in Bethlehem and the shepherds who hurried to find Him.
+But I am real, and this story is true. Jesus is real too. You can't see Him, but the Bible tells you about Him, and He is near whether you feel Him or not. In a small way, it is the same with me. You can't see my walls anymore, but the Bible still calls me by name, and it tells of the Child born in Bethlehem and the shepherds who hurried to find Him.
 
 I watched it all happen from my hill. So come and read along with me, and I will tell you how an old tower came to be known as "The Christmas Tower".
+
+*Micah was talking about Migdal Eder the Bible actually records this very special tower. This same tower pictures God, in that we can run to Him and He will provide us safety.*
 
 ---
 
@@ -69,12 +70,9 @@ On cool nights the shepherds would sit around their fires at the foot of my hill
 | *And God said to Abraham, "As for Sarai your wife, you shall not call her name Sarai, but Sarah shall be her name."* |
 | **Genesis 32:28 (ESV)** |
 | *Then he said, "Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed."* |
-| *Abram means exalted father, and Abraham means father of a multitude.* |
-| *Sarai and Sarah both mean princess.* |
-| *Jacob means he takes by the heel, and Israel means he strives with God.* |
 | *Abram, Sarai, and Jacob all got new names from the Master Stonemason. Why do you think He gives people new names?* |
 
-The family began with a man named Abram. The Master Stonemason promised Abram that his family would grow until there were more of them than stars in the sky. That was a hard promise to believe, because Abram and his wife Sarai were very old and had no children at all. Then the Master Stonemason did something surprising. He gave them both new names. Abram became Abraham, and Sarai became Sarah. Just as He had promised, they had a baby boy in their old age, and they named him Isaac.
+The family began with a man named Abram. The Master Stonemason promised Abram that his family would grow until there were more of them than stars in the sky. That was a hard promise to believe, because Abram and his wife Sarai were very old and had no children at all. Then the Master Stonemason gave them both new names. Abram became Abraham, and Sarai became Sarah. Just as He had promised, they had a baby boy in their old age, and they named him Isaac.
 
 When Isaac grew up, he had twin sons, and one of them was named Jacob. Jacob tricked his brother and had to run far from home, but the Master Stonemason never let go of him. One night Jacob wrestled with a man sent from the Master Stonemason, and they wrestled all night long. When morning came, the man gave Jacob a new name too. Jacob became Israel.
 
@@ -174,7 +172,7 @@ I learned that in Israel, when a man died, a close relative could step in as his
 | *He will tend his flock like a shepherd; he will gather the lambs in his arms; he will carry them in his bosom, and gently lead those that are with young.* |
 | *Micah wrote those words hundreds of years after David. Who do you think the ruler from Bethlehem would be? Did you spot yet another name change?* |
 
-The fields were soft and still that morning, and the sun came up warm over Bethlehem. Shepherds moved through the grass the way shepherds always had, counting, calling, and keeping the flock together.
+The fields were soft and still that morning, and the sun came up warm over Bethlehem. Shepherds moved through the grass counting, calling, and keeping the flock together.
 
 One of the shepherds was just a boy. His name was David, and he was the youngest of the eight sons of a man named Jesse. David's great-grandmother was Ruth, the young woman from Moab who had once gathered grain in these same fields.
 
@@ -218,7 +216,7 @@ Then David went back to his sheep, with oil in his hair and a promise in his hea
 
 The years rolled on like clouds over the hills. The shepherd boy David became king, and his son Solomon built the great Temple in Jerusalem, where the people came to worship the Master Stonemason.
 
-Then a new kind of shepherd came to my fields. They were Levite shepherds, men from the family of Levi, set apart by the Master Stonemason to serve Him. Their flocks were raised for that Temple.
+Then a new kind of shepherd came to my fields. They were Levite shepherds, men from the family of Levi, one of the sons of Jacob (Israel), set apart by the Master Stonemason to serve Him. Their flocks were raised for that Temple.
 
 I had watched many shepherds by then, but these were different. They handled every lamb the way a father holds his newborn child.
 
@@ -231,7 +229,7 @@ Every new lamb was looked over with great care. The shepherds ran their hands al
 | **Exodus 12:3, 5 (ESV)** |
 | *Tell all the congregation of Israel that on the tenth day of this month every man shall take a lamb according to their fathers' houses, a lamb for a household. Your lamb shall be without blemish, a male a year old.* |
 
-The very best were saved for Passover. Every spring the people remembered the night long ago when the Master Stonemason brought their families out of Egypt. Each family had marked its door with the blood of a lamb, and the Master Stonemason passed over every house where He saw the blood.
+The very best lambs were saved for Passover, a feast held every spring. It remembered the night long ago when the Master Stonemason brought His people out of Egypt. That night, each family marked its door with the blood of a lamb, and the Master Stonemason passed over every house where He saw the blood.
 
 | **Narrator voice** |
 | --- |
@@ -278,7 +276,7 @@ He turned back to the road, reached up, and took her hand, and they went on towa
 | *Then a voice called out in the dark. It was the prophet Micah, repeating the words he had spoken over the Tower long ago.* |
 | **Micah 4:8 (ESV)** |
 | *And you, O tower of the flock, hill of the daughter of Zion, to you shall it come, the former dominion shall come, kingship for the daughter of Jerusalem.* |
-| *The Tower woke, and turned its face toward the road.* |
+| *The Tower woke, and turned its watch towards the road.* |
 | *Something has come.* |
 
 ---
@@ -392,7 +390,7 @@ Then the oldest shepherd turned and looked up the hill, right at me. "Could it b
 
 There was one manger where spotless lambs were wrapped in cloth and kept until the day they were needed. It was inside me, and it had a baby in it now.
 
-Before the shepherds could stand, the whole sky filled with angels, more than anyone could count. They all sang out together, "Glory to God in the highest!"
+Before the shepherds could stand, the whole sky filled with angels, more than anyone could count. They all sang out together:
 
 | **Narrator voice** |
 | --- |
@@ -401,9 +399,11 @@ Before the shepherds could stand, the whole sky filled with angels, more than an
 
 The praise of heaven poured down on those fields until my old stones rang with it.
 
-Then the angels were gone, as suddenly as they had come. The night closed in, and everything was still. It was only a moment of silence, but it was long moment of awe, and wonder.
+Then the angels were gone, as suddenly as they came. The night closed in, and everything was still. It was only a moment of silence, but it was long moment of awe, and wonder.
 
-The biggest news in history was given to shepherds instead of kings. The overlooked were told first, just like David. That night, heaven came down into their field and told them before anyone else. I was starting to learn how the Master Stonemason works, He goes first to the ones nobody sends for.
+The biggest news in history was given to shepherds instead of kings. The overlooked were told first. That night, heaven came down into their field and told them before anyone else. I was starting to learn how the Master Stonemason works, He goes first to the ones nobody sends for.
+
+*Does this remind you of another shepherd? Who was out in these same fields when the Master Stonemason came looking for him?*
 
 ---
 
@@ -415,11 +415,11 @@ Then the shepherds scampered to their feet, and the fear went out of all of them
 
 They came across the fields toward me at a run, and then, close in, they slowed. My old stones were catching the moonlight, and the ground I had stood on for a thousand years was not the ground they had walked out on that evening. They stopped at my doorway and took off their sandals. Slowly, carefully, they came into me that night the way a man comes into a holy place.
 
----
-
 They stepped in and found Him wrapped in swaddling cloths, lying in the manger, exactly as the angel had told them. These strong men who wrestle lambs went down on their knees in my straw and wept.
 
 I knew what they were seeing. The same stone manger, the same swaddling cloths that had kept so many spotless lambs. But this time a baby lay in them, and I did not yet know why.
+
+---
 
 Then one of the shepherds began to speak, and the words were older than any of us, older than my foundation, spoken by a prophet who never saw this night, but saw it anyway.
 
@@ -439,6 +439,11 @@ The fields were quiet again, and the child slept inside me. I stood in the dark 
 
 ## Chapter 10: The Good Shepherd
 
+| **Narrator voice** |
+| --- |
+| **Matthew 8:1-3 (ESV)** |
+| *When he came down from the mountain, great crowds followed him. And behold, a leper came to him and knelt before him, saying, "Lord, if you will, you can make me clean." And Jesus stretched out his hand and touched him, saying, "I will; be clean." And immediately his leprosy was cleansed.* |
+
 Many years went by after that night. I grew older and more worn. Cracks ran through my walls where the weather had gotten in, and a few of my stones had worked loose and slid down into the grass. Still I stood, keeping company with the shepherds and their sheep.
 
 One day a man came walking up my road, and He was not alone. Twelve men walked close beside Him, and behind them came a crowd, hurrying to stay near enough to hear Him.
@@ -453,17 +458,11 @@ A sick man sat by himself at the edge of the road. He had leprosy, a sickness of
 
 "Please, help me!" he called out.
 
+---
+
 Everyone else stepped back.
 
 The Master Stonemason walked straight over to him. He reached out His hand and touched him, and the sickness left the man, and he was made brand new.
-
----
-
-| **Narrator voice** |
-| --- |
-| **Matthew 8:1-3 (ESV)** |
-| *When he came down from the mountain, great crowds followed him. And behold, a leper came to him and knelt before him, saying, "Lord, if you will, you can make me clean." And Jesus stretched out his hand and touched him, saying, "I will; be clean." And immediately his leprosy was cleansed.* |
-
 "He touched him!" a woman said.
 
 "Look at his skin! Look at his face!" said a man.
@@ -480,6 +479,8 @@ I knew that name. An angel had given it to Him before He was born.
 | *"She will bear a son, and you shall call his name Jesus, for he will save his people from their sins."* |
 
 He will save His people. That day I watched it begin, right there on my road, for a man nobody else would touch.
+
+---
 
 Then Jesus turned and looked up at me. He looked at my old broken stones for a long while, the way you look at something you made with your own hands. Then He looked out at the sheep in the grass and the shepherds standing among them, and He began to teach the people.
 
@@ -532,7 +533,7 @@ Then the ground shook so hard that rocks split open. I felt it in my foundation.
 | **Matthew 27:51 (ESV)** |
 | *And behold, the curtain of the temple was torn in two, from top to bottom. And the earth shook, and the rocks were split.* |
 
-And now I fully understood why the Master Stonemason built me here. For a thousand years I had held spotless lambs in my manger, one after another, and every one of them had been pointing to Him. Now the true Passover Lamb, the one born in my manger, had given His life, once and for all, for everyone who puts their trust and faith in Him. No lamb would ever need to wait in my manger again.
+At that moment, I knew why the Master Stonemason built me here. For a thousand years I had held spotless lambs in my manger, one after another, and every one of them had been pointing to Him. Now the true Passover Lamb, the one born in my manger, had given His life, once and for all, for everyone who puts their trust and faith in Him. No lamb would ever need to wait in my manger again.
 
 | **Narrator voice** |
 | --- |

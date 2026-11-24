@@ -2,7 +2,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { MANUSCRIPT, loadManuscript, splitSections, classify, manuscriptTokens, tokens, renderSection, NO_OPENING_ART } from './build.mjs';
+import { MANUSCRIPT, loadManuscript, splitSections, classify, manuscriptTokens, tokens, renderSection, NO_OPENING_ART, MAX_ART } from './build.mjs';
 import { contrastFailures } from './contrast.mjs';
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -173,7 +173,8 @@ console.log(`Checking _site/ against ${MANUSCRIPT}`);
   for (const p of reading.filter((q) => !q.isInterlude)) {
     const withArt = sheetSlugs(p).map((slug, k) => [k + 1, /<figure class="art(?! art-placeholder)/.test(pageFor(slug) || '')]).filter(([, has]) => has).map(([n]) => n);
     if (NO_OPENING_ART.has(p.key) ? withArt[0] === 1 : withArt[0] !== 1) problems.push(`${p.label}: page 1 ${NO_OPENING_ART.has(p.key) ? 'should be text only' : 'has no picture'}`);
-    if (withArt.length > 2) problems.push(`${p.label}: ${withArt.length} pictures, at most 2 allowed`);
+    const max = MAX_ART[p.key] ?? 2;
+    if (withArt.length > max) problems.push(`${p.label}: ${withArt.length} pictures, at most ${max} allowed`);
     if (withArt.length === 1 && pageCount(p) >= 4) console.log(`  note ${p.label} has ${pageCount(p)} pages and one picture`);
   }
   const art = JSON.parse(fs.readFileSync(path.join(ROOT, 'content/art.json'), 'utf8'));
@@ -184,7 +185,7 @@ console.log(`Checking _site/ against ${MANUSCRIPT}`);
   for (const file of new Set(Object.values(art).map((e) => e.file))) {
     if (!Object.entries(art).some(([k, e]) => e.file === file && file === fileForKey(k))) problems.push(`assets/art/${file}: name it after its page key, like ch08.webp (Prologue: prologue-03.webp)`);
   }
-  problems.length ? fail(`Art:\n      ${problems.join('\n      ')}`) : pass('Every section opens with a picture (the Prologue on page 2), has at most two, and art files are named by page');
+  problems.length ? fail(`Art:\n      ${problems.join('\n      ')}`) : pass('Every section opens with a picture (the Prologue on page 2), has at most two (three in Chapter 11), and art files are named by page');
 }
 
 // Quality extras: one <h1> per page, alt on every image, titles and descriptions, contrast.

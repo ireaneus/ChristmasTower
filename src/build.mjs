@@ -347,6 +347,8 @@ const ART = readJson('content/art.json');
 const usedArt = new Set();
 // Sections whose first page is text only, with no art slot.
 export const NO_OPENING_ART = new Set(['prologue']);
+// Sections allowed more than the usual two pictures (Dave's choice).
+export const MAX_ART = { ch11: 3 };
 
 function artEntry(key) {
   const e = ART[key];
@@ -619,7 +621,7 @@ function writeArtPages(sheets) {
     '',
     'Page 1 of every chapter has an art slot, which shows a placeholder until its file exists. The Prologue opens with text, so its first picture is on page 2. Any other page shows art only when it has an entry. The art sits at the top of the page, under the heading. The home page hero uses the key `home-hero`.',
     '',
-    'House rules, enforced by `npm run check`: page 1 of each section has art, except the Prologue. A section may have one more picture on any later page, and the Prologue has its two on later pages. Each file is named after its key, for example `ch08.webp` and `ch08-3.webp`. Prologue files are named by page, for example `prologue-03.webp` for the key `prologue-3`.',
+    'House rules, enforced by `npm run check`: page 1 of each section has art, except the Prologue. A section may have one more picture on any later page (Chapter 11 has two more), and the Prologue has its two on later pages. Each file is named after its key, for example `ch08.webp` and `ch08-3.webp`. Prologue files are named by page, for example `prologue-03.webp` for the key `prologue-3`.',
     '',
     '| Key | Page | Starts with | Art |',
     '| --- | --- | --- | --- |',

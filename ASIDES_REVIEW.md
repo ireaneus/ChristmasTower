@@ -12,28 +12,26 @@ Rows marked `asides.json` are already overridden there. Delete the key to fall b
 | # | Page | Renders as | Decided by | Text |
 | --- | --- | --- | --- | --- |
 | 1 | Prologue | aside | asides.json | Micah was talking about Migdal Eder the Bible actually records this very special tower. This same tower pictures God, in that we can run to Him and He will provide us safety. |
-| 2 | Chapter 1 | aside | asides.json | Abram means exalted father, and Abraham means father of a multitude. |
-| 3 | Chapter 1 | aside | asides.json | Sarai and Sarah both mean princess. |
-| 4 | Chapter 1 | aside | asides.json | Jacob means he takes by the heel, and Israel means he strives with God. |
-| 5 | Chapter 1 | aside | default rule | Abram, Sarai, and Jacob all got new names from the Master Stonemason. Why do you think He gives people new names? |
-| 6 | Chapter 1 | aside | asides.json | Who is the Bible talking about here? Hint, they are one and the same person. |
-| 7 | Chapter 1 | aside | default rule | Ephrath, that is Bethlehem, how many name changes are we at? Can you list them all? |
-| 8 | Chapter 1 | aside | default rule | Did you notice our little tower is mentioned in the Bible again? |
-| 9 | Chapter 1 | aside | default rule | Wouldn't it be wonderful to have your name listed in the Bible too? |
-| 10 | Chapter 1 | aside | default rule | Did you know there are heavenly books that have our names written in them? Which book is your name listed in? |
-| 11 | Chapter 2 | aside | default rule | Did you notice the name change? Who gave Naomi her new name? |
-| 12 | Chapter 2 | aside | default rule | Naomi gave herself a bitter name. Do you think the Master Stonemason agreed with her? |
-| 13 | Chapter 2 | aside | asides.json | The Master Stonemason had reached all the way into Moab for one foreign widow with nothing to her name. Ruth walks out of the story as a mother in the family line of the King of kings. He gave her a new people, a new home, and a new family name. |
-| 14 | Chapter 2 | aside | default rule | More than a thousand years after Ruth walked into Bethlehem, Matthew wrote her name into the family line of Jesus. Why would he make sure we knew about her? |
-| 15 | Chapter 2 | aside | asides.json | Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to? |
-| 16 | Chapter 3 | aside | default rule | Micah wrote those words hundreds of years after David. Who do you think the ruler from Bethlehem would be? Did you spot yet another name change? |
-| 17 | Chapter 3 | aside | asides.json | The Master Stonemason's Spirit fell on David from that day on. He came back to the field a shepherd king. |
-| 18 | Chapter 4 | aside | asides.json | The Levites carried the name of their father, Levi, which sounds like the Hebrew word for "attached." They were joined to the Master Stonemason's work. Even the feast has a name that tells its story: Passover, for the night He passed over every house marked by the blood of a lamb. |
-| 19 | Chapter 5 | narrator | default rule | That night the Tower drifted into a restless sleep. Something in its stones had come awake when Joseph looked up at it, and it would not lie still. |
-| 20 | Chapter 5 | narrator | default rule | Then a voice called out in the dark. It was the prophet Micah, repeating the words he had spoken over the Tower long ago. |
-| 21 | Chapter 5 | narrator | default rule | The Tower woke, and turned its face toward the road. |
-| 22 | Chapter 5 | narrator | default rule | Something has come. |
-| 23 | Chapter 9 | aside | default rule | How many names were given to the baby? Can you name them all? |
-| 24 | Chapter 10 | aside | asides.json | David was a shepherd who became king. Jesus is the King of kings, and He gave Himself a shepherd's name: the good shepherd. |
-| 25 | For the Adults | tower | default rule | David Haines |
-| 26 | A Personal Note | tower | default rule | David Haines, Author of The Christmas Tower |
+| 2 | Chapter 1 | aside | default rule | Abram, Sarai, and Jacob all got new names from the Master Stonemason. Why do you think He gives people new names? |
+| 3 | Chapter 1 | aside | asides.json | Who is the Bible talking about here? Hint, they are one and the same person. |
+| 4 | Chapter 1 | aside | default rule | Ephrath, that is Bethlehem, how many name changes are we at? Can you list them all? |
+| 5 | Chapter 1 | aside | default rule | Did you notice our little tower is mentioned in the Bible again? |
+| 6 | Chapter 1 | aside | default rule | Wouldn't it be wonderful to have your name listed in the Bible too? |
+| 7 | Chapter 1 | aside | default rule | Did you know there are heavenly books that have our names written in them? Which book is your name listed in? |
+| 8 | Chapter 2 | aside | default rule | Did you notice the name change? Who gave Naomi her new name? |
+| 9 | Chapter 2 | aside | default rule | Naomi gave herself a bitter name. Do you think the Master Stonemason agreed with her? |
+| 10 | Chapter 2 | aside | asides.json | The Master Stonemason had reached all the way into Moab for one foreign widow with nothing to her name. Ruth walks out of the story as a mother in the family line of the King of kings. He gave her a new people, a new home, and a new family name. |
+| 11 | Chapter 2 | aside | default rule | More than a thousand years after Ruth walked into Bethlehem, Matthew wrote her name into the family line of Jesus. Why would he make sure we knew about her? |
+| 12 | Chapter 2 | aside | asides.json | Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to? |
+| 13 | Chapter 3 | aside | default rule | Micah wrote those words hundreds of years after David. Who do you think the ruler from Bethlehem would be? Did you spot yet another name change? |
+| 14 | Chapter 3 | aside | asides.json | The Master Stonemason's Spirit fell on David from that day on. He came back to the field a shepherd king. |
+| 15 | Chapter 4 | aside | asides.json | The Levites carried the name of their father, Levi, which sounds like the Hebrew word for "attached." They were joined to the Master Stonemason's work. Even the feast has a name that tells its story: Passover, for the night He passed over every house marked by the blood of a lamb. |
+| 16 | Chapter 5 | narrator | default rule | That night the Tower drifted into a restless sleep. Something in its stones had come awake when Joseph looked up at it, and it would not lie still. |
+| 17 | Chapter 5 | narrator | default rule | Then a voice called out in the dark. It was the prophet Micah, repeating the words he had spoken over the Tower long ago. |
+| 18 | Chapter 5 | narrator | default rule | The Tower woke, and turned its watch towards the road. |
+| 19 | Chapter 5 | narrator | default rule | Something has come. |
+| 20 | Chapter 8 | aside | default rule | Does this remind you of another shepherd? Who was out in these same fields when the Master Stonemason came looking for him? |
+| 21 | Chapter 9 | aside | default rule | How many names were given to the baby? Can you name them all? |
+| 22 | Chapter 10 | aside | asides.json | David was a shepherd who became king. Jesus is the King of kings, and He gave Himself a shepherd's name: the good shepherd. |
+| 23 | For the Adults | tower | default rule | David Haines |
+| 24 | A Personal Note | tower | default rule | David Haines, Author of The Christmas Tower |
