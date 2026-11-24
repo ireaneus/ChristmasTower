@@ -7,7 +7,7 @@ David Haines
 **Working manuscript v11.5** · 24 November 2026
 
 | **How to read this manuscript** |
-|---|
+| --- |
 | *Narrator voice: boxed in a table, in italics* |
 | Tower voice: regular text, never italic |
 
@@ -22,7 +22,7 @@ To my beloved wife — she has always loved me the mostestes.
 ## Prologue: The Tower Speaks
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Micah 4:8 (ESV)** |
 | *"And you, O tower of the flock, hill of the daughter of Zion, to you shall it come, the former dominion shall come, kingship for the daughter of Jerusalem."* |
 | **Proverbs 18:10 (ESV)** |
@@ -47,7 +47,9 @@ From high above I watched the shepherds guard their flocks from prowling wolves,
 
 Then one day the earth shook beneath me, my tower stones began to peel away from my foundation. Rain came down like sharp needles and soaked every part of me, causing everything to crumble. Wind pushed and my walls started to lean and tumble to the ground. Lightning split the sky and struck me again and again, and fire consumed what was left.
 
-During the lightning flashes I saw strange images. A man hanging on a cross. A King shining in His glory. Sheep scattered across a hillside with no one to gather them. And a voice sounding like a lion roaring over the thunder and rain, calling out: "And you, O tower of the flock, hill of the daughter of Zion, to you shall it come, the former dominion shall come, kingship for the daughter of Jerusalem."
+During the lightning flashes I saw strange images. A man hanging on a cross. A King shining in His glory. Sheep scattered across a hillside with no one to gather them. And a voice sounding like a lion roaring over the thunder and rain, calling out:
+
+> *"And you, O tower of the flock, hill of the daughter of Zion, to you shall it come, the former dominion shall come, kingship for the daughter of Jerusalem."*
 
 I woke. My foundation shuddered, and the voice lingered behind: former dominion, and kingship returning.
 
@@ -60,7 +62,7 @@ Something is coming.
 On cool nights the shepherds would sit around their fires at the foot of my hill and tell stories. Their favorite stories were about a family the Master Stonemason had chosen as His own.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Genesis 17:5 (ESV)** |
 | *"No longer shall your name be called Abram, but your name shall be Abraham, for I have made you the father of a multitude of nations."* |
 | **Genesis 17:15 (ESV)** |
@@ -76,12 +78,12 @@ The family began with a man named Abram. The Master Stonemason promised Abram th
 
 When Isaac grew up, he had twin sons, and one of them was named Jacob. Jacob tricked his brother and had to run far from home, but the Master Stonemason never let go of him. One night Jacob wrestled with a man sent from the Master Stonemason, and they wrestled all night long. When morning came, the man gave Jacob a new name too. Jacob became Israel.
 
-As I listened, I began to wonder about the Master Stonemason. He seemed to love giving new names.
+As I listened, I began to wonder about the Master Stonemason, He seemed to love giving new names.
 
 ---
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Isaiah 53:3 (ESV)** |
 | *"He was despised and rejected by men, a man of sorrows and acquainted with grief; and as one from whom men hide their faces he was despised, and we esteemed him not."* |
 | **Psalm 110:1 (ESV)** |
@@ -101,7 +103,7 @@ With her last breath, Rachel named the baby Ben-oni, which means son of my sorro
 Israel buried Rachel beside the road to Bethlehem and set up a stone pillar over her grave so that no one would forget her. All I could do was keep watch.
 
 | **Narrator voice** |
-|---|
+| --- |
 | *Ephrath, that is Bethlehem, how many name changes are we at? Can you list them all?* |
 | *Did you notice our little tower is mentioned in the Bible again?* |
 | *Wouldn't it be wonderful to have your name listed in the Bible too?* |
@@ -112,7 +114,7 @@ Israel buried Rachel beside the road to Bethlehem and set up a stone pillar over
 ## Chapter 2: Ruth, a Foreigner Receives a New Family Name
 
 | **Narrator voice · Chapter 2** |
-|---|
+| --- |
 | **Ruth 1:16 (ESV)** |
 | *But Ruth said, "Do not urge me to leave you or to return from following you. For where you go I will go, and where you lodge I will lodge. Your people shall be my people, and your God my God."* |
 | **Ruth 1:20 (ESV)** |
@@ -127,11 +129,9 @@ Naomi decided to go home. She had left Bethlehem with a husband and two sons, an
 The young woman beside her was Ruth. She was born in Moab, where people prayed to gods carved from wood and stone, gods that took more than they ever gave. Ruth could have stayed there. Her sister-in-law did, Ruth chose Naomi instead, and she chose Naomi's God.
 
 | **Narrator voice** |
-|---|
+| --- |
 | *Did you notice the name change? Who gave Naomi her new name?* |
 | *Naomi gave herself a bitter name. Do you think the Master Stonemason agreed with her?* |
-| *More than a thousand years after Ruth walked into Bethlehem, Matthew wrote her name into the family line of Jesus. Why would he make sure we knew about her?* |
-| *Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to?* |
 
 ---
 
@@ -144,35 +144,35 @@ Of all the fields around Bethlehem, Ruth just happened to pick the one that belo
 One morning Boaz came out to his harvest, saw her working, and asked who she was. His workers told him she was Naomi's daughter-in-law, the one who had left her country to take care of an old woman with nothing left. Boaz walked over and spoke to her kindly.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Ruth 2:10-12 (ESV)** |
 | *Then she fell on her face, bowing to the ground, and said to him, "Why have I found favor in your eyes, that you should take notice of me, since I am a foreigner?" But Boaz answered her, "All that you have done for your mother-in-law since the death of your husband has been fully told to me, and how you left your father and mother and your native land and came to a people that you did not know before. The LORD repay you for what you have done, and a full reward be given you by the LORD, the God of Israel, under whose wings you have come to take refuge!"* |
 | **Ephesians 2:13 (ESV)** |
 | *But now in Christ Jesus you who once were far off have been brought near by the blood of Christ.* |
 
-| **Tower voice** |
-|---|
-| I learned that in Israel, when a man died, a close relative could step in as his family's redeemer. He could buy back the family's land and marry the widow, so that the man's name would live on. Boaz was one of those relatives, and he chose to be Ruth's redeemer. He married her, and they had a son named Obed. Obed became the father of Jesse, and Jesse became the father of David the king. |
+I learned that in Israel, when a man died, a close relative could step in as his family's redeemer. He could buy back the family's land and marry the widow, so that the man's name would live on. Boaz was one of those relatives, and he chose to be Ruth's redeemer. He married her, and they had a son named Obed. Obed became the father of Jesse, and Jesse became the father of David the king.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Ruth 4:14 (ESV)** |
 | *Then the women said to Naomi, "Blessed be the LORD, who has not left you this day without a redeemer, and may his name be renowned in Israel!"* |
 | **Matthew 1:5-6 (ESV)** |
 | *and Salmon the father of Boaz by Rahab, and Boaz the father of Obed by Ruth, and Obed the father of Jesse, and Jesse the father of David the king.* |
 | *The Master Stonemason had reached all the way into Moab for one foreign widow with nothing to her name. Ruth walks out of the story as a mother in the family line of the King of kings. He gave her a new people, a new home, and a new family name.* |
+| *More than a thousand years after Ruth walked into Bethlehem, Matthew wrote her name into the family line of Jesus. Why would he make sure we knew about her?* |
+| *Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to?* |
 
 ---
 
+## Chapter 3: David, Sent to the Fields and Raised to the Throne
+
 | **Narrator voice · Chapter 3** |
-|---|
+| --- |
 | **Micah 5:2 (ESV)** |
 | *But you, O Bethlehem Ephrathah, who are too little to be among the clans of Judah, from you shall come forth for me one who is to be ruler in Israel, whose coming forth is from of old, from ancient days.* |
 | **Isaiah 40:11 (ESV)** |
 | *He will tend his flock like a shepherd; he will gather the lambs in his arms; he will carry them in his bosom, and gently lead those that are with young.* |
 | *Micah wrote those words hundreds of years after David. Who do you think the ruler from Bethlehem would be? Did you spot yet another name change?* |
-
-## Chapter 3: David, Sent to the Fields and Raised to the Throne
 
 The fields were soft and still that morning, and the sun came up warm over Bethlehem. Shepherds moved through the grass the way shepherds always had, counting, calling, and keeping the flock together.
 
@@ -189,7 +189,7 @@ One morning a prophet named Samuel came down the road to Bethlehem with a horn o
 Samuel came to Jesse's house and began to call upon his sons. The oldest son came first, tall and strong, exactly what a king is supposed to look like. Samuel was sure he must be the one, but the Master Stonemason told him to stop looking at the outside. He was looking at the heart.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **1 Samuel 16:7 (ESV)** |
 | *But the LORD said to Samuel, "Do not look on his appearance or on the height of his stature, because I have rejected him. For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart."* |
 
@@ -202,14 +202,14 @@ One by one, seven sons walked past Samuel, and each time the answer was no. Samu
 They brought the boy in from my fields, still smelling like the flock. The Master Stonemason told Samuel, "This is the one," and Samuel poured the oil over David's head right there in front of all his brothers.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **1 Samuel 16:13 (ESV)** |
 | *Then Samuel took the horn of oil and anointed him in the midst of his brothers. And the Spirit of the LORD rushed upon David from that day forward.* |
 
 Then David went back to his sheep, with oil in his hair and a promise in his heart.
 
 | **Narrator voice** |
-|---|
+| --- |
 | *The Master Stonemason's Spirit fell on David from that day on. He came back to the field a shepherd king.* |
 
 ---
@@ -227,21 +227,21 @@ I had watched many shepherds by then, but these were different. They handled eve
 Every new lamb was looked over with great care. The shepherds ran their hands along its back and down each leg, and they checked its eyes, its ears, and its wool, looking for any flaw. A lamb for the Master Stonemason had to be perfect, without spot or blemish.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Exodus 12:3, 5 (ESV)** |
 | *Tell all the congregation of Israel that on the tenth day of this month every man shall take a lamb according to their fathers' houses, a lamb for a household. Your lamb shall be without blemish, a male a year old.* |
 
 The very best were saved for Passover. Every spring the people remembered the night long ago when the Master Stonemason brought their families out of Egypt. Each family had marked its door with the blood of a lamb, and the Master Stonemason passed over every house where He saw the blood.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Exodus 12:13 (ESV)** |
 | *The blood shall be a sign for you, on the houses where you are. And when I see the blood, I will pass over you, and no plague will befall you to destroy you, when I strike the land of Egypt.* |
 
 When the shepherds found a perfect lamb, they wrapped it gently in swaddling cloths and laid it in a stone manger inside my walls. There it stayed, safe and spotless, until the appointed day.
 
 | **Narrator voice** |
-|---|
+| --- |
 | *The Levites carried the name of their father, Levi, which sounds like the Hebrew word for "attached." They were joined to the Master Stonemason's work. Even the feast has a name that tells its story: Passover, for the night He passed over every house marked by the blood of a lamb.* |
 
 ---
@@ -249,18 +249,18 @@ When the shepherds found a perfect lamb, they wrapped it gently in swaddling clo
 ## Chapter 5: Mary and Joseph, a Child Named Before He Was Born
 
 | **Narrator voice · Chapter 5** |
-|---|
+| --- |
 | **Luke 1:30-33 (ESV)** |
 | *And the angel said to her, "Do not be afraid, Mary, for you have found favor with God. And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus. He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David, and he will reign over the house of Jacob forever, and of his kingdom there will be no end."* |
 | **Matthew 1:20-21 (ESV)** |
 | *But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. She will bear a son, and you shall call his name Jesus, for he will save his people from their sins."* |
 
-It was evening, the sun was sinking behind the hills, and the light spilled across the fields the color of honey. That was when I saw them on the road: a man walking in front, leading a donkey, and a young woman riding it with both hands resting on the child she was carrying.
+It was evening, the sun was sinking behind the hills, and the light spilled across the fields the color of honey. That was when I saw them on the road: a man walking in front, leading a donkey, and a young woman riding it with both hands resting on the child still inside her.
 
 They had come a long way, all the way from Nazareth, a town in Galilee far to the north. An emperor in faraway Rome had ordered everyone to be counted in their family's hometown, and this man's family came from Bethlehem. He was from the house of David, the shepherd boy who once sang in my fields.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Luke 2:1, 3-5 (ESV)** |
 | *In those days a decree went out from Caesar Augustus that all the world should be registered. And all went to be registered, each to his own town. And Joseph also went up from Galilee, from the town of Nazareth, to Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David, to be registered with Mary, his betrothed, who was with child.* |
 
@@ -273,7 +273,7 @@ He turned back to the road, reached up, and took her hand, and they went on towa
 ---
 
 | **Narrator voice** |
-|---|
+| --- |
 | *That night the Tower drifted into a restless sleep. Something in its stones had come awake when Joseph looked up at it, and it would not lie still.* |
 | *Then a voice called out in the dark. It was the prophet Micah, repeating the words he had spoken over the Tower long ago.* |
 | **Micah 4:8 (ESV)** |
@@ -300,7 +300,7 @@ Every door in town said no. I said yes.
 The world had no room for them, but the Master Stonemason had already made room, and He used an old stone tower on a hill to do it.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Luke 2:6-7 (ESV)** |
 | *And while they were there, the time came for her to give birth. And she gave birth to her firstborn son and wrapped him in swaddling cloths and laid him in a manger, because there was no place for them in the inn.* |
 
@@ -314,7 +314,9 @@ My walls are thick, and the wind tearing across the hill that night never reache
 
 That night, inside my walls, Mary gave birth to her Son.
 
-They wrapped Him in swaddling cloths and laid Him in my manger. The same cloths. The same manger. I had held a thousand spotless lambs in that stone box and never understood why. In that moment, I understood everything.
+They wrapped Him in swaddling cloths and laid Him in my manger. The same cloths. The same manger. I had held a thousand spotless lambs in that stone box. In that moment, I recalled the prophet's voice.
+
+> *"And you O tower of the flock..."*
 
 Outside, the fields were quiet. The shepherds had no idea yet.
 
@@ -329,7 +331,7 @@ And I knew those hands. They were small and new and curled inside the cloth, and
 The Master Stonemason was lying in my manger.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **John 1:3 (ESV)** |
 | *All things were made through him, and without him was not any thing made that was made.* |
 | **John 1:14 (ESV)** |
@@ -338,7 +340,7 @@ The Master Stonemason was lying in my manger.
 Then He spoke a new name over me, the way new names had been spoken over a grieving father's son, a widow from Moab, and a shepherd boy with oil still wet in his hair.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Isaiah 62:2 (ESV)** |
 | *The nations shall see your righteousness, and all the kings your glory, and you shall be called by a new name that the mouth of the LORD will give.* |
 
@@ -347,7 +349,7 @@ The Christmas Tower.
 ---
 
 | **Full-page illustration** |
-|---|
+| --- |
 | **The Night with the Shepherds Under the Tower** |
 | A visual moment showing the shepherds in the fields below Migdal Eder, their flocks gathered in the dark night, the tower standing strong and sheltering on the hill above them. This is the pause before the sky opens with the angel's announcement—the moment of waiting, of the night holding its breath, the tower standing guard as it has for a thousand years, and now holding the One it was built for. |
 
@@ -374,7 +376,7 @@ Then, out of all that light, came a voice, gently speaking.
 "Fear not!" said the angel.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Luke 2:10-12 (ESV)** |
 | *"Fear not, for behold, I bring you good news of great joy that will be for all the people. For unto you is born this day in the city of David a Savior, who is Christ the Lord. And this will be a sign for you: you will find a baby wrapped in swaddling cloths and lying in a manger."* |
 
@@ -393,7 +395,7 @@ There was one manger where spotless lambs were wrapped in cloth and kept until t
 Before the shepherds could stand, the whole sky filled with angels, more than anyone could count. They all sang out together, "Glory to God in the highest!"
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Luke 2:14 (ESV)** |
 | *"Glory to God in the highest, and on earth peace among those with whom he is pleased!"* |
 
@@ -401,55 +403,53 @@ The praise of heaven poured down on those fields until my old stones rang with i
 
 Then the angels were gone, as suddenly as they had come. The night closed in, and everything was still. It was only a moment of silence, but it was long moment of awe, and wonder.
 
-The biggest news in history was given to shepherds instead of kings. The overlooked were told first, just like David, who was out with the sheep while his brothers lined up before Samuel. That night, heaven came down into their field and told them before anyone else. I was starting to learn how the Master Stonemason works. He goes first to the ones nobody sends for.
+The biggest news in history was given to shepherds instead of kings. The overlooked were told first, just like David. That night, heaven came down into their field and told them before anyone else. I was starting to learn how the Master Stonemason works, He goes first to the ones nobody sends for.
 
 ---
 
 ## Chapter 9: Worship Christ the King
 
-Then suddenly the silence broke, The shepherds scampered to their feet, and the fear went out of them all at once. The men who had been face down in the grass a moment before were standing and looking at one another with their mouths open.
+Then the shepherds scampered to their feet, and the fear went out of all of them. The men who had been face down in the grass a moment before were standing and looking at one another with their mouths open.
 
-"We must go!" one of them said, and his voice was shaking. "Let us hurry to Migdal Eder and see this thing the Lord has made known to us."
+"We must go!" one of them said, "Let us hurry to Migdal Eder and see this thing the Lord has made known to us."
 
-They came across the fields toward me at a run, and then, close in, they slowed. My old stones were catching the moonlight, and the ground I had stood on for a thousand years was not the ground they had walked out on that evening. They stopped at my doorway and took off their sandals. They had worked in these fields their whole lives, and they came into me that night the way a man comes into a holy place.
+They came across the fields toward me at a run, and then, close in, they slowed. My old stones were catching the moonlight, and the ground I had stood on for a thousand years was not the ground they had walked out on that evening. They stopped at my doorway and took off their sandals. Slowly, carefully, they came into me that night the way a man comes into a holy place.
 
 ---
 
-They stepped inside and found Him, wrapped in swaddling cloths, lying in the manger, exactly as the angel had told them. And these strong men who wrestle lambs went down on their knees in my straw and wept.
+They stepped in and found Him wrapped in swaddling cloths, lying in the manger, exactly as the angel had told them. These strong men who wrestle lambs went down on their knees in my straw and wept.
 
-I knew what they were seeing.
-
-I had held spotless lambs in that stone box. Every one of them inspected, every one of them perfect, every one of them wrapped in those same cloths and laid in that same manger and called Passover lamb.
+I knew what they were seeing. The same stone manger, the same swaddling cloths that had kept so many spotless lambs. But this time a baby lay in them, and I did not yet know why.
 
 Then one of the shepherds began to speak, and the words were older than any of us, older than my foundation, spoken by a prophet who never saw this night, but saw it anyway.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Isaiah 9:6 (ESV)** |
 | *For to us a child is born, to us a son is given; and the government shall be upon his shoulder, and his name shall be called Wonderful Counselor, Mighty God, Everlasting Father, Prince of Peace.* |
 | **Luke 2:20 (ESV)** |
 | *And the shepherds returned, glorifying and praising God for all they had heard and seen, as it had been told them.* |
 | *How many names were given to the baby? Can you name them all?* |
 
-They could not hold it in, they went back out through my doorway into the dark, and I heard them going down the road toward the town, calling out to every soul awake enough to listen, telling it to strangers, telling it to shut doors, telling it to anyone at all.
+They could not hold it in. They went back out through my doorway into the dark, and I heard them going down the road toward the town, calling out to every soul awake enough to listen, telling it to strangers, telling it to shut doors, telling it to anyone at all.
 
-The fields were quiet again, and the child slept inside me, and I stood in the dark doing the work I had been built for, and that night I finally understood what all of it had been meant for.
+The fields were quiet again, and the child slept inside me. I stood in the dark and pondered all that had happened. I was beginning to see what the Master Stonemason had made me for.
 
 ---
 
 ## Chapter 10: The Good Shepherd
 
-Many years went by after the night the child was born inside me. I grew older and more worn. Cracks ran through my walls where the weather had gotten in, and a few of my stones had worked loose and slid down into the grass. Still I stood, keeping company with the shepherds and their sheep.
+Many years went by after that night. I grew older and more worn. Cracks ran through my walls where the weather had gotten in, and a few of my stones had worked loose and slid down into the grass. Still I stood, keeping company with the shepherds and their sheep.
 
 One day a man came walking up my road, and He was not alone. Twelve men walked close beside Him, and behind them came a crowd, hurrying to stay near enough to hear Him.
 
 I watched Him come, and everything in me went still.
 
-I knew that face. I had seen it long ago, in the lightning, in a vision.
+I knew those eyes. I had seen them long ago, in the lightning, in a vision, and in a manger.
 
-And I knew those hands. They were a grown man's hands now, strong and rough from work, but I had held them when they were small enough to curl around a finger. I had known them even longer than that. He was the Master Stonemason, and He was coming up my road.
+And those hands, they were a grown man's hands now, strong and rough from work, but I had held them when they were small enough to curl around a finger. I had known them even longer, He was the Master Stonemason, and He was coming up my road.
 
-A sick man sat by himself at the edge of the road. He had leprosy, a sickness of the skin, and people who had it were made to stay far away from everyone else. He was broken down the way I was broken down. Mine came from long years and hard weather. His came from a sickness that would not let go.
+A sick man sat by himself at the edge of the road. He had leprosy, a sickness of the skin, and people who had it were made to stay far away from everyone else. He was broken down from a sickness that would not let go.
 
 "Please, help me!" he called out.
 
@@ -460,7 +460,7 @@ The Master Stonemason walked straight over to him. He reached out His hand and t
 ---
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Matthew 8:1-3 (ESV)** |
 | *When he came down from the mountain, great crowds followed him. And behold, a leper came to him and knelt before him, saying, "Lord, if you will, you can make me clean." And Jesus stretched out his hand and touched him, saying, "I will; be clean." And immediately his leprosy was cleansed.* |
 
@@ -475,7 +475,7 @@ The Master Stonemason walked straight over to him. He reached out His hand and t
 I knew that name. An angel had given it to Him before He was born.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Matthew 1:21 (ESV)** |
 | *"She will bear a son, and you shall call his name Jesus, for he will save his people from their sins."* |
 
@@ -484,7 +484,7 @@ He will save His people. That day I watched it begin, right there on my road, fo
 Then Jesus turned and looked up at me. He looked at my old broken stones for a long while, the way you look at something you made with your own hands. Then He looked out at the sheep in the grass and the shepherds standing among them, and He began to teach the people.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **John 10:10-11 (ESV)** |
 | *"The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly. I am the good shepherd. The good shepherd lays down his life for the sheep."* |
 | *David was a shepherd who became king. Jesus is the King of kings, and He gave Himself a shepherd's name: the good shepherd.* |
@@ -493,14 +493,14 @@ Then Jesus turned and looked up at me. He looked at my old broken stones for a l
 
 ## Chapter 11: The Stones Would Cry Out
 
-The seasons turned over me again and again. Then one afternoon He came down my road one last time. He was riding a young donkey, and His face was set toward Jerusalem. A crowd went with Him, singing. They pulled the cloaks off their own backs and spread them in the dust for the donkey to walk on.
+The seasons turned over again, and I was more worn down than ever. Then one afternoon Jesus came down my road one last time. He was riding a young donkey, and His face was set toward Jerusalem. A crowd went with Him, singing. They pulled the cloaks off their own backs and spread them in the dust for the donkey to walk on.
 
 "Blessed is the King!" the crowd shouted. "Blessed is the King who comes in the name of the Lord!"
 
 Some of the religious leaders in the crowd did not like it. "Teacher," one of them said, "tell your followers to be quiet!"
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Luke 19:38-40 (ESV)** |
 | *"Blessed is the King who comes in the name of the Lord! Peace in heaven and glory in the highest!" And some of the Pharisees in the crowd said to him, "Teacher, rebuke your disciples." He answered, "I tell you, if these were silent, the very stones would cry out."* |
 
@@ -512,30 +512,30 @@ I was one of those stones, and I had been since before there was a Bethlehem to 
 
 As He passed, He turned His head and looked up at me, the old tower on the hill. He saw right past my cracks. He saw me as I was in the beginning: strong, steady, and new.
 
-Then He went over the rise, and the road carried Him out of my sight. I could not follow. Towers stay where they are set.
+Then He went over the rise, and the road carried Him out of my sight.
 
 ---
 
 I learned the rest from the people who came back up the road afterward, whispering to each other with their hands over their mouths. They took Him outside the city and put Him to death on a cross, just as I had seen in the lightning when I was young and understood none of it. The sky went dark in the middle of the day.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **John 19:30 (ESV)** |
 | *When Jesus had received the sour wine, he said, "It is finished," and he bowed his head and gave up his spirit.* |
 
 ---
 
-Then the ground shook so hard that rocks split open. I felt it in my foundation. Every stone of me shuddered. Cracks ran up my walls, and stones I had held for a thousand years broke loose and tumbled into the grass. In the Temple in Jerusalem, the great curtain tore in two, from top to bottom.
+Then the ground shook so hard that rocks split open. I felt it in my foundation. Every stone of me shuddered. Cracks ran up my walls, and stones I had held for a thousand years broke loose and tumbled into the grass. At the Temple in Jerusalem, the great curtain tore in two, from top to bottom.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Matthew 27:51 (ESV)** |
 | *And behold, the curtain of the temple was torn in two, from top to bottom. And the earth shook, and the rocks were split.* |
 
-And I understood. For a thousand years I had held spotless lambs in my manger, one after another, and every one of them had been pointing to Him. Now the true Passover Lamb had given His life, once and for all, for everyone who puts their trust and faith in Him. No lamb would ever need to wait in my manger again.
+And now I fully understand why the Master Stonemason built me here. For a thousand years I had held spotless lambs in my manger, one after another, and every one of them had been pointing to Him. Now the true Passover Lamb, the one born in my manger, had given His life, once and for all, for everyone who puts their trust and faith in Him. No lamb would ever need to wait in my manger again.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **1 Corinthians 5:7 (ESV)** |
 | *For Christ, our Passover lamb, has been sacrificed.* |
 
@@ -546,7 +546,7 @@ My work was finished, because His was.
 ## Epilogue: The One Who Gives the Names
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Revelation 2:17 (ESV)** |
 | *"To the one who conquers I will give some of the hidden manna, and I will give him a white stone, with a new name written on the stone that no one knows except the one who receives it."* |
 
@@ -557,7 +557,7 @@ The tower's stones lie scattered in the grass now. The stone with your name on i
 The Master Stonemason is still building. Everyone who trusts in Jesus becomes a living stone, chosen and set in place in His house, the way He once set every stone of an old tower on a hill.
 
 | **Narrator voice** |
-|---|
+| --- |
 | **1 Peter 2:5 (ESV)** |
 | *You yourselves like living stones are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ.* |
 
@@ -576,7 +576,7 @@ The Master Stonemason is still building. Everyone who trusts in Jesus becomes a 
 **The Master Stonemason made us in His image.**
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Genesis 1:27 (ESV)** |
 | *So God created man in his own image, in the image of God he created him; male and female he created them.* |
 | **1 John 3:1 (ESV)** |
@@ -585,7 +585,7 @@ The Master Stonemason is still building. Everyone who trusts in Jesus becomes a 
 **We all sinned against the Master Stonemason.**
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Romans 3:23 (ESV)** |
 | *For all have sinned and fall short of the glory of God.* |
 | **Romans 6:23 (ESV)** |
@@ -594,7 +594,7 @@ The Master Stonemason is still building. Everyone who trusts in Jesus becomes a 
 **Jesus, our Passover Lamb, saves us.**
 
 | **Narrator voice** |
-|---|
+| --- |
 | **Romans 5:8 (ESV)** |
 | *But God shows his love for us in that while we were still sinners, Christ died for us.* |
 | **1 Corinthians 15:3-4 (ESV)** |

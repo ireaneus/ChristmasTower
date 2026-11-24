@@ -32,11 +32,11 @@ House rules, enforced by `npm run check`: page 1 of each section has art, except
 | `ch07-2` | Chapter 7, page 2 of 2 | Then the baby opened His eyes and looked at… | `ch07-2.webp` |
 | `interlude` | Interlude | The Night with the Shepherds Under the Tower | `home-hero.webp` |
 | `ch08` | Chapter 8, page 1 of 1 | Inside my walls the child was sleeping. Out in… | `ch08.webp` |
-| `ch09` | Chapter 9, page 1 of 2 | Then suddenly the silence broke, The shepherds scampered to… | `ch09.webp` |
-| `ch09-2` | Chapter 9, page 2 of 2 | They stepped inside and found Him, wrapped in swaddling… | `ch09-2.webp` |
-| `ch10` | Chapter 10, page 1 of 2 | Many years went by after the night the child… | `ch10.webp` |
+| `ch09` | Chapter 9, page 1 of 2 | Then the shepherds scampered to their feet, and the… | `ch09.webp` |
+| `ch09-2` | Chapter 9, page 2 of 2 | They stepped in and found Him wrapped in swaddling… | `ch09-2.webp` |
+| `ch10` | Chapter 10, page 1 of 2 | Many years went by after that night. I grew… | `ch10.webp` |
 | `ch10-2` | Chapter 10, page 2 of 2 | Matthew 8:1-3 (ESV) When he came down from the… | `ch10-2.webp` |
-| `ch11` | Chapter 11, page 1 of 4 | The seasons turned over me again and again. Then… | `ch11.webp` |
+| `ch11` | Chapter 11, page 1 of 4 | The seasons turned over again, and I was more… | `ch11.webp` |
 | `ch11-2` | Chapter 11, page 2 of 4 | The very stones. I was one of those stones,… |  |
 | `ch11-3` | Chapter 11, page 3 of 4 | I learned the rest from the people who came… |  |
 | `ch11-4` | Chapter 11, page 4 of 4 | Then the ground shook so hard that rocks split… | `ch11-4.webp` |

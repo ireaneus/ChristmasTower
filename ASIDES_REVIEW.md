@@ -23,9 +23,9 @@ Rows marked `asides.json` are already overridden there. Delete the key to fall b
 | 10 | Chapter 1 | aside | default rule | Did you know there are heavenly books that have our names written in them? Which book is your name listed in? |
 | 11 | Chapter 2 | aside | default rule | Did you notice the name change? Who gave Naomi her new name? |
 | 12 | Chapter 2 | aside | default rule | Naomi gave herself a bitter name. Do you think the Master Stonemason agreed with her? |
-| 13 | Chapter 2 | aside | default rule | More than a thousand years after Ruth walked into Bethlehem, Matthew wrote her name into the family line of Jesus. Why would he make sure we knew about her? |
-| 14 | Chapter 2 | aside | asides.json | Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to? |
-| 15 | Chapter 2 | aside | asides.json | The Master Stonemason had reached all the way into Moab for one foreign widow with nothing to her name. Ruth walks out of the story as a mother in the family line of the King of kings. He gave her a new people, a new home, and a new family name. |
+| 13 | Chapter 2 | aside | asides.json | The Master Stonemason had reached all the way into Moab for one foreign widow with nothing to her name. Ruth walks out of the story as a mother in the family line of the King of kings. He gave her a new people, a new home, and a new family name. |
+| 14 | Chapter 2 | aside | default rule | More than a thousand years after Ruth walked into Bethlehem, Matthew wrote her name into the family line of Jesus. Why would he make sure we knew about her? |
+| 15 | Chapter 2 | aside | asides.json | Ephrath means fruitfulness, and Bethlehem means House of Bread. Two names for the same town. How many name changes are we up to? |
 | 16 | Chapter 3 | aside | default rule | Micah wrote those words hundreds of years after David. Who do you think the ruler from Bethlehem would be? Did you spot yet another name change? |
 | 17 | Chapter 3 | aside | asides.json | The Master Stonemason's Spirit fell on David from that day on. He came back to the field a shepherd king. |
 | 18 | Chapter 4 | aside | asides.json | The Levites carried the name of their father, Levi, which sounds like the Hebrew word for "attached." They were joined to the Master Stonemason's work. Even the feast has a name that tells its story: Passover, for the night He passed over every house marked by the blood of a lamb. |
