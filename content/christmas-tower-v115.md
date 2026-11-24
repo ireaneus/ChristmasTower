@@ -78,7 +78,7 @@ The family began with a man named Abram. The Master Stonemason promised Abram th
 
 When Isaac grew up, he had twin sons, and one of them was named Jacob. Jacob tricked his brother and had to run far from home, but the Master Stonemason never let go of him. One night Jacob wrestled with a man sent from the Master Stonemason, and they wrestled all night long. When morning came, the man gave Jacob a new name too. Jacob became Israel.
 
-As I listened, I began to wonder about the Master Stonemason, He seemed to love giving new names.
+As I listened, I began to wonder about the Master Stonemason. He seemed to love giving new names.
 
 ---
 
@@ -316,7 +316,7 @@ That night, inside my walls, Mary gave birth to her Son.
 
 They wrapped Him in swaddling cloths and laid Him in my manger. The same cloths. The same manger. I had held a thousand spotless lambs in that stone box. In that moment, I recalled the prophet's voice.
 
-> *"And you O tower of the flock..."*
+> *"And you, O tower of the flock..."*
 
 Outside, the fields were quiet. The shepherds had no idea yet.
 
@@ -532,7 +532,7 @@ Then the ground shook so hard that rocks split open. I felt it in my foundation.
 | **Matthew 27:51 (ESV)** |
 | *And behold, the curtain of the temple was torn in two, from top to bottom. And the earth shook, and the rocks were split.* |
 
-And now I fully understand why the Master Stonemason built me here. For a thousand years I had held spotless lambs in my manger, one after another, and every one of them had been pointing to Him. Now the true Passover Lamb, the one born in my manger, had given His life, once and for all, for everyone who puts their trust and faith in Him. No lamb would ever need to wait in my manger again.
+And now I fully understood why the Master Stonemason built me here. For a thousand years I had held spotless lambs in my manger, one after another, and every one of them had been pointing to Him. Now the true Passover Lamb, the one born in my manger, had given His life, once and for all, for everyone who puts their trust and faith in Him. No lamb would ever need to wait in my manger again.
 
 | **Narrator voice** |
 | --- |
